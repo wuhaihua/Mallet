@@ -70,6 +70,9 @@ goto getArg
 
 :run
 
+rem echo %MALLET_ARGS%
+rem goto :eof
+
 java -Xmx%MALLET_MEMORY% -ea -Dfile.encoding=%MALLET_ENCODING% -classpath %MALLET_CLASSPATH% %CLASS% %MALLET_ARGS%
 
 :eof

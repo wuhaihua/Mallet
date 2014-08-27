@@ -14,11 +14,9 @@ import java.util.TreeSet;
 import java.util.Iterator;
 import java.util.Formatter;
 import java.util.Locale;
-
 import java.util.concurrent.*;
 import java.util.logging.*;
 import java.util.zip.*;
-
 import java.io.*;
 import java.text.NumberFormat;
 
@@ -26,6 +24,7 @@ import cc.mallet.types.*;
 import cc.mallet.topics.TopicAssignment;
 import cc.mallet.util.Randoms;
 import cc.mallet.util.MalletLogger;
+import cc.mallet.pipe.*;
 
 /**
  * Simple parallel threaded implementation of LDA,
@@ -497,6 +496,13 @@ public class ParallelTopicModel implements Serializable {
 		*/
 	}
 	
+	
+	private Alphabet dictOfSize (int size) {
+		Alphabet ret = new Alphabet ();
+		for (int i = 0; i < size; i++)
+			ret.lookupIndex ("topic"+i);
+ 		return ret;
+	}
 
 	/** 
 	 *  Gather statistics on the size of documents 
@@ -1558,6 +1564,8 @@ public class ParallelTopicModel implements Serializable {
 				sortedTopics[topic].set(topic, (alpha[topic] + topicCounts[topic]) / (docLen + alphaSum) );
 			}
 			
+			//SparseVector topic_prop = new SparseVector(topicCounts, true);
+					
 			Arrays.sort(sortedTopics);
 
 			for (int i = 0; i < max; i++) {
@@ -1570,6 +1578,89 @@ public class ParallelTopicModel implements Serializable {
 
 			Arrays.fill(topicCounts, 0);
 		}
+		
+	}
+	
+	public InstanceList OutputprintDocumentTopics (PrintWriter out, double threshold, int max)	{
+		out.print ("#doc name topic proportion ...\n");
+		Alphabet alphabet = dictOfSize(20);
+		
+		InstanceList TopicDocInsList = new InstanceList(new SerialPipes(new Pipe[] {
+			new Noop()			
+		}));
+		//InstanceList TopicDocInsList = new InstanceList(alphabet, null);
+		//InstanceList TopicDocInsList = new InstanceList(new SerialPipes(new Pipe[] {
+			//	new Noop(alphabet, null)
+				//}));
+		
+		int docLen;
+		int[] topicCounts = new int[ numTopics ];
+
+		IDSorter[] sortedTopics = new IDSorter[ numTopics ];
+		for (int topic = 0; topic < numTopics; topic++) {
+			// Initialize the sorters with dummy values
+			sortedTopics[topic] = new IDSorter(topic, topic);
+		}
+
+		if (max < 0 || max > numTopics) {
+			max = numTopics;
+		}
+
+		for (int doc = 0; doc < data.size(); doc++) {
+			LabelSequence topicSequence = (LabelSequence) data.get(doc).topicSequence;
+			int[] currentDocTopics = topicSequence.getFeatures();
+
+			StringBuilder builder = new StringBuilder();
+
+			builder.append(doc);
+			builder.append("\t");
+
+			if (data.get(doc).instance.getName() != null) {
+				builder.append(data.get(doc).instance.getName()); 
+			}
+			else {
+				builder.append("no-name");
+			}
+
+			builder.append("\t");
+			docLen = currentDocTopics.length;
+
+			// Count up the tokens
+			for (int token=0; token < docLen; token++) {
+				topicCounts[ currentDocTopics[token] ]++;
+			}
+			
+			
+			double[] topic_partition = new double[ numTopics ];
+			int[] indices = new int[ numTopics ];
+
+			// And normalize
+			for (int topic = 0; topic < numTopics; topic++) {
+				topic_partition[topic] = (alpha[topic] + topicCounts[topic]) / (docLen + alphaSum);
+				indices[topic] = topic;
+				sortedTopics[topic].set(topic, (alpha[topic] + topicCounts[topic]) / (docLen + alphaSum) );
+			}
+			
+			//SparseVector topic_prop = new SparseVector(topicCounts, true);
+			//dense model at this moment, can be optimized later
+			SparseVector topic_partition_sparse = new SparseVector(indices, topic_partition);
+			
+			Instance instance = new Instance(topic_partition_sparse, null, null, null);
+			TopicDocInsList.addThruPipe(instance);
+					
+			Arrays.sort(sortedTopics);
+
+			for (int i = 0; i < max; i++) {
+				if (sortedTopics[i].getWeight() < threshold) { break; }
+				
+				builder.append(sortedTopics[i].getID() + "\t" + 
+							   sortedTopics[i].getWeight() + "\t");
+			}
+			out.println(builder);
+
+			Arrays.fill(topicCounts, 0);
+		}
+		return TopicDocInsList;
 		
 	}
 	

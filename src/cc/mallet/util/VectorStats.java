@@ -42,7 +42,8 @@ public class VectorStats {
 		int maxDenseIndex = -1;
 
 		// First, we find the union of all the indices used in the instances
-		TIntHashSet hIndices = new TIntHashSet(instances.getDataAlphabet().size());
+		//TIntHashSet hIndices = new TIntHashSet(instances.getDataAlphabet().size());
+		TIntHashSet hIndices = new TIntHashSet(20);
 
 		while (instanceItr.hasNext()) {
 			instance = (Instance) instanceItr.next();
