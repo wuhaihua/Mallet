@@ -1,18 +1,25 @@
 package cc.mallet.topics.tui;
 
-import cc.mallet.util.CommandOption;
-import cc.mallet.util.Randoms;
-import cc.mallet.types.Alphabet;
-import cc.mallet.types.InstanceList;
-import cc.mallet.types.FeatureSequence;
-import cc.mallet.types.Metric;
-import cc.mallet.types.NormalizedDotProductMetric;
+
+//import cc.mallet.util.CommandOption;
+//import cc.mallet.util.Randoms;
+import cc.mallet.types.*;
+import cc.mallet.util.*;
+//import cc.mallet.types.Alphabet;
+//import cc.mallet.types.InstanceList;
+//import cc.mallet.types.FeatureSequence;
+//import cc.mallet.types.Metric;
+//import cc.mallet.types.NormalizedDotProductMetric;
 import cc.mallet.topics.*;
 import cc.mallet.cluster.Clustering;
 import cc.mallet.cluster.KMeans;
 import cc.mallet.pipe.iterator.DBInstanceIterator;
 
 import java.io.*;
+
+import java.util.*;
+import java.util.regex.*;
+import java.net.*;
 
 public class Vectors2Cluster {
 	
@@ -194,6 +201,8 @@ public class Vectors2Cluster {
 	
 		
 
+	
+	
 	public static void main (String[] args) throws java.io.IOException
 	{
 		// TODO Auto-generated method stub
@@ -269,6 +278,8 @@ public class Vectors2Cluster {
 		KMeans kmeans = new KMeans(instances.getPipe(), numClusters.value, metric, KMeans.EMPTY_DROP);
 		Clustering clustering = kmeans.cluster(instances);
 		InstanceList[] clusters = clustering.getClusters();
+		
+		
 		
 		
 

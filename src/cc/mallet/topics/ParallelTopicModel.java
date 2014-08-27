@@ -1643,7 +1643,8 @@ public class ParallelTopicModel implements Serializable {
 			
 			//SparseVector topic_prop = new SparseVector(topicCounts, true);
 			//dense model at this moment, can be optimized later
-			SparseVector topic_partition_sparse = new SparseVector(indices, topic_partition);
+			//SparseVector topic_partition_sparse = new SparseVector(indices, topic_partition);
+			FeatureVector  topic_partition_sparse = new FeatureVector(alphabet, indices, topic_partition);
 			
 			Instance instance = new Instance(topic_partition_sparse, null, null, null);
 			TopicDocInsList.addThruPipe(instance);
