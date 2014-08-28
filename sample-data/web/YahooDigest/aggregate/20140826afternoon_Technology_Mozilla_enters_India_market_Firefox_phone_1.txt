@@ -1,0 +1,14 @@
+For $33 you can own India¡¯s first Firefox OS phone
+
+Mozilla continues to push its web-based Firefox OS phone with the first model in India available this week. Intex Technologies is selling the handset, dubbed the Cloud FX, for 1,999 rupees ($33.03 US) through Snapdeal.com.
+
+The relatively low cost means relatively low-grade hardware, of course.
+
+
+The Cloud FX is powered by a 1 GHz chip and comes with a meager 128 MB of memory and 256 MB of internal storage, although the latter can be expanded up to 4 GB. The phone supports a dual-SIM configuration and has both Bluetooth and Wi-Fi radios. Don¡¯t expect speedy mobile broadband though: This handset uses 2G networks to connect to the web. Buyers will also be limited by the display, which is a 3.5-inch screen with 320 x 480 resolution. Images are captured with a 2 megapixel camera.
+
+In reality though, you shouldn¡¯t need a high-powered phone to run a web-based platform.
+
+You won¡¯t be pushing graphic-intensive games or other power-hungry native applications on a Mozilla Firefox OS phone, so the specs may be enough for a capable experience. Even so, there are plenty of low-cost Google Android devices on the market that for a little more investment will add the native app experience. That¡¯s going to be a challenge for Mozilla¡¯s phone effort, regardless of the market it targets.
+
+Image copyright Intex.

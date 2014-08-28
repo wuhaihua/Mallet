@@ -1,0 +1,22 @@
+Firefox phones arriving in India
+
+The Cloud FX will be the first smartphone offered to the country's consumers to run a cost-effective alternative to Google's Android or Apple's iOS operating systems.
+
+In terms of specifications, the handset, built by Intex Technologies specifically for the Indian market, is not going to give the iPhone a run for its money. It has a 3.5-inch screen, a 1 GHz processor and no front-facing camera.
+
+But that's not the point; the point is the handset's operating system which is open and created in a language that pretty much all web designers and developers are familiar with -- HTML5. It means that potentially anyone with a technological inclination can create an app for it and that that app can be hosted online as part of a website. 
+
+The idea is that as well as regional and global app stores, developers can create hyper-local apps for Firefox OS phones.
+
+As such, the handset, which will be sold exclusively via Snapdeal.com, is being heralded as a new era for the Indian smartphone market. "We aim to enable the masses to get smartphone experience at the cost of a feature phone. We are delighted to partner with Snapdeal.com, the partnership allows us to offer the smartphone pan-India at a revolutionary cost," said Keshav Bansal, Director, Marketing, Intex Technologies.
+
+Despite competition from Nokia's Asher handsets and a slew of very cheaply made Android handsets already on sale in India and in other emerging markets, telecoms companies in particular have a lot of faith in Firefox OS and hope that it will be able to break the global smartphone duopoly of Android and iOS.
+
+However, Firefox isn't the only company attempting to offer a cost-effective alternative to the big two operating systems. Samsung has been developing the Tizen operating system that it hopes will achieve the same aims. 
+The company has been trumpeting its virtues for over a year and had been scheduled to launch its first Tizen smartphones in Russia this summer. However, the launch has been postponed.
+
+In an interview with The Wall Street Journal on Sunday, Huawei's Consumer Business group head, Richard Yu, said that Tizen didn't stand a chance of succeeding and revealed that his company had been approached to develop handsets for the operating system. He feels that, for the moment at least, the only operating system worth considering is Google's Android, because while it's easy to create an operating system, it's a huge job to create the supporting ecosystem for apps, accessories and handsets. And this is the reason why the company has put the development of any further Windows Phone handsets on hold for the present.
+
+Despite the huge obstacles, Mozilla, the not-for-profit tech organization behind Firefox OS, remains supremely confident. "The positive consumer feedback from other markets tells us that people like the unique user experience and openness we're building with Firefox OS. With support from Intex, Firefox OS smartphones in the ultra-low-cost category will redefine the entry-level smartphone and create strong momentum in Asia," said Dr. Li Gong, President of Mozilla.
+
+The Cloud FX is expected to cost less than 2000Rs ($33) when it goes on sale this week, making it significantly cheaper than a Microsoft/Nokia X2 handset, which runs a forked version of Android and went on sale in July for $130 although, admittedly it does have slightly better specs, including a front-facing selfie cam.

@@ -270,14 +270,27 @@ public class Vectors2Cluster {
 		
 		topicModel.estimate();
 		
-		PrintWriter out = new PrintWriter (new FileWriter ((new File(docTopicsFile.value))));
-		InstanceList instances = topicModel.OutputprintDocumentTopics(out, docTopicsThreshold.value, docTopicsMax.value);
+		InstanceList instances = topicModel.OutputDocumentTopics();
 		
 		Metric metric = new NormalizedDotProductMetric(); // cosine similarity
 		
 		KMeans kmeans = new KMeans(instances.getPipe(), numClusters.value, metric, KMeans.EMPTY_DROP);
 		Clustering clustering = kmeans.cluster(instances);
 		InstanceList[] clusters = clustering.getClusters();
+		
+		for (int i = 0; i < numClusters.value; i++ ) {
+			
+			System.out.println("Cluser #"+i+"\n");
+			
+			for (int j = 0; j < clusters[i].size(); j++) {
+				if ( clusters[i].get(j).getName() != null ) {
+					System.out.println(clusters[i].get(j).getName() + "\n");				
+					
+				}
+				
+			}
+			
+		}
 		
 		
 		

@@ -1,0 +1,24 @@
+Over the weekend the Sony PlayStation Network went offline and a plane carrying a Sony executive was diverted following a bomb threat.
+Both events have been credited to the person or people behind the Twitter account @LizardSquad, an account which also purportedly supported the Islamic State (formerly known as Isis).
+But who are Lizard Squad and are they really linked to Isis?
+Just over a week ago, the Twitter account came to life, having been dormant since it was created on 29 November, 2011.
+On Tuesday, 19 August the account tweeted:
+Over the next week the account has claimed credit for knocking games such as Runescape and World of Warcraft offline, however it was only when it claimed credit for a major attack against Sony's PlayStation Network on Sunday 24 August that Lizard Squad began to get the attention of the media.
+The media's interest was piqued by apparent claims that Lizard Squad had taken down the PlayStation Network in the name of the Islamic State, claiming that "Kuffar [non-muslims] don't get to play videogames until bombing of the ISIL stops."
+The account went on to say:
+Things escalated even further when a single tweet from the account led to an American Airlines flight carrying the president of Sony Online Entertainment, John Smedley, to be diverted following a bomb threat:
+As well as raising the account's profile, this move led the FBI to open an investigation into the account and the threats made on it.
+Despite the unwanted attention of the FBI, the account continued to claim responsibility for a series of other cyber attacks including against Microsoft's Xbox Live service and the Tumblr microblogging platform.
+Hacker or script kiddie?
+While many have labeled the person/people behind the account as "hackers associated with Isis", this label looks to be incorrect for a number of reasons.
+Let's first address the term "hacker".
+The attacks which have impacted Sony, Microsoft, Blizzard and others have been distributed denial of service (DDoS) attacks, which are seen as among the most unsophisticated of all cyber-attacks.
+The people behind the attacks were not trying to actually hack into the databases of Sony or Microsoft, but were simply trying to knock the systems offline for a while.
+DDoS attacks see servers flooded with a huge amount of traffic but can be carried out by people with relatively little technical knowledge.
+Troll or Islamic State?
+Indeed a number of other Twitter accounts, some of which are associated with the Anonymous movement, have also claimed responsibility for the attacks - with no one showing definitive proof of carrying out the attacks.
+As for the links to the Islamic State movement, which has been terrorising people in Iraq and Syria in recent weeks, that too seems like a unlikely connection.
+It is highly unlikely that a movement begun in April 2013 is linked to a Twitter account created in November 2011, and it is much more likely that the person/people behind the Lizard Squad Twitter account is simply a troll and using the high-profile nature of the Islamic State to gain attention.
+And it has worked.
+The cyber-attacks, links to the Islamic State and the diversion of the plane have all gained widespread media coverage.
+While those behind the account remain confident that the FBI won't be able to catch up with them, the reality is likely different and should the law enforcement agency track down the owner of the  account, they could be facing very serious charges based on making bomb threats against American Airlines.

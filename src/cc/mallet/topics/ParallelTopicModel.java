@@ -1581,48 +1581,21 @@ public class ParallelTopicModel implements Serializable {
 		
 	}
 	
-	public InstanceList OutputprintDocumentTopics (PrintWriter out, double threshold, int max)	{
-		out.print ("#doc name topic proportion ...\n");
-		Alphabet alphabet = dictOfSize(20);
+	public InstanceList OutputDocumentTopics ()	{
+		Alphabet alphabet = dictOfSize(numTopics);
 		
 		InstanceList TopicDocInsList = new InstanceList(new SerialPipes(new Pipe[] {
 			new Noop()			
 		}));
-		//InstanceList TopicDocInsList = new InstanceList(alphabet, null);
-		//InstanceList TopicDocInsList = new InstanceList(new SerialPipes(new Pipe[] {
-			//	new Noop(alphabet, null)
-				//}));
 		
 		int docLen;
 		int[] topicCounts = new int[ numTopics ];
 
-		IDSorter[] sortedTopics = new IDSorter[ numTopics ];
-		for (int topic = 0; topic < numTopics; topic++) {
-			// Initialize the sorters with dummy values
-			sortedTopics[topic] = new IDSorter(topic, topic);
-		}
-
-		if (max < 0 || max > numTopics) {
-			max = numTopics;
-		}
-
+		
 		for (int doc = 0; doc < data.size(); doc++) {
 			LabelSequence topicSequence = (LabelSequence) data.get(doc).topicSequence;
 			int[] currentDocTopics = topicSequence.getFeatures();
 
-			StringBuilder builder = new StringBuilder();
-
-			builder.append(doc);
-			builder.append("\t");
-
-			if (data.get(doc).instance.getName() != null) {
-				builder.append(data.get(doc).instance.getName()); 
-			}
-			else {
-				builder.append("no-name");
-			}
-
-			builder.append("\t");
 			docLen = currentDocTopics.length;
 
 			// Count up the tokens
@@ -1638,26 +1611,13 @@ public class ParallelTopicModel implements Serializable {
 			for (int topic = 0; topic < numTopics; topic++) {
 				topic_partition[topic] = (alpha[topic] + topicCounts[topic]) / (docLen + alphaSum);
 				indices[topic] = topic;
-				sortedTopics[topic].set(topic, (alpha[topic] + topicCounts[topic]) / (docLen + alphaSum) );
 			}
 			
-			//SparseVector topic_prop = new SparseVector(topicCounts, true);
-			//dense model at this moment, can be optimized later
-			//SparseVector topic_partition_sparse = new SparseVector(indices, topic_partition);
 			FeatureVector  topic_partition_sparse = new FeatureVector(alphabet, indices, topic_partition);
 			
 			Instance instance = new Instance(topic_partition_sparse, null, null, null);
+			instance.setName(data.get(doc).instance.getName());
 			TopicDocInsList.addThruPipe(instance);
-					
-			Arrays.sort(sortedTopics);
-
-			for (int i = 0; i < max; i++) {
-				if (sortedTopics[i].getWeight() < threshold) { break; }
-				
-				builder.append(sortedTopics[i].getID() + "\t" + 
-							   sortedTopics[i].getWeight() + "\t");
-			}
-			out.println(builder);
 
 			Arrays.fill(topicCounts, 0);
 		}
