@@ -64,6 +64,11 @@ public class Vectors2Topics {
 		 "The filename in which to write the Gibbs sampling state after at the end of the iterations.  " +
 		 "By default this is null, indicating that no file will be written.", null);
 
+	static CommandOption.String globalKeysFile = new CommandOption.String
+			(Vectors2Topics.class, "output-global-keys", "FILENAME", true, null,
+			 "The filename in which to write the top words for the corpus.  " +
+			 "By default this is null, indicating that no file will be written.", null);
+	
 	static CommandOption.String topicKeysFile = new CommandOption.String
 		(Vectors2Topics.class, "output-topic-keys", "FILENAME", true, null,
 		 "The filename in which to write the top words for each topic and any Dirichlet parameters.  " +
@@ -120,7 +125,11 @@ public class Vectors2Topics {
 	static CommandOption.Integer randomSeed = new CommandOption.Integer
 		(Vectors2Topics.class, "random-seed", "INTEGER", true, 0,
 		 "The random seed for the Gibbs sampler.  Default is 0, which will use the clock.", null);
-
+	
+	static CommandOption.Integer globaltopWords = new CommandOption.Integer
+	(Vectors2Topics.class, "num-top-global-words", "INTEGER", true, 100,
+	 "The number of most probable words to print for corpus after model estimation.", null);
+	
 	static CommandOption.Integer topWords = new CommandOption.Integer
 		(Vectors2Topics.class, "num-top-words", "INTEGER", true, 20,
 		 "The number of most probable words to print for each topic after model estimation.", null);
@@ -451,6 +460,10 @@ public class Vectors2Topics {
 			topicModel.setNumThreads(numThreads.value);
 
 			topicModel.estimate();
+			
+			if (globalKeysFile.value != null) {
+				topicModel.printGlobalTopWords(new File(globalKeysFile.value), globaltopWords.value, true);
+			}
 
 			if (topicKeysFile.value != null) {
 				topicModel.printTopWords(new File(topicKeysFile.value), topWords.value, false);

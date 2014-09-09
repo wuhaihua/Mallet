@@ -1098,6 +1098,12 @@ public class ParallelTopicModel implements Serializable {
 		}
 	}
 	
+	public void printGlobalTopWords (File file, int numWords, boolean useNewLines) throws IOException {
+		PrintStream out = new PrintStream (file);
+		printGlobalTopWords(out, numWords, useNewLines);
+		out.close();
+	}
+	
 	public void printTopWords (File file, int numWords, boolean useNewLines) throws IOException {
 		PrintStream out = new PrintStream (file);
 		printTopWords(out, numWords, useNewLines);
@@ -1139,6 +1145,35 @@ public class ParallelTopicModel implements Serializable {
 
 		return topicSortedWords;
 	}
+	
+	/**
+	 *  Return a sorted set (for whole corpus).  
+	 *   Contains IDSorter objects with integer keys into the alphabet.
+	 *   To get direct access to the Strings, use getTopWords().
+	 */
+	public TreeSet<IDSorter> getGlobalSortedWords () {
+	
+		TreeSet<IDSorter> GlobalSortedWords = new TreeSet<IDSorter>();
+
+		// Collect counts
+		for (int type = 0; type < numTypes; type++) {
+
+			int[] topicCounts = typeTopicCounts[type];
+
+			int index = 0;
+			int count = 0;
+			while (index < topicCounts.length &&
+				   topicCounts[index] > 0) {
+				
+				count += topicCounts[index] >> topicBits;
+				index++;
+			}
+			
+			GlobalSortedWords.add(new IDSorter(type, count));
+		}
+
+		return GlobalSortedWords;
+	}
 
 	/** Return an array (one element for each topic) of arrays of words, which
 	 *  are the most probable words for that topic in descending order. These
@@ -1171,6 +1206,44 @@ public class ParallelTopicModel implements Serializable {
 		}
 
 		return result;
+	}
+	
+	public void printGlobalTopWords (PrintStream out, int numWords, boolean usingNewLines) {
+		out.print(displayGlobalTopWords(numWords, usingNewLines));
+	}
+	
+	public String displayGlobalTopWords (int numWords, boolean usingNewLines) {
+
+		StringBuilder out = new StringBuilder();
+
+		TreeSet<IDSorter> sortedWords = getGlobalSortedWords();
+
+		// Print results for each topic
+		
+			int word = 0;
+			Iterator<IDSorter> iterator = sortedWords.iterator();
+
+			if (usingNewLines) {
+				//out.append (topic + "\t" + formatter.format(alpha[topic]) + "\n");
+				while (iterator.hasNext() && word < numWords) {
+					IDSorter info = iterator.next();
+					out.append(alphabet.lookupObject(info.getID()) + "\t" + formatter.format(info.getWeight()) + "\n");
+					word++;
+				}
+			}
+			else {
+				//out.append (topic + "\t" + formatter.format(alpha[topic]) + "\t");
+
+				while (iterator.hasNext() && word < numWords) {
+					IDSorter info = iterator.next();
+					out.append(alphabet.lookupObject(info.getID()) + " ");
+					word++;
+				}
+				out.append ("\n");
+			}
+		
+
+		return out.toString();
 	}
 
 	public void printTopWords (PrintStream out, int numWords, boolean usingNewLines) {

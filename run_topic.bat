@@ -6,7 +6,11 @@ bin\mallet train-topics --input tutorial.mallet --num-topics 20 --optimize-inter
 
 bin\mallet import-dir --input sample-data\web\an --output autorial.mallet --keep-sequence --remove-stopwords
 
-bin\mallet train-topics --input autorial.mallet --num-topics 20 --optimize-interval 20 --output-doc-topics autorial_compostion.txt
+bin\mallet import-dir --input sample-data\web\an --output autorial.mallet --keep-sequence --remove-stopwords --extra-stopwords stoplists\sports.txt
+
+bin\mallet train-topics --input autorial.mallet --num-topics 20 --optimize-interval 20 --output-doc-topics autorial_compostion.txt --output-topic-keys autorial_topic_keys.txt
+
+bin\mallet train-topics --input autorial.mallet --num-topics 20 --optimize-interval 20 --output-doc-topics autorial_compostion.txt --output-topic-keys autorial_topic_keys.txt --output-global-keys autorial_global_keys.txt
 
 
 Vectors2Cluster  arguments:
@@ -23,6 +27,8 @@ bin\mallet train-topics --input Digest_agg.mallet --num-topics 30 --optimize-int
 
 rem Sports
 bin\mallet import-dir --input sample-data\db_20140901_0903\Sports --output Sports_agg.mallet --keep-sequence --remove-stopwords
+
+bin\mallet import-dir --input sample-data\db_20140901_0903\Sports --output Sports_agg.mallet --keep-sequence --remove-stopwords --extra-stopwords stoplists\sports.txt
 
 bin\mallet train-clusters --input Sports_agg.mallet --num-topics 150 --optimize-interval 20 --k 300 >> Output_Sports_Cluster_N150K300_1438.txt
 
