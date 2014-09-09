@@ -207,10 +207,11 @@ public class Vectors2Cluster {
 	{
 		//--input autorial_all2.mallet --num-topics 5 --optimize-interval 20 
 		//--output-doc-topics autorial_compostion_all2.txt --k 5
-		String[] inputArgs = {"--input","autorial_all3.mallet","--num-topics","5",
-				"--optimize-interval","20","--output-doc-topics","autorial_compostion_all2.txt",
-				"--k","5"};
-		preMain(inputArgs);
+		//String[] inputArgs = {"--input","autorial_all3.mallet","--num-topics","5",
+			//	"--optimize-interval","20","--output-doc-topics","autorial_compostion_all2.txt",
+				//"--k","5"};
+		//preMain(inputArgs);
+		preMain(args);
 
 	}
 
