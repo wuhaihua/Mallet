@@ -1,0 +1,31 @@
+How to Protect Your Photos (Nude or Otherwise) From Hackers on iCloud How to Protect Your Photos (Nude or Otherwise) From Hackers on iCloud Image:  Mashable/Christina Ascani
+
+Jennifer Lawrence, Kate Upton and Ariana Grande are among the high-profile celebrities who apparently fell victim to a massive alleged iCloud hack late Sunday night, when someone exposed collections of nude photos that they had purportedly saved on their Apple devices.
+What iPhone owners might not realize is that they may have already told Apple to back up all of your photos on its iCloud servers. It's easy enough to enable the "My Photo Stream" feature — then forget that it's running in the background, uploading every picture you take.
+If hackers gain access to your iCloud account, they could easily download all your photos without ever laying hands on your iPhone or iPad. And as we've seen time and time again, hackers can and do obtain passwords and break into such accounts.
+
+Apple hasn't commented on the leaked photos yet, so there's no way of knowing for sure whether the company's iCloud service was to blame. But ZDNet is reporting that Apple has already patched a security exploit that could have allowed hackers to obtain iCloud passwords for the targeted accounts.
+While we wait for clarification, it's worth taking a few key steps to protect your iOS photos — especially if they're ones you don't want getting out.
+Is Photo Stream uploading all your photos to iCloud?
+In your Photos app, you're probably familiar with the Camera Roll, which are the photos you've taken that are physically stored on your device. But if you've enabled Photo Stream, you'll also see a My Photo Stream album.
+
+Image: Screenshot from iPhone Tarn SusumpowThe photos in My Photo Stream are stored on Apple's iCloud servers. Apple stores photos you've taken in the last 30 days. This can be a useful way to sync photos between devices; if you take a photo on your iPhone, it'll also show up on your iPad and Mac or PC. It's also a good automatic backup should you lose your phone after that magical vacation.
+
+But it does mean that these photos are in the cloud, and potentially vulnerable. 
+How to disable Photo Stream
+If you're worried about security and would rather disable Photo Stream now, open the Settings app on your device, then tap "iCloud." Tap "Photos" (or "Photo Stream" in iOS 6), then manually switch off the Photo Stream feature. (If anything important is backed up in Photo Stream, make sure you've backed it up elsewhere first.)
+
+Image: Screenshot from iPhone Kyli SinghYou'll also want to switch Photo Stream off on all devices you want protected. (See our earlier article on Photo Stream for more tips on enabling or disabling it on all devices.)
+How secure is your iCloud password?
+Because the hackers were likely able to guess the passwords linked to certain accounts — using a relatively simple tool, as reported by TheNextWeb — it once again illuminates the need for strong, unique passwords. 
+Apple requires users to create a password with eight characters, a number and both an uppercase and lowercase letter, but you'll want to be creative in how you approach the login.
+What were once considered clever strategies — using symbols, capitalizations, the number 3 in place of the letter "e" — are old tricks. The best thing to do now is pick a different password for each account you use — you wouldn't use the same key in all of your locks, and the same goes for passwords.
+Security firm McAfee suggests avoiding password words that include personal information, like your birthday, pet's name or a favorite color, because they're easy for hackers to guess. Passwords should also be long — at least 14 characters — and when you use common replacements (like symbols and letters), make sure they're not tacked on at the end; scatter them throughout.
+The best suggestion is to use a combination of dictionary words that aren't related to each other, such as “catfolderspaceshuttle," to create a long password that's easy for you to remember but almost impossible for anyone else to guess. 
+You'll want to avoid common phrases and idioms like “icameisawiconquered,” which are easier to guess. But ultimately, a long password made of words could foil hackers who have plenty of time to automatically guess all the shorter possibilities.
+Turning on two-factor authentication
+One increasingly common security step you can take is two-factor authentication, a feature that Apple already offers for its iCloud service. This login verification is like double-locking your door at night to decrease the chances of an intruder breaking in, but it takes an extra step or two to get into your account.
+Each time you want to log into your iCloud account anew, Apple will send a code to your phone or other Apple device. The code changes after each login attempt, so hackers would have to be in physical possession of your iPhone to know the code.
+To set this up, visit My AppleID. Click "Manage your Apple ID" &gt; "Password and Security" &gt; "Two-Step Verification" to begin the process.
+Twitter, Facebook, Google, Dropbox and Tumblr all offer two-factor authentication, too. It doesn't hurt to follow the same security practices across all platforms to prevent photo leaks if other security vulnerabilities occur in the future.
+Mashable will update this post with more information as it surfaces.

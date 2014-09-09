@@ -1,0 +1,17 @@
+Sony Looks To IoT And Joins AllSeen Alliance Sony Looks To IoT And Joins AllSeen Alliance Sony becomes the latest technology giant to join an Internet of Things (IoT) consortium, after it signed up to the AllSeen Alliance.
+That move comes despite concern that the deployment of IoT could be held back by too many competing standards.
+Premier Member
+The AllSeen Alliance announced that Sony had joined its ranks on Tuesday as a &#8216;Premier Member.&#8217; There are ten other premier members of the group, including LG, Microsoft, Panasonic, Qualcomm, and Sharp, as well as 53 Community Members.
+The alliance was formed in December 2013 and aims to “overcome the interoperability challenges that impede the Internet of Things.” Essentially, the alliance is collaborating on a universal software framework, based on AllJoyn open source code.
+“Open source provides the unique ability to collaborate across company lines to advance technologies and enable change,” said Liat Ben-Zur, chairwoman of the AllSeen Alliance. “The only way to build the future of ubiquitously connected devices is by working together.
+“We’re excited to welcome Sony to this thriving community, and look forward to their contributions to the AllJoyn open source project,” she added.
+The addition of Sony to its ranks, raises the possibility that AllJoyn could been incorporated in future Sony products, including televisions, gaming consoles, tablets and phones.
+“Developing and progressing the Internet of Everything ecosystem is essential for us to broaden and enrich our customers’ everyday experiences,” said Hideyuki Furumi, President of UX, Product Strategy, Sales &amp; Marketing Group, Sony Corp.
+“And this is an area where we at Sony are focused on delivering satisfying and exciting experiences to our customers,” said Furumi. “The biggest challenge is connecting everything seamlessly, and we believe that by joining the AllSseen Alliance with which we share the same philosophy, we can strive to deliver these experiences together.”
+Too Many Standards
+Many experts agree that the IoT is a great concept, but it is in need of some standards. Indeed, last year, experts warned that the deployment of Internet of Things could be held back by too many competing standards.
+And despite the fine-sounding rhetoric from Sony and the AllSeen Alliance, there is little doubt that there are now competing consortiums looking at creating their own IoT connectivity standards.
+For example, in July some leading tech giants created the ‘Open Interconnect Consortium‘ (OIC) to push IoT standards. OIC members include Dell, Intel, Samsung, Broadcom, Atmel and Wind River.
+Google meanwhile has its open Nest API, and in July its Nest division formed the Thread Group to create a single set of IoT standards. Its members already include Samsung, ARM, Freescale Semiconductor, Silicon Labs and several smaller companies.
+And finally, lets not forget Apple with its HomeKit API.
+Connect up with our Internet of Things Quiz!

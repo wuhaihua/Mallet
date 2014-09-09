@@ -1,0 +1,89 @@
+The Evolution Of ATM Skimmers The Evolution Of ATM Skimmers 
+In a little over a decade, ATM skimmers have gone from urban myth to a wildly complex, ever-evolving suite of technologies that has the potential to be the worst nightmare of anyone with a bank account. Here&#8217;s a look at how quickly skimmers have evolved &#8212; and why they&#8217;re increasingly impossible to spot.
+
+What is skimming?
+In its most basic form, skimming is really just a way to intercept an otherwise legitimate financial transaction. Whether it&#8217;s a rig hooked up to an ATM, a cash register, or even something as low-tech as photocopying receipts, the thief uses their mechanism of choice to swipe your card&#8217;s data, as you go about your business totally unaware.
+To gain full, total access to all your hard-earned funds, thieves-to-be need to secure your PIN, too. That usually means rigging up a camera overhead to capture your keystrokes or, if they&#8217;re particularly conniving, laying a device over the keypad itself. In other words &#8212; skimming can be sneaky as hell.
+How has it changed?
+Tracing skimming back to its origins is difficult, if for no other reason that it was years before their existence was confirmed. There have been traces and whispers of skimmers, though, for well over a decade.
+2002-2007
+In December of 2002, a CBS report confirmed the existence of what had been widely believed to be a fairy tale: tiny devices called skimmers that could &#8220;record the names, account numbers and other identifying information from the magnetic stripes to be downloaded onto a personal computer later.&#8221; A personal computer!
+At that time, even lawyers still believed that skimmers were more fiction than fact. When a prosecutor who specialised in frauds, Howard Wise, got scammed himself, he was shocked that the technology existed explaining that, &#8220;At that time, frankly, I thought skimmers were an urban myth.&#8221;
+Of course, that blissful ignorance didn&#8217;t last for long. Barely a year later, in 2003, customers using an ATM at an New York City deli lost upwards of $US200,000 in one day thanks to a single skimming device. For most of the decade, the closest look anyone had gotten at an actual skimmer was in the occasional cautionary chain email.
+
+2008
+That changed in 2008, when the Naples Police Department received a call about the following (sad) attempt at camouflaging a skimmer.
+
+This rudimentary device consisted of a card reader you could buy from any number of reputable online retailers, jammed over the ATM&#8217;s actual reader. Then, the thief stuck a &#8220;micro camera&#8221; under a plastic sheet to capture the victims&#8217; keypad strokes.
+So while we did have proof that, yes, these cases really were happening, it wasn&#8217;t until 2009 that skimming really started to take off &#8212; both in number of cases and in the quality of the skimmers themselves.
+2009
+Compared to what we often deal with today, the first batch of discovered skimmers were downright primitive. The one you see below is little more than a battery, flash memory card, and mini USB port.
+
+Image via Consumerist
+It was discovered in 2009 by a Consumerist reader who, thanks to some MD 20/20-fuelled paranoia and an objectively awful masking tape job, sensed something fishy as he was getting money out of an ATM. He yanked on the card reader and &#8212; lo and behold &#8212; the appendage dropped right into his hands.
+Later that same month, another skimmer was discovered, one that prevented the actual ATM from successfully reading the card at all and made use of a false mirror that contained a camera to capture victims&#8217; keypad strokes.
+
+Image via ABC News
+In the early days, finding covert ways to send stolen PINs and security codes back to the scammers was the key to a successful skim, as these photos from Mikko Hypponen, Chief Research Officer at F-Secure, show:
+
+Image via @mikko
+While some of the early models might have occasionally rendered the actual ATMs useless, it didn&#8217;t take long for skimmers to start working with the machines they were leeching off instead of against them.
+
+Image via Krebs on Security
+2010
+As you can see above, cameras were certainly helpful in gathering PINs, but they&#8217;re not easy to slip onto machines on the sly. To work around that, crooks started using keypad overlays, which fit just on top of the original keypad and make note of which numbers are pushed for which transactions.
+
+Image via Lockheed Martin
+As the tech evolved, implementing the scam became even easier. Eventually, you you could outsource the tech know-how entirely. Sites began selling whole skimming kits that could be colour-coded according to the type of machine you were planning to rip off. They could be yours for around $US1500.
+
+Image via Krebs on Security
+But that&#8217;s just a starter model. One top-of-the-line device that Brian Krebs wrote about in 2010 went for anywhere between $US7,000 and $US8,000:
+
+
+
+Not all skimmers are so pricey: Many are prefabricated, relatively simple devices that fraudsters attach to an ATM and then collect at some later point to retrieve the stolen data. The trouble with these devices is that the fraudster has to return to the compromised ATM to grab the device and the stolen data stored on it.
+In contrast, wireless skimmers like the one pictured below allow the thief to receive the stolen card data from anywhere in the world, provided he or she has a working cell phone signal.
+The actual card skimmer in this seller&#8217;s model is quite small, and yet includes both a magnetic strip reader and a tiny radio that sends the collected data (known as &#8220;dumps&#8221; in fraud circles) in an encrypted format to a device built into the PIN pad.
+
+Images via Krebs on Security
+Advanced skimmers like the one above featured a PIN-pad overlay that essentially had cell-phone guts built into the device. This module would bundle both the stolen card data and the typed-in PIN, finally sending the whole package right back to the thief&#8217;s cell phone in a series of two to four text messages. That&#8217;s a much safer bet than having to return to the scene of the crime to retrieve the info.
+2011
+Eventually, ATM manufacturers began working anti-skimming tech into their machines. At first, this just meant fitting translucent, circular casings over the card reader. Casing that, unsurprisingly, it didn&#8217;t take long for thieves to replicate.
+
+Images via Krebs on Security
+As you can see in the photo above, the only difference is a small piece of plastic that you&#8217;d have to be actively seeking out to even notice. Meanshile, the rise in 3D-printing firms meant it was even easier to custom-build overlaying skimmers to criminals&#8217; exact specifications.
+
+Images via i.materialise
+Home 3D printers weren&#8217;t practical yet; these were outsourced to third-party vendors, some of whom got wise. When 3D printing firm i.materialise got a suspicious order, its engineers looked deeper into what they were being asked to print, realised it was a fraud device, and denied the order.
+2012
+Spotting these nefarious devices only became more and more difficult. From the front, the skimmer you see below is almost perfect. The only giveaway? A tiny, tiny pinhole on the right hand side of the device (see the close-up), through which a small camera can capture PIN as skimming victims type them in.
+
+
+Image via Krebs on Security
+Eventually skimmers got so small you couldn&#8217;t see them even if you tried. According to the European ATM Security Team, the latest ATM skimmers in July of 2012 were in fact paper-thin card reading devices, which are physically inserted inside the card slots in cash machines. In other words, you literally can&#8217;t even see they&#8217;re there.
+
+Image via EAST
+It wasn&#8217;t just ATMs, though. Even point-of-sale devices were being retrofitted with skimmers and sold to criminal wannabes. The video below shows a Verifone POS device printing out a fake transaction receipt.
+
+
+That way, temporary employees could switch out their usual device with the phony one and, once they left, they&#8217;d have all the decrypted card data and PINs they could get their hands on. The sellers pitch, as discovered by Brian Krebs: &#8220;POS is &#8216;fake&#8217; and stores D+P [card data and PIN], prints out approved receipt or can be setup for connection error. Software to decrypt the data is provided. It keeps d+p inside memory for manual retrieval via USB cable.&#8221;
+2013
+Then, it was the gas pump&#8217;s turn. In 2013, a series of scams in Oklahoma saw thieves take home $US400,000 from a chain of Murphy&#8217;s gas stations before they were eventually caught. The thieves used a card skimmer and fake PIN pad overlay to obtain the necessary information.
+
+Image via MyFox9
+What&#8217;s more, these skimmers used Bluetooth-enabled devices that sucked power from the pumps themselves. That means they could run indefinitely, and allow remote access to the data they collected; once it was installed, the thieves would never need touch the skimmer again.
+While most skimmers were getting small beyond belief, others took the opposite approach. The &#8220;skimmer&#8221; below is actually an entire fake ATM cover that was stacked on top of an already existing machine in Brazil.
+
+
+Image via Krebs on Security
+The elaborate device appears to be powered by a disassembled laptop, screen and all.
+2014
+Something that large obviously isn&#8217;t quite as viable as a smaller, more discreet option, which is what you&#8217;re most likely to fall victim to today, like the razor-thin ATM skimmer uncovered just earlier this week.
+
+Image via Krebs on Security
+Here, all it took was a watch battery, a tiny storage device, and what we assume was little more than a few minute spent messing around with the ATM itself. As you can see from the video below of scammers installing and removing skimmers, it doesn&#8217;t take much time at all.
+
+
+Fortunately, manufacturers are working on ways to stop these fiends before they can get their claws into your data. But as we&#8217;ve seen, it doesn&#8217;t take long for crooks to adapt to the same tech meant to fend them off.
+So what can you do to stop this from happening to you? Always, always cover the keypad when entering your PIN; the majority of setups use a camera to capture the final puzzle piece. And while the US is finally embracing so-called &#8220;chip-and-pin&#8221; credit card systems (which can certainly help cut back on current skimmers&#8217; effects), those will bring with them a whole new set of problems.
+So if anything on any credit or ATM card-reader looks suspicious to you, better to be safe and pass it up. You never know what crazy camouflage they will cook up next.

@@ -1,0 +1,43 @@
+What is Google Wallet and why should I care? What is Google Wallet and why should I care? 
+
+The basics behind Google's digital wallet
+
+Google Wallet has been around for a few years now, but most American users couldn't really use it before last November when Kit Kat landed and brought a new method for mobile payments and a method to try and prevent carriers from blocking the app.
+
+But if you think Google Wallet's just for tap-and-pay, you're sadly mistaken. There's a lot more to Google Wallet, and there's something for everyone here.
+
+So, open up your Wallet and let's go shopping.
+
+
+
+
+
+Google Wallet is first and foremost Google's method of mobile payments, so if you've ever used the Play Store for any purchased content (including free giveaways of things like albums), you already have and use a Google Wallet account.
+
+
+
+Google Wallet has also gotten into mobile payments between users, allowing you to send and receive money through Google Wallet just as you would with PayPal. If they have a Gmail, you can send them money, or send a request for them to send you money if they, say, haven't paid their fee for your fantasy football league yet. Like PayPal, there's a fee if you use credit or debit cards for this, but if you transfer either using your Google Wallet balance or your connected bank account, there's no fee. If you're someone who transfers on a regular basis, or transfers large amounts — or both, if you've got a kid in college always needing more — then keep those fees in mind.
+
+Your Google Wallet Balance can be used not only in the Google Play Store or with tap-and-pay, but also like a regular debit card in shops and with ATMs with the Google Wallet Card. Accepted wherever MasterCard is, the Google Wallet Card is a debit card that you can monitor from you phone and that you can keep just the amount you need on.
+
+
+
+But even if you're not using Google Wallet to send or receive money, there are still some great uses to be found. Google Wallet can store loyalty program information from every single department store, grocery chain, and restaurant, and bring them up when you need them. If you have an HT+1 rewards card and you visit a Hot Topic, Google Wallet will remind you to swipe your card and get your points. They've also expanded this recently to include gift cards, so you'll never forget to use them again. And since not all stores have tap and pay yet, the stored gift cards will draw up the card number and PIN for your server/cashier/waitress to type in instead.
+
+One of the nicest features of Google Wallet are the notifications. Each time I use tap and pay, I'll get confirmation on my phone that it went through. And once it's processed, the receipt will arrive in my Gmail. Now, to some, this may seem like overkill, but for an app tied to my money, I'd rather have it over-inform than say nothing.
+
+
+
+And of course, we have tap-and-pay. Now, this has technically been in here for years, but the carriers had blocked it on their phones and on their networks because they were all pushing their own versions of mobile wallets, most notably ISIS Wallet. With Kit Kat, tap-and-pay was changed and strengthened, and additionally, Google prevented the carriers from blocking it (for the most part). Currently it requires a US SIM card, even though the SIM card should play not role in the Host Card Emulation that enables secure, sandboxed tap-and-pay in Android Kit Kat. It's not available everywhere, but it's also more widespread than you'd think. Also, it should be widening in use in the next year and a half, as more devices with tap-and-pay are being sold and many businesses will have to upgrade anyway ahead of the chip-and-PIN switch.
+
+So why should you care?
+
+
+
+Tap and pay not be everywhere (yet), and it may not even be available for users outside the US, but when it does work, it's nice. In January with a blizzard outside — at least what passes for one in Texas — being able to walk next door to McDonalds and not wrestle through four or five layers of coats for your wallet is a godsend. Just pulling out your phone, tapping in your PIN with frost-bitten fingers, and tapping the reader. It's simple, but still secure. When the cashier or the guy in line behind you asks how the hell you just did that, you can show off.
+
+It's also undeniably good to have a backup form of payment, should you lose your wallet or credit card and need a way to pay for gas to get you home or cheap food to get you by, and most gas stations I pass accept tap and pay. And the number should rise as more and more businesses upgrade ahead of the chip and pin switch-over next October.
+
+
+
+So, do you use tap and pay? Can you use tap and pay? Or is Google Wallet just for buying apps on your phone?

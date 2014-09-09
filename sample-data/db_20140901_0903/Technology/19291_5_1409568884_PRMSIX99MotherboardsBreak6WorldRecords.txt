@@ -1,0 +1,4 @@
+(PR) MSI X99 Motherboards Break 6 World Records (PR) MSI X99 Motherboards Break 6 World Records The MSI X99S XPOWER AC, one of MSI's new Intel X99 based OC motherboards, just obliterated the Cinebench R15 world record for the Intel Core i7 5960X processor by scoring a staggering 2314 points while all 8 cores were running at an amazing 5931.02 MHz clock speed, which is almost 200 MHz higher than any other X99 motherboard currently on the market. MSI's complete X99 line up is capable of breaking world records with the X99S SLI PLUS already breaking 5 different records. wPrime, SuperPi and PiFast were all taken with speeds up to 6354.9 MHz. It shows that the MSI X99S SLI PLUS motherboard is not only packed with an arsenal of features, it also packs plenty of power for heavy workstation tasks such as rendering.
+
+Check the validated HWBot.org rankings here: Rankings
+Check BenchBros record here: 2314 cb 

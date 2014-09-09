@@ -1,0 +1,21 @@
+Here's A Shockingly Easy Way To Skirt iCloud's Two-Factor Verification Here's A Shockingly Easy Way To Skirt iCloud's Two-Factor Verification 
+There&#8217;s a major flaw in the way that Apple&#8217;s iCloud syncs photos that makes it laughably easy for a hacker to get all those naked selfies that you never want the world to see &#8212; and it&#8217;s possible to exploit even if you have two-factor verification enabled.
+
+TUAW&#8216;s Michael Rose did a simple experiment where he set the iCloud Control Panel on a brand new installation of Windows, logged in with his iCloud credentials and checked off the options to synchronise bookmarks and photos with this new PC. Within a few minutes, his entire photo stream had downloaded seamlessly onto this never-before-seen PC.
+&#8220;I turned to my iCloud email account to wait for the obligatory &#8220;Your account was accessed from a new computer&#8221; courtesy alert&#8230; which never arrived&#8221;, Rose writes.
+Are you getting it? All a &#8220;hacker&#8221; has to do is guess your iCloud password. Once they have that, there&#8217;s nothing stopping them from syncing your entire photo stream to their computers. You would have no idea, because Apple won&#8217;t bother to inform you, which defeats the whole frigging point of having two-factor authentication in the first place.
+Two-factor authentication on iCloud, is only triggered by a short list of interactions:
+
+
+    Signing in to your Apple ID management console to manage your account
+  
+
+    Making an iTunes, App Store, or iBooks Store purchase from a new device
+  
+
+    Getting Apple ID related support from Apple
+  
+
+If you&#8217;re not doing these things, Apple is totally cool if you don&#8217;t enter a confirmation code from another device. It&#8217;s a strange omission in what is, otherwise, a fairly effective way to prevent bad guys from getting into your iCloud account.
+&#8220;It&#8217;s pretty clear that Apple&#8217;s doing its best to guard your wallet with this implementation &#8212; anything that might cause a credit card charge via an unfamiliar iOS device is going to force you to authenticate,&#8221; Rose writes.
+When it comes to guarding your privacy, however? Apple doesn&#8217;t give a damn. [TUAW]

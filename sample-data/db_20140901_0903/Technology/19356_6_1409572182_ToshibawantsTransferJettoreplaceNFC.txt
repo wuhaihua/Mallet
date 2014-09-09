@@ -1,0 +1,15 @@
+Toshiba wants TransferJet to replace NFC Toshiba wants TransferJet to replace NFC 
+                
+
+   					
+                     
+                       
+                   
+        			Apple may have just joined the NFC game, if rumors are true, but it seems that there's already a challenger to the technology already in sight. That is, at least, if Toshiba has its way. It wants TransferJet to become the de facto standard technology when it comes to fast, wireless data transfer instead of NFC which, in  all honesty, is something that is just starting to get a foothold.It isn't exactly surprising that Toshiba would be rooting for TransferJet when you consider that it is one of only three companies developing the technology, the other two being Sony and Olympus. As camera makers, Sony and Olympus are naturally interested in being able to transfer large photos from their digital cameras to computers wirelessly, quickly and effortlessly.NFC does let you transfer files over a minutely small distance, but it is quite limited in file size. In fact, when it comes to wireless data transfers, NFC is used mostly for pairing devices and not for the transfer itself. More often than not, Bluetooth or ad hoc WiFi connections are used. That said, NFC still has some advantages, like easy "one tap" connection or proximity between devices.TransferJet aims to solve NFC's limitation by allowing users to transfer large bulks of data over the same short distance, but with speeds faster than Bluetooth or even WiFi. Toshiba claims that the technology has a transfer speed of 375 Mbps. In practical terms, that means transferring a 20-second HD video in one second. Definitely an interesting proposition.The problem, however, is one of implementation and then adoption. Ideal as it may sound, TransferJet isn't as widespread a technology as NFC, which itself still isn't that widely used even today. Worse, at the moment, only external TransferJet connectors and peripherals are available. For a smartphone, that translates to a micro USB dongle that you attach to your device. And of course you'll also need another TransferJet dongle for the recipient, either another phone or a laptop. But Toshiba envisions a day when TransferJet gets embedded inside devices the way Bluetooth and NFC, which it wants to replace, are. But considering OEMs are likely to still include NFC for backwards compatibility, the addition of TransferJet will practically translate to a very crowded smartphone or tablet filled with all manner of wireless connectivity chips.VIA: CNET
+
+Story Timeline
+
+Sony launches MSJ-X8G 8GB Memory Stick with Transfer Jet
+I-O Data USB2-TJC brings TransferJet to the masses
+Toshiba will show off SDHC memory card with TransferJet tech at CES
+

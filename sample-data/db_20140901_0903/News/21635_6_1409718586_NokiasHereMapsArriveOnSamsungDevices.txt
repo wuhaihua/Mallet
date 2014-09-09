@@ -1,0 +1,13 @@
+Nokia’s ‘Here’ Maps Arrive On Samsung Devices Nokia’s ‘Here’ Maps Arrive On Samsung Devices Nokia’s ‘Here’ maps are set to appear on Samsung devices, starting with the recently launched Gear S smartwatch.
+The navigation business is run by the ‘old’ Nokia – the part of the Finnish company that wasn’t sold to Microsoft earlier this year.
+As part of the deal, an app called Navigator will come pre-loaded on smartwatches powered by Tizen – an open source operating system used by Samsung for its wearable devices. Meanwhile, the free Here maps, currently in beta, will be available for the rest of Samsung’s family of smartphones and tablets.
+One of the features that sets Here apart from the competition is that it stores most of the maps on the device, so they can be used even when connection to the Internet is not available.
+Here for Gear
+Here, previously known as Ovi Maps or Nokia Maps, is Nokia’s business unit that develops mapping and navigation. But its work is not limited to mobile devices. Here also licenses mapping data to the likes of Ford, BMW, Audi, Toyota, SAP and Oracle, and powers major mapping providers, such as Bing and Yahoo! Maps.
+Following the sale of the handset business to Microsoft, Nokia said it would restructure itself around navigation, network equipment and R&amp;D.
+On the Samsung Gear S, Here will be powering an application called Navigator, developed specifically for smartwatches. It offers turn-by-turn directions and public transport information, and can save maps for offline use.
+The new Here app for Android, available from the Samsung Galaxy Apps store, includes maps and public transport information that covers almost 100 countries without the need for 3G or Wi-Fi. Since all of the data is stored on the device, the app is faster and more responsive than its cloud-based counterparts.
+Using the two together, Samsung aficionados can find a route on a bigger device, and then send it to the smartwatch for easier navigation.
+&#8220;Samsung is committed to providing consumers with the best possible mobile experience and we always look for partners to help expand the capabilities of our smart wearable devices,&#8221; said Chan Woo Park, VP of Product Strategy Team, Mobile Division at Samsung Electronics.
+&#8220;We are thrilled to partner with HERE and bring innovative, personalized mapping pedestrian navigation services to our Tizen-powered smart wearable devices starting with the Samsung Gear S.&#8221;
+What do you know about Nokia? Take our quiz!

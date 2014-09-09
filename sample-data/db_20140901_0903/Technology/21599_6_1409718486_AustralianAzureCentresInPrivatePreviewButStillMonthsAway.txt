@@ -1,0 +1,5 @@
+Australian Azure Centres In Private Preview But Still 'Months Away' Australian Azure Centres In Private Preview But Still 'Months Away' 
+We&#8217;ve been wondering for quite a while when the Australian Azure data centres in Sydney and Melbourne would finally go live. While we still don&#8217;t have an official date, Microsoft is letting some partners access the centres via a &#8220;private preview&#8221;.
+Microsoft Australia managing director Pip Marlow announced the preview at Microsoft&#8217;s local partner conference this week. In a blog post about the development, she wrote this about general availability for the service:
+I still can’t give you the final date for general availability but I can share that it is just around the corner, a matter of months away.
+There has been speculation that the centres, announced last year, might launch at the dual TechEd Australia events in Sydney and Melbourne. Given that the first of those is on October 7 &#8212; which is a month, rather than &#8220;months&#8221;, away &#8212; a possible scenario might be an announcement at that event, with availability a few months after that.

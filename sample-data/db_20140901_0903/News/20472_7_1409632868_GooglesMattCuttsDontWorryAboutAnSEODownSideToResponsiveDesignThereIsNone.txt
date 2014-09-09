@@ -1,0 +1,32 @@
+Google’s Matt Cutts: Don’t Worry About An SEO Down Side To Responsive Design, There Is None Google’s Matt Cutts: Don’t Worry About An SEO Down Side To Responsive Design, There Is None 
+								
+							
+							
+							In a video released today by Google&#8217;s head of search spam, Matt Cutts, he said you don&#8217;t have to worry about there being a down side, related to SEO, when using a responsive design approach for mobile web sites.
+The question posed to him was:
+Is there an SEO disadvantage to using responsive design instead of separate mobile URLs?
+The answer is no, in fact, there is no duplication of efforts when it comes to linking and PageRank, which does have a benefit when compared to using separate mobile URLs.
+Here is the video:
+
+For more on mobile SEO topics, see the stories below:
+
+Google Finally Takes A Clear Stance On Mobile SEO Practices
+The Definitive Guide To Technical Mobile SEO
+Google: In Future, Pages With Bad Mobile SEO Won’t Rank As Well In Mobile Search
+The Challenge Of Getting Mobile SEO Right When Google Is Inconsistent
+Google’s New Mobile Guidelines Focus On Delivering Content In Less Than A Second
+Does Google’s Mobile SEO Preference Change Mobile SEO Best Practices?
+SEO Considerations For Google Mobile Search In 2012
+
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

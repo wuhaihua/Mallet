@@ -1,0 +1,13 @@
+Apple offers up new details in iCloud investigation over celebrity account hacks Apple offers up new details in iCloud investigation over celebrity account hacks 
+
+As part of the ongoing investigation surrounding the massive theft of photo data from celebrities, Apple has now issued a statement, which offers up their findings on whether or not iCloud was directly affected.
+
+
+
+
+  We wanted to provide an update to our investigation into the theft of photos of certain celebrities. When we learned of the theft, we were outraged and immediately mobilized Apple's engineers to discover the source. Our customers' privacy and security are of utmost importance to us. After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet. None of the cases we have investigated has resulted from any breach in any of Apple's systems including iCloud® or Find my iPhone. We are continuing to work with law enforcement to help identify the criminals involved.
+  
+  To protect against this type of attack, we advise all users to always use a strong password and enable two-step verification. Both of these are addressed on our website at http://support.apple.com/kb/ht4232.
+
+
+The statement makes note it was a 'a very targeted attack on user names, passwords and security questions' but Apple has concluded none of the cases they investigated were a direct result of an iCloud or Find my iPhone security breach.

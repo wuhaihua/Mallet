@@ -1,0 +1,16 @@
+NASA Developing Drone Air-Traffic Control System NASA Developing Drone Air-Traffic Control System NASA is reportedly developing an air-traffic control system specifically for drones like the ones being tested by Google and Amazon.
+The US space agency is working on the programme in response to growing interest in drones for a variety of uses, including deliveries, but also agriculture and security monitoring, according to a Monday report in The New York Times.
+
+Automated system
+The programme is being developed at NASA&#8217;s Moffett Field, near Googe&#8217;s Mountain View, California headquarters, and will be fully automated, according to the report.
+Designed specifically for devices flying around 500 feet to the ground or less, it would monitor weather and air traffic conditions, keeping track of wind patterns that could affect lightweight drones.
+The system would also ensure drones keep clear of buildings, helicopters and other objects, also enforcing no-fly zones around areas such as major airports.
+“When you have a number of them in operation in the same airspace, there is no infrastructure to support it,” Parimal H. Kopardekar, a NASA principal investigator who is developing and managing the program, told the Times.
+Kopardekar said he sees commercial drones initially being used in agriculture and security monitoring. They could be used to make deliveries in remote areas such as rural Australia within five years, he said.
+Google Wing
+Google said last week it is developing its own fleet of airborne drones, in a scheme it calls ‘Project Wing’. The idea is to develop a drone capable of home deliveries, similar to the way in which Amazon is looking to utilise drone technology.
+Domino&#8217;s Pizza has also been associated with drone delivery, but the company told the Times it is not seriously considering using the machines for the time being.
+“Given the fact that these things have spinning blades, could be stolen, shot at or batted like piñatas, we didn’t think the idea would ‘fly’ here in the US,” a spokesman said.
+In June, the US’ aviation regulator, the FAA, underscored the currently ambiguous legal status of commercial drones in a consultation document that reiterated its position that only hobbyist use of the unmanned devices is currently permitted.
+In an overt reference to Amazon’s Prime Air delivery scheme, the document stated that “delivering packages to people for a fee” is not covered by the exemption that applies to hobbyist drones.
+Are you a Google expert? Take our quiz!

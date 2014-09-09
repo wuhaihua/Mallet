@@ -1,0 +1,15 @@
+Google strengthens Android Wear as Apple iWatch launch draws near Google strengthens Android Wear as Apple iWatch launch draws near 
+				Google's vision for a smartwatch shown on a device render for the Moto 360
+			
+									
+								We are less than a week away from the much anticipated Apple event, where the iWatch and the next iPhone are expected to be unveiled. As always, hopes are set high with rumours of the smartwatch carrying next generation NFC support, allowing motion and solar charging and the addition of health-based components for checking hydration levels and blood pressure are taking rounds all over the web.
+&nbsp;
+The rumours themselves have set the bar very, very high for wearables and chances are that the iWatch may turn smartwatches into the next big commodity, but what does this mean for Android that forayed into the wearable market long before Apple? Google certainly does not want to lag behind Apple in the smartwatch game. And with new updates up its sleeve, looks like it&#8217;s all set to arm against Apple&#8217;s iWatch with a strong game-plan.
+&nbsp;
+In an interview with CNET, Director of Engineering for Android Wear David Singleton and Vice President of Engineering for Android Hiroshi Lockheimer said that Google will release an update to make Android wear devices work with other devices typically worn on your body. For example, it will allow you to pair a Bluetooth headset with your watch or play music stored on your watch directly on your Bluetooth headset. Familiar with the way Apple works, it&#8217;s almost given that the upcoming iWatch will include pairing with Apple-exclusive devices. So it makes perfect sense for Google to introduce pairing with not just smartphones but with other wearables as well.
+&nbsp;
+So what other wearables (other than smartwatches) does it talk about? According to Lockheimer, Google won&#8217;t limit itself to just smartwatches. Its range of wearables are to include watches, Glass and even smart contact lens, clothes and necklaces. Google has already kickstarted these initiatives by tying up with Novartis to create smart lenses for ocular medical uses. Similarly, Google partnered with DVF to give its Glass designer frames. Android Wear updates will makes these &#8216;smart&#8217; devices talk to to each other.
+&nbsp;
+Another interesting update includes the possibility of third party developers to introduce watch faces and make them available for download at the Google Play store. You can also expect GPS support, which do away with the need for carrying your smartphone for using Maps and other location-based apps.
+
+While it all sounds good, the rollouts will take some time before they reach existing Android Wear devices. Google&#8217;s Singleton insists that there will be several updates coming to Android Wear before the end of the year. However, one update is expected to come out this week. The latest update will improve the navigation experience and some of the voice action experience. All the updates will be distributed through the Android Wear app on your smartphone.

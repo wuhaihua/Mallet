@@ -1,0 +1,15 @@
+Android Wear will soon support GPS, Bluetooth headsets and Third-Part Watch Faces Android Wear will soon support GPS, Bluetooth headsets and Third-Part Watch Faces Android Engineering Director, David Singleton, has confirmed a few things this morning in an interview with CNet. Soon, Android Wear will officially support GPS, Bluetooth Headset pairing and third-party watch faces.
+
+We have all known that third-party watch faces would be supported with Android Wear at a later date. It was confirmed a while back when Wayne Piekarski talked a little bit about the subject via Google+. He reassured the world that the watch face API would be coming soon. At the time, they recommended that developers that had already created the custom faces hold off on publishing them to the Play Store for the time being. As for the GPS and Bluetooth Headset support, David Singleton had this to say;
+
+One of the things we&#8217;re going to be able to do is add the ability for these devices to start working with some of the other devices you might wear on your body. So we&#8217;ll have an update coming that allows you to pair a Bluetooth headset with your watch. And that means you can play music stored on your watch directly on your Bluetooth headset.
+
+
+
+
+
+Alongside that, we’re introducing GPS support for the platform. So that’s obviously only for devices that have the GPS hardware. But we’re excited about those two features together because it unlocks a whole set of new use cases… 
+If you’re someone who likes to go for a run, it might be convenient to be able to leave your phone at home. So you can start recording your track with GPS on the watch. You can throw on some music and have a really enjoyable run. And when you come back home, everything will be synced up with the apps running on your phone.
+
+Google&#8217;s Android Wear platform will be a constantly evolving arena. It will give manufacturers a variety of ways to approach the development of wearable devices and allow them to add or leave out a whole host of connection options to capture price points across the boards. There is a lot coming too, Singleton also made mention that there are multiple updates coming to the platform before the end of the year. Sadly, he didn&#8217;t offer up a time frame for which updates might offer some of the functions mentioned above.
+Source: CNet Via: 9to5Google

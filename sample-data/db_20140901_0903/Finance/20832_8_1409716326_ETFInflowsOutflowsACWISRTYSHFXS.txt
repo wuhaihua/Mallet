@@ -1,0 +1,7 @@
+ETF Inflows/Outflows:  ACWI, SRTY, SH, FXS ETF Inflows/Outflows:  ACWI, SRTY, SH, FXS Inflows Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel, the biggest inflow was seen in the iShares MSCI ACWI ETF (ACWI), which added 11.2 million units, or a 11.5% increase week over week. Among the largest underlying components of ACWI, in morning trading today Apple (AAPL) is up about 0.9%, and Exxon Mobil (XOM) is lower by about 0.9%. 
+And on a percentage change basis, the ETF with the biggest increase in inflows was the Proshares UltraPro Short Russell2000 ETF (SRTY), which added 500,000 units, for a 27.0% increase in outstanding units.
+	
+								 
+Outflows Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the Proshares Short S&amp;P500 ETF (SH), where 2.1 million units were destroyed, or a 2.9% decrease week over week. 
+And on a percentage change basis, the ETF with the biggest outflow was the Swedish Krona Trust (FXS), which lost 50,000 of its units, representing a 16.7% decline in outstanding units compared to the week prior.
+								

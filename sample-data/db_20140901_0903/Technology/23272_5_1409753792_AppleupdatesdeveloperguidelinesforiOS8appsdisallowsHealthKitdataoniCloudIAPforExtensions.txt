@@ -1,0 +1,24 @@
+Apple updates developer guidelines for iOS 8 apps, disallows HealthKit data on iCloud, IAP for Extensions Apple updates developer guidelines for iOS 8 apps, disallows HealthKit data on iCloud, IAP for Extensions 
+
+To help developers get through the iOS 8 app approval process, and to help protect customers from any misuse, accidental or intentional, Apple has updated their App Store Review Guidelines to cover  Extensions, HealthKit, HomeKit, Test Flight, and more. The update includes a restriction against storing HealthKit data on iCloud, sharing HealthKit data with third parties without consent, charging for extensions via in-app purchase, and collecting custom keyboard data for anything other than improving the keyboard.
+
+On HealthKit specifically:
+
+
+  27.1 Apps using the HealthKit framework must comply with applicable law for each Territory in which the App is made available, as well as Sections 3.3.28 and 3.39 of the iOS Developer Program License Agreement
+  27.2 Apps that write false or inaccurate data into HealthKit will be rejected
+  27.3 Apps using the HealthKit framework that store users' health information in iCloud will be rejected
+  27.4 Apps may not use user data gathered from the HealthKit API for advertising or other use-based data mining purposes other than improving health, medical, and fitness management, or for the purpose of medical research
+  27.5 Apps that share user data acquired via the HealthKit API with third parties without user consent will be rejected
+  27.6 Apps using the HealthKit framework must indicate integration with the Health app in their marketing text and must clearly identify the HealthKit functionality in the app's user interface
+  27.7 Apps using the HealthKit framework must provide a privacy policy or they will be rejected
+  27.8 Apps that provide diagnoses, treatment advice, or control hardware designed to diagnose or treat medical conditions that do not provide written regulatory approval upon request will be rejected
+
+
+Some of the restrictions, like preventing HealthKit data from being stored on iCloud, will help prevent fear, uncertainly, and doubt (FUD) from spreading over things like the security and privacy. Others will no doubt rankle developers who, perhaps, hoped to charge for extensions to help cover the work required to implement them.
+
+Developers are expected to be able to start uploading iOS 8 apps to the App Store sometime after Apple's September 9 event when the gold master build is expected to be released. iOS 8 apps will become available on or around September 17, when iOS 8 is expected to go live for everyone.
+
+Whether you're a developer or a customer, check out the newly updated guidelines and let me know what you think.
+
+Source App Store Review Guidelines

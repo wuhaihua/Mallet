@@ -1,0 +1,84 @@
+From 10 Blue Links To Entity SERPs: Is Your Website Ready? From 10 Blue Links To Entity SERPs: Is Your Website Ready? 
+								
+							
+							
+							Search is changing and along with it the landscape of search results. SERPs are more adaptive, more engaging, more informative, more interactive and more personalized.
+The adoption of Semantic Search- and Semantic Web-related enhanced displays in SERPs initially appeared via Yahoo and its SearchMonkey results. This was in due course followed by Google&#8217;s Rich Snippets and further compounded by their Knowledge Graph initiative and its associated altered displays in SERPs.
+&nbsp;
+Digital Data Consumed and Processed
+Today&#8217;s Searchers are now very familiar with the &#8220;Knowledge panel&#8221; and aggregated results in Google&#8217;s Knowledge Carousels. At the time of this writing, the impact of Google&#8217;s most recent announcement is that we may now see Knowledge Graph information moving into the portion of the screen space previously reserved for organic results.
+As Google extends and enhances its capabilities, there are some basic and essential steps you can take to ensure your website can leverage this transition. In effect, it comes down to how to supply the search engines with the proper signals that will enable to them best present your content to your target audience.
+Before describing how to leverage Semantic SERPs, it is probably best to proceed with defining them.
+Understanding Semantic SERPs
+Semantic Search techniques are leveraged by the Search Engines in many stages of the search process. There has been a lot of discussion about how Semantic Search is leveraged to better understand user intent, or transform a query or extract information from a page, but less has been discussed about how semantic search is utilized in other stages of the search process. In this article, I am going to focus on the final stage, in other words, how the semantic results are retrieved (as entities, concepts or objects &#8212; however you prefer to think of them) and subsequently displayed to the user.
+Semantic Search in many respects is considered synonymous with Entity Search. Entity search is simply the process of searching over a graph of entities (and, of course, getting entity results in return).
+In programming vernacular, you can think of it as objects. Different objects have different properties and different actions (or methods or procedures) that can be associated with them, depending on whether the object is, say, a product, place, person, recipe, thing and so on. Given we now have these objects as results, the presentation of these results to the user is thus adaptable and better yet, actionable.  (For example, with an object/entity of type product returned as a result of a search query, an associated action/method/procedure may be to purchase the returned product).
+Enhanced Displays in SERPs are based on the type of entity/object returned. Images, reviews, prices, etc., contain properties dependent on the type of entity/object returned. Not only can the content in these objects/entities be used to allow the objects returned to attractively display themselves (as Rich Snippets) in order to improve the user experience, but they can also contain a call-to-action. The call-to-action for an event might be to purchase a ticket for that event. This is also clearly an ideal mechanism for facilitating adaptively-displayed results for different device types and so on.
+Along with the shift to a Semantic Search Paradigm, a key transition has taken place. Searches are now frequently conducted as searching over data (i.e., in Google&#8217;s case, the internally curated Knowledge Graph) either in place of, or in conjunction with, searching over documents (in this case, the documents referred to are typically web pages).
+Searching Over Data
+Searching over data will typically generate direct answers to a query &#8212; or, if more than one answer is returned a list of results of the same type. The latter lends itself very well to a carousel type of display. Searching over data typically equates to dealing with the Knowledge Graph (if we are referring to Google specifically).
+Searching Over Documents
+Searching over documents (web pages) tends to result in the display of those documents. In Google, this could mean Rich Snippets are  displayed as those results in SERPS. Rich Snippets are enhanced displays of web page results formed by directly extracting embedded metadata from a web page. (Yahoo initially leveraged them in Search Monkey and Bing with their Bing Tiles.)
+The key thing to bear in mind (from an SEO point-of-view) is that you must at least have a minimum amount of structured data included in your webpage in order to potentially enable the display of a Rich Snippet.
+The Changing Landscape Of Semantic SERPs
+As Search has shifted more and more in the direction of Semantic Search, SERPs have moved towards increasingly rich displays. In the past, I have referred to these as &#8220;Entity SERPs.&#8221; However, as they are directly related to Semantic Search, and the increasing use of rich and engaging displays has been coupled with the adoption of Semantic Search, a better term to describe them may well be Semantic SERPs. (As compared to dull, static, boring blue links that you cannot do very much with).
+Google and the other major search engines are constantly enriching their SERP displays, making them more informative, engaging, attractive and interactive.
+If you think of the computer as a blank canvas being taught the notion of concepts (say in schema.org or the Knowledge Graph), it can only deal with the concepts and information it is given. The more information it gets from verified, structured sources, the greater the trust it will have in that information.
+Evolving Landscape Of Semantic SERPS
+Rich Snippets Are Getting Even Richer
+Rich snippets display far more information and types of information than when initially released. In addition, the information that is displayed is evolving over time. It is now a well known fact that these have a significant effect on click-through rate.
+It is critical to understand that Entities must have sufficient information to be represented as a complete entity result. Don&#8217;t just mark up enough information for the current &#8220;snippets&#8221; you see displayed. Make sure your markup is as detailed as possible, using as many schema.org fields as are applicable. Make sure your data is consistent and accurate. As an example, consider the case of product SERPs: make sure items are in stock if you say they are, make sure the landing pages have links that are not stale.
+In all cases, make sure that on-page markup is readable by a machine and that the information displayed to a human is identical. In addition, ensure any information you submit in any kind of data feed or via an API matches and is synchronized with all other data you serve up to both the search engines and users alike.
+Not only are the displays from Rich Snippets getting richer, they are also constantly in flux. Being aware of this and supplying as much information as possible on a webpage in the form of structured markup provides you with an innate advantage.
+Rich Snippets are Getting Richer (Occupy more Screen Real Estate and are in Flux)
+Direct Answers Are Proliferating
+Direct answers have been significantly increasing in Semantic SERPs, Google Now and in SERPs in general. They are a direct consequence of &#8220;searching over data.&#8221; The SEO/SEM community has long noted that answers resulting from a search in Google compete with organic traffic (or clicks through) to your site.
+This may indeed be so. Why would a user click through to a site when the information they were seeking appears directly in the SERP?
+In some cases, from a business owner&#8217;s perspective, the call-to-action is still occurring. This is perhaps more the case in something like informational search (where a phone call may result from a direct answer to a query) than in so-called dictionary lookups, where facts are just aggregated from multiple verified sources.
+Proliferation of Answers in SERPS
+Grouping Similar Items Or Aggregating Search Results Is A Clear Trend
+Aggregated search results, where the entities are of the same type, are ideal for carousel displays. Searches like [San Diego Universities], [restaurants in Atlanta] or [events in Chicago] are examples which yield a carousel type display format in Google SERPs.
+The carousel is being leveraged more and more, with sorting options available depending on the type of item being displayed (such as date for events or ratings for restaurants). Further illustrating the utility of carousels, Google announced on Tuesday that it is now showing a date selector in hotel carousels.
+In the example below, the Knowledge Carousel is shown in SERPs by Google depicting a list of results for &#8220;things to do&#8221; (which maps to an object of type &#8220;tourist attraction&#8221;) in the Knowledge Graph. A different carousel is illustrated when querying for &#8220;Events in San Diego.&#8221; These events differ in that they are more temporal in nature (as opposed to tourist attractions), and have a start (and presumably an end) time and date specified.
+Knowledge Carousel Depicting Events and Things To Do
+The Knowledge Graph Is Now Invading Organic SERP Space
+Until recently, the Knowledge Graph results were served up in Google in the upper portion of the screen and along the right hand side of the screen as a &#8220;panel.&#8221; As mentioned earlier, Google made the announcement last week that it would be including some Knowledge Graph information in organic SERPs. (You can read more about it here.)
+The impact of this is clearly illustrated in the screenshot below, depicting an organic SERP listing for the Nikon Coolpix camera. You can clearly see the encroachment of Knowledge Graph results into the previously webpage-only SERPs area. 
+Knowledge Graph Results Encroaching on Organic SERP SPACE
+It even appears at times that Rich Snippet information is minimized or not displayed in favor of showing a Knowledge Graph snippet. The example below depicts a recipe search for [peanut butter eyeballs]. After the update by Google last week, the ingredients no longer appear as a rich snippet, but the enhanced Knowledge Graph results are appearing in their stead.
+Click to enlarge.
+It is critical to mark up as much information as possible using structured data markup from schema.org. The search engines can elect to display what they prefer, but marking up as many attributes as possible will position you well for any future changes.
+Summary
+With the evolution of the search engines in the direction of semantic search, SERPs have correspondingly evolved. Optimizing for SERPs means taking into account the Knowledge Graph as well as semantic markup.
+Semantic markup and Knowledge Graph optimization are just a couple aspects of optimizing webpages for display in Google, and these do not preclude typical best practices. Best practices and standards such as engaging content, a positive user experience or optimizing for user intent still have to be adhered to.
+Key Takeaways
+1. Make sure to keep Googlebot happy &#8212; feed it the data it needs in the formats it needs and ensure your information is machine-readable and consistent across all sources.
+2. Make sure your on page markup matches what your user sees and also is synchronized with any data feeds you submit.
+3. Mark up as much data as possible using schema.org, even those attributes not currently supported. This way, you can position yourself to take advantage of changes and fluctuations in Semantic SERPs.
+4. Remember, search is adaptive and interactive; design for a seamless user experience that flows with SERPs presented by the search engines.
+5. Knowledge Graph Optimization is more than likely here to stay, so make sure you are prepared to deal with it.
+Resources:
+
+AJ Kohn&#8217;s blog post on KGO: https://plus.google.com/+AJKohn/posts/RErEsmJUGX3
+
+
+Aaron Bradley&#8217;s Google Community group on Semantic Search Marketing: https://plus.google.com/communities/103048251221048356778
+
+
+David Amerland&#8217;s book on Semantic Search: http://davidamerland.com/google-semantic-search.html
+
+
+SWOOGLE: http://swoogle.umbc.edu/ (Semantic Web Search Engine)
+
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

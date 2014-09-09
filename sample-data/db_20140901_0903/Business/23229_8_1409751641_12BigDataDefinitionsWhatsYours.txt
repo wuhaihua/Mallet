@@ -1,0 +1,55 @@
+12 Big Data Definitions: What's Yours? 12 Big Data Definitions: What's Yours? Yesterday I got an email from UC Berkeley’s Master of Information and Data Science program, asking me to respond to a survey of data science thought leaders, asking the question “What is big data”? I was especially delighted to be regarded as a “thought leader” by Berkeley’s School of Information, whose previous dean, Hal Varian (now chief economist at Google), answered my challenge fourteen years ago and produced the first study to estimate the amount of new information created in the world annually, a study I consider to be a major milestone in the evolution of our understanding of big data. 
+&nbsp;
+	
+								 
+The Berkeley researchers estimated that the world had produced about 1.5 billion gigabytes of information in 1999 and in a 2003 replication of the study found out that amount to have doubled in 3 years. Data was already getting bigger and bigger and around that time, in 2001, industry analyst Doug Laney described the “3Vs”—volume, variety, and velocity—as the key “data management challenges” for enterprises, the same “3Vs” that have been used in the last four years by just about anyone attempting to define or describe big data. 
+
+ 
+ Source: Wikimedia Commons
+								
+										
+ 
+&nbsp; 
+The first documented use of the term “big data” appeared in a 1997 paper by scientists at NASA, describing the problem they had with visualization (i.e. computer graphics) which “provides an interesting challenge for computer systems: data sets are generally quite large, taxing the capacities of main memory, local disk, and even remote disk. We call this the problem of big data. When data sets do not fit in main memory (in core), or when they do not fit even on local disk, the most common solution is to acquire more resources.” 
+&nbsp; 
+In 2008, a number of prominent American computer scientists popularized the term, predicting that “big-data computing” will “transform the activities of companies, scientific researchers, medical practitioners, and our nation’s defense and intelligence operations.” The term “big-data computing,” however, is never defined in the paper.
+										
+										 
+&nbsp; 
+The traditional database of authoritative definitions is, of course, the Oxford English Dictionary (OED).&nbsp; Here’s how the OED defines big data: (definition #1) “data of a very large size, typically to the extent that its manipulation and management present significant logistical challenges.” 
+&nbsp; 
+But this is 2014 and maybe the first place to look for definitions should be Wikipedia. Indeed, it looks like the OED followed its lead. Wikipedia defines big data (and it did it before the OED) as (#2) “an all-encompassing term for any collection of data sets so large and complex that it becomes difficult to process using on-hand data management tools or traditional data processing applications.” 
+&nbsp; 
+While a variation of this definition is what is used by most commentators on big data, its similarity to the 1997 definition by the NASA researchers reveals its weakness. “Large” and “traditional” are relative and ambiguous (and potentially self-serving for IT vendors selling either “more resources” of the “traditional” variety or new, non-“traditional” technologies). 
+&nbsp; 
+The widely-quoted 2011 big data study by McKinsey highlighted that definitional challenge. Defining big data as (#3) “datasets whose size is beyond the ability of typical database software tools to capture, store, manage, and analyze,” the McKinsey researchers acknowledged that “this definition is intentionally subjective and incorporates a moving definition of how big a dataset needs to be in order to be considered big data.” As a result, all the quantitative insights of the study, including the updating of the UC Berkeley numbers by estimating how much new data is stored by enterprises and consumers annually, relate to digital data, rather than just big data, e.g., no attempt was made to estimate how much of the data (or “datasets”) enterprises store is big data. 
+&nbsp; 
+Another prominent source on big data is Viktor Mayer-Sch&ouml;nberger and Kenneth Cukier’s book on the subject. Noting that “there is no rigorous definition of big data,” they offer one that points to what can be done with the data and why its size matters: 
+&nbsp; 
+(#4) “The ability of society to harness information in novel ways to produce useful insights or goods and services of significant value” and “…things one can do at a large scale that cannot be done at a smaller one, to extract new insights or create new forms of value.” 
+&nbsp; 
+In Big Data@Work, Tom Davenport concludes that because of “the problems with the definition” of big data, “I (and other experts I have consulted) predict a relatively short life span for this unfortunate term.” Still, Davenport offers this definition: 
+&nbsp; 
+(#5) “The broad range of new and massive data types that have appeared over the last decade or so.” 
+&nbsp; 
+Let me offer a few other possible definitions: 
+&nbsp; 
+(#6) The new tools helping us find relevant data and analyze its implications. 
+&nbsp; 
+(#7) The convergence of enterprise and consumer IT. 
+  (#8) The shift (for enterprises) from processing internal data to mining external data. 
+&nbsp; 
+(#9) The shift (for individuals) from consuming data to creating data. 
+&nbsp; 
+(#10) The merger of Madame Olympe Maxime and Lieutenant Commander Data. 
+&nbsp; 
+#(11) The belief that the more data you have the more insights and answers will rise automatically from the pool of ones and zeros. 
+&nbsp; 
+#(12) A new attitude by businesses, non-profits, government agencies, and individuals that combining data from multiple sources could lead to better decisions. 
+&nbsp; 
+I like the last two. #11 is a warning against blindly collecting more data for the sake of collecting more data (see NSA). #12 is an acknowledgment that storing data in “data silos” has been the key obstacle to getting the data to work for us, to improve our work and lives. It’s all about attitude, not technologies or quantities. 
+&nbsp; 
+What’s your definition of big data? 
+&nbsp; 
+Follow me on&nbsp;Twitter @GilPress&nbsp;or&nbsp;Facebook&nbsp;or&nbsp;Google+&nbsp; 
+&nbsp;

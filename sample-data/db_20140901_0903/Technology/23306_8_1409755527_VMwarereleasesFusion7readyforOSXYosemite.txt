@@ -1,0 +1,21 @@
+VMware releases Fusion 7, ready for OS X Yosemite VMware releases Fusion 7, ready for OS X Yosemite 
+
+The signs of fall are beginning to appear: The evenings are a little cooler; leaves are beginning to turn; bulky people are tossing leather spheroids through the air; and VMWare and Parallels are releasing new versions of their Mac virtualization apps.
+
+
+Every year around now, the two companies come out with updates to VMware Fusion and Parallels Desktop, both of which do pretty much the same thing: Enable you to run Windows (or other desktop operating systems, including older versions of OS X itself) on your Mac.
+
+
+We’ve already seen the advent of Parallels Desktop 10 a couple of weeks ago. And now VMware has released Fusion 7.
+
+
+The only trick to these annual releases is that each year there’s less and less new stuff for the two programs to do. (We'll be doing our annual shoot-out between the two soon.) This year, the marquee features in VMware Fusion 7 are all about compatibility with OS X Yosemite (which primarily means cosmetic things like streamlined toolbars and more translucency).
+
+
+The new Fusion also boasts improved compatibility with some hardware features found in the latest Macs, including the ability to tap into up to 2GB of video memory and optimization for the latest Haswell chips from Intel. (The company also says the software will be ready for Intel's next generation Broadwell chips, when those hit the Mac.) VMware says the new version is 11 percent faster in multimedia tests overall, with even better performance in some specific tasks (such as video encoding). At the same time, the software is supposedly more energy efficient, and it wakes up faster from an idle state. .
+
+
+Meanwhile, the Pro version of Fusion 7 can run a greater range of operating systems (more than 200, says VMware) and supports iSight cameras in virtual machines. It can also connect to the company's vSphere servers, which run virtualized operating systems remotely.
+
+
+VMware Fusion 7 and VMware Fusion 7 Pro are available today for $70 and $150 respectively. If you’re running Fusion 5 or 6 now, it’ll cost you $80 to upgrade (unless you purchased version 6 after August 1 of this year, in which case the upgrade is free).

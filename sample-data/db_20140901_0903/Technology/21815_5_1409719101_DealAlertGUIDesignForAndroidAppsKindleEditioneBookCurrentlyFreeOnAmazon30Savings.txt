@@ -1,0 +1,19 @@
+[Deal Alert] 'GUI Design For Android Apps' Kindle Edition eBook Currently Free On Amazon ($30 Savings) [Deal Alert] 'GUI Design For Android Apps' Kindle Edition eBook Currently Free On Amazon ($30 Savings) 
+
+
+In addition to the exhilaratingly named "Android Application Development for the Intel Platform" book that we pointed our eyes&nbsp;toward&nbsp;yesterday, the equally catchy&nbsp;"GUI Design for Android Apps" is also available on Amazon right this moment for the low, low price of . The book generally goes for $29.99, but now it's being&nbsp;offered&nbsp;for less than a cent to anyone who's willing to consume it on some sort of device. The paperback version is still going for $26.99.
+
+"GUI Design for Android Apps"&nbsp;comes to us from authors Ryan Cohen and Tao Wang. The book is aimed at mobile app developers and designers and contains tutorials, code samples, and other useful goodies that assist with the whole learning process.
+
+What you&rsquo;ll learn:
+Key aspects of why UI and UX design for embedded systems is different than for desktops
+Troubleshooting UI design issues
+Understanding how key concepts such as state transition, context class, and intent work
+How to use the interface app design tools provided by Android
+Planning for complex apps (apps with multiple activities)
+Optimizing app design for touch screen input
+ Who this book is for:
+The book is primarily for app developers, software engineers and open-source programming enthusiasts, but can also be used by for training programs and Codeacademy-style programs.
+
+Grab your copy at the link below.
+"GUI Design for Android Apps" Kindle Edition eBook on Amazon

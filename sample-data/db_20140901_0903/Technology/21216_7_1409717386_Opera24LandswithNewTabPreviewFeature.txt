@@ -1,0 +1,9 @@
+Opera 24 Lands with New Tab Preview Feature Opera 24 Lands with New Tab Preview Feature A new version of Opera’s browser for Mac, Windows and Linux has landed with a useful tab preview feature. This lets users see a large preview of a webpage by hovering the mouse over a tab, in the form of the most recent snapshot of the site.
+Opera 24 also comes with user interface improvements — Windows users with very dense displays can now get a sharper-looking UI (instead of the display being scaled), which the company says is “similar to what Opera for Mac users get on Retina screens.”
+
+In line with the release of Opera 24, the company says its desktop browser now offers over 1,000 extensions. After making a move to the Chromium engine last year to help improve site compatibility, Opera had to rebuild its extensions ecosystem from scratch.
+“With the help of a conversion tool, detailed tutorials and extensive developer outreach, Opera has managed to get its worldwide community of developers to fill its extension catalog for the Chromium-based Opera browser,” the company said.
+➤ Opera
+Thumbnail image via Andreas/Flickr
+							
+							

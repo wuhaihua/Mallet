@@ -1,0 +1,23 @@
+StorageStatus review: Be a little smarter about how you use your storage StorageStatus review: Be a little smarter about how you use your storage 
+					
+ 
+
+StorageStatus
+
+Connected drives are the lifeblood of my workflow. No matter how much internal storage I have in my machine, I still keep an arsenal of external drives around for backups, music, videos, and anything else I don’t want bogging down my day-to-day.
+
+Once they’re plugged in, though, I tend to forget about them, to the point where I often pull them out without properly ejecting. StorageStatus’ (Mac App Store link) active menu bar icon didn’t just alleviate my absent-mindedness, it taught me to identify each drive’s cycles so to better maximize efficiency.
+
+StorageStatus’ strength is in its simplicity. Any drive installed or connected to your machine is instantly recognized and appears in your menu bar as a set of classic window control buttons. When any of them change state (which happens far more often than I would have thought), the appropriate icon will change color, letting you quickly identify whether a drive is active (green), idle (yellow) or sleeping (red).
+
+Once you get used to StorageStatus’ graphic display, you can customize which drives are tracked and how often notifications appear, and activity can be logged to the Console app for further investigation. It handled every USB and Thunderbolt drive I plugged in without a hitch, but it failed to recognize a network drive that was plugged into my Airport Extreme Base Station.
+
+
+
+But StorageStatus’ smarts aren’t limited to its alert system. Tap the menu bar icon and you’ll get an array of information, including the time since a drive's last sleep and its idle threshold. I had previously experienced issues with some external SSD drives losing their connection before waking, and knowing when they were scheduled to enter sleep helped me avoid any dangerous disconnections. It’s been running on my machine ever since and I’ve yet to receive a single “Disk Not Ejected Properly” alert.
+
+
+
+This review is part of Macworld’s GemFest 2014. Every weekday from July until September, the Macworld staff will use the Mac Gems blog to briefly cover a standout free, low-cost, or great-value program. You can view a list of this year’s apps, updated daily, on our handy GemFest chart, and you can visit the Mac Gems homepage for past Mac Gems reviews.
+
+Want to stay up to date with the latest Gems? You can follow Mac Gems on Twitter or on App.net. You can also subscribe to the Mac Gems RSS feed.

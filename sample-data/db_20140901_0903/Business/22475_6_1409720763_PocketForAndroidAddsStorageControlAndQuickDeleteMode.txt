@@ -1,0 +1,5 @@
+Pocket For Android Adds Storage Control And Quick-Delete Mode Pocket For Android Adds Storage Control And Quick-Delete Mode 
+Android: Pocket for Android has been updated with some handy new features. It now inclues the ability to set your offline storage limits, a new quick delete mode and improved Evernote integration.
+
+You can now set up offline storage limits so Pocket doesn&#8217;t accidentally take up too much space on your device. Just head into the Settings, select &#8220;Set offline storage limits&#8221; and you can set up how much space Pocket&#8217;s allowed to have. As far as the quick deletion is concerned, you can now quickly delete anything with a swipe, but there&#8217;s a new undo button in case you didn&#8217;t mean to delete it. Evernote formatting is also cleaned up so you the article sent to Evernote better resembles Pocket&#8217;s Article View with formatting preserved. You can grab the update from Google Play right now.
+Pocket (free) [Google Play]

@@ -1,0 +1,18 @@
+Estar: An app that helps you choose battery-efficient apps Estar: An app that helps you choose battery-efficient apps 
+				Estar: An app that helps you choose battery-efficient apps
+			
+								Are you frustrated by the limited battery life of your smartphone? Battery-hogging apps can now be shown the door after as a US professor created a free app called Estar, which tells you how much battery your apps consume.
+&nbsp;
+Estar offers two energy efficient alternatives &#8211; the first by searching for energy-efficient apps in Google Play.
+&nbsp;
+It displays a colour-coded, five-star energy rating for each app that shows how fast an app will drain the phone battery relative to other apps in the same category.
+&nbsp;
+&#8220;Users can then use this information to make decisions on which apps they choose to download,&#8221; Y. Charlie Hu from Purdue University&#8217;s school of electrical and computer engineering was quoted as saying.
+&nbsp;
+The second option is to report on the energy drain of apps already downloaded and running on the user&#8217;s phone.
+&nbsp;
+&#8220;It identifies and warns the user which apps are draining an excessive amount of battery. The user can then take action such as stopping or removing the app to extend battery life,&#8221; Hu told the website Jconline.com.
+&nbsp;
+Estar is available for free on Google Play.
+
+IANS

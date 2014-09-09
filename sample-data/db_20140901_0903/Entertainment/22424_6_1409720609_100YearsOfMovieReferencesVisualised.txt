@@ -1,0 +1,4 @@
+100 Years Of Movie References Visualised 100 Years Of Movie References Visualised Ever wondered if Star Wars and Orgazmo were linked? Or whether E.T. and Dogma were connected? Well ponder no longer, because that&#8217;s exactly what Culturegraphy does
+
+Developed by Kim Albrecht, the interactive visualisation brings to life over 100 years of complex relationships between movie references. Each movie is represented by a point, and connecting lines show where a relationship exists (the gradient runs blue from the influencer to red at the influenced).
+At first these things look super simple, but explore the interactive visualizations and you&#8217;ll realise that there&#8217;s a lot to find out. The video, above, goes a long way in showing how much information is packed in. Take a watch, and the go explore the full visualisation. [Culturegraphy]

@@ -1,0 +1,33 @@
+Solar Weekly Recap: Earnings Misses, New Deals Solar Weekly Recap: Earnings Misses, New Deals The solar industry had a mixed week with tier-1 Chinese manufacturers such as Trina Solar and Yingli Green Energy missed expectations on their Q2 earnings, while U.S. based players such as First Solar and SunPower reported new deals and progress in international markets. Here’s a quick roundup of the news that mattered for the solar companies that we cover. 
+Yingli Green Energy: Earnings Miss and Shipment Guidance Cuts
+	
+								 
+Yingli Green Energy, China’s largest solar panel manufacturer, reported a weak set of Q2 2014 earnings on August 2014, missing consensus estimates on revenues and posting a larger than expected loss, owing to lower prices and higher marketing costs. The company also cut its shipments guidance for 2014 to between 3.6 GW and 3.8 GW, which marks a 400 MW decline from its previous guidance. The shipment cuts are largely because the company intends to scale down on the use of costly third-party OEMs for panel manufacturing. This is because a larger portion of the demand for the back half of this year is expected to come from China, where ASPs are meaningfully lower than the global average and the company does not expect to realize attractive markups on the OEM sourced products. The move to curtail OEM supply should help improve the company’s margins at the expense of volumes. On the manufacturing cost front, the company was able to reduce per-watt silicon and non-silicon costs by around $0.03 to around $0.49. Interestingly, the company was also able to bring down the polysilicon component of costs by roughly $0.01, which is quite surprising, since broader industry trends and reports from other Chinese players indicate that polysilicon prices have actually been rising.  
+ 
+ Trefis has a $3.50 price estimate for Yingli, translating into a $635 million market cap. This is slightly ahead of the current market price of around $3.33. 
+ We estimate the company’s FY 2014 loss per share at around $0.42, compared to a consensus of about $0.49 according to Reuters. 
+ 
+Trina Solar: Plans to Build Manufacturing Capacity Overseas To Circumvent Tariffs
+								
+										 
+Trina Solar reported its Q2 2014 earnings on August 26. The company’s quarterly revenues grew by around 16.7% sequentially to $519 million driven by significantly higher panel shipments, although net income fell by around 60% sequentially to $10.7 million due to slightly higher polysilicon costs and a higher shipment mix to China. In July, the United States closed a loophole that allowed Chinese solar companies to circumvent previously imposed duties on their solar panels by moving cell manufacturing to Taiwan. Trina Solar now faces duties of around 23% on its products in the U.S., which is lower than the industry average of over 30%. Given that the U.S is one of its largest markets (accounting for about 38% of shipments for Q2), Trina has been looking for ways to work around the duties and improve its cost competitiveness. For instance, the company noted that it is looking for new locations for manufacturing overseas so that it can support growth in the U.S. market. 
+ 
+ Trefis has a $14.50 price estimate for Trina Solar, translating into a $1.20 billion market cap. The current market price stands at around $12.50. 
+ We estimate the company’s FY 2014 EPS at around $0.83, compared to a consensus estimate of around $0.95 according to Reuters. 
+ 
+First Solar: Japanese Projects 
+First Solar, the largest U.S. solar company, says that it is currently developing as much as 250 MW of solar projects in Japan.&nbsp;According to Bloomberg, the company intends to develop projects, make investments in utility-scale solar projects, and also carry out operation and management of its projects over the long term. Japan became a booming solar market following the Fukushima nuclear disaster, which moved the government to reassess its reliance on nuclear energy and brought about greater investment in renewable energy capacity. First Solar has been making steady progress in the Japanese market. Last year, the company announced plans to invest about $100 million in developing mega scale power projects in Japan and the company also recently signed a deal XSOL – a distributor and integrator of solar systems – which should enable it to extend its footprint to more small scale projects. However, there has been an air of uncertainty in the Japanese solar market of late, as the Ministry of Economy, Trade and Industry has cut tariffs for solar power by about 20% over the last two years, in addition to imposing some time limits on installations, which could curtail solar development going forward. 
+ 
+ Trefis has a $68 price estimate for First Solar, translating into a market cap of about $6.8 billion. Our price estimate is almost in line with the current market price. 
+ We estimate the company’s FY 2014 EPS at around $3.08, compared to a consensus estimate of around $2.60 according to Reuters. 
+ 
+SunPower: Deal With Verizon 
+										
+										 
+Earlier this week, high-end solar manufacturer SunPower announced that it would design and install solar power systems for Verizon, the largest U.S. wireless carrier. While the terms of the deal were not disclosed, SunPower will install 10.2 MW of solar power at eight Verizon locations in New York, California, Maryland, Massachusetts and New Jersey.&nbsp;SunPower has emerged as one of the go-to players for commercial installations across the United States of late. Although commercial projects are not as large as utility scale projects, they provide more scope for growth. The commercial solar sector is expected to grow at around 41% this year, while utility scale installations are expected to rise at just about 32%. 
+ 
+ Trefis has a $35 price estimate for SunPower, translating into a market cap of about $4.6 billion. Our price estimate represents a 8% discount from the current market price 
+ We estimate the company’s FY 2014 EPS at around $1.35, compared to a consensus estimate of around $1.31 according to Reuters. 
+ 
+See More at Trefis | View Interactive Institutional Research (Powered by Trefis) | Get Trefis Technology 
+Like our charts? Embed them in your own posts using the Trefis WordPress Plugin.

@@ -1,0 +1,29 @@
+Microsoft begins dropping OneDrive's 2GB file size limit Microsoft begins dropping OneDrive's 2GB file size limit 
+
+Cloud storage file size limits were a sad necessity back in the days when Internet speeds were low and storage prices were high. But now that those constraints are inverting, artificial file size barriers are crumbling. Case in point: This weekend, Microsoft began slowly and quietly dropping individual file size limits for OneDrive users, following in the footsteps of Dropbox and Google Drive.
+
+
+Late in August, Microsoft group program manager Omar Shahine took to  OneDrive's uservoice forums  to address a complaint about the 2GB file size limit, saying that, "It’s not arbitrary. It’s simply an old limit that we’ve been working on removing for far too long now. The good news is that we are actively working on this."
+
+
+The promise proved true. Over the weekend, various social media reports claimed that the 2GB size ban had been lifted for their accounts. Microsoft confirmed the removal by issuing the following statement to several publications, including The Next Web:
+
+
+
+"As we mentioned on our UserVoice, we have started the work to increase the file size limit for all OneDrive accounts. We have started the process with a small number of customers and will continue to roll it out to our full customer base. We will have more to share on this update in the near future, stay tuned to the OneDrive blog."
+
+
+
+In other words, be patient if you're still seeing the 2GB file size limit. It'll be removed soon enough.
+
+
+
+Seems the 2GB limit is set per @OneDrive account. I seem to not have it now as I'm uploading a 3.6GB from a Mac pic.twitter.com/ilLkxHTnvM
+
+&amp;mdash; Bigger Than 2GB (@biggerthan2gb) August 29, 2014
+
+
+Of course, removing file size limits encourages you to fill up your cloud storage quota even faster, which in turn spurs the adoption of premium OneDrive subscriptions. But now for more good news: Earlier this year, Microsoft increased the total amount of free storage available to users—to 15GB for general accounts and 1TB for Office 365 subscribers—while also slashing the cost of premium cloud storage upgrades to meet Google Drive's dirt-cheap prices.
+
+
+Wondering what to do with all that free, non-size constrained space? Hassle-Free PC columnist Ian Paul has some suggestions.

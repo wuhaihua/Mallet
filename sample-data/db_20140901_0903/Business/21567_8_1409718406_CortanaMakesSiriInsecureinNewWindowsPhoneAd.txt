@@ -1,0 +1,7 @@
+Cortana Makes Siri Insecure in New Windows Phone Ad Cortana Makes Siri Insecure in New Windows Phone Ad Cortana, Microsoft's voice-based intelligent personal assistant, comes off as a bit of a mean girl in Microsoft's latest ad.
+The spot, like a previous one Microsoft introduced in July, contrasts Cortana with Apple's Siri, illustrating where the latter falls short. The ad starts with a simulated iPhone 5S peering into a mirror singing "I Feel Pretty" from West Side Story. An HTC One M8 for Windows interrupts overshadowing the iPhone with its bigger screen and sleek design. 
+
+"But I'm more than just a pretty face," Siri states, rather pathetically. "Me too," answers Cortana. "I can check your calendar, then traffic to help you make your mani-pedi on time."
+Point made. But does Cortana perform as advertised? Our analysis showed that Cortana is decent at anticipating a user's needs, but its assumptions can be wrong. Overall, though, we found Cortana does a better job than Siri. 
+Despite an arguably better personal assistant, Windows Phone still lags in its app selection. In August, Microsoft reported it now offered 300,000 apps versus 1.2 million for iOS.
+Have something to add to this story? Share it in the comments.

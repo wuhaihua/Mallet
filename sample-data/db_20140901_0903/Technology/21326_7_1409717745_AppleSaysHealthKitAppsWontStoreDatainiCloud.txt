@@ -1,0 +1,7 @@
+Apple Says HealthKit Apps Won't Store Data in iCloud Apple Says HealthKit Apps Won't Store Data in iCloud Apple has updated the privacy policy for its HealthKit service to make it clear to developers that their apps cannot store user information in iCloud. Just last week, it amended the policy guidelines to explain that health data should not be accessible to advertisers.
+iCloud is currently making headlines for the wrong reasons, after hackers reportedly gained access to private photos belonging to celebrities via Apple’s cloud storage service. Apple yesterday rejected claims that its system had been compromised — it says the thefts were a result of “a very targeted attack” on celebrity accounts using their usernames and passwords.
+The guidelines have also been updated to provide further clarification for app extensions, Homekit, and TestFlight.
+➤ Apple sets rules for developers using HealthKit, HomeKit, TestFlight, and Extensions ahead of iOS 8 launch [9to5mac]
+Thumbnail image via Neil Bird / Flickr
+							
+							

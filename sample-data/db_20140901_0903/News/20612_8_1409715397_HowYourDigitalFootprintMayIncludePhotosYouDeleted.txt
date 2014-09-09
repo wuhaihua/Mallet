@@ -1,0 +1,54 @@
+How Your Digital Footprint May Include Photos You Deleted How Your Digital Footprint May Include Photos You Deleted 
+Mopping up your digital footprint may be nearly impossible, but there is a way to take charge of it.
+
+                                        
+                                        
+                                    
+                                            
+                                            Getty Images
+                                        
+                            
+                        
+                        
+The naked photos purported to be of Hollywood starlets -- some said to have been taken years ago -- that were leaked in a massive breach this week have many people trying to dust off the cobwebs of their digital pasts.
+
+Even more troubling, at least one of the hacked stars, Mary E. Winstead, said she deleted the leaked photos from the cloud "long ago."
+
+After Nude Photo Hack, Should Cloud Users Be Worried?
+
+How the Cloud Really Works
+
+Hackers Post Alleged Naked Pics of Jennifer Lawrence and More
+
+"I'm sure you've cleaned out a drawer or a closet to find something that you didn't know you had or thought was gone," Robert Siciliano, a McAfee online security expert, told ABC News.
+
+"Storing data in the cloud is no different than storing data on your local drive," he said. "In the cloud it's just remotely but the folders are all the same and they all look the same and function the same way. But as our devices get more cluttered and we then create duplicates of content, then we lose track."
+
+Pressing the delete button on confidential photos and documents isn't an immediate panacea, Siciliano said. He explained that back-up services usually keep data from three to six months by default, however "after that, it's not in their interest to hold onto it."
+
+While authorities are investigating the celebrity photo hack and how it happened, here's an easy way for users of iOS5 and later to see what they're storing in their cloud -- and what they'd like to delete.
+
+Go to settings, then iCloud, Storage & Backup, then tap Manage Storage.
+
+Under Documents & Data tap the app from which you want to delete data. This will then bring up any documents associated with that app that are in iCloud. Tap edit, select the item to delete, and then choose delete or delete all.
+
+Apple says the documents are removed from your iCloud storage and all of your devices.
+
+However, a person's digital footprint extends beyond what's in their cloud.
+
+All it takes is one person to dredge up a social media post you made years ago, Betsy Sigman, a professor at Georgetown University and an information systems expert, told ABC News.
+
+"The little tweets we think are so small and innocuous -- it's so easy to send out to millions of people," she said.
+
+While deleting that embarrassing old Myspace profile or trollish tweets from years ago may seem to shrink your footprint, Sigman said that it's vital to remember that copies are likely to exist -- somewhere.
+
+"It's a very public world and you have to take precautions," she said. "Don't post anything you might find embarrassing later."
+
+Even the mundane activities you don't think about -- using a credit card to pay for coffee or swiping your ID card to get into the office -- leave digital bread crumbs that can't simply be swept away, Sigman said.
+
+"Your only option for not increasing your digital footprint is to go off the grid," she said.
+
+The takeaway, she said, is to be mindful of your privacy settings put also assume that nothing is ever truly private.
+
+"We used to live in towns with a Main Street where everything people did was seen in public," she said. "Our Main Street is now the Internet."
+

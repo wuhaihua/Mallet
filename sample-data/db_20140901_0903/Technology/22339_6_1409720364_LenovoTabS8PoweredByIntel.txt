@@ -1,0 +1,19 @@
+Lenovo Tab S8, Powered By Intel Lenovo Tab S8, Powered By Intel 
+		
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+
+The Lenovo Tab S8 is interesting for two reasons: first, it is a very attractive tablet price aggressively at $199. Secondly, it is powered by Intel, which is slowly but surely gaining some design-wins in the Android space, so it will be interesting to hear from Intel what is the global progress on that front.
+Back to the Tab S8, this is a no-nonsense tablet that has a clean and classic design, with a black glass front, metal trims on the side and a soft-paint surface in the back. It features a 1080p IPS display, which is a very nice piece of specifications for a $199 device. Since not all IPS screens are equal, and entry-level tablets like these are often challenged in terms of black levels, so I would recommend keeping an eye on that.
+As we said, there’s an Intel processor in here: the Intel Atom Z3745, which is a 22nm quad-core processor clocked at 1.33GHz (with maximum burst at 1.86GHz), 2MB of cache. Its thermal design point (TDP) is 2W. Keep in mind that frequency will depend on the specific device and its thermal design.
+With its two speakers located in the front, the Lenovo Tab S8 should be good at producing stereo sound. Front-facing speakers are the best possible setup in terms of audio-energy efficiency since the sound wave goes directly towards the user and does not depend on bouncing on surfaces that may, or may not, be there. Lenovo has also integrated Dolby technology, which typically comes in handy to compensate for low-volume media audio encoding etc. It also tends to “spatialize” the sound and give it more “body”.

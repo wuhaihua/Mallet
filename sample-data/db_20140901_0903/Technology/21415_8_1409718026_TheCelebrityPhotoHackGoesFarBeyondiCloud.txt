@@ -1,0 +1,45 @@
+The Celebrity Photo Hack Goes Far Beyond iCloud The Celebrity Photo Hack Goes Far Beyond iCloud Image: Mashable composite. Getty Creative
+
+The cache of stolen celebrity photographs, including nudes of stars Jennifer Lawrence and Kate Upton, may have only surfaced on Sunday, but evidence suggests the thefts are bigger than just iCloud and could go back years.
+That bolsters Apple's claim that the thefts are not the result of a system-wide attack on Apple's servers but instead targeted, malicious attacks on celebrities and their associates.
+
+At this point, it still isn't clear what attack vector was used in these thefts. Security experts Mashable spoke with say it's likely that a combination of various attacks took place over a long period of time.
+And although iCloud seems to be a common thread, some of the photographs stolen have metadata from Android devices. There is also some suspicion that at least one Dropbox account could be involved.
+Einar Otto Stangvik, a security expert from Norway, laid out a long list of potential attack vectors for Mashable. These include but are not limited to:
+
+iTunes phishing scams
+Compromised phones or computers
+Celebrity passwords/emails as part of a larger password dump (such as the Adobe hack)
+Mobile-phone or computer-repair individuals abusing access
+Password reset questions guess
+Brute force
+
+Stangvik says it is even likely that the various photographs were spread across vectors.
+Postings on the image boards 4Chan and AnonIB lend credence to the idea that these stolen photographs are the work of several individuals, either working in tandem or in pursuit of a common goal.
+Deadspin reports that an individual was offering up stolen nude images of celebrities including Jennifer Lawrence last week. This further bolsters claims that this cache of stolen photos comes from a private trading ring of these types of photos.
+Chester Wisniewski of Sophos Cloud Security told Mashable that the company has seen a recent spike in iTunes phishing attempts. While that happens periodically, a jump in attacks on Apple's systems lines up with the fact that many of the photos were recently taken.
+According to Stangvik, who successfully uncovered and helped jail a Norwegian politician who stole nude images of young women from iCloud, these types of trading rings are common on dark or semi-dark trading forums.
+Looking at the metadata for some of the alleged images shows a range of different devices, including:
+
+1 Droid Razr (Android)
+9 unspecified iPhone devices
+7 iPhone 4
+17 iPhone 4S
+33 iPhone 5
+12 iPhone 5S
+
+We should note that not all of the purported photos had readable metadata and that metadata itself can be changed. Still, the device ID data indicates a broad range of devices.
+Moreover, the inclusion of screenshots from Snapchat and videos seems to reject the idea that this was a hack targeting iCloud's Photo Stream feature (which does not include videos and is limited to 1000 photos).
+What appears more likely, after speaking with Stangvik and other security experts, is that iCloud passwords were used to take possession of iCloud device backups.
+The insidious world of iCloud backup rips
+Apple has allowed users the ability to backup their devices — including their full camera rolls — to iCloud since iOS 5.
+The backup is designed to be restored onto another iOS device. It's a great feature because if you lose or damage your phone, you can restore your photos and app settings from the cloud. No harm, no foul.
+The access tools that Apple provides do not allow individuals to download iCloud backup files manually. This means that if I wanted to access the 30GB worth of iCloud backups from my own iPad and iPhone accounts from the cloud, I would be out of luck.
+There is an entire underground world of so-called iOS forensic software designed to access iCloud backups remotely. These backups can then be extracted and the contents within them — including photos — can be accessed.
+All that is needed is a user's iCloud username and password. This is true even if a user has two-factor authentication enabled (as Apple recommends). That's because, as TUAW points out, iCloud's two-factor authentication is designed to protect your iTunes payment information, not your data. Only a few scenarios actually trigger the two-factor process and accessing an iCloud backup is not one of them.
+In fact, on AnonIB and other image boards, there are advertisements form users showing off the ability to download and "rip" iCloud backups. In some cases, a password isn't even required. Instead, the user will use brute-force methods to attack a backup either offline or through repeated attempts at a server.
+It stands to reason that these iCloud rips are the source of many of the files from this leak.
+This is likely just the beginning
+According to reports from the nastier corners of the Internet, Sunday's dump was just the beginning.
+And although Apple might be technically correct in that its own systems weren't breached, the fact that this type of "ripping" process is so common on the underground certainly raises questions about the overall security (or at the very least, education) of iCloud's systems.
+Have something to add to this story? Share it in the comments.

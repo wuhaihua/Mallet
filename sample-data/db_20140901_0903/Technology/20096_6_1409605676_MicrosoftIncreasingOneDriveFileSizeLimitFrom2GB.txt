@@ -1,0 +1,7 @@
+Microsoft Increasing OneDrive File Size Limit From 2GB Microsoft Increasing OneDrive File Size Limit From 2GB 
+Soon after releasing a major update for OneDrive on mobile\, Microsoft has now removed the 2GB file size limit on uploads. Microsoft made the change without saying anything first, it was spotted by a reddit user initially. However the company has now confirmed that it is indeed increasing the upload file size limit for OneDrive from 2GB.
+
+Microsoft&#8217;s cloud storage service was previously known as SkyDrive. It was rebranded as OneDrive since the company had to change the name due to a lawsuit. Its available on a variety of different platforms and tries hard to compete with rivals like Dropbox and Google Drive.
+A spokesperson for Microsoft has told TNW that the company has begun working to increase the file size limit for all OneDrive accounts. &#8220;We have started the process with a small number of customers,&#8221; it says, the change will be rolled out to the entire customer base in the near future.
+At this point Microsoft has not defined a new upload file size limit. To put things in perspective, let us not forget that Google Drive lets users upload files up to 5TB whereas Dropbox caps it at 10GB.
+The time frame in which new size limit will be rolled out for all OneDrive users has not been defined. Microsoft says that it will make a formal announcement on the OneDrive blog once the change is put in place for everyone.

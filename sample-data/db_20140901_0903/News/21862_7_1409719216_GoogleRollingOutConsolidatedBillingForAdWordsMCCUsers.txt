@@ -1,0 +1,22 @@
+Google Rolling Out Consolidated Billing For AdWords MCC Users Google Rolling Out Consolidated Billing For AdWords MCC Users 
+								
+							
+							
+							
+Over the weekend, Google announced the roll out of Consolidated Billing for AdWords users managing multiple accounts through an MCC (My Client Center).
+The new billing system combines invoices for several accounts into one. Consolidated Billing will replace MDOs (Manager Defined Orders), which were only available upon request from a Google rep among other requirements.
+Consolidated Billing is designed to be more flexible, allowing agencies and large advertisers, for example, options to set up accounting requirements by client, brand, product, division or product category. With just one Master Service Agreement, Consolidated Billing users can create budget orders in any account without a Google rep.
+Invoices show spend for multiple accounts and are available for download at the end of the month or can now be set for email delivery.
+Accounts will be automatically transitioned to the new billing system between now and the end of the year. MCC account holders will receive a notification when Consolidated Billing becomes available to them.
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

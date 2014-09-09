@@ -1,0 +1,31 @@
+Top 5 Essential Android Wear Apps Top 5 Essential Android Wear Apps 
+
+
+
+So you've just picked up an Android Wear device, but what the heck can you do with this tiny wrist computer? Sure, it pulls in notification from your phone and shows you Google Now cards, but you need some apps too. It can be a challenge to navigate the Play Store in search of the best watch apps, but we've been keeping a close eye on things. Here are the five apps every Android Wear device needs to have installed.&nbsp; 
+Wear Mini Launcher
+I simply cannot imagine using Android Wear without Wear Mini Launcher. For whatever reason, Google decided to make launching apps by touch incredibly infuriating. Yeah, I get it&mdash;Google wants everyone to launch apps by voice, but some apps have stupid names and I can't always talk to my wrist. Wear Mini Launcher gives you a slide-out app drawer with configurable columns and icon sizes. It even has an additional panel with the battery level for your connected phone and the watch, as well as a brightness slider. There are a few toggles for the phone down at the bottom too. This app is free, but I would happily pay cash money for it. There's a donate link in the app, which you should use. 
+&nbsp;&nbsp;
+
+BeeLink
+Another major shortcoming of Android Wear is that pairing with more than one device often requires a full reset of the watch. Even if you've already gotten the watch paired with multiple devices, it just doesn't work sometimes. BeeLink lets you manually scan for Android phones and tablets from the watch so you can quickly and easily switch connections. You'll have to re-sync the app list to get everything flowing between the phone and watch correctly, but it's a million times better than waiting for the Wear app to (maybe) figure out you are trying to pair a new device.
+&nbsp;&nbsp;&nbsp;
+
+Wear Apps Tracker
+Yet another missing feature from Wear is the lack of any sort of feedback for app installation, updates, and removals. You'd never know if the sync tubes get clogged because there's not even an error message for failed app syncs. That's where Wear Apps Tracker comes in. This app pops up a card on the watch that tells you each time an app is installed or updated with the full name included. For uninstalling, you only get a generic notification, but it's better than nothing. 
+&nbsp;&nbsp;
+
+Find My Phone
+Having a smart device tethered to your phone lets you do a few basic phone finding tricks with an app like Find My Phone. This is probably the best overall option in the category with support for ringing a misplaced phone, alerting you when the connection is broken (you left the phone behind), and a few more miscellaneous features. I'm especially fond of the fade-in location alarm setting. The basic stuff is free, but you can also set custom alarm tones from the watch and do a few other things after upgrading in-app for $0.99.
+&nbsp;&nbsp;&nbsp;
+
+Showear Or Lockable
+There's no lock screen on Android Wear&mdash;not even a temporary one that you can use to keep the screen from flipping out when it gets wet. We decided to include two apps for this one use case (yes, that means there are  6 apps on the list), but you only need one. Both of them are very good options that let you set up an unlock code that can keep your watch from being accessed by someone else, or going haywire in the shower. You're not really supposed to shower with these watches, but no one's stopping you. 
+&nbsp;&nbsp;
+Showear
+For what it's worth, I think Lockable is the more attractive of the two, but you have to upgrade to the pro version for $0.99 to get the PIN or pattern locks. Otherwise it's just swipe. Showear offers pattern and swipe code for free. 
+&nbsp;&nbsp;
+Lockable
+
+
+This isn't intended to be a list of  the best apps&mdash;it's what you should install before you do anything else. A lot of it is patching holes left by Google, but that doesn't mean it isn't important stuff. Keep this in mind if you plan to get one of those fancy watches without the corners soon. 

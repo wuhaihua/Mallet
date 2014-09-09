@@ -1,0 +1,165 @@
+How To Manage Big Data With Pivot Tables How To Manage Big Data With Pivot Tables 
+								
+							
+							
+							Big data is all the rage right now. If you search Google News for the term, there are 53,500 thousand results. And that&#8217;s just the news.
+Most of us in Internet marketing aren&#8217;t truly working with big data, in the truest sense of the word.
+However, when we&#8217;re investigating things like the competitive landscape for a particular keyword we want to target, we&#8217;re definitely working with bigger data sets than your everyday, garden-variety spreadsheet.
+When you&#8217;re trying to find correlations and causal relationships, anything short of a pivot table is going to fall short.
+Pivot tables are like the Swiss army knife of data analysis in Excel. And trust me &#8230; They look scary at first, but they&#8217;re so easy to use once you learn the underpinning logic that powers them.
+What I&#8217;ll be using for my &#8220;big data&#8221; is a Keyword Difficulty Report from SEOmoz and a rank report from Raven.
+(Disclaimer: I have no affiliation with either site, and you need to be a subscriber to use both of these tools.)
+I&#8217;ll start with the Keyword Difficulty Report because it&#8217;s one of my faves from SEOmoz&#8217;s host of reports. Why? Because I used to spend hours collecting this data manually, and now I can get it in a few clicks. Better yet, it&#8217;s delivered to my inbox the next day, so I can just set it and forget it.
+The way the report works is you enter a keyword you&#8217;re trying to target, and it does a search on the search engine of your choice. (I ran a report for gucci handbags and chose Google US for my report.) Then it scrapes the following metrics and delivers them sometime the next day to your Inbox.
+Here are the metrics included in the report for the top 10 results:
+
+Page Authority
+mozRank
+mozTrust
+mozTrust/mozRank
+Total Links
+Internal Links
+External Links
+Followed Links
+Nofollowed Links
+Linking Root Domains
+On-Page Analysis Grade (A-F)
+Broad Keyword Usage In Title
+Broad Keyword Usage In Document
+Keyword Used In URL
+Keyword In Domain
+Keyword Exact Match
+Exact Anchor Text Links
+% Links With Exact Anchor Text
+Linking Root Domains With Exact Anchor Text
+% Linking Root Domains With Exact Anchor Text
+Partial Anchor Text Links
+% Links With Partial Anchor Text
+Partial Anchor Text Root Domains
+% Linking Root Domain With Partial Anchor Text
+Domain Authority
+Domain mozRank
+Domain mozTrust
+DmT/DmR
+External Links To This Domain
+Linking Root Domains To This Domain
+Linking C-Blocks Domains To This Domain
+Tweets
+Facebook Shares
+Google +1 Shares
+
+Crazy, right? That&#8217;s some pretty big data. But it&#8217;s too much — for a regular table at least. You need to be able to slice and dice the data and isolate portions of it to effectively evaluate it. The nice thing about pivot tables is that you can literally do exactly that by simply dragging and dropping your data around at will.
+If you want to follow along, you can download the Excel table I worked from. It includes a tab for the raw [hideous] data, one for the formatted tables, and finally one for the pivot tables I reference.
+So let&#8217;s get started &#8230;
+Preliminary Setup
+As I mentioned in my post on how to format tables in Excel, before I do anything with raw data, I format it as a table. To do that, add a row above your headings by right-clicking on the row number and choosing Insert from the flyout menu.
+If you make sure the columns and rows surrounding your data are empty, Excel will be able to auto-detect the perimeter of your data. Now just click any cell inside the data and choose Home &gt; Styles &gt; Format as Table &gt; the table style of your choosing (Mac: Tables &gt; Table Styles).
+Click for larger image.
+There are also a few rules you should follow that will reduce your troubleshooting down the road significantly:
+1.  Set your table up in tabular format.
+Formatting your data as a table, as we did above, will take care of this requirement. But basically you need to follow the structure of a database, where your data only includes column headings. You can&#8217;t have row headings, like this table:
+
+This means that sometimes you will have columns that have a lot of duplication. For example, my audit checklist is set up as a table, so I can easily sort and filter it when I&#8217;m writing up my findings. And one of the columns is called Category.
+These categories include things like Architecture, Duplicate Content, Crawl, Keywords, etc. So you&#8217;ll see the category repeated for each &#8220;record&#8221; in the database, like so:
+
+2.  Organize your columns by buckets, not individual values.
+This is probably the hardest concept to grasp when you&#8217;re first starting with pivot tables. So, for example, if you wanted to see visits to a site broken down by month and medium, you might be tempted to create a column for each medium (organic, PPC, social, email, etc.) and each month. This would be incorrect and will cause you all manner of aggravation when you go to pivot the data.
+Your column headings would need to be the broader buckets: Visits, Medium, and Month.
+Here&#8217;s where it gets a bit tricky.
+Let&#8217;s say you have visit data for two years, and you want to compare year-over-year data — in other words, visits for 2012 compared to the same months in 2011. Then, you would need to add a year column as well. You won&#8217;t need a Year column anytime you have data that spans more than one year.
+I&#8217;ll teach you a trick later in this post for how to group by year. It&#8217;s just specifically if you want to compare the values from one year (or quarter or month) to another.
+3.  Avoid blank columns, rows, and cells.
+To ensure you don&#8217;t have any blank rows and columns, make sure the bottom-right corner of your table is flushed up against the data (see screenshot below).
+Also, blank cells can wreak havoc in your data and even cause Excel to think numbers are text, which will limit your filtering options down the road.
+
+To hunt down these blanks in your data, click inside your table, press Ctrl-A (Mac: Command-A) to select just the data inside your table, then Ctrl-G (Mac: Control-G) to pull up the Go To dialog.
+Click the Special button, choose Blanks, and click OK. This will select all the blank cells in your data. Enter a 0, then without clicking anything press the number 0 and Ctrl-Enter (Mac: Command-Return). This will enter the 0 inside all of the blank cells, though they make show up as hyphens.
+Pivot Table Options
+Now we&#8217;re ready to jump in head first.
+The first thing you&#8217;ll want to do is click anywhere inside your formatted table and choose Insert &gt; Tables &gt; Pivot Table (Mac: Tables &gt; Tools &gt; Summarize with Pivot Table).
+When prompted, choose to place it on a new worksheet (this is the default).
+This is what your starting canvas will look like on a PC:
+Click for larger image.
+And like this on a Mac:
+Click for larger image.
+That dialog box you see hugging the right side of the Excel window is where all the magic happens. Any time you click inside your pivot table, it will appear. Click outside and it disappears again. But you can also turn it off by either clicking the X in the top-right corner of the dialog (upper-left corner on a Mac) or deselecting Field List under Pivot Table Tools &gt; Options &gt; Show (Mac: Pivot Table &gt; View &gt; Builder).
+Note: Since the functionality of pivot tables is nearly identical between the PC and Mac, from this point forward, I&#8217;ll just be showing PC screenshots.
+Setting Row Labels
+Let&#8217;s choose our row label from the Pivot Table Field List. The most logical choice here would be URL. This is usually the value I keep constant as I play musical chairs with the column and report filters.
+To set the Row Label to URL, simply click-and-drag URL down to the Row Labels field.
+Click for larger image.
+Setting Values
+Next, we need to decide which values we want to view. For now, I&#8217;m going to just look at External Links, Tweets, and Facebook Shares to see if any patterns emerge that could provide clues as to how Google decided the pecking order for this query.
+To do this, click-and-drag each of those items down to the Values field.
+Click for larger image.
+Summary Options
+By default, if you drag a field(s) that contains a numerical value into the Values field, the default summary option will be Sum. If you drag text into this Values field, the default summary value will be Count.
+It makes sense: If there&#8217;s something to add, Excel wants to find the sum; if there&#8217;s not, it wants to count instances (e.g., instances of URLs that contain the search term).
+But Excel provides other summary options as well — namely Average, Max, Min, Product, Count Numbers, Std Dev, Var, and Varp. To get to these options, right-click any cell in the column you want to modify and choose Summarize Values By &gt; your option (Mac: Field Settings &gt; your option &gt; OK).
+To learn more about these summary options, I couldn&#8217;t find a good resource on the Microsoft site, but this post contains a good overview.
+Relabeling Columns
+Personally, I don&#8217;t like how Excel adds &#8220;Sum of&#8221; (or Count , Average, Max, etc) to each of your column headings in the pivot table. But if you try to delete them, Excel will give you a nasty message forbidding you from doing so.
+It&#8217;s because it has this annoying rule that you can&#8217;t use the same column heading in your pivot table that you use in your static table. So dumb.
+Anyway, to get around this, I used to purposely make my static table column labels lamer to preserve the intuitive ones for the pivot table, which was time-intensive and made me irritable. Then I recently discovered that I could just put a space after the label, and Excel is none the wiser.
+There are several ways you can change these labels — one of which is to right-click any label and choose Value Field Settings (just Field Settings on a Mac). But the easiest option sometimes is to just click inside the column heading of your pivot table and start typing.
+
+&nbsp;
+Pro Tip: If you want to easily change the order of your columns, a little-known trick is to just start typing over one column name with another already in the table.
+For example, if we wanted to Ext Links to the end, just click on the FB Shares label and type &#8220;Ext Links &#8221; (don&#8217;t forget the space at the end). When you hit Enter (Mac: Return), your other columns will shift to the left.
+Setting Total Options
+The Grand Total row has limited usefulness in this case, so we&#8217;re going to ax it. With any cell in your pivot table selected, go to Pivot Table Tools &gt; Design &gt; Layout &gt; Grand Totals &gt; Off for Rows and Columns (Mac: Pivot Table &gt; Design &gt; Totals &gt; Deselect Show for Rows). 
+I also took this opportunity to clean up the spreadsheet a bit: hid the gridlines outside my table, added thousandths separators to the numbers greater than 1000, and added a title and general citation info at the top of my sheet.
+
+
+Click for larger image.
+Adding More Data To Rows
+Now, let&#8217;s say we want to be able see page titles alongside the URLs. All you have to do is drag Title down under URL in the Row Labels field. And if you want to swap them — and have the titles appear on top — just drag URL under Title in the Row Labels field.
+Click for larger image.
+Examples of where this option could be useful would be to list all of the organic (or paid) keywords a landing page is getting traffic for from an analytics report or all of the URLs linking to a site from each unique domain from a backlinks report (Majestic, Open Site Explorer, ahrefs, ReverseInternet.com, etc.).
+Setting Column Labels
+Up to this point we&#8217;ve been dragging all values we want to see in the columns to the Values field. When you drag a metric to the Values field, you see the word &#8220;Values&#8221; appear in the Column Labels field.
+I have to admit, this issue of how to populate the columns of my pivot table confused me early on in my wanderings because it seemed like you should just drag row labels down to that field and column labels down to the columns field. And for a while, I just rolled the dice and just picked one; if it didn&#8217;t work, I moved it.  Let me (hopefully &#8230; no promises) spare you the confusion.
+The data source we&#8217;re working with isn&#8217;t really conducive to using the column labels option. It would be if we combined tweets, Facebook shares, and Google +1&#8242;s into one column and called it something like Social Shares. But, instead of reformatting the original table (which I&#8217;ve had to do many times over the years), I&#8217;m going to switch to a new data set to show a couple other options as well.
+In the downloadable Excel file, you&#8217;ll see a rank report for the term online university. I pulled Rank down into the Values field. But I have rankings for both Google and Bing, so I pulled Engine into the Column Labels field. This splits the rank values into two columns: Google and Bing.
+Click for larger image.
+&nbsp;
+Report Filters
+Another powerful option you have with pivot tables is the report filter. Dragging a value into this field will generate a drop-down list above your pivot table that will allow you to filter the entire table by the values you choose from this drop-down.
+With our current pivot table, we&#8217;ll add Visits to the Values field and Engine to the Report filter, then look at the rankings and organic visits for each search engine individually by only choosing one at a time.
+Click for larger image.
+&nbsp;
+Grouping
+One very cool, lesser-known feature of pivot tables is the ability to group your data. You may decide you want to see your rank and visit data grouped by month instead of week.
+What most people would do is create another column in the original data set, label it Month, fill in the values, and refresh the data in the static table (right-click &gt; Refresh) to add the new data to the pivot table.
+The easier way is to right-click on any cell in the column you want to group ( in this case Date) and choose Group from the fly-out menu. You can even group by more than one value, such as Months and Years or Months and Quarters. I&#8217;ll just choose Months from the Grouping dialog and click OK.
+The only problem is now the Rank is summarized by sum, and we want to now switch that to Average.
+To do this, right-click on any cell in the Rank column and choose Summarize Values By &gt; Average (Mac: Field Settings &gt; Average &gt;OK). I also got rid of the decimals by choosing Home &gt; Number &gt; Decrease Decimal and changed the heading to Avg Rank.
+Here&#8217;s the result:
+
+But you&#8217;re not limited to the preset grouping values. You can create a custom group by selecting the items you want to group in a column. Press-and-hold down the Ctrl key (Command key on the Mac) to select multiple, non-contiguous cells. Then right-click and choose Group. Name your groups in the new cells that appear above each group.
+Here, I went back to the Gucci pivot table and grouped by Gucci and non-Gucci sites showing up on page 1 of Google for the query.
+Click for larger image.
+There are so many more options available to you with pivot tables. This post just scrapes the surface and lays the foundation for more advanced techniques I&#8217;ll be demonstrating in future posts.
+But you now have the skills to be able to take large data sets and rearrange, sort, and filter like a pro in your search for correlations that can give you the competitive advantage you need.
+To learn more about how to use pivot tables, take advantage of these resources from the Microsoft site:
+
+2010 (PC)
+2011 (Mac)
+2007 (PC)
+2003 (Mac)
+
+If you run into any problems while venturing into these deep Excel waters, you can find me on Twitter (@AnnieCushing) or ask in the comments below.
+Download File
+You can download the Excel file I used here.
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

@@ -1,0 +1,103 @@
+The best apps for taking notes The best apps for taking notes 
+
+Man, it’s a great time to be a note-taker.
+
+For a couple of decades—first as a student, then as a professional journalist—I filled notebook after notebook with notes, covering classes, press conferences, interviews, and more. When I was done, I’d have to find someplace to store them until (most likely) I’d throw them out. The notes I did keep? Useless. My on-the-fly handwriting is a horrible thing.
+
+The result: A lot of personal and professional history gone to waste.
+
+The process got better when laptop adoption became widespread and I could start typing my notes in real time as a speech or lecture was being delivered. It improved yet again when Google Docs came along, and storage ceased to be a worry.
+
+Mobile devices, though, transformed everything. The productivity charts in the app stores are awash in great note-taking apps, ranging from the complicated—Evernote would let you describe every part of your life with enough detail to satisfy three of the five senses—to the useful-but-relatively-one-dimensional (think of the naive Notes app on iOS). For the first time in decades, I don’t have to carry pen and paper everywhere I go. All I need is my smartphone, and I’m ready to go to class, conduct an interview, or cover a fire as a breaking news story.
+
+So which app is the best?
+
+To determine that, TechHive picked a number of note-taking apps, popular either with the public—as determined by the iOS and Android app store charts—or which have received sterling notices in the tech press. And to test them, I used each in my everyday life—for reporting and writing news stories, as well as everyday tasks like making grocery lists, or to store away a great thought or quote.
+
+I had three criteria for judging these note-taking apps: They had to be versatile. They had to help me get organized, easily and intuitively. And they had to be accessible—a note that will live on my iPhone and my iPhone only is not a note that’s ultimately useful to me: I might take the notes on a mobile device, but I might write a paper or a story on a laptop or desktop— so I want quick, easy access to the notes in both locations.
+
+Oh, and while I used Apple gear in the testing of these apps, I didn’t want to preclude the idea that someday soon I might switch to a Nexus tablet instead: The apps had to be available on both major mobile platforms, to give users maximum flexibility. 
+
+The winner: Evernote 
+
+Um, surprise?
+
+There’s a reason Evernote (free; iOS and Android) is generally thought of as a best-in-class note-taker: It’s the best in class, and it easily surpassed my desires in each of the three criteria I was judging by:
+
+
+Versatility: I took my iPad to a morning breaking-news conference and fired up the app. I typed in notes during the question-and-answer portion of the presser, used the app to take pictures of charts displayed during the event, and after it was over used the microphone to record a quick on-the-spot interview with one of the participants. Shifting between functions was seamless: I just clicked the “Add Attachment” button in the upper right-hand corner, chose which medium to operate in, and moved on from there. Easy as pie.
+Great organization: This didn’t matter so much at the press conference, but Evernote is easily—and endlessly—organizable. You can create notebooks to cover broad topics, and then create individual notes in each. Plus, you can tag the notes, to further refine your searches and your overall ability to find your information later.
+Accessibility: When the press conference was over, I put my iPad away, rushed back to the office, fired up my computer, and immediately opened Evernote on the Web: Everything was right there—and would’ve been if I’d tried accessing it on Android or a Windows computer, too. (I could also have downloaded Evernote for Mac, but I hadn’t done that. In any case, I’d rather shift back and forth between browser tabs than shift between apps; your own mileage may vary.) The story was finished within about 30 minutes. That’s efficiency, folks.
+
+ 
+
+Evernote wins for its ease of use, awesomely organized notebooks, and accessibility across platforms. 
+
+If there’s a drawback, it’s that the free account limits you to 60 MB of uploads per month: Power users beware. But upgrading to a premium account—and up to 1 GB of data uploads per month—costs just $45 a year. 
+
+The runner-up: Simplenote
+
+No, this app isn’t nearly as versatile as Evernote. Simplenote (free; iOS and Android)—as the name implies—is simple. You write stuff down, and that’s it.
+
+Then again, the vast majority of the note taking I do is just writing stuff down. And one person’s versatility can be another person’s clutter can be another person’s app overstuffed with features. 
+
+ 
+
+Simplenote's clean layout makes it a joy to use. 
+
+When it comes down to it, Simplenote isn’t that stripped down—and it’s certainly an improvement in several ways over the native iOS Notes app: For one thing, cut-and-paste quotes are stripped of coding, so everything you paste and type has the same, simple text-style font and format. And you can tag each note as much as you want, making organization a snap.
+
+What’s more, Simplenote is easily accessible: It’s available as a Web app, and as a download for iOS, Mac, Android, and Kindle devices. But don’t be fooled by this name: In this case simplicity is a virtue, in the cause of simply getting stuff done.
+
+Best for Microsoft users: Microsoft OneNote
+
+While I found Evernote and Simplenote to be the best overall note-taking apps, others stood out for specific features, which you might want to consider depending on your needs.
+
+Microsoft OneNote (free; iOS and Android) is a lot like Evernote—and yet not quite enough like Evernote. 
+
+Like Evernote, it’s versatile: It’s easy to add pictures, tables, and hyperlinks to your notes. Like Evernote, you can organize your notes into broad notebooks and narrower note entries. And like Evernote, it’s accessible via a broad array of devices, including for Mac and iOS. So that’s good!
+
+Unlike Evernote, it lacks an audio recording capability, and thus there’s no opportunity to review a lecture or interview to make sure you wrote down everything correctly. Also unlike Evernote, accessing notes on other devices is not a seamless transition. OneNote.com (the app’s Web version) offered me ads for related Microsoft products, but it never showed a way to get past the ads and simply make notes when using Safari. (It performed better in Firefox.)
+
+ 
+
+Microsoft OneDrive users will surely like OneNote.
+
+The app does offer lots of formatting options, but that almost seems like a distraction: It’s as if Microsoft Word had been grafted onto a note-taking app. That’ll be fine for some users, but I prefer the focus of a task-focused app.
+
+So why use it? The prime audience will, of course, be current Microsoft customers, especially users of its OneDrive cloud-based system for creating documents and presentations. If you’re not already a Microsoft fan, this app won’t be quite as alluring.
+
+Best stylus companion: Penultimate
+ 
+
+For taking notes with a stylus, Penultimate is the way to go. 
+
+This is a specialty note-taker worth mentioning, because some people just like the feel of a stylus in their hand when taking notes. Penultimate (free; iPad) rewards them with a responsive user interface that allows for both taking notes and sketching. And it’s part of the Evernote ecosystem, making it easy to access your hand-written notes and drawings on other devices aside from your iPad.
+
+Others of note
+
+This is a good time to mention that there aren’t really any bad note-taking apps out there. It’s just that some aren’t superlative as others. The following apps all have their strengths, save one: All of them are built primarily for iOS. If you’re an Android user, you might want to turn to well-regarded offerings like Papryus (free), Note Everything (free), or Google Keep (free). 
+
+Notability ($3) remains among my favorite note-takers: It’s like a mix of Evernote and Penultimate, letting users create notes using a range of techniques—handwriting, typing, taking pictures, capturing audio, and more. It’s best feature? If you’ve recorded a lecture and taken notes simultaneously, Notability syncs the two—just tap a word in the middle of your notes, and the app will find that same spot in the audio, helping you rediscover and remember the context of your half-formed thought.
+
+ 
+
+Notability handles audio notes like a dream. 
+
+The shortcoming? It’s a standalone app—you can access your note on computer, yes, but only by syncing the notes with Dropbox, Box, Google Drive, or webDAV. Students may find its audio sync feature especially helpful for taking notes during long lectures.
+
+ 
+
+Supernote is easy to use and makes a great Dropbox companion. 
+
+Super Note (free) shares a lot of Notability’s features, but with a simpler and perhaps more intuitive user interface: It only incorporates typed notes, pictures, and recordings. It may also go a little further in helping you get organized, with color-coded arrows to guide the way. You’ve got one option for syncing to your desktop computer: Dropbox.
+
+NoteMaster ($4) has separate apps for the iPhone and iPad. They both feature plenty of formatting options, easy organizing rules, and the ability to insert photos. You can sync the notes using Google Docs or Dropbox. (However, if you’re thinking about using the Google Docs app to take notes on a mobile device: Don’t. Get this app, and you’ll have a more pleasant visual experience, at the very least.)
+
+ 
+
+Vesper handles dictation without a hitch, but is iPhone-only. 
+
+Vesper ($3) isn’t really a classroom app: It’s an iPhone-only offering (though that may change soon) that’s built more for an individual’s on-the-fly thinking. Got an idea for that song you’re writing? Jot it down quickly. Want to make a poem about that pretty flower? Take a picture and jot down your thoughts. The app has limited syncing options—basically, unless you send the notes in an SMS message or an email, will only be able to access it from… your other iPhones also equipped with the Vesper app. But stay tuned: This app may have a different story to tell next semester.
+
+There is no shortage of good note-taking apps out there, and your criteria may differ from mine. Though Evernote will likely be the best choice for most users, you should feel free to try several of these options—most of them have free versions—and see what works for you.

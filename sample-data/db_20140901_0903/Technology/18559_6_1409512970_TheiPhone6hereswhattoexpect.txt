@@ -1,0 +1,108 @@
+The iPhone 6: here’s what to expect The iPhone 6: here’s what to expect 
+                
+
+   					
+                     
+                       
+                   
+        			Now that the iPhone 6 has been leaked to oblivion, it’s time to round it all up and offer a look at what your next iPhone just might be. From the visual punches to the specs and software, we take a look at all we’ve heard to this point. With Apple’s mysterious event happening in just over a week, let’s consider what will come of their biggest product announcement since the original iPhone.
+Hardware
+From the earliest days of iPhone 6 leaks, we’ve heard one solid, recurring thing: the rear casing will be metal, and look an awful lot like an iPad (or iPod, depending on your preference). Apple seems to be edging away from chamfered edges and strong lines with the iPhone 6, instead opting for a gentler roll from front to rear. Some odd channels also seem to be present on the iPhone 6, and remind us a lot of the HTC One (M8) -- just not as cleaner classy.The glass on the iPhone 6 has also been the stuff of lore. Is it Sapphire, Gorilla Glass — a mixture, maybe? Nobody really knows. An alleged front panel, later put through some light torture testing, showed a material that was somewhere between the Sapphire/Gorilla Glass polarity when it came to resilience. Apple likely won’t offer much on the way of an answer if it’s not their Sapphire, but if the tested material ends up on the iPhone 6 — we’re just fine with that. Rolled sides on the front glass will marry to the rear metal perfectly, and make swiping at the edges very much a pleasure.The hardware buttons also look to have changed quite a bit with the iPhone 6. The volume buttons are now elongated, and the power button has a new home on the right side; again, just like an iPad. The Home button on the bottom of the iPhone 6 looks to be bigger, too, or at least more prominent. The bezels look to have been slimmed considerably, and that carried on to the bottom of the device. Those slimmed bezels are likely why Apple is rolling the edges of the glass, too.
+		
+		
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+				
+				Display Glass
+				
+			
+				
+			
+			
+				
+			
+			
+		
+
+Software
+Apple announced iOS 8 at WWDC this year, and it builds efficiently onto the aesthetic change iOS 7 ushered in. A lot of revamped utility is going into iOS 8, with iPhone fans finally getting many of the things they’ve long desired.Third-party keyboards are making their way to iOS, as is a more open Safari. APIs for Developers promise to bring in a lot more Safari and Touch ID options, which we saw previously with the famed 1Password security system. New Safari sharing choices promise to make the headaches with navigating between apps just to save or share an article a thing of the past.Active notifications also make iOS 8 a bit more (sorry to say, but it’s true) Android-y, where you can now interact with your notifications right form the pop-up or drop-down alert. HomeKit and HealthKit are also involved with iOS 8, but are a bit far from mature at this point. Maybe Apple has big news on those fronts September 9.Though there is a lot of nuance in iOS 8 — and we suggest you check out our iOS 8 tag for all the in-depth news and analysis — one thing punctuates it: Apple has made OS X Yosemite work well with iOS 8, where things like handoff will make transitioning from Desktop to mobile extremely easy. OS X is also picking up on some of iOS’ aesthetic punch, flattening icons and realizing an improved messaging center. Your desktop to mobile lines are blurring.Both are also getting an improved Photos app, which promises to end the iPhoto/Photos dilemma. Don’t forget Family Share, either — perhaps the sleeper hit of iOS 8. That lets you buy once, and distribute to several family members. We suggest 1Password as your first big share (it’s that good).
+		
+		
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+		
+
+Specs
+A hit and miss proposition, the spec sheet for the new iPhone has been widely speculated on. Some things are a foregone conclusion at this point; a bigger screen is incoming, and the A8 processor is a gimmie. The rest of it leaves us cautiously optimistic.We’ve heard a lot about the new iPhone screen, and it’s resolution change. Still pixel-dense, both the 4.7-inch and 5.5-inch models will likely have a resolution around 1472 x 828 and 1704 x 960, respectively. In either case, the pixel count is well above the threshold for seeing individual pixels with the naked eye, so it’s of little concern.The rest of the rumored specs add up to a fairly incremental change. A slightly upgraded LTE modem, as well as a proportionately faster (again, rumored) A8 chipset is included. NFC is likely incorporated as well, which has mobile point-of-sale enthusiasts giddy. Counterpoint to any excitement is a paltry 1GB RAM, which is believed to be included with the A8 chipset.The camera is a point of curiosity, where a new True Tone flash may sit next to the same camera we find of the iPhone 5S. We’ve already seen some of the software tweaks Apple will make with the camera, but the actual hardware is still very much a mystery.
+		
+		
+			
+				
+			
+			
+				
+			
+				
+				Rear panel and cable, believed to be for home button (we doubt that)
+				
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+		
+
+When will we get it?
+Look for the iPhone to land in stores September 19 or so. Apple dropped the iPhone 5S in stores ten days after launch last year, and there’s no reason to think they won’t do something similar this time around. Considering the palpable buzz about this iPhone, we’d expect them to get it to us ASAP.One report claims the iPhone 6 4.7-inch variant will start at $750, so get ready for a touch of premium pricing. The 5.5-inch version may drop later, and we’re hearing it could start at nearly $1,000. I said it before, and I’ll say it again: Yikes.As for when we will actually see the iPhone 6 — that’s easy. September 9 is the day we will get it, and SlashGear will be on-hand to bring you all the news from the event. Be sure to check back here for all your Apple news. It’s going to be a fun day!
+
+
+Story Timeline
+
+iPhone 6, NFC, and mobile payments with iBeacon in tow
+Apple Sept 9th iPhone 6 event official: "Wish we could say more"
+What's Apple's huge iPhone 6 event center secret?
+

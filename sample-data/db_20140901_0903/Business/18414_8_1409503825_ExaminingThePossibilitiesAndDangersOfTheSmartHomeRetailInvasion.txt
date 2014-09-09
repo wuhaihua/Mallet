@@ -1,0 +1,22 @@
+Examining The Possibilities (And Dangers) Of The Smart Home Retail Invasion Examining The Possibilities (And Dangers) Of The Smart Home Retail Invasion As I wiled away the time at an&nbsp;Apple Store yesterday waiting for someone at the genius bar to tell me how much out of pocket I’d be to replace my daughter’s damaged iPod ($99 in case you’re wondering), I noticed what looked to be the beginnings of a dedicated smart home section: A couple rows of Philips Hue bulbs, topped by a row of Dropcams and Nest thermostats. 
+Ignoring the obvious irony that two of the three smart home products for sale in Apple Mecca were from&nbsp;Google&nbsp;(both Nest and Dropcam have been acquired by Google), I started to ponder how this section might change and possibly grow over the next few months as Apple rolls out its HomeKit effort&nbsp;(HomeKit is Apple’s software plumbing for the smart home announced at the WWDC a few months ago).
+	
+								 
+No doubt it will grow, as Apple expands the section to include its initial wave of HomeKit partners such as August (smartlocks), Honeywell (thermostats), Skybell (smart doorbell) and more. 
+But if you think Apple’s the only one preparing to grow their smart home focus, you’re mistaken. &nbsp;Over the next six months, we’ll begin to see a whole host of retailers expand their offerings of smart home and consumer IoT products.
+								
+										 
+In many ways it’s already happening. &nbsp;Lowe’s just finished its nationwide rollout of its own Iris smart home platform to its nationwide footprint, while Staples is continuing to expand the number of stores with its Staples Connect smart home products. Home Depot, which has been dabbling in smart home for some time, is embarking on a much bigger focus. 
+And this is only the beginning. Best Buy, the nation’s biggest big box electronics chain, begins selling the Peq smart home hub today, and over the next few months will likely roll out more offerings. In fact, I wouldn’t be surprised to see an entire smart home section at Best Buy come Christmas time. 
+Other big retailers like Costco and Target are also looking at the space, and while you won’t likely see rows upon rows of products (at least not immediately) at these retailers, expect more smart home products come holiday season. 
+Be Smart About Smart Home
+										
+										 
+But hold on a minute. While it’s great we’re going to see a much bigger focus in coming months, there is a danger in all this. 
+Unlike during the home network explosion a decade ago when the tech industry, against all odds, agreed on a single technology to rally around with Wi-Fi, the smart home has at least four technologies vying for attention and the possibility of a fifth coming to market. 
+This means that while there’s no doubt a lot of opportunity for retailers by creating a virtuous circle of loyal customers who come back for more as they grow their smart home network, there’s also a chance many consumers may become disenchanted by trying to weed through the confusion of Zigbee vs. Z-Wave or HomeKit vs. Works With Nest. 
+This is why I think it’s important that retailers take a leadership position at the dawn of the mass market smart home or risk seeing a market stillborn with consumer disappointment and high product returns. This means not only in-store trained experts and great after-sale support, but also thinking beyond a simple market share land grab by forcing consumers towards a single platform in a world where there’s hundreds of smart home end-points to plug in. 
+I think the General Manager of Lowe’s smart home initiatives, Kevin Meagher, had it right when he told me that while Lowe’s has it’s own smart home hub and platform in Iris, they plan to have an open approach to the smart home and sell other products because he felt the biggest mistake they could make was causing consumer confusion. 
+He’s right. It’s an exciting time in the smart home, but the next twelve months are critical and could ultimately prove whether it’s the next big thing or the next big flop. &nbsp;Competing standards and warring vendors are bad enough, what the industry doesn’t need is a badly handled rollout of products. 
+So retailers: get ready for the smart home, but be smart about it. 
+Michael Wolf is a smart home analyst with NextMarket. You can see his report on the&nbsp;future of smart home and listen to him talk smart home on the Smart Home Show.&nbsp;

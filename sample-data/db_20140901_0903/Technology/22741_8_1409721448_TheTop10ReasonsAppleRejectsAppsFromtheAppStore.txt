@@ -1,0 +1,20 @@
+The Top 10 Reasons Apple Rejects Apps From the App Store The Top 10 Reasons Apple Rejects Apps From the App Store Image:  Mashable,  Nina Frazier Hansen
+
+For many developers, the most stressful part of launching a new app is waiting for Apple's approval. This critical final step can delay an otherwise precisely timed release or present other last-minute hurdles for developers who have already spent weeks or months on development.
+Though Apple already has a detailed set of guidelines for developers, the company explained common issues with App Store submissions in a new post on its site for developers.
+
+The company revealed the top 10 reasons apps get rejected from the App Store during the final week of August. While some issues, such as crashes and bugs, are obvious, others are less glaring and may come as a surprise to developers.
+The biggest culprit, according to Apple, was not providing enough information, which accounted for 14% of total rejections. Providing the necessary details for testing such as demo account information and current contact information is essential, as Apple explains:
+Enter all of the details needed to review your app in the App Review Information section of iTunes Connect ... If features require an environment that is hard to replicate or require specific hardware, be prepared to provide a demo video or the hardware.
+Other top reasons included too many bugs and crashes (8%), failure to "comply with Developer Program License Agreement" (6%), and the design's failure to meet Apple's user interface requirements (6%).
+Apps must also have relevant names and not be intentionally misleading or confusing to users.
+
+Apps with names, descriptions, or screenshots not relevant to the app content and functionality will be rejected (5%)
+Apps that contain false, fraudulent or misleading representations or use names or icons similar to other apps will be rejected (5%)
+App names in iTunes Connect and as displayed on a device should be similar, so as not to cause confusion (4%)
+
+Submissions that are unfinished or test versions of a final product are also rejected. Apps that contain placeholder text accounted for 4% of rejections while submissions labeled as "beta," "demo," "trial" or "test" accounted for 2% of dismissals.
+Top 10 Reasons App Submissions Were Rejected | Create Infographics
+Notably, 42% of all rejections were due to "other reasons." Apple did not elaborate on what the other reasons were, but simply said each "other" reason was responsible for less than 2% of total rejections each.
+It's likely not a coincidence that Apple chose to share this information with developers at this point, as the company prepares to release the next version of iOS, in the coming weeks. iOS 8, which incorporates a new programming language, the Apple-made Swift, and allows developers more flexibility than ever, is expected to be the operating system's biggest overhaul yet. The company has also sent out invites for an iPhone event on Sept. 9. 
+Have something to add to this story? Share it in the comments.

@@ -1,0 +1,24 @@
+The Dark Side Of The Internet: A Search Engine That Finds Unsecured Routers, Servers & A Whole Lot More The Dark Side Of The Internet: A Search Engine That Finds Unsecured Routers, Servers & A Whole Lot More 
+								
+							
+							
+							Developed by John Matherly, Shodan is a search engine designed to help users find certain pieces of software, determine which applications are most popular, identify anonymous FTP servers, or investigate new vulnerabilities and what hosts they could infect.
+It also serves as a window into millions of unsecured online connections.
+According to an article on CNN Money, Shodan runs nonstop, collecting data from approximately 500 million connected devices and services each month. Through a simple search on Shodan, a user can identify a number of systems that either have no security measures in place or generic passwords that can be hacked easily, leaving countless organizations open to hazardous attacks.
+
+During last year&#8217;s DEF CON 20, independent security penetration tester Dan Tentler confirmed a number of unsecured systems he located using Shodan, including a car wash that could be turned on and off remotely, a hockey rink in Denmark that could be defrosted with a click of his mouse, and a traffic control system for an unnamed city that could be put in &#8220;test mode&#8221; with one command entry.
+The biggest security flaw, says Matherly, is that many of these systems should not be connected to the Web, &#8220;Of course there&#8217;s no security on these things. They don&#8217;t belong on the Internet in the first place.&#8221; Citing that many systems can be controlled by a computer, IT departments will hook them up to a server, unintentionally making systems and devices available to anyone with an Internet connection.
+The most common users on Shodan include security professionals, academic researches and law enforcement agencies. Users without a Shodan account will retrieve up to ten results per search, while account users get 50 results per search. To see everything Shodan can serve up, users are required to give more information about what they want to find and pay a fee.
+Matherly admits to CNN Money that Shodan could be used for criminal purposes, but says most cybercriminals have access to botnets that achieve the same results.
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

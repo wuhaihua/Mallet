@@ -1,0 +1,30 @@
+Matching Mobile Ads To Consumer Intent Matching Mobile Ads To Consumer Intent 
+								
+							
+							
+							In my last article, &#8220;Matching Local Advertising to Consumer Intent,&#8221; I encouraged local advertisers to consider the intent of the consumers that they wanted to reach with their advertising distribution sources. The same idea can be applied to mobile, including the types of advertising that best fits your desired action (i.e. an enticement for an in-store visit, such as a coupon; or establishing your business as a brand, associated with other similar content; or a phone call to set-up an appointment). Here are some mobile search options, with observations on when they are most effective at having a meaningful impact on consumers.
+SMS advertising
+SMS (Short Message Service), otherwise known as text messaging, was one of the earliest forms of mobile advertising and is still used today. In fact, Greg Sterling recently posted an article on Local Mobile Search which highlights SMS campaign response rates as &#8220;often 2X to 10X higher than online advertising.&#8221; I would agree that the opportunity within SMS is huge. However, it&#8217;s important to note that it&#8217;s a valuable tool for existing customers but in our experience, may not be the best way to reach new customers. This is largely due to the confusions consumers may experience from having an SMS offer sent to them without having any context of the business or advertisement. If the consumer is not familiar with you, they may either respond thinking they will get something other than what you offer thus wasting both parties&#8217; time, or else ignore your ad completely.
+SMS Advertising is a valuable way for local businesses to connect with existing customers through loyalty programs. For example, the owner of a coffee shop could send a text message with a coupon code for 10 percent off the daily drink special to her list of customers who have opted-in to receive information on their phones. Similarly, the local book store owner could send a text message to his list of book club members to announce that the latest vampire romance novel is arriving next week with a free book bag offer for the first 25 readers that arrive that day.
+Generally, this form of advertising is best used to encourage an in-store visit and not an actual purchase over the mobile device.
+Mobile banner advertising
+Mobile banner or display advertising is typically used by businesses that strive to establish a brand or identity as the way to create demand from customers. For example, a well-known brand such as Best Buy may place a banner ad on a mobile screen as a way of reminding consumers of its stores for future consideration for electronic purchases.
+While display can be effectively used for online branding campaigns for national advertisers, typically, local advertisers tend to gravitate toward campaigns with faster sales conversions. Although display advertising can have a high-rate of click through, the conversion rates are often much lower than other forms of advertising due to lack of an opportunity for transactions.
+We believe that local advertisers will have a higher likelihood for success using other mobile advertising methods, such as SMS or search advertising.
+Mobile search advertising
+Search advertising can be another effective way to reach consumers who intend to take action right now, such as making an appointment with a service provider over the phone or looking for directions to the business.
+Typically, when consumers get to the point of searching for a specific key word or topic on a mobile device, they are beyond the research phase and are ready to engage with the advertiser. We&#8217;ve found that some of the best results occur when, after seeing the ad, the next step is a click to a landing page or mobile business profile page that enables a direct connection via a phone call to the business. Getting to the business phone number needs to be as simple as possible with the least amount of steps on the way, as the mobile user is often on the go and can&#8217;t afford to spend time clicking through multiple screens. Local advertisers that understand this need for simplicity have the greatest potential for effectively reaching new customers.
+Again, to select the best type of advertising for your local business, it is most important to consider the action you want your advertisements to result in, who your customers are and which of these&mdash;SMS, display or search&mdash;will work best to reach them. If you are looking to strengthen existing relationships with your customers, implementing a loyalty program using SMS ads may be your best option. If you want to strengthen your brand among a certain audience, a display advertising campaign may actually work for your business. And finally, if you want to attract new customers that are ready to visit your store or make an appointment right now, a search advertising campaign can help you reach that audience.
+While SMS, display and search are the three most basic types of mobile advertising, there are additional tools a local advertiser can consider, such as creating a mobile application for your business or managing your online business listings to ensure they are mobile optimized. However, for the sake of keeping it simple, I&#8217;ll ask that you stay tuned for future articles for an even deeper dive on mobile advertising.
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

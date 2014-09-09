@@ -1,0 +1,67 @@
+Imagining iPhone 6: Design and display Imagining iPhone 6: Design and display   
+
+The iPhone 6 is expected to be introduced at the 2014 iPhone event on September 9 in California. While alleged parts leaks (see the video below) have, like every year, kept us entertained while we wait, it'll only be then, when someone from Apple holds them on stage, that we'll see the real thing. However, it's still a worthwhile exercise to go through the rumors and the speculation and try to figure out what makes sense, both for Apple and for us as customers.
+
+For the last 6 years, new iPhones have included a completely new design ever second year. For the last 4 years, they've included a completely new display target, in density or dimension, ever two years. This is every two years. So, if past behavior really can be used to predict future behavior, we'll get both a new design and a new display target with the iPhone 6. What could those be like?
+
+Warning: Curves ahead
+
+
+
+With the current iPhone 5 and iPhone 5s, Jony Ive has taken his Platonic ideal for the iPhone, as first expressed in the early prototypes for Project Experience Purple back in 2005, and made them close to manifest. With very few compromises, we now have a perfect rounded rectangle made out of an almost solid block of aluminum. That original design is done. It's time for what comes next. However, there are still considerable constraints when it comes making an iPhone that works like an iPhone.
+
+It has a front dominated by the display. It has a Home button that not only serves as an escape hatch for stressed or lost customers but, now, as the sensor for Touch ID. It has an earpiece so you can hear calls, and a front FaceTime camera so you can take selfies and make video calls. It has RF transparent elements so the cellular, Wi-Fi, GPS, and Bluetooth radios can send and receive signals. It has a mic and speaker to input and output sound, and a Lightning port to charge and send and receive data. It has to have an iSight camera and TrueTone flash, along with an iPhone logo and additional information on the back.
+
+While all this makes the front seem immutable, it also makes the sides and back seem the most obvious candidates for change. The rounded rectangle need not be so square, and the RF could be made transparent elements could be surfaced in different way.
+
+Flashback to 2012 when Apple shipped the still-current generation 4-inch iPod touch — there was a rumor that its design language, which later found its way into both the iPad mini and iPad Air, would also find its way to the iPhone 6. When iOS 7 shipped with gestures that required you to swipe from the bezel to the screen, making the sharp angles of the iPhone 5 and iPhone 5s more tangible, the rumors only intensified.
+
+A change in size (see below) could also necessitate changes in design. Making the iPhone 6 bigger could make the sleep/wake button, traditionally on the top, harder to reach. That can be solved by moving it to he side. Also, making the iPhone 6 thinner to offset additional weight gained by the size increase could threaten the already shallow z-index of the camera. That can be solved by making the sapphire-capped lens protrude out from the casing, allowing for great optics and thinness, much like the iPod touch before it.
+
+So, take an iPhone 5 or iPhone 5s and, instead of sharply angled chamfered edges, give it smoother curves. Instead of glass windows top and bottom to cap the aluminum unibody backplate, give it lines that cut right through. Move the button from the top to the side, and let the camera rise from the back.
+
+Then you have an iPhone 6 that not only takes from the design language of the iPod touch and iPads, but that takes it a step further as well.
+
+Size matters
+
+Rumor has it the iPhone 6 will once again be larger than its predecessor. It may even come in two models, larger and much larger. Back in February of this year I wrote about the problems solved by a larger iPhone, both for Apple and for us as customers. They still hold true today:
+
+
+  It gives Apple a share of the lucrative over 4-inch phone market. That's where Samsung et. all make their money and Apple currently makes precisely zero. Adding a big screen iPhone 6 not only gives Apple access to that premium customer base, it takes money away from their competitors.
+  It eliminates size alone as a differentiator. Since the North American market is subsidized, it's the equivalent to walking into Best Buy and seeing all TVs, from 50-to 120-inches, for $200 or less on-contract. Adding a big screen iPhone 6 forces the competition back to areas where Apple's strong, like experience and ecosystem.
+  It makes the iPhone more functional as a primary computing platform. Some people don't want to have to carry around — or simply can't afford — multiple devices. They need a phone, but they want something closer in size to a tablet. Adding a big screen iPhone 6 fills that gap.
+  It makes the iPhone more accessible. Whether it involves eyesight or motor skills, a larger screen can support larger interface elements, including type and images. Adding a big screen iPhone 6 makes the technology easier to use.
+  It allows software to become more sophisticated. One-handed-ease-of-use can be handled by gesture navigation and dynamic interface, but 1136x640 is a fixed constraint. Adding a big screen iPhone 6 opens the platform up for the future.
+  Apple says their goal is to solve problems and to make technology more mainstream. To make better products that improve their customer's lives. They don't just want to sell more iPhones — they're avoiding the high-volume, low margin market like the plague — they want to sell better iPhones to more people and increase the overall value of their ecosystem. That makes them more profitable, makes us happier, and ensures our mutually beneficial relationship lasts as long as possible.
+
+
+The eyes have it
+
+Almost 2 years ago I wrote about how Apple could take the iPhone display to 5-inches. Current rumors strongly suggest we'll be getting 4.7-inch and 5.5-inch iPhone displays instead. However, the basic methods for increasing display size remain the same — physically scaling the panel but leaving the pixel count the same, which increases size but decreases density (the inverse of what the iPad mini did); adding pixels, which increases the size but maintains the density (what the iPhone 5 did); or scaling the display and adding pixels, which increases the size and the density.
+
+Apple gets away with having a lower density on the iPad Air relative to the iPad mini and iPhone — 264ppi vs. 326ppi — because you generally hold larger objects farther away. A 4.7-inch and 5.5-inch iPhone still wouldn't be anywhere nearly as big as a 9.7-inch iPad, however, so while I thought that option likely at the time, it seems less likely now.
+
+What seems more likely now is some combination of adding pixels and density, including some way to take Retina to Super Retina.
+
+Apple has reportedly tested @3x prototypes. It's very literally Apple engineering's job to test anything and everything practical and possible. However, both Mark Gurman of 9to5Mac and John Gruber of Daring Fireball have written about @3x displays.
+
+3x, while not as neat as 4x, requires significantly less power to drive and light, and power efficiency is one of Apple's main concerns. The other is usability.
+
+When Apple engineers were trying to figure out the iPad mini, their concern was for touch target size. People with fingers need to be able to consistently and reliably hit interfaces with buttons and other interactive elements. As luck would have it, the existing iPad screen, with some small software modifications, could maintain usability at a smaller size. That meant people could have the smaller size without losing pixels.
+
+Even then it still took another year before they could take the iPad mini to Retina, and drive that many pixels in that small a package. Both the 4.7-inch and 5.5-inch iPhones will be smaller still, and driving and lighting their pixels will be as much of a concern as keeping their interface elements usable by most people — perhaps even usable by more people.
+
+That means striking a balance, both between pixels and performance and between people who want larger displays and more display area. Gruber's math ended up solving for this:
+
+
+  4.7-inch display: 1334 × 750, 326 PPI @2x
+  5.5-inch display: 2208 × 1242, 461 PPI @3x
+  
+
+Those are atypical numbers for Apple, and largely off-grid numbers for iOS designers raised on pixel perfect design. Perhaps there'll be a pixel or two extra here or there, to keep everything divisible by 16 an on the grid. Or perhaps those days are long gone. Apple already overdraws on the Retina MacBook Pro and then scales down, and counts on density over distance to hide the blurriness from our eyes.
+
+We may not be there yet for mobile processors and performance, but it may be where we're headed when Apple's next display update cycle comes around.
+
+More iPhone 6: Imagined
+
+We'll be imagining a lot about the iPhone 6, including designs, screens, cameras, NFC and mobile payments, and more over the next week, so stay tuned. We'll only know for certain, however, when we report to you live from the iPhone event on September 9!

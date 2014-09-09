@@ -1,0 +1,19 @@
+Microsoft begins to drop 2 GB file size limit for OneDrive Microsoft begins to drop 2 GB file size limit for OneDrive 
+
+Microsoft is prepping to drop the 2GB file size limit for OneDrive. Right now a small number of users can upload files larger than 2GB in size to OneDrive. Users on Reddit were the first to notice a change, with Microsoft sharing a statement to The Next Web to confirm the file size limit changes.
+
+
+
+Here's a statement from Microsoft on the OneDrive file size limit:
+
+
+  "As we mentioned on our UserVoice, we have started the work to increase the file size limit for all OneDrive accounts. We have started the process with a small number of customers and will continue to roll it out to our full customer base. We will have more to share on this update in the near future, stay tuned to the OneDrive blog."
+
+
+Back in April 2012 Microsoft updated the desktop app for OneDrive (then called SkyDrive). The update introduced a handful of new features, one being an increase to 2 GB for files uploaded to the cloud storage service.
+
+Microsoft hasn't shared the new maximum file size but will most likely announce it in the near future on the OneDrive blog. For now, let's play around – tell us the biggest file you're able to upload to OneDrive.
+
+Source: The Next Web
+
+Thanks for the tip Adam!

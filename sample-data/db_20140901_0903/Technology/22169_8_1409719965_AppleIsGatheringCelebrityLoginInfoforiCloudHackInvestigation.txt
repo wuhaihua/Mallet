@@ -1,0 +1,9 @@
+Apple Is Gathering Celebrity Login Info for iCloud Hack Investigation Apple Is Gathering Celebrity Login Info for iCloud Hack Investigation Apple is working with the celebrities who were affected by an alleged iCloud hack that may have led to several nude photos going public.Image: Eugene Hoshiko/Associated Press
+
+Apple is working directly with celebrities and their publicists to investigate the alleged iCloud hack that may have played a large part in a large cache of nude photographs being released online. Part of that investigation involves obtaining Apple account login information of the people affected, Mashable has learned.
+It's not known exactly why Apple needs its users' login information, but presumably it gives them a level of access into a user's account records that they otherwise wouldn't be able to obtain, at least not easily. The company does say that password information stored in iCloud is encrypted and can't be read by Apple.
+
+Apple's internal investigation may shine some light on how nude photos of dozens of celebrities were gathered and then released over the weekend. While some have pointed to a potential vulnerability in iCloud security (which has reportedly been patched), there are indications, including the age of some of the photos, that the cache was part of a larger, more complicated effort.
+At the same time, the FBI is looking into the iCloud hack, although it stopped short of saying it was opening a full investigation. The incident also raises unsettling questions about the general state of security for cloud storage services, which are now a major part of both personal services and business workflow.
+Lance Ulanoff contributed to this report.
+Have something to add to this story? Share it in the comments.

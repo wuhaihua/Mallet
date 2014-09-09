@@ -1,0 +1,9 @@
+Epiphany Is A Fast, Modern Browser For The Raspberry Pi Epiphany Is A Fast, Modern Browser For The Raspberry Pi The Raspberry Pi is a great for a lot of things, but browsing the web was never one of them. Epiphany is a browser built for the Pi that does just about everything a modern browser can do.
+
+All things considered, Epiphany is pretty speedy. It can handle HTML5, JavaScript and video decoding. It&#8217;s a little sluggish with JavaScript-heavy sites, but otherwise it&#8217;s a perfectly good browser for Raspbian. You&#8217;ll get Epiphany rolled into new versions of Raspbian and NOOBS, but you can download the new browser right now. Just type this into the command line:
+sudo apt-get update 
+
+sudo apt-get dist-upgrade 
+
+sudo apt-get install epiphany-browserIf you&#8217;re curious about more of the details, developer Marco Barisione&#8217;s blog has more info.
+Web Browser Released! [Raspberry Pi]

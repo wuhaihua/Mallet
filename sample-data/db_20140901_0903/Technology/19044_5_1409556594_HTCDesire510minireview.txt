@@ -1,0 +1,100 @@
+HTC Desire 510 mini-review HTC Desire 510 mini-review   
+
+How does the HTC smartphone experience of 2014 translate into an entry-level device?
+
+While most of our attention here at Android Central goes to exciting new high-end devices, the entry and mid-range market has become ever more interesting over the past year, as manufacturers work to bring decent specs and user experiences to millions of new smartphone owners. Most notably, Motorola's Moto G and Moto E have shaken things up in the budget space in the past 12 months with some of the best cheap Android hardware we've seen.
+
+HTC has renewed its focus on less expensive smartphones in 2014 too, fielding lower-cost handsets like the Desire 816 and Desire 610. And now it's time for the Taiwanese manufacturer's own super-low-cost option. The HTC Desire 510 is a budget-centric smartphone with 4G LTE connectivity, and the first to use an all-new CPU from Qualcomm, the Snapdragon 410.
+
+Read on to see how things shape up.
+
+
+
+About this review
+
+We're publishing this review after five days with a European HTC Desire 510 (A11_UL) on the EE network in the UK, in an area mostly blanketed with 4G LTE coverage. Our review unit was a white Desire 510 running software version 1.08.401.1.
+
+
+
+HTC's latest budget handset distills the company's plastic-centric Desire design language into its most basic form. It's a polycarbonate-clad, rounded rectangle with a display framed by plastic segments at the top and bottom. And like other Desires, the 510's body is split between the matte plastic of its front and sides and the glossy finish of its back panel. That glossy back remains something of a fingerprint magnet, though that's less noticeable with a lighter color like the white model we've been using.
+
+At 4.7 inches diagonally (and with some hefty bezels), the Desire 510 isn't a small phone, but it's comfortable to hold and use thanks to its ergonomic design, much like the 610. And while it doesn't look as spectacular as HTC's high-end stuff, the 510 wears its creator's mid-range design language with pride.
+
+
+
+But we are of course dealing with a low-end handset here, and as such some of HTC's trademark features haven't made the cut. While the 510 bears some resemblance to HTC devices with front-facing speakers, there's no BoomSound to be found here — just a rear-mounted loudspeaker to complement the usual earpiece and mic. To be fair, though, it's a pretty loud loundspeaker, even if it doesn't match the quality of more expensive HTC speakers setups.
+
+Unusually for an HTC phone, the back panel is removable, as is the 2,100mAh battery that sits behind it; above that you'll find microSIM and microSD slots. As with the Desire 816, we'd strongly recommend you invest in an SD card for this phone, as there's only 8GB of internal storage, which quickly fills up after the first round of app updates.
+
+The 510 does offer both front and rear cameras, though as we'll discuss later both are pretty rudimentary — a 5MP fixed-focus shooter on the back, paired with a VGA (640x480) front-facer.
+
+
+
+The one major trade-off is a pretty poor FWVGA display.
+
+Around the front there's another big trade-off — a 4.7-inch FWVGA (480x854) screen that can generously be described as... basic. Going back to FWVGA takes some adjustment, but the low resolution isn't even the worst thing about this display. You'll also contend with fairly dull colors, visible ghosting and pretty dismal viewing angles — to the point where dark areas have an odd shimmering effect to them even when viewed head-on. What's more, the surface of the display has a strange tacky quality to it that feels more like plastic than glass. Whatever it's made of, it attracts grease and fingerprints more easily than the oleophobic glass used by most smartphone displays.
+
+
+
+The display is the one part of a smartphone you're looking at and touching every time you use it, and to maintain a decent user experience it's one of the last things that should be sacrificed in the name of cost-cutting. Nevertheless, it's clear the 510's price tag has taken its toll in this important area.
+
+But despite looking rather unimpressive, the display is perfectly responsive and visible even in bright sunlight.
+
+Category
+  Features
+Display
+  4.7-inch FWVGA (480 x 854, 208 ppi)
+Processor
+  Qualcomm Snapdragon 410 quad-core at 1.2GHz
+Memory
+  1GB
+Storage
+  8GB, SDcard expandable up to 128GB
+Cameras
+  5MP rear, VGA front
+Connectivity
+  Bluetooth 4.0, 802.11n WifiDLNA, HTC ConnectGPS, GLONASS
+Cellular
+  GSM/GPRS/EDGE: 850/900/1800/1900MHzHSPA: 850/900/2100MHzLTE: 800/1800/2600MHzMicro SIM
+Software
+  Android 4.4, KitKat, HTC Sense 6
+Battery
+  2100mAh Li-Po, removable
+Dimensions
+  139.9 x 69.8 x 9.99 mm
+Weight
+  158g
+
+
+If HTC's saving money on the display, it seems the manufacturer's making up for it with the 510's relatively speedy internals. The phone is the first to run Qualcomm's Snapdragon 410 CPU — a quad-core chip at 1.2GHz — which in itself is something of a milestone — the first production SoC to use ARM's Cortex A53 design. Cortex A53 uses the new ARMv8 instruction set, designed to improve performance and power efficiency, and it's also fully 64-bit capable. That said, the current version of Android is very much a 32-bit OS, so the Desire 510 isn't a true 64-bit phone yet.
+
+What it is, though, is pretty damn fast for an entry-level smartphone. Whether it's due to the speedy SoC or HTC's software enhancements, the Desire 510 doesn't feel noticeably slower than its big brother, the Desire 816. We noticed some occasional slowdown when swiping into BlinkFeed from the widget panel, but besides that the 510 gave us a lag-free experience.
+
+
+
+We were also reasonably impressed with the Desire 510's longevity, even when regularly moving in and out of areas with LTE coverage. We managed to get a solid 14 hours of heavy use out of the device before hitting the 35 percent mark, after which it was another couple of hours before the phone hit the low battery warning level. And HTC's Extreme Power Saving mode has made it across too, helping you conserve battery power if you're ever caught short.
+
+
+
+The core Sense 6 experience is here, but fancier features haven't made the cut.
+
+We've seen HTC Sense 6 on a plethora of devices this year, and HTC's UI remains our favorite third-party Android UI. The core experience of Sense has made it across to the Desire 510, though many of the more eye-catching features aren't supported. You'll get BlinkFeed, the home screen launcher with built-in news and social updates, along with theming support throughout all HTC's standard apps. The HTC Gallery experience is intact, complete with video highlights through the Zoe (Beta) app. But many premium features are missing — you won't get Motion Launch, the capability that lets you wake the phone with a double-tap or swipe. And there's no Sense TV on account of the lack of an IR port. Neither is a deal-breaker, but the 510's reduced feature set underscores it's status as a basic, entry-level smartphone.
+
+
+
+The phone's camera setup is unspectacular, with the aforementioned 5-megapixel rear shooter struggling outside of ideal lighting conditions. You'll get reasonable-looking outdoor photos, but indoors or in low light things very quickly become grainy. The same goes for the video camera setup, which records video at 1080p, but without a whole lot of fine detail. And of course you're limited by the fact that it's a fixed-focus camera, so close-ups are largely out of the question.
+
+
+
+
+This is a very basic camera setup for an entry-level smartphone, though you do benefit from the surprisingly wide array of features in HTC's camera app, including EV (exposure value) and ISO tweaking, as well as the ability to save your own presets. So it's better than nothing, but there's far from an abundance of camera tech at your disposal.
+
+
+
+Ultimately, the Desire 510's success will hinge on its eventual retail price.
+
+Ultimately, the Desire 510's success will hinge on its eventual retail price, which at the time of writing remains unknown. And without this crucial information, it's difficult to say whether or not we can recommend it. What we can say is it's a speedy handset for essential smartphone stuff, and HTC's unique software gives it an edge over some of the competition. And the inclusion of 4G LTE in an entry-level product is also a big deal. That said, the main trade-off is a screen that's at best uninspiring, at worst downright ugly.
+
+With HTC positioning this handset below the Desire 610 — a phone which broadly speaking competes with the Moto G — it's easy to see how the 510 might become the manufacturer's answer to the lower-cost Moto E. As such, if HTC can launch the Desire 510 around the £100 mark, it could be a decent low-cost 4G option for those taking their first steps into the smartphone world. In either case, we'd recommend taking a look at HTC's own Desire 610 and Motorola's Moto G before settling.
+
+

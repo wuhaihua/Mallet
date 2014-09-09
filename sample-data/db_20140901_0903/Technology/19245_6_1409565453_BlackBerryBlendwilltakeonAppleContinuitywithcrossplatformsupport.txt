@@ -1,0 +1,13 @@
+BlackBerry Blend will take on Apple Continuity with cross-platform support BlackBerry Blend will take on Apple Continuity with cross-platform support 
+				BlackBerry Blend will take on Apple Continuity with cross-platform support
+			
+									
+								Looks like BlackBerry&#8217;s upcoming updates to the BB10 platform will add some much-needed cross-platform productivity and utilities to the OS. 
+&nbsp;
+BlackBerry Blend, which has leaked in the past, has been leaked once more. The new leak courtesy BBIN.in has given us the best look yet at BlackBerry Blend and what you can do with it. With BlackBerry Blend, users will be able to sync content (including messages) from their BlackBerry handset to the larger screen of a tablet or a PC.
+&nbsp;
+The application will work on Windows, Mac OS X and Android.  In addition to sharing data, you can also reply to messages and chats with Blend on your PC, without unlocking your phone. BBM groups, chats and channels will be synced from your mobile device to the PC, while daily, weekly and monthly agendas will also be available on the connected devices. Users will also be able to add entries to the calendar through Blend.
+&nbsp;
+Businesses using BES10 can enable Blend with a browser that can allow access to the company&#8217;s intranet. Backing up and restoring device data, migrating to another BB10 handset will now be taken care of by BlackBerry Blend. Running Blend will require BlackBerry 10.3 OS or later.
+
+At this stage, Blend looks to be a direct competitor to Apple&#8217;s Continuity and Handoff features, though it does feel more robust thanks to the Windows and Android support. That could be a major advantage as the company prepares to bring back some QWERTY flair to its upcoming smartphones. BlackBerry is expected to launch the Classic and the Passport at the end of this month, according to rumours floating around on fan sites, and it looks like the company is solely focussing on becoming the smartphone choice for workplaces. Of course, Blend will greatly improve the utility and application possibilities of BB10 for these enterprises.

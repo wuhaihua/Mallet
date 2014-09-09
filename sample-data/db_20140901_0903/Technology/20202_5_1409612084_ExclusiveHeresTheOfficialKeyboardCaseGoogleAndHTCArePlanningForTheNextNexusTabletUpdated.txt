@@ -1,0 +1,21 @@
+Exclusive: Here's The Official Keyboard Case Google And HTC Are Planning For The Next Nexus Tablet [Updated] Exclusive: Here's The Official Keyboard Case Google And HTC Are Planning For The Next Nexus Tablet [Updated] 
+
+
+
+
+Earlier last&nbsp;month, we posted an exclusive story about Google's explorations into a product called "Workshop," which would allow users to customize snap-on cases and live wallpapers for their Nexus phones. The effort would be a major step-up in what has historically been an inconsistent lineup of accessories for Google's devices.
+From information made available to us, it appears Google plans to continue upping the offerings when HTC's nine-inch Nexus tablet becomes official. According to our information, the tablet (for now known simply as Flounder or Volantis) will have a range of official accessories from HTC.
+On August 30th, Upleaks tweeted that HTC's tablet (referred to as T1) would have a magic cover (with leather or TPU options) and a keyboard folio, which aligns with what we've seen. Today, however, we have a bit more information about the keyboard folio specifically.
+Disclaimer: No matter the confidence level, there's always a chance product updates, features, and some or all details will be changed or cancelled altogether. As with all rumors, nothing is 100% until it's officially announced. We do not have possession of any APKs or unreleased devices, so please don't ask for them.
+
+The image above is not terribly descriptive of the final product, but the information provided to us does furnish some details about what we're looking at. Like Apple's smart cover, the segmented areas of the cover flap will fold up into a triangle using magnets, supporting the tablet while it is propped up to use the keyboard. When not in use, the tablet will evidently nest into the case on top of the keyboard, with the segmented flap lying over the screen (the magnets will also automatically wake/lock the screen like current covers).
+The keyboard is expected to use Bluetooth 4.0 to pair with the tablet, initiating the pairing process using an embedded NFC chip.
+Interestingly, the keyboard is also expected to have an onboard 450mAh battery. The charging port will apparently be located in the hinge, as shown below, while there will be an indicator light on the opposite side of the hinge for charging/pairing status.
+Update:&nbsp;It's likely that the onboard battery will be used to power the keyboard itself rather than the tablet.
+
+Overall, the accessory measures approximately 228 x 320 x 5 mm, making it a very thin keyboard. The actual keys are apparently around 3mm high, and it seems that the key pitch is around 15mm, making the layout just marginally more cramped than a standard keyboard, jamming in a standard QWERTY layout plus "Android function keys."
+As seen in the image above, the part of the accessory that would actually cover the tablet's screen measures about 228 x 153 mm, which should give us a rough idea of how big the tablet itself will be. Using these dimensions, I've created a basic sketch of what Volantis may look like next to the current-generation Nexus 7.
+
+And of course another sketch, showing the tablet and its keyboard cover accessory.
+
+The existence of an official keyboard case combined with the tablet's alleged 4:3 aspect ratio could signal that Google wants to make a stronger push to sell tablets as productivity devices, more than simply portals to Google Play content. As with any leak, anything can change before release, but we shouldn't have  much longer to wait for official word.

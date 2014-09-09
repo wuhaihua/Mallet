@@ -1,0 +1,102 @@
+Lenovo S860 review: Brilliant battery life, yet not the best in its league Lenovo S860 review: Brilliant battery life, yet not the best in its league 
+				Lenovo S860 review: Brilliant battery life, yet not the best in its league 
+			
+									
+								Announced at the Mobile World Congress this year, the S860 is the eldest brother in Lenovo&#8217;s S-series of smartphones. The biggest selling point of this smartphone is its monstrous 4000 mAh battery that claims to give up to 24 hours of talk time and can also charge other devices via the microUSB port. In our tests, we were pleasantly convinced with the S860’s battery claims, but were they enough to make it a strong contender in the mid-range smartphone segment? Read our in-depth review to find out.
+&nbsp;
+Design and build
+The Lenovo S680 is a large 5.3-inch phone. The screen is broad at three inches so you’ll need to try out the phone yourself to see if it fits your hand comfortably. If you have small hands like me, you might find it way too large to grip easily or hold it during long hours of phone calls. And weighing a hefty 190g, it’s not a phone to be carried in your pocket. The brushed aluminium exterior, and a tablet design with slight curves on the edges makes it very professional-looking &#8211; a refreshing design that we really dig. It has a non-removable cover, so you won’t be able to replace or repair the battery without help from the support team.
+&nbsp;
+Premium looks: Brushed-metal back and metal edges
+&nbsp;
+Also sporting an aluminium bark are the volume and power buttons that are ergonomically placed on the top-right edge, while the back button at the bottom is on the right. You might find the placement of the capacitive buttons slightly odd if you’ve used a Nexus, Sony or HTC phone in the past.
+&nbsp;
+Overall it’s a big, sturdy smartphone that looks elegant and durable.
+&nbsp;
+Features
+The S860 features a huge 5.3-inch IPS display. This might be too large for some, though the size has its advantages if you like watching videos and getting work done with your phone. The 1280 x 720 resolution display is not full HD, so videos and images are not the sharpest we’ve seen on a smartphone. However, webpages and the display in general look great and it’s pretty resilient to reflections in bright outdoors. Viewing angles are pretty impressive, too.
+&nbsp;
+It comes with Android 4.2 out-of-the box, though you can upgrade to Android 4.4.2 as soon as you start using it, since the update has rolled out. The phone runs Lenovo’s launcher along with the Age UI. The homescreen has square icons which you can categorise into folders by dragging an icon over another. There’s nothing downright unfamiliar with the launcher. In fact, it allows adding and deleting widgets and uninstalling apps directly from the home screen. However, there’s no app drawer so all apps get added to the never-ending homescreen layout.
+
+&nbsp;
+Lenovo’s Age UI adds an extra layer to the Android experience. Answering a call requires you to swipe downwards, for example, which you might find odd whether you are an Android user or not. It supports a host of customisations including the ability to choose from six pre-installed themes and lock-screens, and changing the animation style during the boot and how you want to receive notifications.
+&nbsp;
+Other features include a flashlight and ShakeLock which, when enabled, locks the screen when shaken. There’s Driving App to help you focus on the road while using different phone options. You can send messages, make calls and get directions using the voice assistant. The voice assistant is conversational, which means you don’t have to repeat the context or click the microphone button too often. It displays text and icons in large sizes so you can read instructions without going too close to the screen. It works well, though we’re unsure how many people will actually use it.
+&nbsp;
+Driver App interface includes a voice assistant to help you focus on the road
+&nbsp;
+Lenovo also provides unlimited cloud storage on its proprietary cloud app called SYNCit, which should be useful for backing up your device and freeing up space. On the other hand, SHAREit allows you to send documents, photos and apps across devices using Bluetooth, while Lenovo Security that protects your phone from malware, theft and unauthorised use.
+&nbsp;
+Media
+The S860 comes with 16GB of storage space of which 12.25GB is available for use. While this should be enough for most people, you can’t add to this using a memory card. Here’s where Lenovo’s free cloud service could come handy.
+&nbsp;
+The S860 uses the Google Play Music app, which is very straightforward to use. While it comes with limited playback controls, its biggest advantage is that it allows you to save your music library on the cloud and access it from up to 10 devices. We also like the fact that you can access the media player from the lock screen. There’s no FM radio, though, which might disappoint some people.
+Good sound quality from the dual speakers
+&nbsp;
+The dual speakers at the bottom of the phone produce pleasant and loud sound, which come to play when watching videos and playing games. The S860 comes with headphones that include a microphone and handy playback controls. However, they look and feel cheap and produce feeble audio. So you’ll be better off with good headphones of your own.
+&nbsp;
+Simple interface of the Google Play music player
+&nbsp;
+Everyday use
+The phone runs on a quad-core 1.3GHz MediaTek processor joined by 2GB of RAM. This makes it competent for average use and can even take on some large apps. However, it’s not the fastest phone in its league – we noticed the phone lag under heavy use. This was evident even in our benchmark tests.
+&nbsp;
+Benchmark tests show that the S860 isn&#8217;t as powerful as the Xiaomi Mi 3
+&nbsp;
+Sound quality on calls is very good. But because the phone is so large, it can be uncomfortable to hold to your ear for too long.
+&nbsp;
+Overall, the phone is very simple to use. In case you do have problems getting around the different options, Lenovo packs a Tutorial app that explains how to get your way around doing things with the phone.
+&nbsp;
+Battery life
+The Lenovo S860 shines in the battery department. It has an enormous 4000 mAh battery that claims up to 43 hours of talk time and can last 40 days on standby. We can’t help but back this claim as, in our tests, the phone worked tirelessly through nearly four days of use which included a mix of voice calls, web browsing on a Wi-Fi network, playing music and video gaming. On the downside, the 4000 mAh battery takes more than four hours to charge completely.
+&nbsp;
+The device also works as a portable charger, which means if you have the right adapters you can use it to charge other mobile devices on the go.
+&nbsp;
+Connectivity
+The Lenovo S860 is a dual-SIM smartphone (both GSM). It uses micro SIM cards &#8211; one of them can work on the 3G network and the other on 2G.
+Dual-SIM tray for 3G and 2G cards
+&nbsp;
+There’s a 2.0 micro USB slot at the bottom for charging the device and transferring media. Other features include standard Bluetooth and Wi-Fi. There’s no 4G and NFC support, though that’s forgivable for a mid-range smartphone.
+&nbsp;
+Camera
+The 8MP main camera is underwhelming. While outdoor shots look good, the zoom factor is poor. This means far-away objects come out very blurry and pixelated. Images stay true to their colours, though we would have liked them to be more vibrant. It has a broad depth of field, so you can capture a large group without standing too far back. It’s fast at capturing photos, so you don’t miss those must-have moments.
+&nbsp;
+Outdoor shots are bright and sharp
+&nbsp;
+Indoor shots look dull and washed out, while low light shots are equally disappointing. You can increase the camera’s sensitivity to light by boosting the ISO range for better low-light shots. However, increasing it too much adds extra noise to images.
+&nbsp;
+Poor zoom factor
+&nbsp;
+Features include an HDR capture mode for shooting images at a higher resolution, a variety of scene modes and a burst mode that lets you capture a series of 99 or 40 shots in a row.
+Dull colours in indoor shots
+&nbsp;
+The 1.6MP front camera is mediocre. It comes with few useful features such as the option to take a mirror image, set Smart lighting to brighten the image and a timer.
+&nbsp;
+A close-up taken without the flash
+&nbsp;
+Verdict and Price
+&nbsp;
+The Good: Large screen, brilliant battery life, good sound quality on calls, great speakers
+The Bad: Poor headphones, can be too large and heavy for some, average camera, non-expandable memory, non-removable battery
+&nbsp;
+The Lenovo S860 is priced at Rs 22,990. There’s no questioning its battery life – it’s probably the best you’ll get from a smartphone right now. However, its drawbacks overshadow its battery abilities. It’s too large and heavy, and other features such as the camera, screen quality and processor are mediocre at best. Performance is not great either.
+
+The S860 might have been a great buy if it wasn’t for brands like Xiaomi, Motorola and Asus changing the face of the mid-range smartphone scene. Thanks to these brands, you have better options to choose from with the same budget. The Asus Zenfone 5, for example, is a better well-rounded device which offers a faster processor, better display, expandable memory and better photos than the Lenovo S860, though it won&#8217;t last half as long. It all really depends on what you are looking for in a smartphone, and if battery life is your only concern, we cannot recommend the S860 enough.
+
+				
+											Related:
+													#Age UI 
+													#Lenovo 
+													#Lenovo launcher 
+													#lenovo S860 
+													#Lenovo S860 price 
+													#Lenovo S860 specs 
+													#Lenovo S860review 
+													#mid-range smartphone 
+													#S860 
+															
+				
+
+				
+			
+				
+			Premium looks: Brushed-metal back and metal edgesDriver App interface includes a voice assistant to help you focus on the roadGood sound quality from the dual speakersSimple interface of the Google Play music playerBenchmark tests show that the S860 isn&#8217;t as powerful as the Xiaomi Mi 3Dual-SIM tray for 3G and 2G cardsOutdoor shots are bright and sharpPoor zoom factorA close-up taken without the flash

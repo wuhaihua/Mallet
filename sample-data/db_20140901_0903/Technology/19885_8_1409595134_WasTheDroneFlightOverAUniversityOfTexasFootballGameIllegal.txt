@@ -1,0 +1,28 @@
+Was The Drone Flight Over A University Of Texas Football Game Illegal? Was The Drone Flight Over A University Of Texas Football Game Illegal? The University of Texas Police are investigating an unauthorized drone flight by a UT student who flew his drone over Darrell K. Royal – Texas Memorial Stadium. &nbsp;The flight took place during the home opener for the Texas Longhorns football team. 
+The flight is the type of seemingly harmless, yet actually irresponsible behavior that irks many drone enthusiasts. &nbsp;Experienced operators realize that a malfunction or mistake here could have landed the drone on the playing field or in the stands — jeopardizing fan safety or disrupting the game. &nbsp;That type of televised incident might cause substantial harm to the nascent industry as it struggles to overcome public relations problems associated with irresponsible operators. &nbsp;Luckily, existing laws and regulations may already prohibit this type of conduct.
+	
+								 
+The local news station, KXAN reports that UT officials made the following statement:  
+
+ “UTPD observed an unauthorized drone in and around the Darrell K. Royal – Texas Memorial Stadium and watched as it maneuvered and landed on San Jacinto. Officers located the operator, a UT student, who was detained and transported to the police station. The drone was seized, the student identified, questioned and released pending further investigation.
+								
+										 
+ Our top priority is the safety our students, employees, fans and visitors. UTPD Chief David Carter stresses that we are concerned about the use of drones and are investigating the incident thoroughly. The university continually works with local, state and federal law enforcement agencies to maintain the highest levels of safety on our campus.”
+ 
+The report notes that the laws are still evolving, and some people may call for laws to address this conduct. &nbsp;However, it is important to recognize that there are already a few laws and regulations on the books which may address what the operator did. 
+First, in a “notice to airmen” (NOTAM) the FAA classifies the airspace above certain stadiums as: 
+
+ ‘national defense airspace’. Any person who knowingly or willfully violates the rules concerning operations in this airspace may be subject to certain criminal penalties under 49 USC 46307. Pilots who do not adhere to the following procedures may be intercepted, detained and interviewed by law enforcement/security personnel. Pursuant to 14 CFR section 99.7, special security instructions, commencing one hour before the scheduled time of the event until one hour after the end of the event. All aircraft and parachute operations are prohibited within a 3 nmr up to and including 3000 ft agl of any stadium having a seating capacity of 30,000 or more people where either a regular or post season major league baseball, national football league, or NCAA division one football game is occurring.
+										
+										
+ 
+The open question with regard to this NOTAM is whether a drone would be considered an aircraft (an issue that is in dispute after the&nbsp;Pirker&nbsp;decision — the FAA says drones are aircraft, others say they are not). &nbsp;If drones are not considered aircraft for the purposes of this NOTAM, the FAA may want to find a way to update the law to reach this type of conduct which many responsible drone operators would agree should not be allowed. 
+ 
+ 
+  
+  A drone flew over the football stadium at the University of Texas during the team’s home opener (Photo credit: Wikipedia)
+  
+ 
+Second, the flight may violate Texas’ newly enacted drone law. &nbsp;That broad (possibly unconstitutional in part) law, makes it unlawful to use a drone to “capture an image of an individual or privately&nbsp;owned real property in this state with the intent to conduct&nbsp;surveillance on the individual or property captured in the image.” &nbsp;The statute does not define surveillance. &nbsp;Also, the statute has&nbsp;exceptions for images of “public real property or a person on that&nbsp;property” (it’s not clear if the stadium qualifies). &nbsp;Furthermore, the operator could avoid criminal prosecution by following the defense articulated in the statute. &nbsp;That defense allows an individual to avoid charges by immediately destroying the imagery upon learning that collecting it was unlawful (so long as he did not disclose, display or distribute it to a third party). 
+If it turns out that Texas law does not reach this conduct, local officials may want to look to zoning laws to prohibit the launch and recovery of drones within a specified distance of the stadium. &nbsp;The downside to such zoning laws is that if they are broadly written, they will prohibit otherwise safe operations outside the stadium, such as over campus, near tailgates, or elsewhere in Austin and they may also stifle creative videography or aerial journalism. 
+Gregory S. McNeal&nbsp;is a professor specializing in law and public policy.&nbsp; You can follow him on&nbsp;Twitter @GregoryMcNeal&nbsp;or on&nbsp;Facebook.

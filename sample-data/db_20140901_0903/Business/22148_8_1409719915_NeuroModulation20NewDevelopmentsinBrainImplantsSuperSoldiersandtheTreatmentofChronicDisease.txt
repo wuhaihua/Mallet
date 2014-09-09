@@ -1,0 +1,22 @@
+Neuro-Modulation 2.0: New Developments in Brain Implants, Super Soldiers and the Treatment of Chronic Disease Neuro-Modulation 2.0: New Developments in Brain Implants, Super Soldiers and the Treatment of Chronic Disease Brain implants here we come. DARPA just announced the ElectRX program, a $78.9 million attempt to develop miniscule electronic devices that interface directly with the nervous system in the hopes of curing a bunch of chronic conditions, ranging from the psychological (depression, PTSD) to the physical (Crohn’s, arthritis). Of course, the big goal here is to usher in a revolution in neuromodulation—that is, the science of modulating the nervous system to fix an underlying problem. 
+We have known for a while that neuromodulation is effective. Cochlear implants, for example, use electricity to modulate the auditory nerve (really the whole auditory system), while deep brain stimulation has proven itself effective at regulating erroneous neuralelectrical activity and mitigating everything from the tremors of Parkinson’s to the terrors of chronic pain. The potential is there. But so are the issues.
+	
+								 
+As the folks at Extreme Tech recently pointed out:  
+
+ So far, these implants have been fairly big things — about the size of a deck of cards — which makes their implantation fairly invasive (and thus quite risky). Most state-of-the-art implants also lack precision — the stimulating electrodes are usually placed in roughly the right area, but it’s currently very hard to target a specific nerve fiber (a bundle of nerves). With ElectRx, DARPA wants to miniaturize these neuromodulation implants so that they’re the same size as a nerve fiber. This way they can be implanted with a minimally invasive procedure (through a needle) and attached to specific nerve fibers, for very precise stimulation.
+								
+										
+ 
+What makes all of this so much more interesting is the fact that, unlike all the other systems of the body, which tend to reject implants, the nervous system is incorporative—meaning it’s almost custom-designed to handle these technologies. In other words, the nervous system is like your desktop computer— as long as you have the right cables, you can hook up just about any peripheral device you want. 
+ 
+ 
+  
+  English: Complete neuron cell diagram. Neurons (also known as neurones and nerve cells) are electrically excitable cells in the nervous system that process and transmit information. In vertebrate animals, neurons are the core components of the brain, spinal cord and peripheral nerves. (Photo credit: Wikipedia)
+  
+ 
+And that’s&nbsp; exactly what DARPA is doing here: they’re giving us the right cables. 
+Of course, the gap between neuromodulation and neuroaugmentation is slender and the number of abilities—cognitive, emotional, physical—that will be improved is growing. To put this in different terms, earlier versions of this work—also done at DARPA—focused on sensor capability. The goal was to build technology that could monitor a soldier’s brain activity in real time, with the obvious aim of using this to develop better warriors. Those better soldiers have been sidelined for now, as DARPA is now pushing into the far less controversial healing space, but make no mistake this transition is temporary. We’re still building super soldiers, even if we’re soft selling the idea right now.
+										
+										 
+For more like this, follow Steven on Twitter.

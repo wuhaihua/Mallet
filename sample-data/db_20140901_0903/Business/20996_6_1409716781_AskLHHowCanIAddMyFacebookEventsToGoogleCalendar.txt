@@ -1,0 +1,19 @@
+Ask LH: How Can I Add My Facebook Events To Google Calendar? Ask LH: How Can I Add My Facebook Events To Google Calendar? 
+Hi Lifehacker, I&#8217;ve only just recently realised how convenient it would be to sync my Facebook events with my Google Calendar and thus have them pop up on my Android device. I did a quick search to find out how to do this but all the guides seem to relate to an older version of Facebook.
+My main issue is when these guides say go to Events -> Calendars and then click the settings/gear icon. That icon doesn&#8217;t even appear for me. Am I missing something or can this no longer be done?
+Thanks
+Calendar Confused
+Dear CC,
+Facebook&#8217;s regular interface changes mean tasks like this can be fiddly if you don&#8217;t know where to look. Here&#8217;s how to get it done as of today (September 2014).
+
+Assuming you&#8217;re logged into Facebook on your computer, click on Events in the left-hand column (or click this link).
+In the bottom-right corner in the third column, you&#8217;ll see this text: &#8220;You can add your events to Microsoft Outlook, Google Calendar or Apple Calendar. Once you&#8217;ve add them, they&#8217;ll stay updated.&#8221;
+Just under that, you&#8217;ll see a link that says &#8220;Upcoming Events&#8221;. Right-click on that link and select &#8220;Copy link address&#8221; in Chrome, &#8220;Copy Link Location&#8221; in Firefox or &#8220;Copy shortcut&#8221; in Internet Explorer.
+Open Google Calendar (click on this link for quick access). 
+In the left-hand column, you&#8217;ll see a heading: &#8220;Other calendars&#8221;. Click on the drop-down arrow next to it and select &#8220;Add by URL&#8221;.
+Paste in the URL and click &#8220;Add calendar&#8221;.
+
+Once you&#8217;ve done that, all upcoming events should be automatically added to your calendar. You can also use that URL with other online calendars or calendar software. Happy planning!
+Cheers
+Lifehacker
+Got your own question you want to put to Lifehacker? Send it using our contact form.

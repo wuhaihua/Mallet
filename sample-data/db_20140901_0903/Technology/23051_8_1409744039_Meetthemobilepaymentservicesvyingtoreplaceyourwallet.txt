@@ -1,0 +1,113 @@
+Meet the mobile payment services vying to replace your wallet Meet the mobile payment services vying to replace your wallet Image: Michael Homnick
+
+Forget fit tech. Wave goodbye to wearables. The next great frontier in mobile might just be your wallet.
+
+
+Over the last few years, services like Google Wallet, PayPal Mobile, and Apple’s Passbook have sprung up, all with the lofty goal of dragging your wallet out of your back pocket and into the digital age. And things became a lot more crowded in late July when Amazon launched a wallet service of its own.
+
+
+Still, not all mobile payment services are created equal. Which is right mobile offering for the right circumstance? And how does Amazon Wallet fit into the mix? Read on for our take on which digital wallet product is right for which occasion.
+
+Amazon Wallet
+
+
+	
+
+Amazon Wallet doesn’t offer the credit and debit card tie-ins of rival services; at this point, it’s largely a repository for your gift and reward cards.
+
+
+
+
+What it is: At the moment, Amazon Wallet is nothing more than an electronic vault for your gift and rewards cards. Users can scan these cards into the app, use their phone to make in-person and online purchases with gift cards, and have the cashier electronically scan a rewards cards, saving you from toting around a pocket full of plastic. In time, Amazon will likely integrate credit and debit cards into Wallet, making the service immensely more useful, but it’s likely holding off until it can do so in a safe, encrypted way.
+
+
+What it’s best suited for: Because Amazon Wallet’s functionality is a bit limited at the moment, the service is probably best for anyone deeply entwined in Amazon’s ecosystem. That’ll change drastically should Amazon builds credit and debit card payments into the service; for now, the service is a bit too limited compared to the competition.
+
+
+How you use it: The Amazon Wallet beta app is currently available on the Amazon Fire Phone, and for other Android devices running Android 4.0 or higher. After you establish a PIN for security purposes, you can load your cards into the app by either scanning the barcode or entering your account number manually, and snapping a photo of the front and back of your card for easy identification. When you’re ready to use a card, just tap on the card in the Amazon Wallet and hold your phone up to any cashiers so they can scan the barcode that appears on the screen.
+
+
+Where it’s accepted: At launch, Amazon Wallet is accepted virtually anywhere that offers loyalty programs or gift cards, provided you have one of those cards. Approximately 70 retailers, mostly restaurants along with some minor and major retailers, will automatically update your gift card balance. Supported loyalty programs include major retailers like Best Buy and Kohl’s, and local neighborhood shops and boutiques, as long as they are able to scan QR or barcodes.
+
+Google Wallet
+
+
+	
+	
+
+Connect your Google Wallet to your credit and debit card accounts, and you can use your NFC-enabled Android device to pay for purchases.
+
+
+
+
+What it is: Google Wallet is a virtual wallet service that’s trying to replace your actual wallet—especially if you have an NFC-enabled Android device. Phones with NFC chips embedded can pay for purchases at any retailer that uses MasterCard’s PayPass system, provided you have your credit or debit cards connected to the app. Those without NFC-enabled devices can request a physical card that replicates this functionality, though that sort of defeats the purpose of leaving the wallet at home.
+
+
+Google Wallet also lets you request money from and send money to anyone with a Gmail address, which is perfect for managing things like rent payments and restaurant tabs. If you use Google Offers, the company’s daily deal service, you can redeem your purchased offers with your phone as well. And, of course, you also can load in gift and rewards cards into the app to redeem those.
+
+
+What it’s best suited for: If you’ve got an NFC-enabled device in your pocket, Google Wallet is the mobile payment method for you; it’s also fine if you’re comfortable entrusting Google with your credit, debit, or banking information.
+
+
+	
+
+Use Google Wallet to either send money to or request money from anyone with a Gmail address.
+
+
+
+
+How you use it: The easiest way to manage your Google Wallet account is with the company’s iOS and Android apps, but you can also use a web interface to manage payments. With the apps, you can scan or manually enter your reward, gift, debit and credit cards, where they are encrypted and stored until you’re ready to use them. When you first set up Wallet, you’ll be asked to enter a PIN to keep your information secure, and you’ll also need to enter that PIN when you make purchases.
+
+
+The main app screen has buttons to send and request money to anyone who has an email address, and you can view all of your transactions to easily manage your money on the go.
+
+
+When you’re ready to redeem gift cards, use your loyalty cards, or make purchases with your credit and debit cards, tap on them in the appropriate section, and show the barcode to the cashier to redeem. If you have NFC, just tap your phone on the PayPass receiver to trigger payment, and enter your PIN to confirm.
+
+
+Where it’s Accepted: NFC-enabled devices can use Google Wallet anywhere that accepts MasterCard’s PayPass payment system. If you choose to have Google send you the physical Google Wallet card, you can use it anywhere with a card reader as long as you remember to fill up your Wallet balance with enough funds. You can use gift cards and loyalty programs from several major national as well as some local retailers.
+
+Apple Passbook
+
+What it is: If you’re an iOS user, Apple’s Passbook is one of the best digital wallet apps out there. Passbook stores your loyalty cards, store coupons, boarding passes, event tickets, and other types of mobile payments that can be redeemed at local retailers. You can’t store credit or debit cards to use for mobile payments, at least not yet. Apple is currently prepping iOS 8—and, in all likelihood, some new mobile devices that will run the updated operating system—and rumors point to Apple launching a full-fledged payment service this fall, reportedly with the backing of major players such as American Express, Visa, and Mastercard.
+
+
+	
+
+More sophisticated mobile payment options may be on their way to Passbook; for now, it’s a place to store loyalty cards, coupons, tickets, and other mobile data.
+
+
+
+
+What it’s best suited for: We’ll have to wait a week or so to learn whether you’ll be able to buy things just by waving your iPhone 6 around. Until then, if you’re locked into Apple’s iOS ecosystem, Apple Passbook is one of the best virtual wallet solutions for you. It’s deeply integrated into iOS, and dozens of applications  offer Passbook integration so you can easily store and redeem passes from the Passbook app.
+
+
+How you use it: To use Apple Passbook, you can scan your loyalty and gift cards using your iOS device’s built-in camera, or you can add content from one of the several dozen Passbook-enabled apps on the App Store. From the Starbucks app, for example, you can add any Starbucks gift card balances into your Passbook, and Passbook will display an on-screen barcode for the barista to scan. The same goes for event tickets with Eventbrite, boarding passes with several individual airlines, and coupons from the likes of Target and REI.
+
+
+Where it’s accepted: Passbook is accepted at a few dozen retailers including Target, REI, and Home Depot as well as several major airlines such as Delta, American, and British Airways. In total, there are 38 Passbook-related apps on the App Store, so there are some limitations. If Apple expands its payment service this fall, the number of retailers will likely expand; for now, though, you’re limited to the few dozen or so services that have built Passbook into their apps.
+
+PayPal
+
+
+	
+	
+
+PayPal’s mobile payment app is an extension of its web-based offering.
+
+
+
+
+What it is: Among the services listed here, PayPal is the seasoned veteran, having been around since the late ’90s. PayPal is almost ubiquitous with online payments, and didn’t miss a beat when the world started going mobile. The company’s mobile payments app, also called PayPal (available for iOS, Android, and Windows Phone) lets you check in to local restaurants and businesses to pay for your purchases with your connected bank accounts, cards, or PayPal wallet balance. You can also send money to friends and family for free as long as you use your PayPal balance or a connected bank account.
+
+
+What it’s best suited for: PayPal’s really all about mobile payments. Aside from Google Wallet, it’s the only service that can actually replace your wallet somewhat. If you want a service that manages your gift cards, loyalty cards, and event and airline tickets, PayPal is not the right app for you. If, however, you want a wallet solution that’s accepted at several big box retailers like Home Depot, Babies R’ Us, American Eagle, and some local restaurants, you may want to give PayPal a go.
+
+
+How you use it: To use PayPal, you’ll need to log into your account with your PayPal credentials, and add a bank account if you haven’t done so already. The main screen gives you several options for managing your account, from viewing recent activity to transferring money from your bank account to your PayPal balance.
+
+
+But the real meat comes from the Shop section, which you can access via a button at the top left-hand corner of the app. The Shop menu lets you view local retailers and restaurants that accept PayPal payments. Some restaurants will actually let you order right off their menu for delivery, settling your tab with PayPal so you don’t have to mess with receipts, signatures, and tips when your food arrives. For all other retailers, you just tell the cashier you’re paying with PayPal, type in your mobile phone number and PIN, and sit back as your payment goes through.
+
+
+Where it’s accepted: In-store mobile payments with PayPal are accepted at 1.9 million retailers around the US; the PayPal app lets you search for locations near you. In a 5-mile radius around my office, for example, several boutique stores; mall staples like Abercrombie, American Eagle, and Hollister; and big box retailers like Home Depot and Babies R’ Us all let me pay with PayPal. The selection of stores seems fairly broad, so there’s a good chance your favorite local retailer will accept a mobile PayPal payment.

@@ -1,0 +1,11 @@
+VimoGolf Uses Android Wear Watches To Track And Analyze Your Golf Swing VimoGolf Uses Android Wear Watches To Track And Analyze Your Golf Swing 
+
+
+
+There are plenty of things you can do with a smart device strapped to your wrist that happens to be full of motion and orientation sensors. For instance, you can get quick tips on your golf game with VimoGolf. Just fire it up on the watch, and take a swing. 
+
+
+VimoGolf on Android Wear is only used to collect data. The screen tells you when to line up for the swing, when it is ready to acquire data, and when the swing has been successfully logged. The metrics are passed over to the phone app, where a cool 3D reconstruction of your swing is generated. You can learn things like swing speed, impact angle, and swing plane, with more data points coming in a future update. 
+&nbsp;&nbsp;
+Because the watch is on your wrist, it can't tell you about anything you might be doing wrong with your hands. Still, that's a lot of data for a watch. Note, the app will only relay data to the phone when it detects that you've successfully hit the ball (although a solid smack on the wrist at the right time can trick it). Artem caused permanent damage to his garage testing this app, so you should thank him for his dedication/poor planning. There may also be a battery drain issue on the Wear side, but the developer says there are going to be a few bugs to squash&mdash;just be aware.
+

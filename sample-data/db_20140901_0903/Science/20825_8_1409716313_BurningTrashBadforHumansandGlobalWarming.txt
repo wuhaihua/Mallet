@@ -1,0 +1,44 @@
+Burning Trash Bad for Humans and Global Warming Burning Trash Bad for Humans and Global Warming 
+
+
+&nbsp;A burning garbage zone in northeastern Libya.
+Credit: Wikimedia Commons
+
+
+When atmospheric scientist Christine Wiedinmyer first went to Ghana in 2011 to investigate air pollution produced by burning different materials &mdash; from crop stubble to coal used in stoves &mdash; she noticed an unexpected potential source: burning piles of trash.
+Like most residents of developed nations who hadn&rsquo;t traveled broadly in the developing world, the sight of smoldering rubbish piles, which contain anything from food waste to plastics to electronics, came as a surprise to Wiedinmyer, who works at the National Center for Atmospheric Research&nbsp;in Boulder, Colo.
+&ldquo;It&rsquo;s just not something that I&rsquo;ve been exposed to,&rdquo; she told Climate Central. In the U.S., &ldquo;we have waste management. We have people who pick up trash and take it away.&rdquo;
+Ghana, Nepal, Mexico and other developing countries often lack the tax bases and infrastructure needed to put such systems into place. So residents and governments often burn piles of their trash in the open; removing the garbage from the land but transferring it to the skies. Some 40 percent of the world&rsquo;s waste may be dealt with in this way.
+Wiedinmyer wondered if this burning waste could be an underappreciated source of air pollutants, from greenhouse gases like carbon dioxide to tiny particles and toxic chemicals that can harm human lungs.
+&ldquo;I was curious to see how big that source was,&rdquo; she said.
+Wiedinmyer set out to produce the first global estimates of burn-related pollution. The result, detailed in July in the journal Environmental Science &amp; Technology, suggests that burning trash isn&rsquo;t just bad for human health -- it could pump more greenhouse gases into the atmosphere than had been realized.
+&lsquo;First Best Guess&rsquo;
+Wiedinmyer pored through existing data and inventories and consulted one of the few people already investigating the phenomenon, Bob Yokelson, an atmospheric chemist at the University of Montana in Missoula, who had traveled widely to developing areas and was familiar with the trash burning around homes and villages.
+&ldquo;If you do research or travel in developing worlds, you do see garbage burning in a lot of places,&rdquo; he told Climate Central. Working in Indonesia in the 1990s, he said, there was an old man who would come around and gather everyone&rsquo;s trash, then burn it at the end of the street.
+Yokelson, who is another author of the recent paper, had made some measurements in Mexico of what sort of pollutants were being emitted by trash burning. The U.S. Environmental Protection Agency has catalogued emissions from trash burning in the rural areas of the U.S. But Wiedinmyer found that, on a global scale, &ldquo;there wasn&rsquo;t kind of a consistent story.&rdquo;
+To find that story took a lot of digging around and some educated guesswork. Along with data from the few studies like Yokelson&rsquo;s, Wiedinmyer used guidelines for calculating trash burning emissions produced by the Intergovernmental Panel on Climate Change to determine how much waste was being generated and burned, what exactly was in that waste, and what types of chemicals were likely generated. What she came up with was, as the study describes it, &ldquo;the first comprehensive and consistent estimates of the global emissions of greenhouse gases, particulate matter, reactive trace gases, and toxic compounds from open waste burning.&rdquo;
+Or, as Wiedinmyer puts it, &ldquo;it was my first best guess.&rdquo;
+What&rsquo;s in the Emissions
+What she found was that some 1.1 billion tons of waste, more than&nbsp;40 percent of the world&rsquo;s garbage,&nbsp;is burned in open piles,&nbsp;contributing more emissions than is shown in regional and global inventories.
+An estimated&nbsp;40 to 50 percent of the garbage is made up of carbon by mass, which means that carbon dioxide is the major gas emitted by trash burning. Those emissions are dwarfed by others sources on the global scale, such as cars and power plants, amounting to just 5 percent of total global carbon dioxide emissions. But the carbon dioxide that comes from trash burning can be a significant source in some countries and regions, and it is one not reflected in the official greenhouse gas inventories for those places.
+The more interesting and concerning story to Wiedinmyer are the other pollutants, which accounted for far bigger percentages of global emissions. For example, as much as 29 percent of global anthropogenic&nbsp;emissions of small particulate matter&nbsp;(tiny solid particles and liquid droplets from dust to metals &nbsp;that can penetrate deep into the lungs) come from trash fires, she estimates. About 10 percent of mercury emissions come from open burning, as well as 40 percent of&nbsp;polycyclic aromatic hydrocarbons&nbsp;(PAHs). Such pollution can cause lung and neurological diseases, and have been linked to heart attacks and some cancers.
+&ldquo;I was really surprised at the magnitude&rdquo; of some of these pollutants coming from trash burning, Wiedinmyer said.
+Just a Starting Point
+Of course, the work is just a starting point, Wiedinmyer and Yokelson&nbsp;said. It shows that the problem of pollution from trash burning is big enough that it warrants further study to try and narrow down the large uncertainties inherent in the study&rsquo;s estimates.
+&ldquo;Can we do better? Can we do more to constrain it?&rdquo; Wiedinmyer said.
+More measurements of the kind Yokelson has made are among the biggest holes needed to be filled to get more fine-tuned numbers.
+So, too, is a better understanding of what&rsquo;s in the trash in different regions, since emissions from organic matter like food are very different than those from plastics. &ldquo;That&rsquo;s one of the big unknowns,&rdquo; Wiedinmyer said. &ldquo;What&rsquo;s in the trash?&rdquo;Wiedinmyer also wants to put her estimates into models of climate and air movement and see if they match up with current air observations. She wants to figure out which populations the pollution might be affecting, and where it is interacting with other pollution sources.
+Overall, it&rsquo;s an issue &ldquo;that I think should get more attention,&rdquo; Wiedinmyer said.
+Eri Saikawa, who studies air pollution and its health impacts at Emory University, and wasn&rsquo;t involved in the new study, plans to use Wiedinmyer&rsquo;s data in a model to see how it matches observations in China and Southeast Asia, and to see how trash burning might be contributing to the substantial amounts of air pollution there.
+&ldquo;What they&rsquo;re interested in is where they can reduce emissions,&rdquo; Saikawa said of policymakers she has met with in China. Currently the focus has been on power plants and cars &mdash; trash burning hasn&rsquo;t been part of the conversation.
+Reducing emissions from trash burning isn&rsquo;t an easy prospect in many areas, though. In Nepal, where Yokelson plans to do further work this year and next, the government is well aware of the problem, but it can&rsquo;t afford the kind of highly efficient incinerators&nbsp;that would get rid of much of the emissions from trash.
+&ldquo;It&rsquo;s expensive to get rid of garbage cleanly,&rdquo; Yokelson said.
+And it&rsquo;s not clear how much of an effect reducing this source of pollution would have in different areas.
+But, &ldquo;you need to make a small step to make a big step,&rdquo; Saikawa said. &ldquo;This kind of study is very important to figure out what needs&rdquo; to be done.
+You May Also Like:
+Climate Change Ups Odds of a Southwest Megadrought
+See How This Summer's Temperatures Stack Up
+Coal Plants Lock in 300 Billion Tons of CO2 Emissions
+Crowdsourced Photos Provide Drought Snapshots
+A Tale of Two Cities: Miami, New York and Life on the Edge
+This article is reproduced with permission from&nbsp;Climate Central. The article was first published on September 2, 2014.

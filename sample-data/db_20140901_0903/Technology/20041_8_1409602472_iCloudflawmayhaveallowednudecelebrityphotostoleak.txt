@@ -1,0 +1,6 @@
+iCloud flaw may have allowed nude celebrity photos to leak iCloud flaw may have allowed nude celebrity photos to leak 
+A funny thing happened on the Internet Sunday as a cache of nude photos of Kate Upton, Jennifer Lawrence, and other big-name stars made their way onto 4chan, as BuzzFeed notes. Reports indicate that this leak may have been the result of a hacker (or hackers) taking advantage of a flaw in Apple’s iCloud service.
+According to TheNextWeb, a hacker may have used a Python script posted to GitHub to hack their way into celebrities’ iCloud accounts. The script, TheNextWeb reports, uses a flaw in Find My iPhone to make it easier to crack a password using “brute force” means where hackers use a piece of software to repeatedly guess a password.
+This exploit reportedly disabled any “lockout” mechanism to keep hackers from brute-forcing a password. It also went around iCloud’s security notification feature, TheNextWeb notes, so users apparently had no idea that their accounts were compromised.
+The motivation for the attack seems to be financial in nature: BuzzFeed reports that the hacker posted the photos to 4chan “in an attempt to earn bitcoins.”
+TheNextWeb says that it appears that Apple has corrected the flaw, but as of this writing, Apple has yet to comment on the matter. 

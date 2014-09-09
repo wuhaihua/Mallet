@@ -1,0 +1,23 @@
+Is it Safe to Use the Cloud for Your Small Business? Is it Safe to Use the Cloud for Your Small Business? Think you are protected when you confiscate an ex-employee's computer and mobile phone? Well, think again.
+
+Countless businesses are leaving themselves vulnerable simply because they don't cancel cloud based accounts, according to new research by cloud services provider Intermedia and Osterman Research.
+
+"It's not something businesses think about when they lay off a person," says Michael Gold, president of Intermedia. "They are focused on getting back the computer, paper files and keys. But with the cloud in particular, these employees have access to everything."
+
+Intermedia and Osterman polled nearly 400 businesses to get a sense of the risk environment. According to Intermedia, the average small and medium sized business is juggling more than 14 cloud apps, with an average of 5.5 apps per user, making it impossible for companies to control all of them.
+
+The result: according to Intermedia 89% of ex-employees surveyed are walking away with their passwords, continuing access to things like Saleforce, PayPal, email, SharePoint, Facebook and other sensitive business applications, even though they no longer work at the company. Of those respondents who still have access, 45% said they retained access to confidential information while 49% admitted to logging on after leaving the company.
+
+Although the reasons vary as to why companies are letting employees leave with their password and active accounts, the survey found that a lot of the problem occurs during off boarding.&#160;
+
+In addition to being able to access company data as an ex-employee, companies are making it way too easy for former workers to leave with work files stored in their personal cloud. Take Dropbox, the popular storage app, as an example. According to Gold, many employees use Dropbox for their work and personal data, and meld the two. When that employee leaves, he or she still has access to all that work data being stored in the cloud. According to the survey, 68% of respondents said they walked away with company data and 88% said they retained access to the file-sharing services they used at their old job.
+
+So what can you expect to face if you have a lackadaisical approach to your business apps? According to Intermedia, it could mean stolen secrets, lost data, regulatory compliance failures and data breaches. You can also face sabotage and hacker attacks, all of which spells lots of money to fix.
+
+But your small business doesn't have to become another statistic. Gold says there are easy things to implement to make sure your former employees aren't walking away with all your important data.
+
+"You have to have more rigorous practices around providing access and off-boarding employees," says Gold. He says it's also a good idea to eliminate shared logins when it comes to apps.
+
+"Why should ten people share the same login and password," says Gold. "Some businesses think they are saving money having everyone log in to the same Salesforce account, but it's not good practice." What's more, Gold says you need to have a check list when an employee leaves. The list should include every application the employee has access to.
+
+"A lot of it is common sense, but people don't do it," he says.

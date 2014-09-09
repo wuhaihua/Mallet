@@ -1,0 +1,13 @@
+Firefox for Android update adds language switching, history clearing and more Firefox for Android update adds language switching, history clearing and more 
+
+Mozilla has released a new version of its Firefox browser for Android that adds a number of new features, including a way to switch to any of the browser's 55 supported languages and a quick way to clear the app's history.
+
+
+
+Mozilla said, "With the new language switching feature, you can easily choose between and set a language without restarting your browser." The browser also now supports enian, Basque, Fulah, Icelandic, Scottish Gaelic and Welsh. The History home page now has a "clear browsing history" selection on the bottom that instantly does just that when pressed.
+
+There's also more support for customized home screens, with Mozilla stating, "We have created home screen pages that allow you to access content directly from a variety of websites, feeds and services, such as Instagram, Pocket, Vimeo and Wikipedia." Finally, Firefox Sync, which allows users to sync up their passwords and more when using different versions of the browser, is now available to access on top of the tabs.
+
+What do you think of these new features for the Android port of Firefox?
+
+Source: Firefox blog

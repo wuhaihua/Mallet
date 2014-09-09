@@ -1,0 +1,9 @@
+Paranoid Android 4.6 Beta 1 Adds Colorful Dynamic System Bars Paranoid Android 4.6 Beta 1 Adds Colorful Dynamic System Bars 
+
+
+
+The first beta of Paranoid Android 4.6 has been made available for download and it includes a feature the team has been working on for some time. Dynamic System Bars (DSB) allows the status and navigation bars to match the action bar color in apps. If you've ever used the Tinted Status bar mod for Xposed, this is a similar idea. 
+
+
+The developers are careful to point out this feature is still in need of tweaking. There are some performance issues when DSB is enabled, which can cause unwanted battery drain. However, the feature is stable enough that it's ready for a beta build at least. Google is going to make the status bar color a feature in Android L with Material Design, but Paranoid Android is going there now. 
+Also included in 4.6 Beta 1 is support for a swipe up gesture to dismiss Hover notifications and optimizations in the Hammerhead kernel. The update can be downloaded for devices like the Nexus 7, OnePlus One, and Nexus 5 on the Paranoid Android site. 

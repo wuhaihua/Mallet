@@ -1,0 +1,21 @@
+Apple 'actively investigating' alleged hack that revealed nude celebrity photos Apple 'actively investigating' alleged hack that revealed nude celebrity photos 
+    
+      
+    
+    
+
+
+
+
+
+        Apple says it is "actively investigating" an alleged exploit to its iCloud service that allowed hackers to post dozens of private celebrity photos to public message boards this weekend. "We take user privacy very seriously and are actively investigating this report," said an Apple spokesperson to Recode. Among the pictures posted to the Reddit and 4chan message boards were nude photos of celebrities Jennifer Lawrence, Kate Upton, Kirsten Dunst, and numerous other models, actresses, and athletes.
+"We take user privacy very seriously and are actively investigating this report."
+
+  
+
+  
+
+
+
+Though it hasn't yet been confirmed that the pictures came from iCloud accounts, reports have speculated that the hackers used a recent tool called iBrute, which can repeatedly try different combinations of passwords on Apple's Find My iPhone service until one of them works. Once Find My iPhone is breached, it is possible to access iCloud passwords and view images and other data stored in a user's iCloud account. Apple had previously allowed an unlimited number of password attempts on the Find My iPhone service, but it has since limited it to five attempts, making the iBrute tool ineffective.
+The Verge has reached out to Apple for further comment on the matter and will update this article when we have it.

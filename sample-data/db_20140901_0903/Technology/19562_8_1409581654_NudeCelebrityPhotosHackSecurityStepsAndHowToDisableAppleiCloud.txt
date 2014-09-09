@@ -1,0 +1,49 @@
+Nude Celebrity Photos Hack: Security Steps And How To Disable Apple iCloud Nude Celebrity Photos Hack: Security Steps And How To Disable Apple iCloud Let’s be clear about one thing: right now we don’t yet know whether the nude celebrity photos hacking scandal can be blamed on security vulnerabilities in Apple iCloud. Certainly this is being widely circulated and it was my first thought on Twitter last night, but there is no proof. 
+What is beyond doubt, however, is the hacks have made a lot of people uncomfortable about using Apple’s iCloud backup service so for those of you keen to act this is how you get your data off it.
+	
+								 
+&nbsp; 
+The Quick Kill
+								
+										 
+WARNING: Be sure to have your photos saved on your PC (if you wish) before you do this.  
+ 
+ Go to the settings menu on your iPhone or iPad (‘System Preference’ on Mac OS) 
+ Open the ‘iCloud’ category 
+ Switch off Photostream (which automatically uploads photos to iCloud) 
+ Repeat this on all your Apple devices 
+ 
+&nbsp; 
+The Less Drastic Step – Two Factor Authentication &nbsp; 
+‘TFA’ is offered by Apple as well as rivals Google, Microsoft and social media networks like Facebook and Twitter. TSV greatly increases your security of your data as it requires both your password and a PIN provided by one of your devices or using SMS before it can be accessed from an unknown device.
+										
+										 
+&nbsp; 
+The problem is the small inconvenience of this extra step means many don’t bother to switch it on. Myself and any security expert will tell you it is worth the extra hassle. So: 
+ 
+ Go to&nbsp;My Apple ID 
+ Select ‘Manage your Apple ID and sign in’ 
+ Select ‘Password and Security’ 
+ Under Two-Step Verification, select Get Started&nbsp;and follow the onscreen instructions. 
+ 
+&nbsp; 
+ 
+&nbsp; 
+You can also find guides to enable two step verification here for: Google, Twitter, Facebook and Dropbox. 
+&nbsp; 
+Stay Calm 
+It won’t take long to discover whether yesterday’s hacks were through weak user security or a company vulnerability. Speaking to Chris Boyd, Malware Intelligence Analyst at Malwarebytes, he stresses there is a clear difference from the usual hack attempts: 
+&nbsp; 
+“This is an intriguing twist on the usual personal data breach story,” he explained. “Whereas typically value is created by packaging up vast numbers of unknown people’s information, in this case the individual responsible has allegedly targeted a small set of extremely valuable targets.” 
+&nbsp; 
+As it stands there is no reason to believe the hacks will widen and with the Cloud widely heralded as the future of computing the main players will be desperate to take the necessary steps to regain user confidence. 
+&nbsp; 
+___ Follow @GordonKelly 
+&nbsp; 
+More on Forbes 
+
+
+ 
+ Click for full photo gallery: The Most Overexposed Celebrities 2014
+ 
+Gordon Kelly is an experienced freelance technology journalist who has written for Wired, The Next Web, TrustedReviews and the BBC. Find him on Twitter @gordonkelly and follow his Facebook Page

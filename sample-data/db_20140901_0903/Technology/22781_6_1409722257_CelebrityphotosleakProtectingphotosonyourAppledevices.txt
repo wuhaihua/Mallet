@@ -1,0 +1,39 @@
+Celebrity photos leak: Protecting photos on your Apple devices Celebrity photos leak: Protecting photos on your Apple devices 
+				Apple's iPhone 5s is seen in this file photo. Reuters 
+			
+									
+								Personal privacy on smartphones, tablets, and other devices is a serious issue for many of us, given that smartphones are now an essential part of our daily lives. And if you&#8217;re a celebrity, your digital privacy becomes even more vital. So when nude photos of high-profile celebrities like Jennifer Lawrence, Kate Upton and Ariana Grande are leaked, it&#8217;s not only sickening but also brings forth the issue of how important digital privacy is and how vulnerable the regular user can be.
+&nbsp;
+As far as the celebrity leak is concerned, the spotlight is also on Apple since it is believed that the photos were probably stolen or hacked from the iCloud account of some celebrities.
+&nbsp;
+Apple has issued a statement saying, &#8220;After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet. None of the cases we have investigated has resulted from any breach in any of Apple’s systems including iCloud or Find my iPhone. We are continuing to work with law enforcement to help identify the criminals involved.&#8221;
+&nbsp;
+The timing of this leak couldn&#8217;t have been worse for Apple, given that the company is planning to launch its new iPhone 6 on 9 September. Some security experts have blamed Apple for failing to make its devices and software easier to secure through two-factor authentication, which requires a separate verification code after users log in initially.
+&nbsp;
+The iCloud service currently lets users sync photos, documents, videos across other Apple devices. For instance, if you have an iPhone and iPad, the iCloud service will let you sync your photos in a folder called My Photos stream and you&#8217;ll be able to see pictures that you might have taken on the iPhone on other Apple devices as well. While Apple maybe have said that the breach was a result of attacks that are &#8220;too common on the Internet&#8221;, on social media the company&#8217;s privacy policy and image has taken a serious beating.
+&nbsp;
+The problem is that while the hackers have obviously chosen to reveal nude pictures of celebrities since they carry the most shock value on the Internet, it is not clear if other users too have been affected by these &#8216;common&#8217; attacks.
+&nbsp;
+If you are an Apple user, here are some steps you need to take to secure the cloud.
+&nbsp;
+Deleting photos
+&nbsp;
+This should always be your first option, if you don&#8217;t want a picture getting shared. Even without the fear of hacking, there&#8217;s always a risk that someone might pick up your phone and go through the pictures and secretly share it online without your knowledge. Just click on a photo and at the bottom you will a little trash symbol and hit that. The photo will be gone from the device.
+&nbsp;
+Do note if you want to delete it from your Photos Stream as well, then to go the My Photos Stream tab and then delete these pics. When you hit delete, Apple will prompt you that the picture is going to be deleted from all devices and the iCloud, which is exactly what you want.
+&nbsp;
+Stopping the Photos Stream
+&nbsp;
+If you love taking selfies, and are worried that some private pictures are already on the iCloud and want to keep them safe, the best way to ensure this is to turn off the Photos Stream, which is constantly uploading your Photos to the iCloud servers.
+&nbsp;
+For instance, in the Photos app if you see a tab called My Photos Stream, this means that your iCloud service is currently only. To switch this off, go to Settings, click on Photos and Camera section and turn off My Photo Stream. You can also turn off Photo Sharing, which allows users to create Photo Stream to share with other people. This will ensure that your pics don&#8217;t end up on the cloud and you&#8217;re not sharing private pictures without realising.
+&nbsp;
+Remember once you switch off My Photos Stream, Apple will automatically delete these pics from the Stream, so it&#8217;s best you save it somewhere else first, preferably a hard-disk or drive that doesn&#8217;t have constant internet connectivity. If you have other Apple devices, switch off the My Photos Stream there too, please.
+&nbsp;
+iCloud password
+&nbsp;
+Your iCloud password is the same as the one you have for your Apple ID and do make sure that this one is secure. Sure having a long password with Capital letters, special characters, etc can be a pain especially, when you have to enter that complicated password each time to buy a new app on your Apple device, but do note that it is worth the effort in keeping your device secure. Not only does an iCloud hack affect your personal pictures, there&#8217;s a possibility that your credit card information could fall in the wrong hands. Passwords with personal details should be avoided as social media has made it possible for strangers/hackers to gleam this kind of information rather easily. Here&#8217;s how you can make a stronger, more secure password.
+&nbsp;
+Go old school
+
+If you&#8217;re paranoid that you&#8217;re pictures are going to end up on the web, somehow, then we suggest it&#8217;s best to go old-school. Forget about those selfies from your iPhone with the duck face. Bring out that old DSLR or SLR, the one that does have an Internet connection, and take only photos on that. When transferring these pictures to your computer, make sure you&#8217;re not online, and your computer is virus and spyware free and then quickly transfer them to something that has no connectivity.  It might sound a little drastic, but if you believe in taking &#8216;risky&#8217; pictures, we suggest you drop the iPhone or even Android for doing this and instead stick to devices that are Internet free.

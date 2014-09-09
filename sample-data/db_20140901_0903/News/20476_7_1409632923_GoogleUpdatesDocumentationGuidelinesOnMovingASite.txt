@@ -1,0 +1,25 @@
+Google Updates Documentation & Guidelines On Moving A Site Google Updates Documentation & Guidelines On Moving A Site 
+								
+							
+							
+							Google Webmaster Trends Analysts, Pierre Far and Zineb Ait Bahajji, posted on the Google Webmaster blog today that they&#8217;ve updated their official guidelines for moving your web site and having Google in mind when doing so.
+They broke out the process based on two ways of moving your site:
+(1) Move a site with no URL change
+(2) Move a site with URL changes
+With the first, i.e. no URL change, this is typically when you upgrade your site&#8217;s content management system to a new platform and you have the same domain name and URLs, but you may move the site to a new hosting company.
+The second, i.e. with URL changes, is typically when the URL changes, such as the protocol URL, i.e. http://www.example.com to https://www.example.com, the domain name changes, i.e. example.com to example.net and/or the URL paths change, i.e. http://example.com/page.php?id=1 to http://example.com/widget.
+Google said they&#8217;ve &#8220;seen cases where webmasters implemented site moves incorrectly, or missed out steps that would have greatly increased the chances of the site move completing successfully.&#8221; Because of this, they&#8217;ve upgraded their content in the
+moving your web site guidelines to help webmasters along the process.
+You can view the updated guidelines over here.
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

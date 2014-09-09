@@ -1,0 +1,13 @@
+Apple Says iCloud And Find My iPhone Were Not Breached In Celeb Photo Leaks Apple Says iCloud And Find My iPhone Were Not Breached In Celeb Photo Leaks 
+
+        
+
+      
+
+      In light of the hacks that resulted in the leak of nude photos of Jennifer Lawrence, Kate Upton, and other celebrities, Apple said Tuesday its investigation finds none of these cases resulted from a breach of its iCloud or Find my iPhone services.
+
+"After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords, and security questions, a practice that has become all too common on the Internet," the Cupertino, California-based company said in a statement. "None of the cases we have investigated has resulted from any breach in any of Apple’s systems including iCloud or Find my iPhone."
+
+Though Apple didn't clarify if the breach originated from iCloud, its response suggests hackers stole account information or correctly answered security questions--not a difficult feat, given that much of a celebrity's life is documented online--in order to gain access to the celebrity accounts.
+
+Media outlets previously reported that a bug in Find my iPhone could have been the cause of these leaks. To protect against such targeted attacks, Apple is advising users to use strong passwords and two-step verification.

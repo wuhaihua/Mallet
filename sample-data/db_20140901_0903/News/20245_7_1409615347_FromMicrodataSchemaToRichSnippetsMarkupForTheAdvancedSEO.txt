@@ -1,0 +1,190 @@
+From Microdata & Schema To Rich Snippets: Markup For The Advanced SEO From Microdata & Schema To Rich Snippets: Markup For The Advanced SEO 
+								
+							
+							
+							Last week, I attended the SMX Advanced session, &#8220;From Microdata &amp; Schema To Rich Snippets: Markup For The Advanced SEO,&#8221; moderated by Elisabeth Osmeloski with speakers Marcus Tober, founder of Searchmetrics Inc., Julia Gause, Director of SEM for Scripps Network and Stephan Spencer, CEO of Koshkonong LLC.
+Just prior to the session starting, Bruce Clay, the session&#8217;s sponsor, told Stephan Spencer and I that he had some pages where he&#8217;d used multiple schema/markup types on the same page along with the data highlighter—simultaneously—with the result that Google is displaying different rich snippet presentations, according to the type of search query. For instance, showing review stars on one query, author markup on another, etc. Interesting! I&#8217;m not surprised that different types of keyword searches might invoke different displays.
+
+Stephan Spencer creator of Science of SEO is up first. He reveals that RDFa&#8217;s current version is 1.1. Stephan completely blasts through over 60 slides, mentioning many types of rich snippets and markups without delving deeply into any one.
+I&#8217;ll regurgitate the things he mentions in terse bullet points below.
+Rich Snippets:
+
+Rich snippets boost clickthrough on your Google listings
+Author headshots
+Video thumbnails
+Star ratings
+On product pages
+On category pages (based on aggregate ratings)
+
+Benefits of Google+ Authorship Markup:
+
+More clicks
+Additional listings show up if the searcher hits the back key after visiting the page!
+
+
+There are misfires with Google authorship. Example: multiple authors of Stephan&#8217;s co-authored book, The Art of SEO, were mentioned on Stephan&#8217;s Search Engine Land author page, but resulted in Eric Enge&#8217;s photo showing up for the author page instead of Stephan&#8217;s.
+How to get nice video thumbnails &#8211; add one of the supported formats to the on-page markup:
+
+Schema.org/VideoObject (recommended)
+Facebook Share
+Yahoo’s RDFa
+
+Other tips:
+
+Validate the code using Google&#8217;s Structured Data Testing tool after implementing.
+Add Facebook Share Video Markup.
+Submit a Video XML Sitemap.
+Leverage Schema.org Rich Snippets:
+
+Reviews (Ratings)
+Aggregate Reviews
+Product/Offer
+Breadcrumbs
+Events
+
+
+
+Ratings &amp; Reviews:
+
+http://schema.org/Rating
+Not always shown in SERPs, depends on trust
+Improves visibility, trust, and CTR
+
+One clever use of Microformats is to use Aggregate Reviews.
+
+It works with http://schema.org/AggregateRating.
+Product/Offer:
+
+Product http://schema.org/Product
+Offer (selling a product) http://schema.org/Offer
+Gives engines a lot more product related data
+So far only additional display in SERP is price
+Prices in SERP display can increase CTR
+
+Breadcrumbs:
+
+http://schema.org/WebPage&#8221;&gt;schema.org/WebPage
+Adds Breadcrumb links to SERP
+Makes your listing stand out
+Adds more links to your site to SERP
+Potential for higher CTR
+
+
+Events http://schema.org/Event
+Location Schema (for Businesses or Attractions)
+How-To Use Google Data Highlighter:
+
+Found in WMT &gt; Optimization &gt; Data Highlighter
+Used to create semantic markup in WMT only
+Adds no code to page
+Competition can’t see your markup
+Good for non-techie clients and sites
+Hard to scale for large sites (though you can build “page sets”)
+For articles, events, local businesses, movies, products, restaurants, software apps, TV episodes
+
+How–To: Google Structured Mark-up Helper
+
+Found in WMT &gt; Other Resources &gt; Structured Data Markup Helper
+Marks up same data types as Highlighter
+Outputs actual HTML code
+Can work for web pages or emails
+You can play around with it for any site
+Page by page basis
+Useful for small sites or building examples of code for developers
+
+Open Graph Markup
+
+For marking up data for Facebook
+http://developers.facebook.com/docs/opengraph/
+Cool new feature based around location markup
+http://searchengineland.com/seo-for-facebook-open-graph-search-150772 for more info
+Adds Facebook pages for each location when a location page with OG markup is “Liked” (this is very cool!)
+Allows easy build out of location pages for FB
+
+Which Type of Semantic Markup to Use?
+
+RDFa or Schema.org Microdata?
+Schema.org created by the engines to be search friendly
+Schema easier to understand
+RDFa conforms to W3C standards
+Newer RDFa Lite basically mirrors Schema
+Read this then decide:
+http://manu.sporny.org/2012/mythical-differences/
+
+Stephan says he thinks RDFa Lite is probably the most compelling choice.
+Stephan&#8217;s predictions: what&#8217;s next?
+
+More and more data types to be supported in Schema
+More integration of semantic data into the SERPs
+Engines displaying more data directly in the SERPs
+How can you add value to data, not just provide the data itself?
+
+Now What?
+
+What can you do tomorrow that will improve your site’s SEO? Write down 3 things. Get ‘em done!
+Remember: you eat an elephant one bite at a time
+Just pick one thing out of his list and get it done and you&#8217;ll be ahead.
+
+View the complete presentation by Stephan Spencer here:
+[slideshare id=23176402&amp;doc=stephenspencer-schemajune2013-130619000130-phpapp01]
+Marcus Tober of SearchMetrics is up next.
+Marcus says the Web is filled with a lot of useless stuff (shows a slide of garbage). He shows a bar graph charting over time of how many pages/sites has had yearly over time.
+Amazon.com doesn&#8217;t use schema, but Google knows the structure of their site, so Google displays it with rich snippets.
+Marcus segues into some &#8220;Pimp My Snippet&#8221; recommendations.
+He first compares sites with movie reviews and product/prices that have slightly different displays in the SERPs. Then he shows examples of different recipe markup integrations, using &#8220;apple pie&#8221; search.
+At Searchmetrics, he analyzed over 60K+ keywords from 415K+ domains.
+Less than 1% (0.27%) of U.S. domains are without Schema integration.
+They analyzed the SEO Visibility of sites with or without Schema integration. 69:1 sites were more visible with Schema than without.
+Schema is distributed according to content types:
+
+
+Highest penetration of schema types is one or two elements used on the page. (Number of schema types displayed in the SERPs).
+The statics for the average ratings for content shared:
+
+4-5 stars: 63.42%
+2.5-3.5 stars: 31.16%
+0-2 stars: 5.42%
+
+The Average Ranking with Schema: #22. Without Schema: #25. Higher rankings could be due to larger brands incorporating Schema, but it could also be due to higher visibility.
+On average, content will have 3 positions worth of higher rankings if Schema is incorporated.
+Julia Gause of Scripps Network Interactive is up now, to relate her experience with recipe-rich snippets for major food/recipe sites (Food Network, Food.com, Travel Channel, HGTV, etc).
+In 2010, Google contacted Scripps Networks Interactive and others in the food category to add hRecipe microformats to their recipe pages, and they gladly joined in.
+Why did Google want to add the markup for recipes? Her answer: Food porn! It made sense for Google to take advantage of that, what with people wanting to take pics of their food and share it online.
+She shows some examples where the recipe snippet shows along with image search results.
+She comments on one example of a hybrid recipe/author markup page, saying that she thinks that the author markup detracts from the recipe. (I&#8217;m slightly dubious when she states this, because the one with the author markup ranks in #1 position, vs. the other items).
+She shows another example SERP where they have three pages ranking for the same query on the same SERP.
+Incorporating rich snippets increased their traffic around 42%.
+
+FoodNetwork.com saw a 10% increase in CTR in the first 60 days.
+They used both hRecipe and Schema simultaneously for a while. After switching totally to Schema, they saw no change in display of snippets in Google. No increase in traffic from Bing, Yahoo nor Google. Yahoo!&#8217;s display is different—the specialized recipe features their pages, while the inline listings in search results do not.
+Google is hungry for rich snippet markup.
+Scripps has implemented other Schema markups, too.
+For video, they&#8217;ve seen inconsistent rich snippets appearing—with thumbnails in some cases, and some not. In some cases, Google is pulling in the Facebook OpenGraph code image.
+They&#8217;re using person schema for show hosts, competing with their personal website pages for rankings. They&#8217;re seeing their images featured prominently in Google&#8217;s Knowledge Graph search results with a link to the bio page.
+Changing from microformats to schema for their recipes seemed to make no change to their traffic. Incorporating Schema for the videos and persons did seem to help traffic and rankings to those pages on their sites.
+Summary
+From my perspective as a search marketer who has incorporated structured data markup from the earliest days, it&#8217;s very challenging to try to come up with innovation within the constraints that the search engines have provided. To a large degree, it boils down to either choosing whether to incorporate the structured data markup (or help Google to interpret the data using their data highlighter).
+Even so, there were some notable highlights from their presentations:
+
+Stephan&#8217;s revelation that additional listings appear with author snippets when one hits the back key is very cool! I have to remember this one when trying to persuade a publisher client that they need to go with authorship markup.
+Misfires can be addressed by adjusting structured data to optimize the results.
+Aggregate Reviews schema is potentially very valuable for category or index pages that contain more than one item. For instance, the main category page for &#8220;Thin Screen TVs&#8221; on a retailer site, or the listings page for &#8220;Hotels&#8221; on a local accommodations website. Main category pages often are challenging to get ranking well because they&#8217;re navigational or interstitial types of pages, and they frequently don&#8217;t have rich snippet markup. Aggregate Reviews could be one schema that would work really well for them.
+In the past, people were unsure as to whether to just stick with using the older Microformat markup, RDFa or to move to Schema (Micro Data), or to use both simultaneously. It seems clear that Schema is now sufficiently well-supported that people do not need to worry about whether it&#8217;s finally safe to fully transition. It is.
+Marcus&#8217;s presentation makes it clear that Schema markup is highly advantageous, and for some particular types of content it may be table stakes for achieving rankings and performance.
+Julia&#8217;s presentation opened my eyes to the fact that Schema use appears to be increasing the chances for content to appear in Knowledge Graph and image search results as well as in the carousel of images above recipes in Yahoo! SERPs:
+
+There may be edge cases where one type of rich snippet could be more valuable than another, depending upon the type of page and content. In such cases, site publishers may need to carefully weigh the relative advantages and attempt to control SERP presentation through selectively using one Schema over another.
+I was slightly dubious when Julia opined that a blog featuring author markup in a SERP was not as good as Food.com&#8217;s recipe rich snippets, because the blog page with the author markup was ranking in the #1 position, vs. the other listings. However, she may be right—the snippets featuring food thumbnail images along with recipe details may be much more attractive to click through upon verses those that show an author&#8217;s name and face. However, I&#8217;ve demonstrated that Google will display a hybrid of Recipe + Authorship simultaneously. Google keeps changing how these hybrid snippets appear, and I think they&#8217;ll likely evolve those to work, making it advantageous to rely upon them to choose the display presentation, rather than trying to manipulate it by only using one markup option over another.
+
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

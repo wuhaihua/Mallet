@@ -1,0 +1,37 @@
+Toshiba Satellite Click 2 review: Bulky as a laptop; bulkier as a tablet Toshiba Satellite Click 2 review: Bulky as a laptop; bulkier as a tablet 2-in-1 hybrids are all the rage these days, with manufacturers hacking the screens off all manner of laptops. This makes sense when you're talking about a detachable 10- or 11-inch screen, but how does it play with sizes you wouldn't normally associate with a tablet? Toshiba sent its 13.3-inch Satellite Click 2 so we could find out.
+A 13.3-inch tablet will be big and heavy at best. The Click 2 is simply monstrous, weighing nearly three pounds despite being just over half an inch thick. Windows 8.1 is well suited to touchscreens, and 13.3 inches of screen allows for a big onscreen keyboard that’s pleasant to type on (if only the physical keyboard was as good).
+ 
+Does the world really need a 13.3-inch tablet? Do you? 
+
+But this is not a hold-in-your-hands-and-do-anything kind of tablet. In fact, it was a little awkward just trying to keep it propped up on my legs. It kept sliding down and wouldn’t stay where I put it.
+The weight and bulk of the Click 2’s detachable display make for an awkward experience when docked with its keyboard, too. The combination results in a footprint that’s nearly as big as a 15-inch laptop, and it tips the scales at 4.6 pounds. The dock’s hinge is set a little forward from the edge to prevent tipping, but it's still back heavy and tends to flop over if you tap too hard on its screen.
+ 
+Slide this button to the right to release the Satellite Click 2's display from its keyboard dock. 
+
+The parts list
+The Click 2's guts are a step up from the Intel Atom-powered hybrids, but they’re still at the budget end of the spectrum. This $530 model, available only at Best Buy, packs an Intel Pentium N3530 CPU; 4GB of DDR3L/1600 memory; and a 500GB, 5400rpm hard drive. Yes, a spinning hard drive in a tablet; and yes, it slows things down. An 802.11ac adapter and Bluetooth 4.0 support round out the internals. Other configurations are available on Toshiba’s website.
+ 
+There was a time when "less than an inch thick" implied "wafer thin." That time has passed.
+
+The 13.3-inch screen runs a disappointingly low 1366x768 pixels. That's fine on a smaller tablet, but details look pretty blown out on a display of this size. You can easily pick out individual pixels. Viewing angles and brightness levels are good, however, and Windows scales to take advantage of the extra inches even if there aren't extra pixels.
+On the outside, you'll get a full sized SD card slot, a single USB 2.0 port, and a micro HDMI port. There is also a USB 3.0 port on the keyboard dock. I find the micro HDMI port the most disappointing as there is room for a full size port on such a large machine. Why force consumers buy an extra cable?
+Toshiba credits Skullcandy for its help in tuning the Click 2’s sound and you’ll find that company’s logo on the keyboard dock (DTS also contributed its tech). But the stereo speakers—located on the back of the tablet—produce disappointingly thin sound that lacks any richness or warmth.
+ 
+Toshiba takes full advantage of the tablet's thickness to include lots of I/O ports. 
+
+The keyboard dock comes with Toshiba's TruType keys, which are basically the same chiclet keys you're used to. I found the keys to be oddly small with lots of space between them. While the feel is good, key presses just get lost or doubled on the way to the tablet way too often. The track pad is okay. It's big enough, but doesn't always pick up edge gestures or two finger scrolling as smoothly as I would like.  I often found it easier to simply reach up and touch the screen.
+Performance
+When it comes down to the numbers, the Click 2 fares well against its competition in the Pentium-powered hybrid class. The N3530 is a step up from the N3520 found in both the Lenovo Yoga 2 11 and the HP Pavillion x360, even though they run at the same 2.16GHz.
+ 
+The Toshiba Click 2 won't set the world afire, but it's right in line with other 11-inch budget notebooks. 
+
+Both parts are quad-core CPUs from Intel’s Bay Trail family, but the N3530 sports a slightly higher burst frequency (2.58GHz versus 2.42GHz), and its integrated graphics run slightly faster (896MHz versus 854MHz). Finally, the N3530 also supports Intel’s Quick Sync video where the N3520 does not. These differences proved to be enough of a step up that the Click 2 outperformed both the Yoga and x360 by a point or two in each of our benchmarks.
+ 
+Both the Toshiba Click 2 and the Dell Inspiron 11 use Intel's Pentium N3530 CPU, compared to the Pentium N3520 in the HP Pavilion x360 and the Lenovo Yoga 2 11. 
+
+The Click 2's battery life is also a good deal better, lasting over 6 hours versus the Yoga's 4.5-hour runtime. That means the Click 2 easily made it through a full day of occasional use, keeping up with everyday tasks like email, browsing, video streaming, and writing.
+ 
+Toshiba's Click 2 delivered very good battery life—especially when you consider it has a 13.3-inch display.
+
+Buy it or skip it?
+A 13.3-inch tablet just isn't my cup of tea, nor am I a fan of bulky laptops. Still, the Click 2 is an okay computer. Its performance and battery life are good for its price range, and its screen is bright and responsive (it just doesn’t have very many pixels). The keyboard dock, on the other hand, is awkward and mistypes often enough to be annoying. I would highly recommend heading out to a store to see and feel the Click 2 for yourself.

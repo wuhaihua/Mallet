@@ -1,0 +1,8 @@
+Apple's iTunes Store hit with hours-long outage affecting music, app and e-book downloads [u] Apple's iTunes Store hit with hours-long outage affecting music, app and e-book downloads [u] By Mikey CampbellApple late Tuesday confirmed an unknown issue affecting its digital storefronts has barred users from purchasing, downloading or re-downloading content from the iTunes Music Store, App Store and iBookstore. 
+While the extent of Apple's apparent iTunes outage has yet to be reported, the company informed customers of the ongoing problem through its system status webpage, saying affected users "may be unable to access multiple stores or make purchases" as a result of the issue. The company retroactively updated the status page's Detailed Timeline to reflect more than five hours of downtime.
+Users affected by the outage took to Twitter earlier today, saying purchase and download attempts returned the error message, "This item is temporarily unavailable." Some customers saw trouble re-downloading already purchased items through the iOS App Store, while others noted similar problems on the Mac App Store. 
+It appears only select distribution servers are affected at this time, however, as certain regions saw no interruption in iTunes Store service. In addition, some users have reported the issue resolved.
+At the time of this writing, the outage has been ongoing for nearly six hours, according to Apple's status page.Update: Shortly after acknowledging the iTunes Store outage, Apple reported the problem as fixed with a total downtime of over five and a half hours.
+ 
+				
+				

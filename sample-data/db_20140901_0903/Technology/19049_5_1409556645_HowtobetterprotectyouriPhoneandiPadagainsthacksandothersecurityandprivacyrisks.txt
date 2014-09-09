@@ -1,0 +1,94 @@
+How to better protect your iPhone and iPad against hacks and other security and privacy risks How to better protect your iPhone and iPad against hacks and other security and privacy risks   
+
+Security and convenience are perpetually at war. There will always be errors, compromises, and oversights that put our privacy at risk. Old ones will get fixed but new ones will get discovered. So what can we do? Luckily, while some of the conveniences of iOS and OS X make our devices easier to use, there are also ways to remove those conveniences and make our devices even more secure. If your privacy is worth more to you than ease of use, here's how you can better lock down your iPhone and/or iPad, and any Mac it might connect to.
+
+IMPORTANT: These steps are not necessary for most people, most of the time. Following them will absolutely make your iPhone, iPad, and/or Mac more secure but will also make it much less convenient. Consider it the difference between living in a house with a lock on the door and maybe an alarm system compared to living in a panic room. Think carefully about your risk level, read over your options, then implement the ones that make sense to you. You can always go back and turn more on, or off, as your needs or feelings change.
+
+How to setup and use a passcode, Touch ID, and strong passwords
+
+
+
+Before we get into specifics there's something everyone should do to better secure their iPhone, iPod touch, or iPad — setup and use a passcode, or if your device supports it, Touch ID, or if you consider yourself at greater risk, a strong alphanumeric passcode.
+
+This is the equivalent of locking your front door. If your iPhone or iPad leaves your house, it should have a passcode set at the very least. Even if it doesn't leave your house, it should have a passcode set at the very least.
+
+How to secure your iPhone or iPad with a 4-digit passcode
+How to secure your iPhone with Touch ID
+How to secure your iPhone or iPad with a strong alphanumeric password
+How to choose a better master password [AgileBits blog]
+Password haystacks
+How to minimize data exposure on your iPhone or iPad Lock screen
+
+
+
+For the sake of convenience, Apple allows you to access Notification Center, Passbook, Siri, and Control Center right from your Lock screen. That means you can quickly glance at incoming messages, pay for your Starbucks beverages, set a Reminder, or toggle on the Flashlight. It also means anyone else within eyeshot or reach can glance at your messages, try and photograph your barcode, ask for certain types of information, and toggle on Airplane mode without having to enter your passcode, Touch ID, or password.
+
+If you value those features on your Lock screen, then by all means enjoy their convenience. If security and privacy is more important to you, however, you can turn them all off.
+
+How to disable Notification Center on the Lock screen of your iPhone and iPad
+How to disable access to Siri and Passbook from the iPhone or iPad lock screen
+How to disable Control Center access from your iPhone or iPad Lock screen
+How to minimize other forms of data exposure
+
+
+
+"Backdoors" are only one type of potential threat to your data. While it would be nice if we could trust everyone all of the time to never try and steal our devices or data, hijack our accounts or identities, or otherwise act outside the bounds of publicly document laws and simple human decency, we can't. It is very really a jungle out there. I say that not to scare anybody, but simply to remind all of us that locking our devices should be as standard a practice as locking our doors, our cars, our bikes, and safes, and our other valuables.
+
+How to use 2-step verification for your online accounts
+
+Security works best in layers, and defensive depth means having as many layers are possible. Biometrics (like Touch ID) cover "something you are", while the password is "something you know", a token is "something you have". Unfortunately, Touch ID is currently used instead of a passcode or password and can't (yet?) be required in addition to a passcode or password, but 2-step verification can be required for many online accounts, including your Apple ID.
+
+With 2-step verification you will have to enter an app-specific password, or an additional pincode/password the first time you set up the service on your device, but it'll make it more than twice as strong for only a minimal amount of extra effort.
+
+How to set up 2-step verification for Apple ID
+How to set up 2-step verification for Google accounts
+How to set up 2-step verification for Dropbox
+How to set up 2-step verification for Twitter
+How to keep your web browsing, location, social and other data private
+
+Your iPhone, iPod touch, and iPad can accumulate a lot of data over time, including data you may not want or need it to accumulate. Likewise, you can grant access to your data to a lot of apps and services over time, including apps and services you may no longer want or need to have access. Luckily, iOS makes it easy to review and change your privacy settings. So do many online services as well. Also, if you're on a network you don't trust, and have access to a VPN service you do, you can use that to help keep your data private as well.
+
+How to keep your web browsing private with Safari
+How to revoke app access to your location
+How to revoke app access to your contacts
+How to adjust privacy settings on Facebook
+How to connect to a VPN
+How to secure your iPhone, iPad, and Mac against pairing record theft
+
+
+
+Pairing records are what allow you to repeatedly connect your iPhone or iPad to your Mac or Windows PC and sync data, transfer media, update software, install betas, test apps, or perform other tasks without having to enter your passcode or tap "Trust this Computer" each time. In other words, they're a huge convenience. Unfortunately, in their current form, if someone else takes physical possession of your computer they can retrieve those keys and use them to access your iPhone and/or iPad.
+
+If you've never paired your iPhone or iPad with iTunes, Xcode, or similar software, no such records will exist. If you have paired but no longer ever need to, existing records can be removed. If you have paired and continue to need to do so, existing records can be better secured. If you're concerned someone might try to take your iPhone or iPad and pair it without your knowledge or consent, or try to trick you into pairing, new record generation can be prevented.
+
+How to remove existing pairing records
+
+Unfortunately pairing records do not (yet?) expire after a period of time, nor can they (yet?) be audited and deleted through iTunes on the desktop or Settings on iOS. On the Mac or Windows, however, they can be accessed through the file system:
+
+var/db/lockdown or ~/Library/Lockdown on Mac or C:\Program Data\Apple\iTunes\Lockdown on Windows
+On iOS your current option is limited to wiping your device, setting it up as new, and not paring it going forward. That's a nuclear option, however, and depending on how laden your device is with personalized settings, apps, content, etc. not one that should be taken lightly. (I wipe and set my iPhone up as new whenever a new version of iOS is released, but I also keep my iPhone setup very lean so it only takes me a day or two to get back up to speed.)
+
+How to reset your iPhone, iPod touch, or iPad and wipe all personal data
+How to set up your iPhone, iPod touch, or iPad as new
+How to better secure existing pairing records
+
+Unfortunately, if you want to keep connecting your iPhone or iPad with iTunes, Xcode, or other computer software, there's no option (yet?) to require your passcode/password to be entered each and every time, or even have the Trust this Computer requester pop up every time. You can, however,  do your best to secure the computers that contain the records.
+
+Every Mac running OS X Lion or later, including the current OS X Mavericks and the upcoming OS X Yosemite, include Apple's FileVault2 full disk encryption system. With it, the data on your hard drive, including pairing records, can't be accessed without your Mac being logged in under your username and password. If you work in a sensitive industry or consider yourself at great risk, you can also set a firmware password on your Mac.
+
+How to secure your Mac using FileVault 2 encryption
+How to secure your Mac using a firmware password
+How to prevent new pairing records from being generated
+
+Unfortunately, if you want to keep your iPhone, iPod touch, or iPad from pairing again in the future, there's no "Allow Connections to Computer" option (yet?) in Settings that you can easily toggle to "Off". However, there is Apple Configurator. It's is a free tool from Apple meant to help schools, businesses, and institutions set up and manage large amounts of iPhones and iPads. With it, you can prevent your device from pairing with other computers or accessories, which prevents it generating pairing records, which prevents those records from being used to access your iPhone or iPad without your consent.
+
+How to prevent unauthorized pairing with your iPhone or iPad using Apple Configurator
+Bottom line
+
+If you value your privacy and security over your convenience and ease of use, the above are some of the steps you can take to further lock down your iPhone, iPod touch, iPad, and Mac. It's by no means a complete list, and it's by no means for everyone. It's what we believe is measured and reasonable against a broad range of needs and requirements.
+
+It's important to remember that some or all of the above vulnerabilities will be patched and compromises be made better. It's equally important to remember new vulnerabilities will be discovered and new compromises will be made. That's the nature of the beast.
+
+We try very hard to provide information and empower our readers. We make very sure we don't yell "FIRE!" when there is none, and we make just as sure not to ignore any exposed wires sparking near the stove.
+
+If we've left anything out, please add it to the comments and, if appropriate, we'll update to include. Also, please let us know how you're balancing your convenience vs. your security. Wide open, locked down, or somewhere in between?

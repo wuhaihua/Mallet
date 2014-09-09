@@ -1,0 +1,51 @@
+What's all this stuff on the Chrome new tab window? What's all this stuff on the Chrome new tab window?   
+
+The new tab window on Chrome for Android helps you get more from your web browsing experience
+
+If there's one thing I love about Chrome, Google's web browser, it's that it can provide pretty seamless transitions between my desktop and mobile web browsing experiences. If I have to leave my apartment before I finish reading an article, no problem. Chrome can sync the pages I have open on my desktop so I can just view them on my phone while out and about. I think that's pretty darn cool!
+
+The new tab window is where the fun all starts on Chrome for mobile devices. Not only can you access pages you have open on your desktop, but you can also get pretty easy access to the pages you visit most and your bookmarks from here.
+
+
+
+Where to find the new tab window
+
+
+
+When you open up Chrome on your Android device, you should see something like this near the top of the page. Open up the overflow menu by clicking on those three dots stacked on top of each other on the right-hand corner of the screen. Select "New tab." It's pretty easy!
+
+
+
+When you're there, you'll see something like the above image at the bottom of the screen. You may postulate to yourself, "What do those icons mean? What do they do?" Well, let's find out!
+
+On the grid
+
+
+
+Starting with the tab on the left, we have a grid that displays thumbnails of some of the sites you visit most.
+
+Hey there, Android Central!
+
+Bookmarks in the middle
+
+
+
+Bookmarks are represented by the star icon in the middle. You can choose to view the bookmarks you've made on your mobile device or the bookmarks you've made on your desktop.
+
+In the image above, we're looking at some mobile bookmarks. If you were looking at the same screen on your device and wanted to look at your desktop bookmarks, you could just hit "Bookmarks" where it has "Bookmarks &gt; Mobile Bookmarks" at the top of the screen. Then select "Desktop bookmarks."
+
+To see your desktop bookmarks on your Android phone or tablet, you'll need to enable bookmark syncing. To do this, get on Chrome on your desktop. Go to the settings by clicking on those three horizontal lines you'll see in the upper right-hand corner of the screen.  If you're not already logged in to your Google account on Chrome, log on in. Once you've arrived at the settings menu, you'll see a button for "Advanced sync settings" under "Sign in" near the top of the settings menu. You can choose to have all settings synced across Chrome on your desktop and mobile device, or you can select what you want synced. Just be sure to check bookmarks if you'd like those to be synced!
+
+
+
+Additional mobile bookmarks can be added by going to the site you'd like to bookmark, selecting the overflow menu (the three dots stacked on top of each other in the upper right-hand corner of your device's screen), and hitting the star icon that comes down. Check out the image above.
+
+Open desktop tabs on the right
+
+
+
+What you get on the right is my favorite feature seen in Chrome's new tab window. As I already mentioned, you can access tabs you had open on Chrome on your desktop when you're on the go. It can be pretty useful.
+
+Syncing needs to be enabled for this to work, though. Have open tabs set to sync. Please see the section in this article about syncing bookmarks for more instructions to get this up and running.
+
+And that's the Chrome new tab window! I hope this information will help you get more out of your web browsing experience.

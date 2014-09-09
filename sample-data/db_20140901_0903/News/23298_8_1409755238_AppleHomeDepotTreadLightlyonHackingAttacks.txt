@@ -1,0 +1,36 @@
+Apple, Home Depot Tread Lightly on Hacking Attacks Apple, Home Depot Tread Lightly on Hacking Attacks 
+ 
+
+Morning Money Memo:     
+
+Don't blame us. That's what Apple is saying in a very carefully worded statement about the hacking of nude photos of celebrities. "None of the cases we have investigated has resulted from any breach in any of Apple's systems including iCloud or Find my iPhone," the company says.
+
+If any weaknesses or bugs in Apple's cloud-based systems were found, it would be a major embarrassment. The attacks come less than one week before Apple shows off its new iPhone.
+
+"After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet," Apple said in a statement. "To protect against this type of attack, we advise all users to always use a strong password and enable two-step verification."
+
+Apple says the hacking attack involved user names, passwords and security questions of specific celebrity iCloud accounts.
+
+ABC News' Alex Stone reports: "In 2012, a Florida man admitted to - and was sent to prison for - hacking into celebrity email accounts and stealing nude photos,"
+
+"He would get a celebrities' email address and then click Forgot Password on the email welcome screen. When prompted to answer security question - like a mother's maiden name - he was able to find the answers online and then gain access."
+
+Home Depot is also dealing with a possible hacking attack. The No 1. home improvement retailer says "we're looking into some unusual activity." The company is working with banks and law enforcement, including the Secret Service, after reports of a major credit card breach. "Protecting our customers' information is something we take extremely seriously, and we are aggressively gathering facts at this point," a spokeswoman said.
+
+Hackers have broken security walls for several big retailers in recent months - including Target. The rash of breaches has rattled shoppers' confidence in the security of their personal data and pushed retailers, banks and card companies to increase security by speeding the adoption of microchips into U.S. credit and debit cards.
+
+Supporters say chip cards are safer because, unlike magnetic strip cards that transfer a credit card number when they are swiped at a point-of-sale terminal, chip cards use a one-time code that moves between the chip and the retailer's register. The result is a transfer of data that is useless to anyone except the parties involved. Chip cards are also nearly impossible to copy, experts say.
+
+The possible data breach at Home Depot was first reported by Brian Krebs of Krebs on Security, a website that focuses on cybersecurity. Krebs said multiple banks reported "evidence that Home Depot stores may be the source of a massive new batch of stolen credit and debit cards" that went on sale on the black market.
+
+The breach may have affected all 2,200 Home Depot stores in the United, Krebs says. Several banks that were contacted said they believe the breach may have started in late April or early May.
+
+"If that is accurate - and if even a majority of Home Depot stores were compromised - this breach could be many times larger than Target, which had 40 million credit and debit cards stolen over a three-week period," the Krebs post said. Krebs said that the party responsible for the breach may be the same group of Russian and Ukrainian hackers suspected in the Target breach late last year.
+
+It's an open question whether repeated reports of hacking will change consumer behavior. Periodic cases fuel outrage, but there's no retreat from digital engagement or any imminent promise of guaranteed privacy.
+
+"We have this abstract belief that privacy is important, but the way we behave online often runs counter to that," said author Nicholas Carr, who wrote the 2010 book, "The Shallows: What the Internet is Doing to Our Brains.
+
+"I'd hope people would understand that anything you do online could be made public," Carr said. "Yet there's this illusion of security that tempers any nervousness. It's hard to judge risks when presented with the opportunity to do something fun."
+
+Richard Davies Business Correspondent ABC News Radio abcnews.com Twitter: daviesnow     

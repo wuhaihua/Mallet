@@ -1,0 +1,13 @@
+Apple tells you why your app may be rejected in new App Store guidelines Apple tells you why your app may be rejected in new App Store guidelines 
+
+Developers who have their apps rejected by Apple may wonder why their app was not approved for the App Store and what they can do to have Apple accept their next submission. Now, Apple is telling everyone why apps may be rejected and some common things to avoid in order to get apps approved into the App Store.
+
+
+
+In a developer page, Apple shows us the common reasons that apps are denied.
+
+Apps that are incomplete, contain placeholder images rather than actual images, come with broken links, provide substandard user experiences, contain misleading information or desciptions, and offer no lasting value are common reasons for denied entry into the App Store.
+
+Be sure to hit the source link below to get the complete list.
+
+Are you a developer? Did you find the information Apple provided helpful in creating and building your next app?

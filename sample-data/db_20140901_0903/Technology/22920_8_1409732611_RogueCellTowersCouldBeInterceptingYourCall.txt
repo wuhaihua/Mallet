@@ -1,0 +1,25 @@
+Rogue Cell Towers Could Be Intercepting Your Call Rogue Cell Towers Could Be Intercepting Your Call It seems rather far fetched at first glance. There is news that came out last week that rogue cell phone towers around the US are forcing mobile devices to disable their encryption making it possible that someone might be able to listen in to your call. “That could never happen to me,” you think out loud. But, apparently it could. 
+In 2010 at the DEF CON in Las Vegas, security researcher Chris Paget did the unthinkable. He built a cell tower of his own so that he could spoof legitimate towers and intercept calls.The device would mimic the type used by law enforcement agencies to intercept phone calls. In this case, he was able to build it for roughly $1500 US. Paget’s device would only capture 2G GSM phone calls. Carriers such as AT&amp;T and T-Mobile would be vulnerable as they use GSM, unlike Verizon which relies on CDMA technology.
+	
+								 
+I was in attendance for this particular presentation and I had a disposable phone with me at the time. During the presentation when the device was switched on my phone was more than happy to oblige and seamlessly associated with the contraption that was across the room. Had I not been aware that this was going on, it was quite conceivable that I could have not noticed the change to the rogue tower. The point of this presentation was to raise awareness of the security flaws that affect GSM related phones. 
+
+								
+										 
+Flash forward to today. I was sent a link to an article in Popular Science about a very similar type of tower that has been popping up all around the United States. These rogue interceptors do not identify themselves as opposed to towers that belong to towers that belong to the large cell carriers. The problem here is that the phones would not alert the user if the encryption was switched off if it managed to associate with these rogue towers or interceptors. 
+So, who is responsible for these interceptors? In one particular case one of these towers was discovered at a casino in Las Vegas as well as near several military installations. 
+From Popular Science:  
+
+ Edward Snowden revealed that the N.S.A. is capable of an over-the-air attack that tells the phone to fake a shut-down while leaving the microphone running, turning the seemingly deactivated phone into a bug.&nbsp; And various ethical hackers have demonstrated DIY interceptor projects, using a software programmable radio and the open-source base station software package OpenBTS – this creates a basic interceptor for less than $3,000.&nbsp; On August 11, the F.C.C. announced an investigation into the use of interceptors against Americans by foreign intelligence services and criminal gangs.
+										
+										
+ 
+As the FCC announced an investigation less than a month ago I wonder what their plan is to deal with this apparent problem. Where are these things coming from? What are those people doing with the calls that are being potentially being captured? 
+Back in 2010 FCC took the time to call and let Chris Paget of the possible legal trouble he could be looking at through his presentation. He had a way to work around it. 
+From Wired: 
+
+ Paget received a call from FCC officials on Friday who raised a list of possible regulations his demonstration might violate. To get around legal concerns, he broadcast on a GSM spectrum for HAM radios, 900Mhz, which is the same frequency used by GSM phones and towers in Europe, thus avoiding possible violations of U.S. regulations.
+ 
+Hmm. So the FCC&nbsp;knew about this sort of issue as early as 2010 and they only decided to launch an investigation in August 2014? How odd. I’d be very curious to see the outcome of the FCC investigation. 
+&nbsp; 
+(Image used under CC from DBduo Photography)

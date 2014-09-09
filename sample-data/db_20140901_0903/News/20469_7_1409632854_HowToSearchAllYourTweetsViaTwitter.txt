@@ -1,0 +1,52 @@
+How To Search All Your Tweets Via Twitter How To Search All Your Tweets Via Twitter 
+								
+							
+							
+							It&#8217;s been one of the biggest problems Twitter has had for years, that it&#8217;s difficult to find your own tweets on the Twitter. The new Twitter Archive service that Twitter launched today goes a long way in solving this issue.
+Step-By-Step: How To Download All Your Tweets With The New Twitter Archive Service is our story on our Marketing Land sister-site that covers how the new service works. Here on Search Engine Land, we&#8217;ll focus on the search aspect.
+After you&#8217;ve downloaded your tweets, you can hunt through them in one of two ways: browsing by month or by keyword search:
+
+Browsing by month is pretty easy. You just select a month &#8220;bar&#8221; shown on the right side of the screen, click on it, and all your tweets are listed in reverse chronological order for that month.
+Keyword search is pretty easy, as well. It just might be something that&#8217;s overlooked, by some. The search box is less noticeable at the top of the Twitter Archive home page. It&#8217;s also not something you might expect works for a page that&#8217;s downloaded and seemingly &#8220;static&#8221; on your own computer. But it does.
+Using Twitter Archive Search
+Below, I&#8217;ve done a search for &#8220;norad,&#8221; (as in the missile &amp; Santa tracking organization) and the page found 32 tweets I&#8217;ve done stretching back to 2007 that mention it:
+
+The results are listed in reverse chronological order, so your newest tweet that matches a search comes first, then older tweets come below that. If you&#8217;re looking for a particular tweet on a subject you tweet often about, then getting to the most &#8220;relevant&#8221; or popular one might be an issue.
+Still, it&#8217;s better than Twitter itself, where using the advanced search page, Twitter only found one &#8220;norad&#8221; tweet from me:
+
+Twitter only keeps about a week&#8217;s worth of tweets available to those searching on its site. Tweets are still up; you just can&#8217;t search for them through Twitter. But the Twitter Archive lets you search through all your tweets. From any tweet you find through Twitter Archive, a &#8220;View On Twitter&#8221; link will also take you to that tweet on the web:
+
+The Topsy Alternative
+If you don&#8217;t want to download your archive, there remains a way to search over a long period of time through Topsy, Twitter&#8217;s long-time search partner. Here&#8217;s that &#8220;norad&#8221; search against my tweets there:
+
+To do that search, I used Topsy&#8217;s advanced search page, where I was able to enter the word I wanted to search for and separately the Twitter user I wanted to search using that word (myself).
+Topsy&#8217;s advanced search page also allows you to do what Twitter Archive search can&#8217;t, which is to search through the history of tweets for any particular user. That&#8217;s because Topsy does keep all those old tweets, that Twitter provides it with, available in a searchable format.
+Two things to note about that Topsy example above. First, the results are listed in order of perceived relevance, rather than date. You can change to date-based using the option along the left-side. But if you have a lot of tweets on a particular topic, using relevancy sort with Topsy might be more helpful than Twitter Archive.
+Second, Twitter Archive found 32 tweets about &#8220;norad&#8221; from me but Topsy only found half that amount, 18. What&#8217;s up?
+I found when I changed the settings from &#8220;Everything&#8221; to &#8220;Tweets&#8221; on the left-hand side, the count increased to 26. I think &#8220;Everything,&#8221; ironically, doesn&#8217;t include everything but rather drops out replies you make on Twitter.
+Also keep in mind that Topsy only has tweets back to May 2008. Twitter Archive may have tweets you&#8217;ve made before that, as well as any private tweets you may have made. But also remember, Twitter Archive will only have tweets through the time you did your download. In a week or month or year, you&#8217;ll need to download again, to search against your latest tweets.
+I&#8217;d still like to see Twitter itself offer historic search against tweets live on the web, similar to what Topsy does or what we had with Google, until the Twitter-Google deal collapsed. But Twitter Archive is a much welcomed feature to get.
+Related Entries
+
+Step-By-Step: How To Download All Your Tweets With The New Twitter Archive Service
+Move Over Time Sorting: Twitter Gets &#8220;Top Tweets&#8221; Search Results
+Google Realtime Search &amp; The Aftermath Of The Google-Twitter Split
+Twitter Renews Deal With Bing; Google Deal Remains MIA
+Politwoops: A Search Engine For Deleted Tweets From Policitians
+Twitter Inching Closer To Giving You All Your Tweets, But Search Has A Long Way To Go
+Topsy: Now Searching Tweets Back To May 2008
+Twitter Makes Search Results More Visual With Top Photos, Videos &amp; Instant Previews
+Topsy Social Analytics: Twitter Analytics For The Masses (&amp; Free, Too)
+
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

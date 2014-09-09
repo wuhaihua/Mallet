@@ -1,0 +1,31 @@
+Recommendation Engines: The Reason Why We Love Big Data Recommendation Engines: The Reason Why We Love Big Data Recommendation Engines have gained the most attention in the Big Data world. Why is that? Big Data has created three distinct types&nbsp;of data driven products:  
+ 
+ Data used to Benchmark 
+ Data used for Recommendation and Filter systems 
+ Data used for Predictions 
+ 
+Benchmarking is often the first quick win when embarking into the world of big data. We have, however, been doing benchmarking for centuries and benchmarking is not the reason for the Big Data hype. Benchmarking often needs an educated decision maker at the end to explain why to benchmark: Why is A performing better then B? Why did the curve drop? Thus, benchmarking products often are not scalable – the more dashboards we build from big data, the more educated decision makers (also called “the analysts”) are needed.
+	
+								 
+The fame of data products is driven by something else: Recommendation Engines. Recommendations narrow what could become a complex decision to just a few recommendations. Big Data allowed us to do recommendations on a new scale that we did not see before. The most well-known example is how the Google search algorithm trumped Altavista by recommending the best websites to view. Another well-known example is the recommendation from Amazon based on the reading behavior from other readers. Both of those systems are based on algorithms that “learn” from past data. 
+A recommendation system outdoes benchmarking because it does not need an analyst at the end. It reduces Big Data to small data (see my take on why small data is important). A recommendation system suggests a few data points out of a large pool of data. Take LinkedIn as an example: The data product “people you may know” recommends only a few members out of a database of&nbsp;300,000,000 members.
+								
+										 
+Thus, recommendation engines are becoming more and more important. Logically, the world of startups is filled with companies doing recommendation products in one way or the other. Angellist.co alone lists hundreds startups claiming to “recommend.” From the right restaurants (recommenu&nbsp;by&nbsp;Jake Bailey) to film (foundd&nbsp;by Lasse Clausen) over to products (Linkcious&nbsp;by&nbsp;Weichang Lai) … all of those companies try to find a smarter way of making sense of data. 
+But what is a recommendation engine exactly? I asked&nbsp;Anmol Bhasin who is one of the leading experts in the field of recommendation. Watch this 2 minutes video to learn the difference between Content Based Recommendation Engines vs. Collaborative Filtering. 
+ 
+But, before you now rush off putting your money into recommendation engines, beware; life might not be that easy. There are major technology challenges in recommendation engines: 
+ 
+ Cold Start Problem The heart of a recommendation system is that a computer learns from data, i.e., who has read this book before, who connected to this person before, etc.? One of the biggest challenges can be that there is not sufficient historical data at the start. Take FOUNDD, a young Berlin-based startup for movie recommendations. It did not have a long purchase history, such as Netflix would have, thus the algorithm will not be able to recommend anything useful in the beginning. Fully aware of that issue, the founder Lasse Clausen created a “hot or flop” page in the beginning. Each customer has to rate 10 movies before the system begins to recommend anything. 
+ 
+&nbsp;
+										
+										 
+ 
+ No Surprises: let’s say there were sufficient data, then the second problem from recommendation engines – if executed badly – is that there might be no surprises. An advice to read the book Harry Potter 3 after you looked at Harry Potter 6 might not be all to insightful. It just states the obvious. Recommendation engines work best, therefore, in the long tail of the data – because here are the unexpected results. 
+ 
+The two main industries that at this moment benefit strongly from recommendation engines are the retail industry and the media industry because both have a lot of data in the long tail, and both have a lot of data to overcome the cold-start problem. 
+ 
+(Adapted from Oğuzhan Abdik&nbsp;under the Creative Common’s licence) 
+But, as other industries are beginning to use recommendation engines more and more, such as the transportation industry. We see more and more intelligent navigation systems for either personal use (waze) or as traffic control systems. (IBM). Or, look at the airline industry. GE started a Kaggle competition to find the best routes to save energy for the airline industry. 
+The recommendation engine is the shining star of big data and we will see way more applications in the future. Read the next post (Sep 16th) to learn more about the third and last element of the data products: predictions.&nbsp;Can’t wait? Subscribe to my newsletter to get an some free resources about Data Products – such as my latest talk at the Harvard Business Review Conference.

@@ -1,0 +1,14 @@
+Apple Denies iCloud Breach in Celebrity Photo Leak Apple Denies iCloud Breach in Celebrity Photo Leak 
+							
+														
+							After an internal investigation, Apple is claiming that its iCloud and Find my iPhone services were not compromised in a recent mass leak of private celebrity photos. Here’s the company’s media advisory:
+
+We wanted to provide an update to our investigation into the theft of photos of certain celebrities. When we learned of the theft, we were outraged and immediately mobilized Apple’s engineers to discover the source. Our customers’ privacy and security are of utmost importance to us. After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet. None of the cases we have investigated has resulted from any breach in any of Apple’s systems including iCloud or Find my iPhone. We are continuing to work with law enforcement to help identify the criminals involved.
+To protect against this type of attack, we advise all users to always use a strong password and enable two-step verification. Both of these are addressed on our website at http://support.apple.com/kb/ht4232.
+
+Apple’s wording suggests that the celebrities in question fell victim to social engineering on their accounts, rather than a technical hack. Your own photos should be safe, provided you’ve kept your passwords and security question answers secret. Two-factor authentication wouldn’t hurt, either.
+Even with today’s statement, Apple will have a tough time rebuilding user trust in iCloud. Significant damage to its reputation has already been done over the past couple of days.
+It’s also worth noting that the advisory is limited to the celebrity photo leak. After the leak came to light, an apparent flaw was discovered in the Find my iPhone service that allegedly allowed attackers to try multiple password attempts without getting locked out. We’ve asked Apple to clarify whether a brute force vulnerability counts as a “breach” and whether such a flaw existed outside of this incident.
+Image credit: pauliewoll / Flickr
+							
+							

@@ -1,0 +1,34 @@
+Cleveland Welcomes Growing Field of Server Farms Cleveland Welcomes Growing Field of Server Farms 
+ 
+
+Northeast Ohio is hardly ready to usurp Silicon Valley as a high-tech mecca, but a growing number of data centers are choosing to locate in and around Cleveland to take advantage of cheap power, an abundance of fiber-optic cable and one of the safest environments in the country for storing digital information.
+
+BYTEGRID, which got its start in northern Virginia, is investing millions to convert a small data center near downtown Cleveland into a large one capable of using enough electricity to power around 20,000 homes. At least one other company is looking for a site in Cleveland, and several more have established sites in the city and its suburbs.
+
+"One of the things that is attracting data centers to Cleveland is we have a lot of industries with a lot of data," said Tracey Nichols, director of city's Department of Economic Development.
+
+Data centers do not create large numbers of jobs directly, Nichols said, but their existence is a big attraction to companies that use massive amounts of data. Hospitals and medical research centers such as the Cleveland Clinic and University Hospitals, for example, are prime customers for data centers. Nichols hopes these data centers will help grow the city's fledgling health tech corridor. Information technology companies like Rosetta and Brandmuscle have come to Cleveland, in part, because of its high-speed, fiber-optic data and Internet connections, Nichols and others said.
+
+"We have a very robust fiber trunk that runs through Cleveland, which means excellent connectivity," Nichols said.
+
+Ken Parent, chief operating officer of BYTEGRID, said his company is spending millions to renovate and expand a data center on the edge of downtown because of that connectivity.
+
+Connectivity is best described as the speed at which data flows. If copper wire, one of the means by which homes are connected with telephone, Internet and cable service, is a gentle stream, then fiber-optic cable is a raging river. Or think of it this way: It takes 33 tons of copper wire to transmit the same amount of data as one-quarter pound of fiber-optic cable, a single strand of which is thinner than a human hair.
+
+It's ironic that a Rust Belt city like Cleveland, once a manufacturing giant brought to its knees by disruptive technologies and business models, is so well-suited to the Internet age. The superhighways of the 19th and early 20th centuries — rail lines — have proven to be the ideal conduit for routing fiber-optic cable, much like the telegraph lines of old.
+
+"It's an infrastructure legacy," said Kevin Goodman, managing director and a partner in BlueBridge Networks, which has a downtown data center near Playhouse Square and a larger facility in suburban Mayfield Heights.
+
+Servers, like all computers, hew to Moore's Law — computing power roughly doubles every two years. That means smaller and smaller computers that run faster and faster and are capable of holding even more data. But those smaller computers run hotter and require more electricity. At a data center, one kilowatt of electricity spent powering servers requires an equal amount of electricity to keep them cool.
+
+And that is one of Cleveland's biggest attractions. Parent says power can cost 13 to 16 cents per kilowatt in the Northwestern U.S. but only 5 or 6 cents in Cleveland.
+
+Goodman said BlueBridge wants to reduce its carbon footprint, but he acknowledged that high electric use is unavoidable.
+
+"Power is king," he said.
+
+Data centers, sometimes called server farms, perform a number of vital services to businesses, both high- and low-tech. They provide a secure environment for companies to put servers, which are computers loaded with applications and programs and hard drives for storing data. Companies lease servers from data centers and use them to create a cloud that allows them to operate without having to own or provide space for their own servers. And companies with their own servers also co-locate — lease server space to back up some or all of their data and to give themselves the means to operate should their own servers fail or should a catastrophic weather or seismic event occur.
+
+In addition to connectivity, data centers sell security. The buildings in which server farms are located are typically thick, reinforced concrete and steel structures. Data center companies sell to potential clients the existence of generator farms that provide electricity in case of a power outage. But security in the data center world also means the promise of impenetrable firewalls and intrusion detection and protection programs to thwart hackers.
+
+Hackers have always been the scourge of the Information Age, as Target Corp. discovered late last year when the credit card information of millions of its customers was stolen.

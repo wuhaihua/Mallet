@@ -1,0 +1,31 @@
+How to Keep Fraud Threats From Ruining Your Mobile Banking How to Keep Fraud Threats From Ruining Your Mobile Banking 
+NEW YORK (TheStreet) &mdash; With 28% of U.S. adults using their smartphones and tablets to conduct banking transactions and 60% calling access to mobile banking either "important" or "very important" in choosing banks, according to AlixPartners, there's a growing risk of consumer financial fraud. 
+ AlixPartners, a San Jose, Calif., consulting firm, reports that two recent malware threats called Sypeng and HijackRAT have caught the attention of the banking industry, leading financial institutions to tighten up on data security. (Malware, or "malicious" software, is a software-based cyber threat that can damage or disable computers and mobile devices via viruses or spyware.) 
+But banks can do only so much on the secure technology front, and consumers must help secure their own financial data. 
+"We use multiple forms of identity authentication, log-in procedures and encrypted communications and perform extensive native app and WAP security testing to prevent criminals from accessing confidential information," says Kevin Alsup, vice president of information at the San Francisco credit union . "The bigger threat is someone who is unmindful while online, but a few simple steps can help prevent fraudulent activity, especially for things like hacking and phishing." 
+To better secure your mobile banking, Tech CU advises that you:  
+
+5 'Mindless' Money Mistakes You Don't Want To Make
+
+ 
+
+ Make sure you choose a strong password or PIN and that is not easily detected by mobile banking fraud artists. Also, lock your device when you're not using it, and install mobile security software on all your mobile devices.
+ 
+
+Download apps only from trusted sources. If you suspect you've downloaded a toxic app, call your bank immediately and explain the issue. 
+ 
+
+ Don't use unsecured, public Wi-Fi networks &mdash; data thieves love to troll such networks to break into your mobile device. And never, ever conduct a banking transaction in a public setting or on an unsecured network. Also, deep-six any text messages from your bank &mdash; even the most basic texts can reveal clues to your personal data that I.D. thieves can use to drain your bank account or compromise your credit card.
+ 
+
+How Much Do Americans Love Their Cellphones? Let's Count the Ways
+
+ 
+
+ Alsup advises checking your mobile banking accounts on a regular basis, and following up on any warnings or notifications on potential data breaches from your financial institution.
+ 
+It's also a good idea to insert a fraud alert on your credit report, which will make it easier to fix problems with your credit if your mobile data is compromised. If you suspect your mobile bank account has been compromised, close the account immediately and notify your bank.
+ 
+Banks can do only so much to protect your data. But if you follow the common-sense advice listed above, you've gone a long way in keeping data thieves away from your mobile device &mdash; and your money.
+
+

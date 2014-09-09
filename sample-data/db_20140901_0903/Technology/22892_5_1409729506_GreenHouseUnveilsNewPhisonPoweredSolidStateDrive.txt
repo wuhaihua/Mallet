@@ -1,0 +1,3 @@
+Green House Unveils New, Phison-Powered Solid State Drive Green House Unveils New, Phison-Powered Solid State Drive Japanese company Green House today announced a new, NAND-based storage solution, the GH-SSD32C Series solid state drive. Seen below, the upcoming SSD features a 2.5-inch form factor, MLC NAND Flash memory, a Phison PS3108-S8 controller, 256 MB or 512 MB of cache (256 MB for te 60 GB and 120 GB models, 512 MB for the 240 GB and 480 GB drives), and SATA 6.0 Gbps connectivity. Speed wise, the drives are said to deliver up to 520 MB/s when reading and 100/210/470/500 MB/s while writing for the 60/120/240/480 GB capacities.
+
+The GH-SSD32C drives are backed by a three-year warranty and are set to become available around mid-September.

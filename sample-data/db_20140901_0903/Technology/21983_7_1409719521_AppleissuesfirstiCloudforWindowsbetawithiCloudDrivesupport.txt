@@ -1,0 +1,8 @@
+Apple issues first iCloud for Windows beta with iCloud Drive support Apple issues first iCloud for Windows beta with iCloud Drive support By AppleInsider Staff Apple on Tuesday sent AppleSeed program members invitations to download and test a new beta version of iCloud for Windows that includes access to the company's upcoming iCloud Drive feature.Source: MacRumors
+First announced in June, iCloud Drive is one of the tentpole service features slated to roll out with Apple's forthcoming iOS 8 and OS X 10.10 Yosemite. Today's release, spotted by MacRumors is the first beta version for Windows machines. 
+Apple previously issued Mac builds of iCloud Drive to AppleSeed developers and has constantly reminded testers to save files locally due to ongoing maintenance and system resets ahead of launch this fall.   
+Like competitors Dropbox and Box, iCloud Drive will incorporate cross-platform support for file uploading and storage, while adding document editing and tagging features akin to offerings from Google's Web-based productivity app suite. The cloud storage system is engineered to work on OS X, iOS and Windows, allowing access and syncing across multiple devices via an easy-to-use drag-and-drop interface. 
+When iCloud Drive debuts, Apple will also introduce new storage pricing tiers for consumers alongside a new CloudKit service for developers that comes with storage space and data transfer allowances.
+ 
+				
+				

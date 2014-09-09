@@ -1,0 +1,21 @@
+Magnetic Detection of Malaria Shows Promise Magnetic Detection of Malaria Shows Promise 
+
+
+
+
+A device that fits on a table can diagnose malaria infection by detecting a by-product of the parasite&rsquo;s growth in the blood. If the technique can be demonstrated to work in the field, it could detect and aid in the treatment of malaria in remote areas, where conventional testing equipment is not always available.
+
+The standard technique for diagnosing malaria infection is to look forPlasmodium falciparum, the parasite that causes the disease, in a sample of the patient's blood using a microscope. This method requires a trained specialist and is prone to human error. Other available detection techniques are not quantitative and are expensive or impractical to use in the field, especially in developing countries.
+Jongyoon Han, a bioengineer at the Singapore-MIT Alliance for Research and Technology Centre, and his colleagues, have devised a diagnostic test that avoids many of those problems. Their method, described in a paper published on 31 August in&nbsp;Nature Medicine, works with a tiny droplet &mdash; as little as 10 microlitres &mdash; of blood, and can provide a diagnosis in just a few minutes. In addition, it does not rely on the expertise of a technician.
+When&nbsp;P. falciparum&nbsp;invades red blood cells and feeds on their contents, it breaks down haemoglobin into amino acids and haem, a chemical compound that contains iron. Free haem is toxic, so the parasite quickly converts it into an insoluble crystal known as haemozoin.
+&ldquo;Haemozoin crystals behave like little magnets,&rdquo; explains Han. He and his team used a technique called magnetic resonance relaxometry (MRR) to detect the magnetic signal of haemozoin in&nbsp;human blood samples that they infected with&nbsp;P. falciparum, and in samples from mice infected withPlasmodium berghei, a mouse model of the disease.
+MRR is a type of nuclear magnetic resonance (NMR) spectroscopy, a workhorse of chemical analysis. Although NMR machines are notoriously bulky, in recent years researchers have scaled them down to sizes small enough to&nbsp;fit on a benchtop. Another important step towards bringing the technique to the field, Han says, was that his team was able to detect haemozoin directly in the blood sample without first processing it in the lab.
+MRR detects&nbsp;P. falciparum&nbsp;when its concentration in the blood is ten infected cells per microlitre, says study co-author Peter Preiser, a parasitologist at Nanyang Technological University in Singapore. The conventional microscopy technique can detect the parasite only at concentrations of 50 cells per microlitre or higher, which is also when clinical symptoms can begin to appear.
+&ldquo;The performance of the technique appears to be comparable, if not superior, to routine microscopy,&rdquo; says Richard Maude, an epidemiologist from the University of Oxford, UK. However, he adds, it will be necessary to do a &rdquo;thorough assessment of its performance in humans,&rdquo; and a comparison with other tests.
+&ldquo;It will be important to show this can be done with blood obtained from clinical samples in malaria-endemic settings,&rdquo; where most patients are at the stage where the parasites infect red blood cells, says Carole Long, an immunologist who studies malaria at the National Institute of Allergy and Infectious Diseases in Bethesda, Maryland.
+Stephan Karl, a biophysicist at the Walter and Eliza Hall Institute of Medical Research near Melbourne, Australia, says that the method seems to show promise, but warns that most infections do not produce significant amounts of haemozoin. &ldquo;When taking a closer look at the data presented, it is evident that the method is a long way away from being applicable for reliable in-field malaria diagnosis,&rdquo; he says.
+Han agrees that there are still issues to resolve before the technique can be applied to samples from actual patients, but says that he and his collaborators are already working on ways to overcome them. In particular, they need to understand how the response of diffeent people's blood can vary depending on factors such as their genetic makeup and their diet.
+This article is reproduced with permission and was&nbsp;first published&nbsp;on August 31, 2014.
+
+&nbsp;
+&nbsp;

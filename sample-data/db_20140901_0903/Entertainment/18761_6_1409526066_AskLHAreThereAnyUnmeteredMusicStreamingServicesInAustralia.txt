@@ -1,0 +1,9 @@
+Ask LH: Are There Any Unmetered Music Streaming Services In Australia? Ask LH: Are There Any Unmetered Music Streaming Services In Australia? 
+Hey Lifehacker, What are my options for unlimited/unmetered streaming music in Australia? Given the paltry data limits most providers offer here on mobile plans compared to overseas, streaming music on the go doesn&#8217;t seem very feasible. Do any providers make this possible or easy, or will I need to fork out buckets of cash for overpriced data packs?  Thanks, Streaming Disco
+Dear SD,
+There are lots of streaming music services on offer in Australia. However, there&#8217;s only one which we know of that offers unmetered data: Telstra&#8217;s local MOG service. If you&#8217;re a Telstra mobile customer, using MOG won&#8217;t count against your data allowance. 
+There is one caveat: the future of the MOG service seems questionable. Telstra licensed the brand from MOG, which in turn was acquired by Beats, which in turn was purchased by Apple. While Telstra has said it will continue to operate MOG locally and might end up transitioning that to a Beats-branded service, it&#8217;s not clear how that will work. Apple might end up subsuming Beats into its own iTunes Radio service, in which case Telstra is unlikely to score an exclusive partnership.
+So the future looks murky, but if you don&#8217;t want to pay data charges (and you&#8217;re happy paying Telstra&#8217;s higher-than-everyone-else plan rates), right now MOG is the only game down under. (If readers know of one we&#8217;ve missed, please tell us in the comments.)
+Cheers
+Lifehacker
+Got your own question you want to put to Lifehacker? Send it using our contact form.

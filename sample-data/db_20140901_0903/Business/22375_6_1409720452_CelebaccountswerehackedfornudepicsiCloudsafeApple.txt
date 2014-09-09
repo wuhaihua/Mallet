@@ -1,0 +1,24 @@
+Celeb accounts were hacked for nude pics, iCloud safe: Apple Celeb accounts were hacked for nude pics, iCloud safe: Apple Los Angeles: Apple on Tuesday said that hackers obtained nude photos of Jennifer Lawrence and other female celebrities by pilfering images from individual accounts rather than through a broader attack on the company's services.
+Meanwhile, numerous sharing sites removed images of the stars apparently in response to copyright complaints.
+However, experts say there is no way to fully scrub the photos from the Internet and the images could keep popping up in the future, forcing celebrities to file repeated complaints as they play a cyber-version of the arcade game "whack-a-mole."
+
+Apple said its engineers have determined that hackers breached individual accounts and didn't obtain general access to a pair of the company's services — iCloud and Find my iPhone. The tech giant said it released the results after conducting 40 hours of investigation.
+Law enforcement inquiries likely will take days or weeks to complete.
+The FBI offered no details on its efforts to identify people responsible for stealing the images that were posted on image-sharing site Imgur.com, the social networking sites Reddit and Twitter, and other websites. But the agency said Monday it was aware of the breach and addressing the matter.
+Similar investigations have involved the use of search warrants and digital forensics to determine how hackers obtained everything from Paris Hilton's contact list to nude photos of actresses Scarlett Johansson and Mila Kunis.
+Lawrence, an Oscar winner for her role in "Silver Linings Playbook," contacted authorities after the images of her began appearing Sunday.
+By Tuesday, a Reddit thread that had been compiling links to images of nude photos of Lawrence and other celebrities had been disabled due to a copyright claim, the website said.
+Users reported difficulty finding working links to the images on other sites.
+Representatives of Twitter, Reddit and Imgur did not respond to messages seeking comment.
+Apple Inc. said it was cooperating with the FBI and urged users to adopt stronger passwords and enable a two-step authentication feature to prevent data thefts.
+Naked images purported to be of other stars also were posted, although the authenticity of many couldn't be confirmed.
+Mark Rasch, a former federal prosecutor who specialized in computer crimes, said investigators will focus on who's responsible for the theft of the photos, the tools they used, and the idiosyncrasies of how they program.
+"There is a digital trail," Rasch said. "What you hope for (is) the people aren't very good at what they do, that they screw up, that they (upset) other hackers. Or that they leave a trail."
+Rasch said authorities will sometimes catch an early break or get a tip that leads them to suspects. The investigations are difficult, he said, but "It's equally difficult to get away with it scot free."
+In the past decade, federal prosecutors have successfully prosecuted a Massachusetts teenager who hacked Hilton's phone account and posted her contact list online. The teenager was sentenced to several months in jail.
+Christopher Chaney, a Florida man, was ordered by a federal judge in 2012 to be imprisoned for 10 years for the hack that targeted Johansson.
+The people responsible for stealing the Lawrence photos might also be tracked by private investigators who can operate faster than government agents, said Rasch, whose company Rasch Technology and Cyberlaw has conducted similar investigations but is not working on the current data breach.
+"Even if you can get it taken down, it's likely to pop up somewhere else," said F. Jay Dougherty, a law professor at Loyola Law School Los Angeles who specializes in entertainment and intellectual property issues.
+Mickey Osterreicher, a media lawyer and general counsel for the National Press Photographers Association, said a successful copyright complaint could scrub the images from a site forever, but Lawrence and other celebrities will have to remain vigilant and keep filing takedown notices.
+"You have to go to each place," he said. "It's kind of like playing whack-a-mole."
+AP

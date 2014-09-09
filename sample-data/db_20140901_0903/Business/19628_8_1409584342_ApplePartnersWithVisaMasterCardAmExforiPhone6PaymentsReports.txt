@@ -1,0 +1,9 @@
+Apple Partners With Visa, MasterCard, AmEx for iPhone 6 Payments: Reports Apple Partners With Visa, MasterCard, AmEx for iPhone 6 Payments: Reports According to new reports from Bloomberg and other outlets, Apple has partnered with Visa, MasterCard and American Express to create a mobile payment platform, allowing users to pay with their iPhones in brick and mortar stores. 
+Last week Wired reported that the next iPhone will likely include a near field communication chip (NFC), which would make these types of mobile payments possible.
+
+With an NFC chip, a small amount of data can be transferred between devices held near each other. Google Wallet is an NFC-enabled mobile payment platform that has been around for a while now but just hasn't quite caught on. Retailers could be partly to blame as some have been slow to adopt the new technology.
+However, Visa and MasterCard have set an October 2015 deadline for U.S. retailers to make the switch from reading cards via magnetic strips to using newer embedded chips.
+So it seems like the timing is perfect for Apple to start implementing a mobile payment feature.
+And despite Google getting lackluster results with its efforts, a market analyst told Bloomberg things look better for Apple. "Love it or hate it, Apple drives a lot of standards in the industry. They are the mover in these markets. When they do something, the industry seems to follow."
+If the reports are true, Apple is likely to announce the feature at its product event Sept. 9, when the iPhone 6 is expected to be unveiled.
+Have something to add to this story? Share it in the comments.

@@ -1,0 +1,50 @@
+Please Stop Saying 'Celebs Shouldn't Have Taken Nude Photos In The First Place' Please Stop Saying 'Celebs Shouldn't Have Taken Nude Photos In The First Place' It has happened before and it will happen again: a bunch of female entertainers or their partners have their private photos hacked and the sexual ones leaked online. There is usually one especially famous name in the bunch that leads the headlines, the starlet with the hottest career at the time of the leak. Last time it was Scarlett Johansson. This time it’s Jennifer Lawrence. And predictably, many people respond to these famous women’s revealing photos going viral by saying they shouldn’t have taken naked photos of themselves in the first place.  
+
+ All these celebs crying bc their nudes leaked. Well they shouldn’t have taken them in the first place. Joke is on them
+	
+								 
+ — Maria Bo (@MariaBoIwema) September 1, 2014
+ 
+This is the “sext abstinence education” approach to scandalous selfies: ‘If you don’t take them, they can’t get out into the world and embarrass you.’ This is true, but much like telling people not to have sex until marriage to protect themselves against STDs and pregnancy, it’s not practical advice for most people. The digital age has changed courtship in many ways, and this is one of them. Texting nude photos is increasingly part of the sexual repertoire; phones have become sex toys. Studies show that the number of people sexting is on the rise. Nine percent of people were willing to admit to Pew Research this year that they’ve sent nude photos to someone else, while 20 percent fessed up to receiving nude shots (a curious mismatch). That’s up from 6% and 15%, respectively, in 2012. I too used to preach not taking scandalous selfies, but given their inevitability, it’s far wiser to shift to a focus on practicing ‘safe sext.’
+								
+										 
+
+ The internet cognitive dissonance zone pic.twitter.com/gOuCa8NrIk 
+ — Melissa ‮ ασσιλέΜ ‭ (@0xabad1dea) September 1, 2014
+ 
+&nbsp; 
+Security experts are still debating how a hacker or hackers got their hands on these photos. Many who have looked at the metadata on the photos, such as SwiftonSecurity — a joke Twitter account that’s turned serious around this leak — are pointing the finger at an iCloud hack, given the number of iPhone photos affected and a recently exposed security vulnerability that let an attacker try as many passwords on an iCloud account as he or she wanted.
+										
+										 
+
+ CELEB HACK SUMMARY AS OF NOW: iCloud appears involved somehow, but there is no smoking gun from any of the leaked data seen so far 
+ — InfoSec Taylor Swift (@SwiftOnSecurity) September 1, 2014
+ 
+“We still don’t know for a fact how this hack was done,” says security expert Mikko Hypponen of F-Secure. “A good guess is figuring out the email account names and then brute forcing iCloud passwords.” Apple's initial silence on the issue was as deafening as usual, but it did patch the try-a-password-as-often-as-you-want problem and said on Monday that is it is investigating. It’s not clear iCloud is definitely to blame but it is clear given the number of people affected and the number of photos that it isn’t a mass smartphone snatching: these photos were stolen from the cloud, if not iCloud. 
+
+ Blame the tech companies for delivering products with crappy default security settings, not the non-expert users whose accounts are hacked. 
+ — Christopher Soghoian (@csoghoian) September 1, 2014
+ 
+If it is Apple’s infrastructure to blame, many of these people may not have realized that their photos were being sent to the cloud. It is a-not-entirely-transparent process as to how photos get there and are stored there, as ridiculed in the oddly prescient Sex Tape, a new movie in which the protagonists make what you’d think they’d make based on the title, and accidentally distribute it to friends and relatives; it stars Cameron Diaz and Jason Segel (who appear to be among the few celebrities not included in this massive leak). Apple like Google, Dropbox, and many other companies do encourage consumers to store more and more of their data in the cloud so it is easily accessible and not easily lost, but don’t have a ALL-CAPS warning to beware of the fact that once enabled, this will become a very wide net for your data, including any intimate snaps. Once “Photo Stream” is turned on for iDevices, it keeps up to 1000 photos in the stream even if they’re deleted off an individual device. Many media reports have quoted Jennifer Lawrence’s offhand comment to an MTV interviewer: “My iCloud keeps telling me to back it up and I’m like, ‘I don’t know how to back you up. Do it yourself.’” Whether that back-up resulted in photos from her phone getting to a place where hackers could steal them will come out in a forensic investigation when the FBI inevitably pursues a case. 
+
+ Anyways I don’t think any woman should be shamed for being young, beautiful, sexually active, and reliant on a flawed tech infrastructure 
+ — sarah jeong (@sarahjeong) September 1, 2014
+ 
+&nbsp; 
+“The iCloud accounts those celebrities were using have been around for a while, maybe years. For most, they have never changed their email address or the password,” says Hypponen. “In fact, I guess most of those stars created their account 10 years ago when they got their first iPod. That username and password wasn’t very important at all, it was just something they needed to download music. Then they got an iPhone, and eventually iCloud. Now that same username and password protects their photos and their backups.” 
+Whenever a hack happens, there is a tension between the poor practices of the individuals hacked and the company that was supposed to protect their data. Ideally, all actors — not just the Hollywood ones — involved would start building higher bulwarks around sensitive data. 
+This is why we so desperately need to start thinking about how our communications are secured. This is why encryption matters. We are keeping incredibly sensitive information in digital form and trusting large companies to keep it safe. Sometimes those companies slip up or sometimes a hacker finds an incredibly clever way into their systems. Either way, if the data sits in the cloud unencrypted, a data breach becomes a sex crime. We need easier-to-use encryption tools, so that our data sitting in the cloud looks like gibberish even to the company holding it. 
+“I would strongly urge public figures to start using high security products like Silent Circle or SpiderOak,” says Elissa Shevinsky, founder of an ephemeral app called Glimpse, which is explicitly built with sexting as the use case. “Typical consumer tools like iCloud and Dropbox aren’t secure enough if you are being personally targeted.” 
+
+ If you don’t want your credit card data leaked, just don’t have a credit card. 
+ — Jonathan Zdziarski (@JZdziarski) September 1, 2014
+ 
+Security expert Adam Shostack once said a “privacy chernobyl” that made everyone think about and care about privacy enough to really care about and pay for it was “ highly unlikely.” “What aspects of privacy matter to different people sufficiently that it is unlikely that any revelation will cause enough people to become angry enough to mobilize for a given course of action,” he wrote a decade ago. Rather than a Chernobyl, maybe a Perfect Privacy Storm will motivate a societal shift to more actively protect data data. In the course of this year, Target shoppers have had their credit cards stolen. J.P. Morgan had its $250 million cybersecurity walls breached by hackers. The NSA’s access to our data through mass surveillance has been endlessly debated. Dozens of celebrities have had their nude photos exposed as well as lots of “normal” people; when it happens to the latter, we call it “revenge porn.” Maybe this is the storm. 
+More and more of our lives are digitized and flowing through online channels. It simply doesn’t work anymore to say, “If you don’t want it exposed, don’t do it in the first place,” because there is something that you do that you don’t want exposed that is currently digitized. Or something of someone else’s that you’re holding that they feel that way about. 
+  We need better nude photo opsec, not shaming of people who get exposed. 
+
+ Humans are going to do sex stuff. And in this era, that means digital sex stuff. (pun not intended) “Don’t do it” is not a solution. 
+ — InfoSec Taylor Swift (@SwiftOnSecurity) September 1, 2014
+ 
+“Humans are going to do sex stuff. And in this era, that means digital sex stuff,” tweeted jokester-turned-lead-leak-investigator InfoSec Taylor Swift. “‘Don’t do it’ is not a solution.” 
+Practicing and providing better security is.

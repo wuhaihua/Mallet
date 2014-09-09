@@ -1,0 +1,235 @@
+The Most Popular Smartphone Operating Systems Globally The Most Popular Smartphone Operating Systems Globally 
+If you&#8217;re developing apps for smartphones, it makes sense to know how popular each of the main platforms are &#8212; especially if you&#8217;re building apps designed for a specific regional market. Here&#8217;s how the main contenders rank around the world.
+Smartphone picture from Shutterstock
+This data comes from Kantar Worldpanel, which conducts ongoing consumer research panels to determine market share. It covers the three months ending in July 2014 and shows percentage of smartphone sales by operating system. We&#8217;ve also shown the percentage change since the same time period last year. 
+The exact size of the panel isn&#8217;t specified, but we are told that there were &#8220;over one million interviews per year in Europe alone&#8221;. (So you might want to take smaller market numbers with a slightly larger grain of salt.)
+
+
+
+Country
+Platform
+Share %
+Change %
+
+
+
+
+Australia
+ Android  
+66.5
+3.1
+
+
+&nbsp;
+ iOS  
+27
+0.1
+
+
+&nbsp;
+ Windows  
+5.7
+-1
+
+
+&nbsp;
+ Other  
+0.8
+-2.2
+
+
+USA
+ Android  
+62.9
+11.4
+
+
+&nbsp;
+ iOS  
+30.9
+-11.8
+
+
+&nbsp;
+ Windows  
+3.9
+0.1
+
+
+&nbsp;
+ Other  
+2.3
+0.3
+
+
+China
+ Android  
+84.6
+8.4
+
+
+&nbsp;
+ iOS  
+13.2
+-5.6
+
+
+&nbsp;
+ Windows  
+0.8
+-1.5
+
+
+&nbsp;
+ Other  
+1.4
+-1.3
+
+
+Germany
+ Android  
+82.4
+3.8
+
+
+&nbsp;
+ iOS  
+9.5
+-1.2
+
+
+&nbsp;
+ Windows  
+6.1
+-2
+
+
+&nbsp;
+ Other  
+2
+-0.6
+
+
+UK
+ Android  
+59.5
+2.5
+
+
+&nbsp;
+ iOS  
+28.6
+-0.8
+
+
+&nbsp;
+ Windows  
+9.9
+2.8
+
+
+&nbsp;
+ Other  
+1.9
+-4.7
+
+
+France
+ Android  
+75
+8.7
+
+
+&nbsp;
+ iOS  
+14.3
+0.4
+
+
+&nbsp;
+ Windows  
+8.7
+-2.3
+
+
+&nbsp;
+ Other  
+2
+-6.8
+
+
+Italy
+ Android  
+74
+2.5
+
+
+&nbsp;
+ iOS  
+11
+-4.9
+
+
+&nbsp;
+ Windows  
+13
+5.1
+
+
+&nbsp;
+ Other  
+2
+-2.7
+
+
+Spain
+ Android  
+87.5
+-2.9
+
+
+&nbsp;
+ iOS  
+6.2
+0.4
+
+
+&nbsp;
+ Windows  
+4.8
+3.2
+
+
+&nbsp;
+ Other  
+1.5
+-0.7
+
+
+Mexico
+ Android  
+80.6
+17.6
+
+
+&nbsp;
+ iOS  
+4.6
+-4.6
+
+
+&nbsp;
+ Windows  
+5.9
+-3.6
+
+
+&nbsp;
+ Other  
+8.9
+-9.4
+
+
+
+There&#8217;s no market where Android doesn&#8217;t dominate, though the percentage varies. You wouldn&#8217;t expect iPhone sales to be as high in this period, however, as many buyers hold off waiting for late-year iPhone updates.
+While figures vary a lot between markets, overwhelmingly the two platforms that matter remain Android and iOS. If you&#8217;re only serving one of these, you&#8217;re doing yourself no favours as a developer.

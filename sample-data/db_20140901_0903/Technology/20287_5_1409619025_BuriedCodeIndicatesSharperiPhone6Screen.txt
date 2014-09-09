@@ -1,0 +1,14 @@
+Buried Code Indicates Sharper iPhone 6 Screen Buried Code Indicates Sharper iPhone 6 Screen 
+There appears to have been some buried code in the test version of iOS software, indicating that the newest iPhone 6 could have a sharper, cleaner screen than people might expect.
+U.K., based site The Independent is reporting that developer James Thomson noted some interesting code hidden in the latest preview build for iOS.
+As noted in the article&#8230;
+“The code, discovered by developer James Thomson, allows the phone to pull images at three times the size, in addition to those two times ones that are currently used. The iPhone usually uses the clearest version of the image that it needs, but the code seems to indicate that iOS beta has the option of using images too large for any released iPhone.”
+This could mean that the iPhone 6, utilizing a sapphire crystal screen, will have some amazing new resolution features for users to make use of when it does become available. Bigger pictures and better clarity are always a good thing.
+ 
+
+
+
+
+
+
+  

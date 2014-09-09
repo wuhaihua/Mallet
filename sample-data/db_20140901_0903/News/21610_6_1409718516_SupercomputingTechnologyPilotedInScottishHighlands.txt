@@ -1,0 +1,12 @@
+Supercomputing Technology Piloted In Scottish Highlands Supercomputing Technology Piloted In Scottish Highlands Computer clusters scattered across the UK and around the globe are to be linked to a supercomputing hub in the Highlands of Scotland as part of a superfast computing project.
+The pilot scheme will establish a High Performance Computing (HPC) network, and is the brainchild of the Highland Council, business group Energy North and Fujitsu, which has similar bases in Inverness and Alness.
+HPC cluster
+The technology will use a portal to initially connect to a HPC cluster in Wales and, subsequently, another pilot scheme in Northern Ireland.
+It will also link to Fujitsu operations in Middlesex, the base for the Laboratories of Europe, a global network of research facilities in Europe, the US and Japan.
+The trial will run for four months, with the HPC infrastructure expected to manage huge amounts of data and complete tasks in minutes when it would usually take days.
+Ian Couper, chief executive of Energy North, a trade group with more than 200 members in the oil and gas, renewable energy and nuclear industries, said: &#8220;Using HPC could bring vast rewards to the industry and help grow the Highlands&#8217; reputation as a leader in energy research and development. This is something we are working with the industry to achieve through the Energy North Oil and Gas Taskforce.&#8221;
+The leader of the Highland Council, Drew Hendry, said: &#8220;HPC opens up a new world of potential for the business and research community in the Highlands and beyond.
+&#8220;It will put the region at the forefront of the HPC revolution in Scotland by providing access to unprecedented computing power to help develop products and processes that will benefit the wider economy.
+&#8220;It fits perfectly with our plans to develop a Highland Science Skills Academy and together these pioneering developments could benefit people for generations to come.&#8221;
+The Scottish HPC pilot is part of an effort to establish a Highland Science Skills Academy.
+How much do you know about supercomputing? Take out quiz!

@@ -1,0 +1,30 @@
+Nearby Star 'Alpha Centauri A' May Harbor Rocky Planets; 'Find' Heralds Planet-Hunting Shortcut Nearby Star 'Alpha Centauri A' May Harbor Rocky Planets; 'Find' Heralds Planet-Hunting Shortcut NASA’s Kepler mission may have made planet-hunting seem easy, but the hard truth is that most of the time looking for planets around other sun-like stars is painstakingly slow.&nbsp; And most of the extrasolar planetary search grunt work is still done on the ground using tried and true methods first put into place some two decades ago. 
+Enter Ivan Ramirez, an astronomer at the University of Texas at Austin, and colleagues, using the Magellan Clay Telescope in Chile, have taken high-resolution stellar spectra from 88 solar twins that lie within 326 light years of Earth.&nbsp; The hope is that they can prove their hypothesis that these spectra contain signatures of depleted metals caused by the presence of rocky planets.&nbsp; In fact, Ramirez says&nbsp;
+	
+								 
+In a forthcoming paper in Astronomy &amp; Astrophysics, lead author Ramirez and colleagues note that their idea is that they would actually see less metals in a star that has planets.&nbsp; Ramirez notes that our own Sun has a slightly lower metallicity which Ramirez ascribes to a depletion of certain elements that “like to stick together to form rocks.”  
+ 
+ 
+  
+  This artistic image depicts the view from a hypothetical planet orbiting Alpha Centauri A, Alpha Centauri B is clearly seen in the background, as the dimmer star. (Credit: Wikipedia)
+								
+										
+  
+ 
+“That’s how this work started,” said Ramirez.&nbsp; “We saw this effect first in the Sun and we are extending it to these solar twin stars.&nbsp; Our idea is that these missing rocky elements are in the planets.” 
+Today, says Ramirez, it’s only possible to measure chemical composition with that kind of precision for stellar solar twins that are roughly the same age, mass and chemical makeup of our sun. 
+“So, instead of calculating how many atoms of titanium are in the target star,” said Ramirez, “we only care about how much more or less there is compared to the Sun.&nbsp; We look for a depletion of rocky elements relative to non-rocky elements.” 
+Which elements would be missing?
+										
+										 
+“Elements that cover a range of the ‘condensation sequence’,” said Ramirez, who explains that’s the temperature at which such elements change their “phase” from “gas to rock.”&nbsp; &nbsp;For example, Ramirez says our own Sun is depleted in specific elements that indicate that we have a planetary system; such as barium, aluminum, iron, magnesium, titanium, chromium, silicon, and yttrium. 
+The team is still in the process of proving the hypothesis, but has found that five or six stars in the current survey have chemical depletions which could signal planetary systems. 
+None of these 88 solar twins, which are spread all over the sky, were in the Kepler field, which looked for transits of potential planets across their parent stars.&nbsp; Thus, the team is also halfway through a four year conventional Doppler Spectroscopy survey of these same stars to verify if, in fact, any of the depleted stars have planets. 
+Doppler Spectroscopy, which measures the periodic gravitational pull of an orbiting planet on its parent star, is arguably the surest method of detecting extra-solar planets.&nbsp; But the method is most effective at detecting the effects of Jupiter-like planets in close orbits; and least effective at detecting terrestrial mass planets in earth-like orbits around their parent stars. 
+Problem is, Doppler Spectroscopy can take 12 years to prove that a Jupiter-like planet is in a Jupiter-like orbit around another star.&nbsp; And because the technique is most sensitive to planets around stars that lie “face on” to our line of sight, Doppler Spectroscopy can totally miss planets around stars that lie “pole on” to our line of sight. 
+But using this method of chemical analysis, the team has already concluded that based on preliminary review of the data that “Alpha Centauri A,” which, at some 4 light years away, is part of the nearest star system to Earth, may harbor rocky planets.&nbsp; This follows on the heels of the December 2013 Swiss announcement of a putative Doppler Spectroscopy detection of an earth-like planet around the star’s sun-like companion Alpha Centauri B.&nbsp; However, the Swiss detection has yet to be independently verified. 
+Thus, can this chemical analysis method be extended to other spectral types? 
+“You can do high-precision spectroscopic work on stars that are not solar twins by comparing them to each other, rather than comparing them to the sun,” said Ramirez. 
+If this works, you’d just need one spectrum and you’d know that star has planets, says Ramirez. 
+  Ramirez says potentially thousands of nearby solar-type stars could be scanned for such telltale chemical depletions. 
+Follow me on Facebook, Twitter and Google +.

@@ -1,0 +1,10 @@
+Nokia to take on Apple, Google maps with new cross-platform navigation app Nokia to take on Apple, Google maps with new cross-platform navigation app By Sam OliverFollowing the sale of its handset division to Microsoft, Finnish telecommunications company Nokia on Wednesday announced that it would expand its consumer offerings with the release of a free navigation app &mdash; based on its Here mapping service &mdash; for Apple's iOS and Google's Android platforms.Nokia's previous iOS mapping app
+The mapping division, which now focuses primarily on the corporate logistics market, was not included in the Microsoft deal despite being a tentpole feature for the Lumia line of Windows Phone devices. Nokia executive Sean Fernback told the Wall Street Journal that the company would begin leveraging Here maps more in the consumer space as it seeks to grow its service offerings. 
+"We will go where the scale is," Fernback said, though the company is not planning to turn consumer mapping into a profit center.
+"I'm convinced people are looking for alternatives," Fernback added. "Google Maps is a good solution for many, their maps work very well, but it has looked the same and done the same for a long time."
+Nokia famously pulled its previous Here-based iOS mapping effort from the App Store following the release of iOS 7 and complaints from consumers. At the time, the company said that Apple's newly-redesigned mobile operating system "harmed the user experience," though Fernback seems to have revised Nokia's stance on that issue in the most recent interview. 
+"It was a rushed product that was never thoroughly proven," Fernback said of the previous application. "Honestly, it went horribly wrong. But we've regrouped now."
+Nokia's regrouping will apparently include strong offline navigation capability, allowing users to "fully download" maps to use when no mobile data connection is available. Google lets users cache specific map areas, while Apple's maps cache a wide area but do not grant control of that cache to users.
+ 
+				
+				

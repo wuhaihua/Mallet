@@ -1,0 +1,20 @@
+Keeping your photos – explicit or not – safe from the cloud Keeping your photos – explicit or not – safe from the cloud 
+                
+
+   					
+                     
+                       
+                   
+        			This week a leak of explicit celebrity photos has summoned the need for additional security measures. Not just the kind of security measures you take by purchasing "keep me private" apps and the like, but the kind that includes common sense and the flipping of a few key switches in your phone. As it turns out - you CAN take whatever photos you like without having them leaked to the public.
+iOS : iPhone and iPad
+It’s been speculated that the leak that’s taken place this week had to do with iPhones hooked up to Apple’s iCloud backup service. You can back up your entire smartphone to the cloud so that you’re able to access all of your data and media on whatever device you’re logged in with.Lucky you, you don’t have to do such a thing. Not only do you NOT have to use iCloud, you can opt out of uploading your photos and videos specifically. Head into settings, first. From there you’ll find the "iCloud" button - tap it.From there you’ll see a number of switches you can flip. You can turn off iCloud backups altogether or you can choose to stop uploading photos and video specifically. 
+Android: Samsung Galaxy, HTC One, LG G phones, Motorola, etc
+It’s not quite as easy to have photos uploading to the cloud automatically on Android as it is on iOS. You’re probably NOT uploading photos automatically right now. But if you are, it’s likely one of the following apps that you’re doing it with:• Facebook:Open the Facebook app, tap the menu button to the left. This will show you your Facebook "in-app apps" like Photos. Tap photos.Inside Photos, there’ll be a tab that says Synced. Tap that, and you’ll have the option to turn ON syncing of photos. If you’ve already done so, you’ll find a gear in the upper right-hand corner. Tap it.Inside this gear you should find options to turn OFF Facebook photo syncing. If you leave it ON, every photo you take will be near-instantly uploaded to Facebook’s servers the moment you take them.• Google+Google’s social network also introduced an instant-upload service with their Photo album inside Google+. To access this, you’ll open the Google+ app first and foremost.Inside you’ll find Settings in the upper right-hand corner. Tap it. You’ll find Photo syncing here - tap it, and turn it all off.
+Everyone Else
+If you absolutely must take photos of yourself in the nude with your smartphone, turn the internet off while you do it. Once you’ve taken said photos, delete them, and turn the internet back on.There’s always a way to access data that’s within reach of the internet. Just like you take a risk when you drive a car down the road, you take a risk when you take explicit photos on a device that’s connected to the internet. It’s not your fault that these photos have been leaked, celebrities, but for all of you out there in the future, letting your photos hit the web when you know now how to avoid it - don’t say I didn’t warn you.
+
+Story Timeline
+
+Explicit celebrity photos leak following speculated iCloud breach
+Find My iPhone exploit patched following celebrity photos leak
+

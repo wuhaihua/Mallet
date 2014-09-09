@@ -1,0 +1,18 @@
+NASA’s drone airspace expert clamps down on enthusiasm NASA’s drone airspace expert clamps down on enthusiasm 
+                
+
+   					
+                     
+                       
+                   
+        			The drone expert leading NASA's air traffic control scheme for autonomous flying vehicles expects the first applications to begin "inside of the next year," though warns drone deliveries aren't likely to get anywhere near mainstream for another five years. Dr Parimal H. Kopardekar, who manages NASA's NextGen-Airspace Project, predicted that agricultural monitoring using drones is likely to be the first application to get the green-light, as concerns around autonomous and remote-control vehicle safety in urban environments continue. NASA's role in the NextGen-Airspace Project involves trying to develop the next-generation of air traffic control, suited to a new type of aircraft. Rather than thousands of feet in the air, drones are more likely to be busily buzzing at 400 to 500 feet, for instance, and thus face very different perils and obstacles. For instance, gusts of wind could blow a drone off-course and potentially into a building in a city environment, as well as having to navigate safely through power lines, trees, and more. Speaking to the NYTimes, Dr Kopardekar predicted that agriculture and "asset monitoring" applications would be the most likely to go public first. Drones that could quickly survey remote fields to track crop development, as well as explore long runs of pipelines and other infrastructure, would keep the craft out of more populated airspace. His hope, he said, is to "see some action inside of the next year" in such fields. Schemes like Google's Project Wing, which was shown last week running a test flight to deliver to a distant target in Queensland, Australia, however, will take longer to materialize. 
+Google's proposed application, carrying goods to shoppers off the beaten track, is actually most in keeping with what the NASA engineer and former FAA air traffic researcher believes could come next. Even then, Dr. Kopardekar doesn't expect such deliveries to begin for another five years or so. In the meantime, Google says it will be building up its drone's abilities to avoid bumping into things, along with its autonomous navigation technologies. The FAA will need to change its policies before US use is permitted, however, having warned companies that they face prosecution and fines if they try to fly drones for business purposes.NASA has been looking at safe drone flight for some time now, putting out a call for proposals on an autonomous flight system back in 2012. At the time, one of NASA's goals was to figure out a system whereby drones could successfully share airspace even if they weren't running the same AI.SOURCE NYTimes
+MORE NextGen-Airspace Project
+
+Story Timeline
+
+Photography contest shows why drones are amazing
+LAPD tries to ban use of drones over its stations
+Kanye West ponders drone crashes and electrocution
+Drone snafu: tourist crashed UAV into a Yellowstone hot spring
+

@@ -1,0 +1,33 @@
+Zotac B1320 delivers Windows 8.1 PC in a tiny box Zotac B1320 delivers Windows 8.1 PC in a tiny box 
+                
+
+   					
+                     
+                       
+                   
+        			Zotac has been delivering "computing in a box" for years now but it was only recently that it started talking about Windows 8.1. Just in time for the changing of the guards, the company has made available the ZBOX B1320, a low power Intel Celeron box that runs Micrososft's current, though soon to be replaced, Windows version.Like many of Zotac's products, do not expect this box to exude raw power. It runs on an Intel Celeron 2957U, a dual-core processor that maxes out a 1.4 GHz tops. That also means, of course, Intel HD Graphics. It has 2 GB of RAM but it's noted that it can handle up 16 GB. The box also only has a 64 GB mSATA for storage by default, but the 2.5-inch drive bay will let you upgrade that to your heart's content. You won't be playing triple-A games on this box, but it delivers just enough to drive your basic computing needs, plus some basic game or two. That is if you are in need of a Windows box.Zotac does offer other ZBOXes in its inventory, the latest one being the Nano D518 we met last month. That one, however, ran on a Freescale ARM chip and came with Android 4.3, not exactly the latest, pre-installed. That said, if your needs go beyond what Android or even Chrome OS can offer, then the ZBOX B1320 might just be the right fit. And for the price of $219.99, it might be a deal, too.
+		
+		
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+		
+The timing of this Windows 8.1 device launch is a bit amusing if you put it in the context of the events that are expected to unfold this month. Microsoft is expected to formally announce Windows 9, a name leaked by its own Chinese outfit, at the end of September. Codenamed "Windows Threshold", this new Windows version is touted to answer many of the nagging complaints users have about Windows 8. Considering specific details of Windows 9 are still under wraps, the upgrade path for this tiny box remains unknown. A factor that might convince some to wait for a while before investing even in something as affordable as this.VIA: Liliputing
+
+Story Timeline
+
+Zotac ZBOX Sphere: a round dual-core PC
+Zotac ZBOX EN760 mini PC targets gamers
+Zotac C-series nano PC lineup arrives
+ZBOX Nano D518 features an ARM processor, Android 4.3
+

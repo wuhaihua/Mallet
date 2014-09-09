@@ -1,0 +1,6 @@
+DashNotes Quickly Saves Text, Images And Links To Chrome's New Tab Page DashNotes Quickly Saves Text, Images And Links To Chrome's New Tab Page 
+Chrome: DashNotes snips and saves parts of the web in Google Chrome&#8217;s New Tab page, so you can refer to them later. Plus, it looks pretty, like a little pinboard.
+
+Install the extension and you&#8217;re ready to start. DashNotes will save highlighted text, any links, or any image in a jiffy. Just right-click (on an empty space in case of web pages) and choose &#8220;Add to DashNotes&#8221;. The next time you open a new tab, it will show up there as its own pinned tile. The notes adjust width to fit the text.
+There are already plenty of apps and extensions to supercharge the New Tab page, but DashNotes is a winner. It makes saving parts of the web fast and easy, and you don&#8217;t forget them in your vaults; it&#8217;s in your face every time you open a new tab.
+DashNotes [Chrome Web Store via AddictiveTips]

@@ -1,0 +1,9 @@
+Home Depot May Be Source of New Credit Card Breach, Report Says Home Depot May Be Source of New Credit Card Breach, Report Says Image: Flickr, Mike Mozart
+
+A new set of stolen credit card numbers may have originated from The Home Depot, according to a report based on information from numerous banks.
+The breach, first published by security reporter Brian Krebs, features American and European cards that became available for purchase on Sept. 2. The Home Depot confirmed to Krebs that the company is investigating "unusual activity."
+
+Krebs noted that the banks he spoke with had purchased stolen cards from a particular email address associated with Russian and Ukranian hackers that had been responsible for other attacks, including a breach at Target put more than 100 million customers in danger. 
+A recent study found that a group of Russia-based hackers hold around 1.2 billion username and password combinations and 500 million email addresses.
+That breach turned out to be part of a larger cyberattack that targeted more than 1,000 businesses. It is unclear if this breach was part of that attack.
+Have something to add to this story? Share it in the comments.

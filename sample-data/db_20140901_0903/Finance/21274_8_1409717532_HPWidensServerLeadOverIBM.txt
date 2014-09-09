@@ -1,0 +1,15 @@
+HP Widens Server Lead Over IBM HP Widens Server Lead Over IBM IDC estimates that worldwide server revenue increased 2.5% year over year to $12.6 billion in the second quarter. Server unit shipments increased 1.2% year over year to 2.2 million (and up from 2.1 million in the first quarter). Volume server revenue increased 4.9% year over year for the fifth consecutive quarter. Mid-range systems grew 11.6% year over year while high-end enterprise systems revenue decreased 9.8% primarily due to tough comparisons. 
+Matt Eastwood, Group Vice President and General Manager, Enterprise Platforms said “The server market is experiencing the beginning of a cyclical refresh cycle as systems deployed shortly after the financial crisis are retired and replaced. IDC expects this refresh cycle will continue well into 2015 and be further accelerated by Microsoft’s announcement that it is ending support for Windows Server 2003 coupled with Intel’s forthcoming release of the Grantley Xeon EP and a significant number of related server platform announcements.”
+	
+								 
+“Demand for servers in the public cloud continues to be a major driving force for server market growth,” said&nbsp;Kuba Stolarski,&nbsp;Research Manager,Enterprise Servers&nbsp;at IDC. “While many of the largest of these companies have already undergone periodic datacenter expansions over the past year, public cloud demand for new servers will continue to outpace the general market in the immediate future. As these customers search for new ways to maximize datacenter efficiency, their technological choices may help accelerate emerging trends in low power and alternative server architectures.” 
+ 
+ 
+HP server revenue grew for the third time in four quarters 
+HP has held the number one server market share position for four quarters. In the June quarter it generated $3.2 billion in revenue for a 25.4% share and 4% revenue growth. Over a two year timeframe HP has seen its server revenue decline 14% while the total server market has declined 2.6%. Servers have accounted for about 12% of HP’s total revenue the past two years. 
+IBM generated $2.97 billion in revenue and is a fairly close second to HP with 23.6% share. Its revenue declined over 10% year over year in front of a technology refresh and over two years its revenue has fallen over 19%. Servers accounted for about 15% of IBM’s total revenue in 2012 and 13% in 2013.
+										
+										 
+When analyzed over rolling four quarters revenue HP became the market share leader in the December 2013 quarter when it took a 1.0% share lead over IBM. In the March quarter it increased its lead to 2.3% and 3.2% in the June quarter. 
+Dell is in a solid third position but has gained little ground over the past two years. Its quarter revenue is just over $2 billion and its share has moved from 16.0% to 16.6%. 
+Cisco in fourth place (statistically tied with Oracle in the June quarter) has outperformed all the other large server vendors. Two years ago it generated $376 million in revenue, grew it to $537 million last year and $727 million in the most recent June quarter.

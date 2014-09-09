@@ -1,0 +1,15 @@
+Signs of New Physics from the LHC Signs of New Physics from the LHC 
+
+
+Large Hadron Collider at CERN
+COURTESY OF CERN
+
+
+Physics is at an impasse. The path its practitioners have been following for decades, known as the Standard Model, came to a triumphant end in 2012, when researchers found the model's last undiscovered particle, the Higgs boson. The Standard Model describes the behavior of known particles remarkably well, but it cannot explain what dark matter is, among other things. Thus, many physicists have turned to supersymmetry, or SUSY.
+SUSY posits that every known particle has a heavier partner, which gives it the power to explain dark matter. And some versions of it can account for why the Higgs boson, which gives other particles mass, has the mass that it does.
+But the search for the exotic particles at the world's most powerful particle smasher, CERN's Large Hadron Collider (LHC) near Geneva, has so far come up empty, leading to no small amount of hand-wringing over SUSY's existence. &ldquo;Lots of people are pessimistic,&rdquo; says David Curtin of Stony Brook University.
+Two teams of researchers have lately been asking if perhaps physicists have simply missed SUSY trail markers. That could happen if supersymmetric particles do not reveal themselves dramatically but instead have just the right mass to decay into ordinary particles with unremarkable energies and other supersymmetric particles that can escape notice. In this way, SUSY particles could get lost in the shuffle of particles produced by more common Standard Model processes. &ldquo;Signs of supersymmetry could be hiding right under our noses,&rdquo; says Curtin, a member of one team.
+That indeed might explain the slight overabundance of two kinds of particles detected at the LHC in 2011 and 2012, before it shut down for an upgrade. In two separate preprint papers put forward in June, each team argues that the supersymmetric partner of the ordinary top quark, known as the stop, as well as two other superparticles, could explain the observations while also being in the right weight division to help account for the Higgs boson's mass.
+But other researchers counter that an underestimate of Standard Model processes could account for at least some of the excesses. &ldquo;It is too early to think that these measurements are likely pointers to new physics,&rdquo; says Dave Charlton, a member of one of the LHC teams that saw the excesses.
+The issue may be resolved in 2015, when the souped-up proton smasher roars back to life. &ldquo;We're all very eager to find evidence&rdquo; for SUSY, says Ann Nelson, a theoretical physicist at the University of Washington, who was not involved in the new studies. &ldquo;At this point, I'm cautious,&rdquo; she says but adds, &ldquo;Huge signals start as little hints.&rdquo;
+FURTHER READINGS AND CITATIONS ScientificAmerican.com/sep2014/advances

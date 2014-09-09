@@ -1,0 +1,46 @@
+Celebrity iCloud hacking puts a damper on Apple's upcoming iPhone 6 launch Celebrity iCloud hacking puts a damper on Apple's upcoming iPhone 6 launch 
+				Apple logo is seen in this file photo. Image: Reuters 
+			
+								Apple Inc has often displayed uncanny timing, with its well-orchestrated end-of-year iPhone releases. But the leak of racy celebrity photos in the past few days put the company in the unusual position of having to mend its image just days before a highly anticipated 9 September product launch of the iPhone 6.
+&nbsp;
+Nude photos of Hollywood celebrities, including Oscar-winning actress Jennifer Lawrence, posted on Internet forums by unknown hackers has sparked condemnation from stars and their publicists, and prompted an investigation by the Federal Bureau of Investigation.
+&nbsp;
+In the wake of the breach, cybersecurity experts and mobile developers have called out inadequacies in Apple’s and, more generally, cloud-services security. Thousands have taken to Twitter to express their frustrations with the company.
+&nbsp;
+Some security experts faulted Apple for failing to make its devices and software easier to secure through two-factor authentication, which requires a separate verification code after users log in initially. The process requires several steps and more than rudimentary knowledge of a phone&#8217;s workings.
+&nbsp;
+Apple could also do more to advertise that option, they said. Most people do not bother with security measures because of the extra hassle, experts say, and the leading phone makers are partly to blame.
+&nbsp;
+&#8220;Making things more private or secure by default instead of having “security options” would go a long way. Most people won’t take those options and they aren’t necessarily advertised as available,&#8221; said Matt Johansen, senior manager of the Threat Research Center at WhiteHat Security Inc. &#8220;Most sites with two-factor authentication, you need to go to some very obscure options menu, multiple-clicks deep.&#8221;
+&nbsp;
+To be sure, the inadequacies identified in Apple&#8217;s cloud and mobile security ring true of other cloud or Internet-storage services, experts said. Official and celebrity Twitter accounts for instance had been routinely hacked.
+&nbsp;
+Apple said on Tuesday the hacks were the result of targeted attacks on accounts and not a direct breach of its systems. The company referred to such attempts as &#8220;all too common on the Internet.&#8221;
+&nbsp;
+But the highly public affair remains potentially one of Apple&#8217;s worst public crises in years. Speculation continues to spread on blogs about flaws in the iCloud service, which lets computer and mobile users store photos, documents and other data so they can be accessed from a plethora of devices they own.
+&nbsp;
+Brandwatch, a company that analyzes sentiment on social media, blogs and other sites, found that prior to the hack, Apple received very few negative mentions on Twitter, a testament to its strong brand in the United States.
+&nbsp;
+But in the past three days, 17,000 mentions on Twitter were related to the security breach as of Tuesday afternoon. 7,600 of these tweets specifically mention Apple. Some of the negative words associated with mentions of Apple&#8217;s iCloud service include “violation,” “disgusting violation,” “criminality,” “failure,” “glitch” and “disappointment.&#8221;
+&nbsp;
+Brandwatch spokeswoman Dinah Alobeid said Brandwatch differentiates between negative and neutral tweets by analyzing keywords. There were three times as many negative mentions as positive mentions related to the incident.
+&nbsp;
+Apple has dealt with several high-profile public faux-pas in past years, including a maps service criticisd for lacking important geographic detail and &#8220;Antennagate,&#8221; when experts exposed how a flaw in the latest iPhone led to dropped calls. Depending on how the hacks went down, this incident could be as damaging to its reputation, if not more.
+&nbsp;
+“This could be a scary time publicly for Apple,&#8221; JD Sherry, vice president of cybersecurity provider Trend Micro wrote in a Tuesday blogpost. &#8220;They haven&#8217;t had many, Antennagate and Apple Maps come to mind, and this would most likely trump those.&#8221;
+&nbsp;
+BUILDING TRUST
+&nbsp;
+The celebrity hacks underscore the longer-term risks for mobile users as smartphones increasingly become the repository for far more sensitive education, healthcare and banking data. And that data gets stored increasingly in personal cloud accounts, hosted on the public and private Internet.
+&nbsp;
+&#8220;We need to get to a point where security is the standard (and) Apple could make it easier in the set up,&#8221; said Branden Spikes, founder and CEO of Spikes Security and former chief information officer of Space Exploration Technologies.
+&nbsp;
+At its upcoming event, Apple is expected to announce the launch of a mobile payments service alongside its iPhone 6.
+&nbsp;
+BeyondTrust security expert Marc Maiffret expects the phone will someday replace the wallet, storing sensitive payments information such as credit card accounts &#8211; data that would prove increasingly tempting to hackers.
+&nbsp;
+&#8220;How long after that does it make sense for your identity beyond your financial information to follow?&#8221; he said.
+&nbsp;
+Apple has encouraged developers to use iCloud. But the leaks have left some app developers feeling uncertain. &#8220;Things like this happen and you wonder, can you trust Apple with other people&#8217;s data,&#8221; said Ruben Martinez, a developer building Apple software applications. Martinez said he considered using iCloud for an app he is building, but he may now explore other options.
+
+Reuters

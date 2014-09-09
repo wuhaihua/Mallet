@@ -1,0 +1,74 @@
+Demystifying The Knowledge Graph Demystifying The Knowledge Graph 
+								
+							
+							
+							
+Search is changing &#8211; and it&#8217;s changing faster than ever. Increasingly, we are seeing organic elements in search results being displaced by displays coming from the Knowledge Graph.
+Yet the shift from search over documents (e.g. web pages) to search over data (e.g. Knowledge Graph) is still in its infancy.
+Remember Google&#8217;s mission statement:
+Google&#8217;s mission is to organize the world&#8217;s information to make it universally accessible and useful.
+The Knowledge Graph was built to help with that mission. It contains information about entities and their relationships to one another &#8211; meaning that Google is increasingly able to recognize a search query as a distinct entity rather than just a string of keywords. As we shift further away from keyword-based search and more towards entity-based search, internal data quality is becoming more imperative.
+In other words, if you want to be findable in the search results of the future, search engines need to be able to understand what entities are on your web page.
+Search engine technology can extract entity information from your content in two ways &#8212; explicitly (using structured data markup), or implicitly (using natural language).
+Explicit vs. Implicit Entities
+Explicit Vs. Implicit Entities
+Explicit entities are obtained when search engines consume structured data markup on a web page, leveraging semantic web technology to do so.
+Implicit entities refer to when entity information is derived or inferred from the text on a web page. The technology utilized to obtain these entities is typically some sort of stochastic algorithm like NLP (Natural Language Processing) or a similar form of information retrieval technique
+(Check out my last article for list of tools to assist in determining both what implicit and explicit entities are on your webpage.)
+Takeaway: Make sure both your implicit and explicit entities send the same &#8220;signal,&#8221; i.e., are about the same topic, thereby strengthening the positive signal about that topic you send to search engines.
+Schema.org Extends The Knowledge Graph
+For those of you who are concerned about &#8220;getting into the Knowledge Graph,&#8221; placing structured data markup from Schema.org on your web pages is critical.
+Schema.org hosts a collection of structured data markup schemas that help search engines understand the information contained within HTML documents. This structured data allows search engines to identify entities and define the relationships between them &#8212; which in turn leads to better, richer and more useful search results.
+Schema.org defines (amongst other things) relationships
+In other words, becoming an authoritative resource on something and marking up your page with the appropriate structured data markup can increase your chances of &#8220;getting into the Knowledge Graph.&#8221;  What follows is an example of how to get your events into Google&#8217;s Knowledge Graph using Schema.org and JSON-LD.
+How To Get Your Events Into Google&#8217;s Knowledge Graph
+Note: This step-by-step guide/example is taken directly from the Google I/O tutorial (which can be found here) as well as one or two screenshots from the &#8220;Cayley&#8221; tutorial from Google I/O 2014 (which can be found here).
+As I have already mentioned, understanding entities helps Google understand what &#8220;things&#8221; are in the world and what users are searching for. The Knowledge Graph leverages information from authoritative sources such as Wikipedia, Freebase, Google Maps, the FDA, and so on.
+In the case of events, the best and most authoritative source of event information is the event organizers themselves. A search engine is therefore incentivized to surface an authoritative answer from the event organizer&#8217;s official website.
+As you can see from the illustration below, the Knowledge Graph results for &#8220;Keith Urban&#8221; contain a list of upcoming shows. The structured data from the official website is consumed by the search engine, and that information is then stored directly in Google&#8217;s Knowledge Graph.
+
+Event organizers are thus requested to take ownership of their events and mark up their websites accordingly. When Google crawls the web, it can then read the markup and show the results to users when they are searching for that information.
+As you can see, the Knowledge Graph powers a lot of information and results surrounding events. In this case specifically, we see the Knowledge Graph powering:
+
+Knowledge Graph entries in SERPs
+Event Listings in Google Maps
+Notifications in Google Now
+
+
+Schema.org is the vocabulary or ontology of choice for specifying this information, as it is supported by the major search engines, namely Yandex, Yahoo, Microsoft and of course, Google.
+In terms of the syntax you utilize to mark up your event listings, it can be done in either microdata or JSON-LD, whichever you prefer. Decide which syntax you want to use and stick with it. (In my personal opinion, JSON-LD is easier.)  Once you pick your syntax, make it consistent throughout your web page (and preferably website, depending on what kind of information you are marking up).
+Microdata (left) and JSON-LD (right) for schema.org type MusicEvent
+For the type of the event, ensure that you the most specific subtype, such as &#8220;SportsEvent&#8221; (or whatever event type you are marking up). For specific event subtypes, you can add useful attributes such as home team and away team. In the example below from the Keith Urban website, you can see the event type listed as &#8220;MusicEvent.&#8221;
+JSON-LD on the official artist website
+For the &#8220;offer&#8221; information, add the URL of the ticket seller&#8217;s web page. At this point, Google will try to visit the ticket seller and check for the corresponding information. An example of how that webpage should be marked up is shown below.
+JSON-LD for the Official Ticket Seller&#8217;s Website
+As you can clearly see, the offer is marked up, along with the price information, dates it is valid, the availability of the ticket (&#8220;InStock&#8221;) and the website offering the ticket.
+Once you&#8217;ve implemented your markup, the next step is to ensure it is valid. For events, you can do that with Google&#8217;s Events Markup Tester page. (For other types of structured data, check out Google&#8217;s structured data testing tool.)
+Google&#8217;s Event Markup Testing Tool
+So there you have it. In summary, Google will crawl the official website, check the website for the official ticket seller for the event, store that information in the Knowledge Graph, and then be able to display it in search results when users are seeking that data.
+For those of you that have events to mark up, enjoy doing so; for those of you who are working in domains that do not involve events, understanding the process is still helpful, as it is similar for other types of structured data markup implementation.
+Things, Not Strings
+As an additional takeaway, I would recommend thinking of entities just as they are: &#8220;things, not strings,&#8221; as Google puts it. The future of search is moving away from the idea of &#8220;keywords,&#8221; and notions about &#8220;keyword density&#8221; have no place in the future of SEO. Note the following recent statement from Google&#8217;s  research blog:
+Now, with the Knowledge Graph, we are beginning to think in terms of entities and relations rather than keywords. &#8220;Basketball&#8221; is more than a string of characters; it is a reference to something in the real word which we already know quite a bit about.&nbsp; Background information about entities ought to help us decide which of them are most salient. After all, an article&#8217;s author assumes her readers have some general understanding of the world, and probably a bit about sports too. Using background knowledge, we might be able to infer that the WNBA is a salient entity in the Becky Hammon article even though it only appears once.Research Scientist Dan Gillick and Product Manager Dave Orr
+In other words, as semantic technology gets more sophisticated, you may only have to mention the concept once, and the remainder can be deduced by the search engines. Thus, natural language will become more and more the norm as search engines become better at identifying implicit entities. Keyword stuffing will be &#8212; and in fact already is &#8212; a technique of the past.
+Key Takeaways
+In summary, there is a lot you can do to optimize a web page for the Knowledge Graph. My primary strategy, as discussed in this piece, is outlined here:
+
+Determine what entities you want to target.
+Determine what topics are of interest to your audience.
+Send a strong signal your site is writing about that topic to the search engines by using structured markup (explicit entities).
+Corroborate the information and strengthen that signal with the content you place on your site (implicit entities).
+Remember: entities are not keywords, so do not treat them as such.  A mere mention in the appropriate  context can be a powerful signal.
+
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

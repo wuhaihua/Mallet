@@ -1,0 +1,149 @@
+The Complete Guide To Bidding On Competitor Brand Names & Trademarked Terms The Complete Guide To Bidding On Competitor Brand Names & Trademarked Terms 
+								
+							
+							
+							It&#8217;s been long known in the industry that brand term keywords garner a much higher click-through-rate. As a result, marketers often start by bidding on their own brand terms. This however cannibalizes, to some degree, organic traffic that would have been received for those terms anyway.
+When bidding on competitor brand terms, you don&#8217;t have to worry about cannibalization of your own organic results; these are terms for which you probably weren&#8217;t going to rank anyway. If you were, that means you&#8217;re using competitor brand terms on your own pages &#8211; a risky proposition from a legal standpoint.
+Yes, the FTC does have some regulatory language about mentioning competitors for the purposes of a factual comparison, but the risk of doing this poorly and opening yourself up to a lawsuit or a false advertising complaint probably outweighs pursuing strategies involving comparisons.
+The Practice Is Fairly Common
+As far as paid search goes, in the U.S. at least, my understanding is that it has been generally accepted in the online marketing industry for several years now that it&#8217;s OK to *bid* on competitor brand terms as longs as the competitor&#8217;s terms don&#8217;t show up *in your creatives* (i.e. the ad text itself).
+Run some brand-name searches yourself and you&#8217;ll see plenty of examples where this appears to be happening.
+Google AdWords has copious information on this topic, the easiest place to find them is here:
+
+Google&#8217;s Trademark Advertising Policies
+
+I strongly encourage you to to read all of them.
+By my reading of Google&#8217;s policies, it seems that in the U.S. at least, if you bid on competitor brand terms, Google&#8217;s policy is not to investigate complaints, as long as you don&#8217;t include any trademarked terms in your creatives.
+It&#8217;s important to note that Google&#8217;s policies (and local law) vary by country. Of course, Google&#8217;s policies are one thing; they don&#8217;t prevent a competitor from suing you however, so proceed at your own risk.
+Disclaimer: I&#8217;m no lawyer, so you should get your own legal advice and research these issues to your own satisfaction before proceeding with any of the ideas in this article. Also, if you&#8217;re going to use competitor brand terms on other platforms such as Bing/Yahoo or elsewhere, you should fully investigate their policies first as well.
+Caution: This Is Still Somewhat Up In The Air
+Notably, a case involving Rosetta Stone was recently revived on appeal, so the overall question of the legality of bidding on competitor trademarks is still somewhat fuzzy.
+If the courts lead to a reversal on this, then it could create a huge, painful mess for the industry and spawn numerous lawsuits, given the prevalence of the practice in the last few years. SearchEngineLand&#8217;s Pamela Parker has been doing a great job covering this:
+
+Question of Whether It&#8217;s Legal To Use Trademarks As Keywords Revived On Appeal
+
+What is a Trademark?
+Per the U.S. Patent and Trademark Office (USPTO for short) , a trademark is:
+&#8221; a word, phrase, symbol or design, or a combination thereof, that identifies and distinguishes the source of the goods of one party from those of others&#8230;.you can establish rights in a mark based on use of the mark in commerce, without a registration&#8230;.Common law rights arise from actual use of a mark&#8230;&#8221;
+
+
+See: USPTO Trademark FAQs
+
+
+Just because a competitor has not registered a phrase as a trademark with the U.S. Government doesn&#8217;t mean the phrase isn&#8217;t their trademark; it still might be considered an unregistered trademark.
+Something to look for is whether they use the &#8220;TM&#8221; mark in association with something rather than the &#8220;Registered Trademark&#8221; symbol (the circle with an R).
+If they are not putting &#8220;TM&#8221; (or &#8220;SM&#8221; for a &#8220;Service Mark&#8221;), then they aren&#8217;t doing a very good job of protecting their rights in that mark, an important fact to note if there is ever any court case around it (most marketing organizations are adamant about using &#8220;R&#8221;, &#8220;TM&#8221;, and &#8220;SM&#8221; the first time a trademark is used on any piece of collateral for this reason).
+The bottom line is that if you register a trademark, it&#8217;s much easier to prove that you have rights in it. Google, for instance, has  a process you can follow if someone is using your trademark in their creatives, and if you can send evidence that your trademark is a registered one, that will go a long way to resolving a dispute in your favor. (Twitter famously uses trademark registrations as a factor in resolving situations of Twitter-squatting as well.)
+If you&#8217;d like to see what a registration certificate looks like, you can do a trademark search yourself (per my instructions in the next section), then go to an individual record and click on the &#8220;TDR&#8221; button at the top, then see if you can find the &#8220;Registration Certificate&#8221;.
+It should look something like the one below (full disclosure: I added the color version of the Google logo since the USPTO&#8217;s scanned black and white version was choppy and frankly, ugly.) Marks are generally submitted in black and white &#8211; this particular certificate looks like a re-registration that was issued about a week ago for the term [google].  I would not be surprised if there is another record in there somewhere in the system for the full color logo version however:
+Figure 1: Google&#39;s Trademark Registration Certificate
+&nbsp;
+How To Do Your Own Trademark Searches
+If you&#8217;d like to see whether a competitor has registered a trademark, you can do some searching yourself. It&#8217;s important to note that the USPTO allows trademarks to be obtained for different classes of goods and services.
+For instance, Hershey Ice Cream can have a trademark on the use of the word &#8220;Hershey&#8221; in association with ice cream, while Hershey (the large one you&#8217;re probably more familiar with) can have a trademark on use of the word in association with chocolate:
+
+Go to http://www.uspto.gov/
+Select &#8220;Trademarks-&gt;Trademark Search&#8221;
+Select &#8220;Basic Word Search&#8221; (a &#8220;Word Mark&#8221; is just a phrase; a &#8220;Design Mark&#8221; is a stylized phrase or picture-based logo. If someone trademarks a word in a particular logo style but doesn&#8217;t register it as a Word Mark, then they possibly open themselves up to would-be infringers that just use a different logo style).
+Search on the term.
+&#8220;Live&#8221; means a trademark, or its application, is &#8220;Live&#8221;; &#8220;Dead&#8221; means either the application has expired or the trademark has expired.
+
+Try it yourself for &#8220;iphone&#8221;; I just did and the search resulted in 37 records, some live and some dead.  The second-oldest is the Cisco-owned trademark that Steve Jobs famously convinced Cisco to license to Apple (see figure 2):
+Figure 2: iPhone Trademark Record at the USPTO
+&nbsp;
+4 Different Types Of Competitor Terms To Consider
+Now that you have some sense of what terms your competitor has bothered to trademark and which they haven&#8217;t, there are a wide variety of terms worth exploring from a keyword research standpoint:
+1.  The competitor&#8217;s company name
+This is pretty much a no-brainer, many end-users typing company names are either deep into the research phase of the buying funnel; when they start investigating individual vendors, they are pretty close to converting.
+2.  The competitor&#8217;s product names
+Also a no-brainer, you probably already thought of this one.
+3.  The competitor&#8217;s website name and variations thereof
+Don&#8217;t forget that many people use browser toolbars to perform searches, and rather than typing Web addresses into the address bar, the often type them into the search bar (many people confuse the two). So you&#8217;ll find that your competitor&#8217;s website actually shows up as a keyword.
+Variations worth considering include:
+
+
+foo.com
+ www.foo.com
+ http://www.foo.com
+ http;//www.foo.com/
+
+4.  The competitor&#8217;s model numbers, SKU numbers, or replacement part numbers
+This is a very neat trick; if a potential customer is typing a SKU or Model number, it&#8217;s likely that they are even further along in the purchasing funnel than if they typed the generic brand name of the competitor. They have likely already done all their research, know exactly what they want, and they are about to convert.
+An easy way to find lists of competitor SKUs (let&#8217;s say your competitor is &#8220;foo&#8221;) is to perform the following searches; if it&#8217;s a BtoB industry, distributors and resellers often put pricing lists up on their websites, and often large Government deals require publication of pricing from vendors:
+
+[foo price list]
+[foo pricing]
+[foo prices filetype:xls]
+
+Don&#8217;t forget discontinued products. If you can find any old pricing lists and diff them against newer ones, any discontinued product names or numbers can be a treasure trove (and may even deserve their own creatives). B-to-B customers especially will search for old product numbers to identify a replacement product when it wears out.
+ISBN numbers, UPC codes, or industry-specific product codes might be worth some research as well, if applicable.
+Do Model Numbers, SKUs &amp; Part Numbers Constitute A Trademark?
+The answer is: perhaps, but in many situations, probably not. I couldn&#8217;t find much on the USPTO&#8217;s website on this, but I found a few interesting articles detailing some court cases and aspects of this question by one law firm and one legal services firm, it seems that it largely depends on how the number is used:
+
+Selling Letters and Numbers: A Court Stops a Company from Claiming Rights in Part Numbers And Why Businesses Should Care
+Trademark Examples: Slogans/Model Numbers/Taglines
+
+One particular aspect I have a problem with on this is, it&#8217;s hard for me to see how someone can put &#8220;TM&#8221; in reference to a SKU in every document in which it&#8217;s used, since the whole idea is that a SKU number is a number that resellers, distributors, etc. can look up in a database and display.
+So  it seems to me that it would be impracticable to show that you tried to protect your rights in a SKU or Part number when it&#8217;s all over the Web everywhere without &#8220;TM&#8221; on it.
+However, if a number is used as a sort of a brand name that consumers would recognize, it appears that you actually *can* trademark it.
+Here are two interesting examples:
+Dale Earnhardt, Inc.,  has trademarked the number &#8220;1&#8243; for a pretty wide variety of products including license plate holders, which seems pretty ridiculous if you think about it (aren&#8217;t something like 30-50 million drivers in the U.S. infringing this trademark every day?):
+
+Dale Earnhardt, Inc.&#8221;s Trademark for the Number 1
+
+Levi-Strauss has a registered trademark for &#8220;501&#8243; (which actually makes a lot of sense, since it really does function as a very recognizable trademark/brand name for their line of blue jeans):
+
+Levi Strauss&#8217;s Trademark for the Number 501
+
+Check Keywords For Alternate Meanings Before Using
+
+I would recommend using phrase match; that way, if a part number is 2139283423, you&#8217;ll also pick up some great lower-funnel variations like [2139283423 cheap], [2139283423 price] and so on.
+However, if you&#8217;re trying to attract traffic focused on a competitor&#8217;s SKU (say, a steak knife set), and one of the variations it attracts traffic on is [2139283423 battery], that might be an indication that the term means something in another industry.
+For this reason, it&#8217;s  important to test all keywords out in both Google Suggest and Google Search. If all the Google suggest searches seem to be related to the product or service you want to bid on, and the search results all seem to be related to it, then you have  a good candidate.
+In a real-world example, a search of &#8220;ruby tuesday&#8221; clearly brings up the restaurant, which is great if that&#8217;s who you&#8217;re targeting, but a significant number of search results, and presumably searchers, are searching for the lyrics for the Rolling Stones song title &#8220;Ruby Tuesday&#8221;. That term may not be a great one to go after (or you could perhaps manage the situation by using negatives like [lyrics] and so on).
+Often if you look in Google suggest, you can see whether the Model or SKU number means something in another industry right off the bat. Try typing the number, a space, and then try every letter of the alphabet to see what comes up.
+Let&#8217;s say we&#8217;re a manufacturer of smartphones and we want to bid on Samsung&#8217;s &#8220;Stratosphere&#8221; Android smartphone. One of its SKU numbers is [i405]. Figure 2 shows the result of checking that term out in both Google Suggest and Google Search:
+
+Google&#39;s Trademark Registration Certificate (source: USPTO)
+
+Samsung does show up as a variation, but it&#8217;s easy to tell that many people searching on that term are interested in traffic conditions on the 405 highway in Los Angeles (I don&#8217;t know whey they bother searching, current traveling time is almost always &#8220;4..Oh..5..hours&#8221; ;-)
+Checking against Google suggest can be a lot of work, but Ubersuggest is one way to speed the process. Don&#8217;t neglect doing the actual searches though, often a search will show query diversity not reflected in Google Suggest.
+Typically, if you have a 6 to 9 character SKU number, it&#8217;s usually long enough to be unique, but sometimes you&#8217;ll run into another manufacturer in an unrelated field that uses a similar SKU numbering system.
+As always, running Search Query Reports and put appropriate negatives in place is an important best practice regardless of the type of keywords you&#8217;re targeting.
+Be Careful With Your Creatives
+You might think this goes without saying as it should always apply to your paid search efforts, but I think it bears pointing out.  While it&#8217;s important to exclude competitor terms from your creatives, you should also make sure that any creatives you use are neither *misleading* nor *confusing*.
+You shouldn&#8217;t trick searchers into coming to your website, even inadvertently. You certainly don&#8217;t want to attract any false advertising complaints, or create any fodder that could be used against you later in any legal proceeding.
+For example, I would not personally be comfortable bidding on a competitors part number, and then using the vague creative &#8220;Replacement Parts: Best Prices Here&#8221;. I think a reasonable person would expect that if they clicked on that ad, they would be likely to be able to purchase the competitors part at my website.
+A creative focused instead on the customer problem that my product or service solves, or perhaps describing my own offering in some specific way, would probably be much clearer.
+Besides, telling the truth and being clear are just plain good business practices anyway! So write your creatives in such a way that they accurately represent the landing page, taking into account the keyword being searched on and the searcher&#8217;s likely intent.
+What Results To Expect
+Brand terms, and SKU/Models, on average, should have a very high click-through rate, perhaps twice the normal average.  They should also convert at a higher rate than the typical keyword.
+In the ideal world, if you were targeting 800 competitor SKU numbers, you&#8217;d have 800 campaigns, each with one keyword and one ad group, and would include the SKU or Model in the creative, for maximum relevance, highest click-through rate, highest quality score, and lowest CPC after the AdWords auction adjusts for quality score.
+In reality, you should probably not use the SKU or Model in the creative, even if a competitor has not trademarked those terms. Doing so is still more risky, in my opinion, from a legal standpoint, than just using the keywords as bidding targets. You&#8217;re likely to want to organize keywords together for convenience anyway, perhaps resulting in a few campaigns, a few ad groups, and a few creatives.
+However, the low quality score you may experience as a result should be more than balanced by the fact that many of these terms are very long-tail in nature.
+In my experience, the AdWords Keyword Traffic Estimator won&#8217;t return estimates for many of these types of term because the numbers are so low;  as a result, they&#8217;re relatively uncompetitive and inexpensive. If you have numerous competitors and competitor SKU numbers, the volumes should add up to a substantial number.
+If you have high impression volume and high positions just about everywhere on your existing keywords, that may  indicate that increasing the budget or bids on existing keywords is not going to help much &#8211; what you need are more keywords.
+If you run an analysis on keywords based on the categories above, you will often find that there is additional opportunity, on the order of 10-30% of your spend, available in those keywords. So, if you compete in a fragmented industry with many players, this strategy may be a useful way to expand an account to cover some relatively high-converting long-tail terms.
+What About Your Own Terms?
+Surprisingly, when you do this, you&#8217;ll often notice that your competitor isn&#8217;t even bidding on their own Website Address, Model Numbers, Part Numbers, or SKU numbers.
+Are you doing so with your own? Doing so may be worthwhile, but there is also an argument for cannibalizing your competitors&#8217; organic search traffic prior to cannibalizing your own organic traffic.
+Be Careful Out There!
+Again, none of this constitutes legal advice, you&#8217;re on your own with what you do. If you do decide to pursue this approach, then if a competitor complains about a particular keyword or set of keywords you are advertising against, the best policy, in my opinion, would probably be to simply stop using those keywords immediately.
+If a competitor is bidding on your terms, why not at least complain, even if you&#8217;re on unclear legal grounds?
+The ROI of writing up a threatening letter, putting a stamp on it, and sending it,  is probably pretty high if you can get your competitor to knock some high-converting keywords out of their campaign (unless of course, you&#8217;re awakening a sleeping giant by doing so &#8211; in which case &#8211; maybe you should just live with it).
+Keep Up On The Issues As They Evolve
+
+Shameless (but appropriate) plug for SearchEngineLand: Pamela Parker has been doing a great job covering this evolving area. If you&#8217;re thinking of pursuing a strategy like this, you&#8217;d be wise to read any SearchEngineLand coverage, going forward, particularly regarding the ongoing RosettaStone appeal.
+Editor Postscript: This post was updated on 5/1/2012 to include the &#8220;Be Careful With Your Creatives&#8221; section.
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

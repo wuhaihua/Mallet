@@ -1,0 +1,10 @@
+Elgato Unveils 'Eve' HomeKit Supported Smart Home Sensors, Hub-Less Smart Bulb Elgato Unveils 'Eve' HomeKit Supported Smart Home Sensors, Hub-Less Smart Bulb Elgato has announced its brand new line of  "Eve" connected home sensors at this year's IFA 2014 trade show in Berlin, which will feature full integration with Apple's HomeKit home automation platform once iOS 8 launches. 
+
+   Elgato's line of "Eve" smart home sensors  
+The Eve brand features Bluetooth accessories that monitor air quality, smoke, humidity, air pressure, energy, and water consumption, with all information syncing back to an iOS app. From the app, users can see an overview of the different aspects in their home along with suggestions and tips to better improve the environment. 
+
+   Elgato's &#36;50 "Avea" smart lightbulb  
+The company also announced its own &#36;50 Avea smart lightbulb, which allows for custom profiles, colors and alarms through an iOS app. Notably, the Avea does not require a hub like the Philips' line of Hue smart bulbs, and can utilize multiple bulbs to coordinate lighting patterns. 
+
+   Elgato's iOS app for its line of "Eve" smart home sensors  
+Elgato's Eve line of products are among the first to publicly support HomeKit, which was first announced at WWDC this past June. The platform allows home automation devices and their apps to work with Apple's first-party services like Siri and stock iOS apps using a single, secure protocol. A report from earlier this year claimed that Apple was developing its own smart home products to work with HomeKit for a release in the near future. Apple may also look to feature HomeKit integration in its highly-rumored iWatch wearable device, which is said to "make good use" of HomeKit.

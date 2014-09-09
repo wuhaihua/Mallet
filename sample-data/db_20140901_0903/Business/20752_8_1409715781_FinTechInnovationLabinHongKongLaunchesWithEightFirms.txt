@@ -1,0 +1,18 @@
+FinTech Innovation Lab in Hong Kong Launches With Eight Firms FinTech Innovation Lab in Hong Kong Launches With Eight Firms The eight startups chosen for Accenture’s Asian FinTech Innovation Lab in Hong Kong offer a wide range of solutions from security to analysis and risk, and an equally wide geographic range from Taiwan, Beijing, and Hong Kong, to India and Australia. 
+Entrepreneurs chosen for the Lab will be mentored for 12 weeks by leading executives from financial services firms through a series of panel discussions, workshops, leadership coaching and networking opportunities. At the end of the program, the entrepreneurs will be given an opportunity to present their concepts to potential investors and financial industry executives.
+	
+								 
+The companies selected for the first year’s lab in Asia are: Advanced Merchant Payments (AMP) which has a platform for alternative lending that uses principles from micro-finance, payment processing, data analytics and predictive modeling along with more traditional underwriting to let banks and other firms provide loans to small businesses without developing their own technology. 
+To improve security in cloud operations, AtCipher encrypts at the client so that by the time data reaches a server in the cloud it is protected.
+								
+										 
+Bejing Wecash Wonder Technology Co. Ltd. uses mobile data from 600 mobile internet users to provide fast credit assessment and build predictive models of customer credit risk, returning a credit evaluation within 15 minutes of an application. 
+FinSuite of Melbourne has patented technology to analyze business structures and financials on loan applications. It has a mobile app that captures and presents a structure of related entities, and another that can read PDF documents and produce a report on the company and its performance. Already available in Australia it plans to expand in Asia-Pacific. 
+Ontario-based I Think Security Ltd. helps financial institutions secure information-sharing with high net worth individuals. Asia with its abundance of billionaires and millionaires should provide a good market. 
+An Indian firm, Jocata Financial Advisory &amp; Technology Services Private Ltd., provides sophisticated Know Your Customer (KYC) and Anti-Money Laundering (AML) software that goes beyond compliance to create a high-quality, standardized and reusable data asset. That would provide an interesting product since financial firms have struggled to find an ROI from compliance investments.
+										
+										 
+QxBranch, based in Hong Kong; Adelaide, Australia; and Washington D.C., plans to use one of only two commercially available quantum computers to improve&nbsp; portfolio optimization, stock market analysis and risk modeling. 
+The FinTech Innovation Lab Asia-Pacific is modeled on a similar program that was co-founded by Accenture and the Partnership Fund for New York City in 2010. The New York Lab’s 24 alumni companies have raised almost $80 million in venture financing after participating in the program; one participant was acquired for $175 million. 
+“Our goal with the Lab is to help foster innovation in financial services using technology, reflecting our commitment at Accenture to spearhead innovative technological solutions that make a real difference in the everyday lives of people,” said Sushil Saluja, senior managing director for financial services at Accenture. 
+The Lab is supported by leading financial firms in Asia along with Hong Kong’s Cyberport and Airbnb.&nbsp; Supporting financial institutions include: Bank of America Merrill Lynch, Bank of China (Hong Kong), Barclays, China Construction Bank (Asia), Credit Suisse, DBS, HSBC, J.P. Morgan, Morgan Stanley, Ping An and UBS.

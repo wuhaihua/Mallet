@@ -1,0 +1,6 @@
+Here's A Close-Up Look At Counterfeit Money Here's A Close-Up Look At Counterfeit Money Security researcher Brian Krebs gets sent some pretty weird stuff from fans. His latest in bizarre snail mail booty: A packet full of fake cash.
+
+Krebs was given four fake $US100 bills and two fake $US50 bills. He doesn&#8217;t know who sent them, but spent time examining them to illustrate what some pretty decent (but still, of course, highly illegal) fake money looks like. While they&#8217;re fairly convincing if you&#8217;re just taking a quick glance, Krebs pointed out that they aren&#8217;t able to pass an ultraviolet light test. He found other fairly obvious discrepancies, as well.
+
+
+Krebs&#8217; breakdown of why the fake money is fake is a disconcerting reminder that we might be passing around bogus bills&#8230; some of the tests he did required a microscope to confirm that the bills were bullshit, and it&#8217;s not like your check-out guy at the bodega is whipping one out every time he gives you change. Fake money persists not because it&#8217;s necessarily good, but because it&#8217;s good enough. [Krebs On Security via BoingBoing]

@@ -1,0 +1,4 @@
+Google Forms Themes Can Be Customised Google Forms Themes Can Be Customised 
+Google Forms are a fast way to collect data from users when you don&#8217;t want to build an input form from scratch. A recent update means you can now use custom themes on those forms.
+Google has a selection of pre-built themes on offer; you can also customise those or create your own. Elements you can alter include the form and page background, header image and the font used. For complex designs this won&#8217;t be ideal, but it helps make the standard Forms interface a little less generic.
+Your Forms, your way [Google Drive Blog]

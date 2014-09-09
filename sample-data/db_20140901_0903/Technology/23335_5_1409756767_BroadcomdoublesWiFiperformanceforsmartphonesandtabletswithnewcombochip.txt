@@ -1,0 +1,11 @@
+Broadcom doubles Wi-Fi performance for smartphones and tablets with new combo chip Broadcom doubles Wi-Fi performance for smartphones and tablets with new combo chip 
+
+Broadcom announced a new Wi-Fi and Bluetooth combo chip today that the manufacturer claims will double wireless networking performance of high-end smartphones and tablets. The hardware vendor claims that users spend an estimated four to five hours everyday on Wi-Fi, and that with the new chipset, they will be able to download and stream content twice as fast as current-gen devices and with less lag.
+
+
+
+Key features of the new chipset, dubbed BCM4358, include improved Wi-Fi data throughput at 650 Mbps, enhanced Wi-Fi and Bluetooth coexistence performance, second-generation 2×2 MIMO and transmit beamforming, which pinpoints a device's location within a network to provide better throughput to that location. The chipset supports Android, Windows and Chrome operating systems, and is the highest-performing 5G 802.11ac Wi-Fi and Bluetooth combo chip in the market, according to Broadcom.
+
+Broadcom has mentioned that the BCM4358 is in production, with consumer devices featuring the chipset set to be available later this quarter.
+
+Source: Broadcom

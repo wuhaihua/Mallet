@@ -1,0 +1,10 @@
+Mac Blog: Apple Begins Inviting AppleSeed Members to Test iCloud for Windows Beta Mac Blog: Apple Begins Inviting AppleSeed Members to Test iCloud for Windows Beta Apple today began sending out invitations to AppleSeed members, inviting them to test the iCloud for Windows beta, which includes access to iCloud Drive. An iOS 8/Yosemite feature, iCloud Drive allows users to store any document in iCloud.
+
+Content stored in iCloud Drive can be accessed from any iOS device, Mac, or PC, via the new iCloud for Windows beta. AppleSeed testers receiving invites to the iCloud for Windows beta must be running Windows 7 or later, and Apple does not recommend installing the pre-release software on "personal-critical and/or business-critical systems."
+
+
+Ahead of offering an iCloud for Windows beta to AppleSeed members, Apple released a beta version of the software to developers. The latest version of that beta, launched on July 21, noted that iCloud Drive functionality was only available on on OS X Yosemite and iOS 8, so it appears that Windows users may be getting their first functional look at iCloud Drive with the launch of the AppleSeed beta.
+
+iCloud Drive is expected to be officially available with the launch of iOS 8 and OS X Yosemite. While iOS 8 will likely be released to the public in September following Apple's iPhone event, OS X Yosemite may not be available until later in the year, possibly October. 
+
+Thanks, Larry!

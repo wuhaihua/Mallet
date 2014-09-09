@@ -1,0 +1,67 @@
+Editor's desk: Massive celebrity nude photo theft and how you can protect yourself Editor's desk: Massive celebrity nude photo theft and how you can protect yourself   
+
+Last night a massive amount of nude celebrity photos were posted onto the internet. To be clear, these weren't "leaks". These were crimes. They were thefts and illegal distributions and worse — violations of privacy and dignity. Dispassionately, it should absolutely be treated like credit card or banking or any other information being stolen. Passionately, we only need to imagine they were photos of us or our loved ones to put it in the proper human context. So, what happened, who can we trust, and how can we protect ourselves?
+
+What happened?
+
+People had their personal property stolen and their privacy violated. Breaking into someone's account or phone is no different than breaking into their car or house. Likewise, for anyone horrified at the allegations of government or corporate surveillance, for anyone outraged when apps or social networks misuse or misappropriate their images or contacts, for anyone rallying to the cause of personal security and privacy, what could be more of an offense against security and privacy than this?
+
+Clementine Ford, writing for Daily Life:
+
+
+  It's a crime, and we should be discussing it as such. Some media outlets are salaciously reporting it otherwise, as if the illegal violation of privacy involving intimate images is little more than subject for gossip. When associated with sex, the word 'scandal' has been typically interpreted as something that assigns responsibility to all parties involved, a consensual act unfortunately discovered and for which everyone owes an explanation or apology.
+
+
+Decades ago paparazzi used zoom lenses to take photos of celebrities in various states of undress and sold them to tabloids who plastered them all over checkout lines. This is nothing new. However, the anonymity, ubiquity, and access afforded by the internet accelerates and amplifies it in a way that feels very new.
+
+Ultimately, that we're dealing with celebrity, nudity, and Internet, three things society has an adolescent maturity level about, should make no difference. They're human beings. They had their stuff taken and put up on display. That's what matters.
+
+How did it happen?
+
+That part is harder to figure out. Many in the media ran with an early attribution that Apple's iCloud was the source, and stuck "iCloud hack" in every headline and opening paragraph. In their race to be "FIRST!" few took any time to actually show any work verifying the source. Maybe they'll be proven right, maybe wrong, but they didn't show their work and that's bad for everybody.
+
+Various online information security experts, however, spent the night going back and forth on Twitter, some convinced it was iCloud, some convinced it wasn't, opinions swinging back and forth as the night went on. This morning it is no clearer.
+
+Charles Arthur, writing for The Guardian:
+
+
+  The most headline-grabbing possibility for the source of the photos – a full-on frontal-assault ground-up hack of Apple's iCloud service – is also the least likely. Large companies like Apple have dedicated in-house security teams who attempt to break into their own systems regularly.
+
+
+There are a lot of potential attack vectors including phishing and other forms of social engineering, non-unique passwords being stolen from one site being used to gain access to others, or even someone in a physical or virtual location or profession that gives them privileged access to accounts or devices with accounts on them (ranging from technicians to social media managers).
+
+In counterpoint, Adrian Kingsley-Hughes, writing for ZDNET:
+
+
+  Apple has patched an exploit with its Find My iPhone online service that [...] allowed hackers to flood the site with passwords [sic] attempts without being locked out. By employing bruteforcing techniques, hackers could use this to guess the password used to protect the account.
+
+
+The email address would have to be known, two-step authentication couldn't be enabled, and shorter, simpler passwords would be faster to hack. None of those are impossible or even unlikely, and the timing has resulted in a second wave of headlines linking the two events with every synonym for "might" or "could" imaginable.
+
+There is also the possibility we're dealing with multiple hacks through multiple vectors that occurred over an extended period of time, or multiple individuals and layers of hacks.
+
+Forensic researcher Jonathan Zdzardski:
+
+
+  [Ali] Michaels' exif data is so different from [Kate] Upton's, I have to wonder if it was a completely separate hack or maybe separate leaker.
+
+
+Should iCloud customers panic?
+
+No, but like any customer of any online service or digital device, you should absolutely be concerned.
+
+iCloud Photo Stream, if we allow it, keeps out last 1000 photos for 30 days backed up to all our devices. iCloud Camera Roll backup and the upcoming iCloud Photo Library will keep all photos and videos backed up online up to the limits of available storage.
+
+Dropbox, Google+, Microsoft OneDrive and other cloud-services, likewise if we allow it, will auto-upload and keep all our photos and videos onto all of their servers  up to the limits of available storage.
+
+Bugs will always be found in code. Humans can always be tricked.
+
+Unfortunately, just like home owners should always be concerned enough to lock their doors, customers of online services should always be concerned enough to lock down their accounts as best as they can.
+
+What can I do to protect myself?
+
+Most people aren't high-value targets for these kinds of attack. However, if you're at all concerned about your security and privacy and the security and privacy of your accounts and devices, here's an article I wrote a couple of months ago that details how you can make your iPhone or iPad as secure as technically and humanly possible.
+
+If you haven't already, please take a few moments to read it and share it.
+
+How to better protect your iPhone and iPad against hacks and other security and privacy risks

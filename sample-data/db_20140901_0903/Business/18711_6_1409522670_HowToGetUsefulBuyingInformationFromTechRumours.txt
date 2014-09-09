@@ -1,0 +1,147 @@
+How To Get Useful Buying Information From Tech Rumours How To Get Useful Buying Information From Tech Rumours 
+Over the next couple of weeks, Samsung and Apple are announcing new products &#8212; and like every release before and since, the rumour mill has been in overdrive. You will have encountered many contradictory rumours all around the internet, most of which are probably false. Here&#8217;s how to actually use tech rumours to make better purchasing decisions.
+
+In general, rumours aren&#8217;t really to be trusted without verification and, until you can actually buy something, they&#8217;re pretty useless &#8212; what matters to your purchasing decision is what actually happens, not what might happen. However, if you like to think ahead and plan your purchases, knowing how to assess rumours accurately can help separate the wheat from the chaff.
+The Useful Information You Can (And Can&#8217;t) Get
+
+When it comes to rumours, there&#8217;s useful information, and there&#8217;s junk info that won&#8217;t really help you buy stuff. The latter category is more for enthusiasts, but there is some valuable info consumers can garner. Chances are most of the regular buying public doesn&#8217;t care about leaked slides of NVIDIA&#8217;s next Tegra processor. But if you can find out when the next major smartphone is coming out, that&#8217;s potentially useful.
+Here&#8217;s the type of information you can (sometimes) find out about ahead of time:
+
+
+    Size
+  
+
+    Some specs
+  
+
+    Unreleased/planned features
+  
+
+    Pictures of the device
+  
+
+    Accessories
+  
+
+There aren&#8217;t many limit to what people can leak prior to an official announcement with the exception of two very key details: price and availability. This is largely because these two are rarely confirmed very early on. Even if they are, they can change or get pushed back before release. In fact, when discussing potential release dates, companies tend to use broader, less-specific terms when talking about when a phone will come out in the far future.
+Until something is officially announced, there&#8217;s very little you can do to predict exactly when a particular phone is going to appear and how much it will cost, but here are some guidelines for getting in the ballpark.
+How To Find A Release Time Frame
+Different manufacturers have varying release schedules and pinning down exact dates is rarely possible, but we can pin down the season with a fair degree of accuracy. Here&#8217;s how it breaks down across some of the most popular smartphone manufacturers and their flagships as an example:
+Apple
+Every year, Apple holds a developer conference around early June. In the past, this would be the launch stage for a new iPhone. Now, Apple tends to announce a new, beta version of iOS at its Developer Conference, and then, after a few months of beta testing, launches the full version alongside a new iPhone in the (Australian) spring. Here&#8217;s how the dates have lined up over the last few years:
+
+The last three years, Apple has announced a new iOS in June and then announced a new iPhone in early September or October. The official release of the phone comes about ten days after that (on a Friday, if the pattern holds). This year, Apple has an event coming up on September 10 (in Australia). Given what we know about past events, it&#8217;s a safe guess that Apple will announce the new iPhone running iOS 8 on that date, which will be available on September 20 or thereabouts. This is only a guess, but it gives you an idea of how you can use past information to guide future purchases.
+Apple tends to have fairly predictable release frames for all of its products, too, not just iPhones. The best resource on the web for guessing when a product is going to come out is the Mac Buyer&#8217;s Guide here. While nothing there is guaranteed, it provides advice on whether you should buy now or wait on a particular product.
+Android Releases
+
+Android/Google-related releases aren&#8217;t quite as easy to pin down because there are multiple manufacturers all competing for attention (for example, Samsung and Motorola have major announcements coming up this week as part of IFA). Narrowing down just the events for major flagship updates isn&#8217;t always easy, and throwing new and emerging markets like tablets and wearables into the mix makes it something of a free-for-all. However, there are seasonal events you can anticipate.
+
+
+    Mobile World Congress (February): The Mobile World Congress in Barcelona is the go-to press event for many manufacturers in the mobile world. This year, Samsung announced the Galaxy S5 at its Unpacked event (which was previously a standalone event in March of the previous year). Sony, ZTE and Huawei have also used this event as a launchpad for flagship phones.
+  
+
+    HTC (March): For the last two years, HTC has held its own events in March to announce the HTC One and One M8.   
+
+    Google I/O (May-June): Google&#8217;s biggest event of the year has shifted between May and June over the last couple years. It&#8217;s also the hardest to predict. Because Google isn&#8217;t a hardware manufacturer, it doesn&#8217;t always release a new phone. However, it does tend to lead the Android ecosystem with new devices. In 2012, Google introduced a phone (Galaxy Nexus) and tablet (Nexus 7). In 2013, it announced out a laptop (Chromebook Pixel), and this year, Google introduced Android Wear. This event is the one to watch for both software announcements and new hardware product categories, rather than iterative releases of existing hardware.
+  
+
+    Motorola (August-September): Motorola changed its approach after it was purchased by Google, so its patterns are still relatively new. In August 2013, the company announced the Moto X. This year, it seems to be following up that trend with an announcement on September 5.
+  
+
+    Samsung Unpacked Episode 2 (September): It&#8217;s not entirely clear why Samsung refers to its events in episodic form. However, Episode 2 of the Unpacked series in September has been used to introduce the new Galaxy Note phones for the last couple of years.   
+
+    Nexus Update (October): Android&#8217;s updates are often difficult to predict, since they come in varying sizes and impact (some years, we see a major overhaul like Android L, other times it&#8217;s a relatively minor update like KitKat). However, October is becoming the month to watch not only for new versions of Android to drop, but for new Nexus hardware.
+  
+
+Some of these events will announce hardware that is available quickly. Others may force you to wait a few months. For consumer needs, however, once an announcement happens, you can usually figure out whether or not a particular device is worth hanging out for.
+If you&#8217;re trying to figure out when a specific product is going to come out, search online to find out when the last two or three others launched. Often you can find a pattern.
+How To Estimate Pricing
+Guessing the pricing on gadgets is often harder to predict. Gadgets generally have a single sticker price and that&#8217;s it. Smartphones (and sometimes tablets) make pricing a little harder to gauge because of subsidies and payment plans, but you can still get a sense for what type of price range a device will attract.
+One thing to remember: most rumours will talk about US prices. To have an idea what something will cost in Australia, you need to convert that price to Australian dollars and then add 10 per cent for GST &#8212; US prices won&#8217;t include any sales tax. Even after that, rounding up to the nearest hundred dollars is generally a safe bet.
+
+
+    Smartphones &#8212; $350-$1000: Pricing varies hugely depending on the specifications. If you&#8217;re willing to sign up for a contract, the cost will be deferred over time (but won&#8217;t necessarily be great value &#8212; prepaid is often a better deal).
+  
+
+    Tablets &#8211; $300-$800: Tablets tend to have prices that are tied closely to their size. New 7&#8243; Android tablets start from around $300. Kindle devices tend to be cheaper on average, though they&#8217;re also more limited in capability.
+  
+
+    Smart Watches &#8211; $200-$300: Smart watches are still an emerging category, but we&#8217;re starting to be able to gauge about where they will land. The bigger the display, the more you&#8217;ll pay.
+  
+
+    Gaming Consoles &#8211; $400 and up: Consoles tend to have a much longer lifespan than most gadgets, so their initial prices can drop a lot over time. Most consoles launch in the $400 range, though they can vary widely depending on what is bundled with them.   
+
+These ranges aren&#8217;t meant to be sticker prices for specific products, or even a bar to hold manufacturers to. Some products are made to be high-end and thus come with a higher price tag. Others may end up undercutting the competition.
+However, there are certain margins that product categories have to operate in. If it costs too little, the company can&#8217;t recoup the cost of parts, let alone research and development. If it&#8217;s too high, no one will buy it. For that reason, any rumours that a product will have an exceptionally low price or an unreasonably high price demand extraordinary evidence. It can happen (everyone thought the iPad would cost $1000 when it came out), but it&#8217;s usually safe to assume prices will be reasonable until it&#8217;s proven otherwise.
+Also remember that pricing is almost never guaranteed until an official announcement is made. Moreover, devices are never more expensive than when they first come out. If you&#8217;re looking to save as much money as possible, don&#8217;t even bother with rumours. You&#8217;ll have official confirmation long before you&#8217;re ready to buy.
+How To Sort Through Everything Else
+
+Pricing and availability are the hardest things to pin down, but probably the easiest to predict. For everything else, there&#8217;s rumours and leaks. It&#8217;s easy to get lost in a spec race or to get hyped up on fake features, which only makes you disappointed in things that never really existed. However, if you really want to follow rumours (or if you just stumble on to something and want to know if it&#8217;s true), here&#8217;s a general guideline for how to determine if something is real.
+Step 1: Follow It To The Source
+Typically, when a piece of news drops, every other outlet in the same field will pick up the story (if they decide it&#8217;s worth covering). Some sites are better at being the initial source than others, but any worthwhile rumour will end up everywhere. When you&#8217;re trying to identify how trustworthy a rumour is, the first step is to find where it came from.
+Most respectable sites online have source and via links (as Lifehacker does). &#8220;Source&#8221; tends to imply it&#8217;s the initial place a story came from, while &#8220;via&#8221; means &#8220;Where we found this.&#8221; Not all sites are great at identifying the initial source, so you may have to go down the rabbit hole a bit to find the real origin. If the &#8220;source&#8221; link for one article still lists its own &#8220;source&#8221;, keep going. If you&#8217;re looking at images, watermarks can also help you find the original location of a leak.
+Step 2: Identify What Type of Information It Is
+
+Usually, when something leaks, it happens in one of a few ways:
+
+
+    An anonymous source with inside information (an employee, a retailer, or someone who heard reliable information) chooses to reveal info to a news outlet.
+  
+
+    A news outlet digs up information via obscure means like FCC documents, or poking around in source code.
+  
+
+    A reporter gets a lucky break and finds unreleased information or hardware in a place like a bar.
+  
+
+How a news outlet gets its information may not seem important (and in many cases, news outlets deliberately obscure their sources to protect them from repercussions and maintain their ability to get future stories), but it can inform how reliable the information is.
+Here are just a few types of information that are typically more reliable than average (though by no means a guarantee):
+
+
+    Blurrycam photos: One of the most common types of leaks is the blurrycam photo. This typically happens when someone who has early access to a device or prototype sneaks a picture. This can often give you an idea of what the device looks like (and they frequently come with spec leaks). This is the format that many legit leaks take, but they&#8217;re also commonly faked (see the hoax section below).
+  
+
+    Retail documents: Retail leaks happen when information filters down to the people who actually sell products. This includes the hourly employees with little real motivation to keep trade secrets or the people updating website entries. While stores frequently use placeholder images, text, and prices in their internal systems, you can often get pretty solid information prior to releases when a retailer slips up.
+  
+
+    Leaked software: Unlike hardware, software can be leaked pretty easily. Not only can rogue employees within organisations drop software off with news outlets, sometimes there&#8217;s even code buried inside officially released apps already. Particularly on Android, &#8220;APK teardowns&#8221; are frequently used to find upcoming features that aren&#8217;t ready yet. Features can be cancelled, and sometimes journalists misinterpret what they find, but they&#8217;re pretty strong indicators given their source.
+  
+
+    FCC documents: Before electronics devices make it to consumers, they have to go through the FCC (or equivalent organisations elsewhere in the world). Usually, FCC documentation is kept under wraps, but occasionally something slips out. Most of the time, it&#8217;s boring and confirms nothing but a model number, but occasionally you can find something reliable.
+  
+
+    Leaked manuals: Occasionally, someone will get their hands on a user manual &#8212; whether like the PDF in the FCC section above &#8212; or a physical copy. These are often easier to access than actual devices, but they also tend to drop closer to an actual release (if they drop at all). Because, you know, they have to make the device first before they write the manual for it.
+  
+
+There are lots of ways to leak information and this list certainly isn&#8217;t comprehensive. However, if a news outlet gets hands on something like this, it&#8217;s at least worth raising an eyebrow. This is in stark contrast to the types of &#8220;leaks&#8221; that are much less reliable. Here are just a few:
+
+
+    Patent filings: As a rule, patent filings bear almost no resemblance to actual products. Companies file patents for anything they think they might be able to use. Often, you see news stories for wild, crazy ideas that companies patent. However, these rarely make it to market. Remember, companies don&#8217;t file patents for whole, specific devices.  
+
+    Analyst predictions: Relying on financial analysts for tech rumours may seem a bit like asking a cable company lobbyist to give you good advice on net neutrality. And it is. Some industry watchers make predictions based on what they think would be in the best interest of a company (as an example, they have predicted larger iPhones for years). While sometimes these turn out to be true, it&#8217;s usually no better (and frequently worse) than chance.
+  
+
+    Supply chain rumours: A supply chain rumour comes happens when someone who is involved in building the product gets a bit of info and extrapolates. As an example, this rumour from Digitimes stated that Apple requested fewer 9.7&#8243; iPad displays. The extrapolation is that sales would plummet by 90%. The reality is that sales that quarter were way up. Presumably, people bought more iPad Minis than full-size iPads, but as Apple&#8217;s own CEO pointed out, they could just be getting displays from somewhere else. The supply chain is a big machine and it&#8217;s impossible to predict actual market behaviours from individual pieces of information.
+  
+
+    &#8220;Sources familiar with the matter&#8221;: This is a bit of a catch-22, since reliable sources will often leak anonymous info to news outlets. The nature of these leaks is that the news organisation establishes trust with an anonymous source and, if they&#8217;re comfortable with the information, they will post it. Sometimes this is valid, if the outlet has a good track record of vetting its sources. Other times, it can be a way of disguising a complete lack of evidence. By itself, &#8220;We heard from someone who says this is definitely true&#8221; isn&#8217;t proof of anything. Wait for extra evidence for this one.
+  
+
+None of this is to say that there is information that&#8217;s always right or always wrong. Sometimes analysts get it correct and sometimes a leaked ad is way off. There&#8217;s no guarantee. But if you&#8217;re looking for solid info you can trust, these guidelines can at least get you in the ballpark.
+Step 3: Find Corroborating Info
+
+The best way to find out if information is real is to get it from more than one source. Sometimes that&#8217;s not possible, or it takes time (one leak in April may match a separate one in May). This is typically the part that starts to become more work than its worth for most people because unless your job is to cover rumours, keeping up with them is a hassle.
+As a consumer, you can still keep an eye out for already-corroborated stories, though. News outlets that are confident in their leaks will want to prove that their story is accurate by pointing to related information that verifies their claim. This gets easier to find as announcements and release dates draw near. Watch for key phrases in stories like &#8220;as previously reported&#8221; or &#8220;this confirms what we heard from [x other source]&#8220;.
+Step 4: Avoid Hoaxes
+
+Here the general adage &#8220;If it sounds too good to be true, it probably is&#8221; reigns supreme. Back in the days of yore, Google was planning a phone called the &#8220;Nexus One&#8221;. It was rumoured to cost anywhere from zero to $1000 (it was $530, roughly in line with most comparable smartphones), and some people thought Google would use it to make their own carrier.
+Obviously, these were pretty ridiculous rumours. Every once in a while, something crazy turns out to be true (like the bargain-priced Nexus 7), but more often than not, if it&#8217;s completely outrageous or will &#8220;revolutionise the industry&#8221;, it&#8217;s probably false. Actual revolutions are rare. Rumours of revolutions are common.
+That won&#8217;t stop people from going out of their way to fake some sensational new information. In 2012, a particularly high-profile hoax made its way around the rumour world concerning a Sony Nexus. The device was supposed to be called the Nexus X, would have some pretty great specs, and would combine Sony&#8217;s excellent hardware with stock Android.
+The trouble is, it was completely false. A 3D artist made a rough design for a phone, created a virtual scene to make it appear as though it were sitting on a table, and then took a snapshot of it inside the modelling program. Why? Just to see how far it would go. The hoaxster didn&#8217;t even submit it to any news outlet. They just uploaded it to Flickr and waited. The internet took it from there.
+For this reason, even some of the most convincing tech rumours can be complete fabrications. Until something is confirmed by the tech company that&#8217;s actually releasing the product itself, there&#8217;s no guaranteed way to know for sure what&#8217;s coming down the pipe. Which, of course, leads to the final step.
+Step 5: Relax
+
+If you&#8217;re a tech nerd (and many of you likely are if you&#8217;re reading Lifehacker), you&#8217;re probably eager to get your hands on new gear. You may know that you&#8217;re due for an upgrade in a few months and want to find out what&#8217;s coming before you commit to buying something. That&#8217;s perfectly natural.
+However, it&#8217;s important to not get ahead of yourself. Just because you read a rumour doesn&#8217;t mean it&#8217;s true, and holding out until a mythical phone comes out isn&#8217;t helpful. Treat rumours like what they are: mostly entertainment that sometimes land on the side of truth. Even seasoned veterans can make incorrect guesses. It can (and is) a full-time job to sift through everything that comes through the news feed.
+The better solution is to keep an eye on the release cycles that matter to you (for example, if you like iPhones and Nexuses, watch the news in the spring), and wait until you&#8217;re already in the market to buy something. Rumours and leaks can help give you some insight into what&#8217;s coming, but nothing beats an official announcement. It&#8217;s OK to wait until something is confirmed. Or longer.
+Photo by Tambako the Jaguar

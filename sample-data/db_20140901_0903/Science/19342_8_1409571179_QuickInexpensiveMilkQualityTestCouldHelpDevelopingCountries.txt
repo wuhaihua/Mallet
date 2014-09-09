@@ -1,0 +1,14 @@
+Quick, Inexpensive Milk Quality Test Could Help Developing Countries Quick, Inexpensive Milk Quality Test Could Help Developing Countries 
+
+
+Fat content is a recognised indicator of milk quality as it correlates well with protein, vitamin and nutrient levels.
+Credit: Thinkstock
+
+
+The&nbsp;first fluorescent probe for measuring fat levels in milk&nbsp;is poised to enhance milk quality control processes, particularly in resource-limited regions.
+Across the globe, milk is consumed on a regular basis by over six billion people. Fat content is a recognised indicator of milk quality as it correlates well with protein, vitamin and nutrient levels. And fat content is often a primary consideration when household consumers select milk in a shop.
+Prevailing milk fat measurement methods include infrared analysis,&nbsp;Gerber&rsquo;s method&nbsp;and lactometers. Infrared methods are very complex and expensive but extremely rapid. Lactometers are simple and economical but do not reveal the exact amount of fat. Gerber&rsquo;s method, on the other hand, provides accurate readings but requires corrosive sulfuric acid and highly trained handlers. &lsquo;Our system, however, comprises all of the benefits of these methods and yet remains handy, economical and simple to apply. It is very suitable for the individual milkman, small milk workshops and common household usage,&rsquo; explains&nbsp;Young-Tae Chang&nbsp;who led the work at the National University of Singapore.
+The hydrophobic boron dipyrromethene (Bodipy)-based probe that is central to Chang&rsquo;s system has been named Milk Orange and was identified through a compound screening strategy involving over 10,000 dyes. A phenomenon known as disaggregation-induced fluorescence is responsible for the molecule&rsquo;s fluorescent signals, which increase incrementally alongside increases in the fat concentration within milk samples and can be easily measured with a fluorescence detector. In water, Bodipy dyes self-quench because they aggregate together. The triglycerides in milk fat, however, provide the ideal hydrophobic environment for Milk Orange aggregations to disassociate and fluoresce.
+Dairy technologist&nbsp;Giuseppe Zeppa&nbsp;of the University of Turin, Italy, describes the method as innovative. &lsquo;The short analysis time would be very important for a milk factory where it is necessary to test processed milk before bottling. Another noteworthy feature is that is uses a dye with minimal environmental concerns.&rsquo; He goes on to say that he would be interested to see if the method works for non-homogenised milk and, above all, for non-cow milk.
+The team are now pursuing business opportunities in India and surrounding countries, where a handheld device incorporating Milk Orange is in huge demand.
+This article is reproduced with permission from Chemistry World. The article was first published on August 28, 2014.

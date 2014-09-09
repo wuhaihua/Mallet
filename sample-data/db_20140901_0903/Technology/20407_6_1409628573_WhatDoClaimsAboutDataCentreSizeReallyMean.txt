@@ -1,0 +1,54 @@
+What Do Claims About Data Centre Size Really Mean? What Do Claims About Data Centre Size Really Mean? 
+We know data centres are becoming more important, and we know that many of them are becoming bigger and more densely-populated as a result &#8212; but what do terms such as &#8220;large&#8221; and &#8220;high density&#8221; really mean? A new set of proposed standards might help answer the question. Are you large, massive or mega?
+Data centre picture from Shutterstock
+At the opening keynote for Data Centre World Asia-Pacific (which Lifehacker is covering this week), Data Center Institute (DCI) board member Mike Andrea discussed a recently released white paper which outlines proposed standards for defining those terms. (That issue was also discussed at the main Data Center World event in Las Vegas earlier this year, but the concepts have been refined since that time.)
+Andrea highlighted an issue that&#8217;s familiar to many Australians &#8212; terms like &#8220;large&#8221; tend to alter depending on the size of the market. Many large US tech firms consider a small business to be anything with less than 200 employees, for example, while 200 staff is a large organisation in Australia.
+The same applies to data centres. &#8220;In Australia, a large data centre is an Equinix or a GlobalSwitch,&#8221; Andrea said. &#8220;I go the US or other countries and see a different scale to what we&#8217;ve even contemplated. I can&#8217;t contemplate a 6.4 million square foot centre in Australia, let alone New Zealand &#8212; it would probably sink the country.&#8221;
+Andrea, who also works as an analyst for Strategic Directions Group, said the development of common terminology would assist data centre developers and technology providers, and would fill a gap that currently exists. &#8220;The Uptime Institute has many standards, but none relating to size and density,&#8221; he said. &#8220;When we look at the common language applied across the industry, they keep talking about large or high-density but it doesn&#8217;t mean anything.&#8221;
+Data centre size and capacity can be measured on a number of criteria: floor space, number of racks, available power, or available compute capacity. All can be relevant, but it&#8217;s tricky summarising those into a simple term such as &#8220;large&#8221; or &#8220;small&#8221;. &#8220;This complexity that it creates in terms of non-commonality has created a number of need points,&#8221; Andrea said.
+Key proposals in the DCI paper include standardised definitions for compute space, rack area, the rack equivalent unit (RUI), and measurements for peak KW load and average peak KW load.
+The paper also proposes standard conversions between square feet (often referenced in the US) and square metres (used everywhere else). The DCI suggests that one square metre be equated to 10 square feet &#8212; a measure which isn&#8217;t precise, but is close enough for easy calculation. That decision did take some debate, however. &#8220;It moved about 20 times,&#8221; Andrea said.
+Here are the suggested size names based on rack yield and available compute space:
+
+
+
+Size
+Rack yield
+Compute space (sqm)
+
+
+
+
+Mini
+1-10
+1-25
+
+
+Small
+11-200
+25-500
+
+
+Medium
+201-600
+501-2000
+
+
+Large
+601-1000
+501-2000
+
+
+Massive
+1001-9000
+2001-7500
+
+
+Mega
+9000+
+7500+
+
+
+
+Those definitions haven&#8217;t been finalised, and it&#8217;s likely there will be more debate. The labels will also only become meaningful if they&#8217;re broadly adopted. Nonetheless, it&#8217;s a useful debate, even if the odds of Australian data centres ever hitting mega-scale seems remote.  &#8220;Anything over a medium-sized data centre in our region is probably going to be too taxing on our infrastructure,&#8221; Andrea said.
+Evolve is a weekly column at Lifehacker looking at trends and technologies IT workers need to know about to stay employed and improve their careers.

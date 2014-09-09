@@ -1,0 +1,31 @@
+Celebrity Photo Leak: Is Poor iCloud Security to Blame? Celebrity Photo Leak: Is Poor iCloud Security to Blame? Jennifer Lawrence seen at the Hunger Games: Mockingjay - Part 1 party at the 67th international film festival, Cannes, southern France, Saturday, May 17, 2014. (Photo by Arthur Mola/Invision/AP)Image: Arthur Mola/Invision/AP/Associated Press
+
+As dozens of celebrities dismiss, deny, explain or fire back over the leak of an untold number of nude or compromising photos reportedly stolen from their Apple iCloud accounts, some security experts think they know how the leak started.
+
+According to a report in TheNextWeb, a hack called iBrute was posted Saturday on GitHub by mobile security firm HackApp. Though technically a mere proof of concept, it showed hackers how to exploit an apparent "brute force" vulnerability in the Find My iPhone API.
+Find My iPhone is part of a trio of services connected to iCloud, including Photo Stream and Apple's password manager, iCloud Keychain. A brute-force security attack is essentially a trial-and-error-way of breaking through security, and it usually only works if there is a weakness in the security of a system that allows an unlimited number (or a very high number) of login attempts.
+Most systems you log into protect from brute-force attacks by locking up the system or the account, usually temporarily, after a certain number of failed login attempts. The iPhone itself, for instance, will lock you out for a few minutes if you try the wrong security passcode too many times in a row. 
+But apparently Find My iPhone did not have any such limits — until just now. Early Monday, HackApp reported that Apple had patched the vulnerability. 
+Apple has not confirmed or denied the existence of any such vulnerability or patch.
+Unleash the brutes
+According to Andrey Belenko, senior security engineer for mobile security firm viaForensics, iBrute was posted roughly 36 hours before the first photos leaked, which may not have been enough time for such a brute force attack to work.
+Belenko should know. On August 30, he and Alexey Troshichev of HackApp presented at Defcon in Saint-Petersburg, Russia, a fascinating report on iOS 7 and iCloud security. A deck from the presentation is below:
+ 
+It's dense reading, but the thrust of it is that iCloud security has two potential weak spots.
+
+Find My iPhone may be only half of the weakest link. It does not have the same level of password protection — no lock out mechanism for too many incorrect password attempts or user alerts — as other components.
+A user's iCloud security code — which is separate from the user's iCloud password — is the second half of the issue. The code defaults to just four digits (although it can be more complex if the user chooses) and may also be vulnerable to a brute force attack.
+
+According to Apple iCloud support, "If you enter an incorrect iCloud Security Code too many times when using iCloud Keychain, your iCloud Keychain is disabled on that device [and] your keychain in the cloud is deleted." You then have to access your account from another device. 
+This hardware-based security would seem to be a pretty significant roadblock for hackers, who likely don't have access to any of the victim's devices.
+However, viaForensics' presentation indicates hackers found a weaker security point. According to their analysis, a hacker has (or had, until the apparent patch) the ability to guess a user's iCloud Security Code offline, which would theoretically not trigger any lockout due to failed logins. 
+That meant the hacker could easily apply brute force (an extremely quick exercise for just a four-digit code) to get access to a user's iCloud keychain. Whether or not they had the actual iCloud password at the outset, they'll probably have enough access at this point to get whatever they want.
+Why so many?
+Even if all this is true, why were so many accounts apparently hacked? A leading theory is that there were a handful of accounts that were used to find contact details, including email addresses, for the others. With those IDs in hand, the hackers simply continued to apply the brute-force attack (probably starting with the same list of potential passwords that was posted along with iBrute) until they had access to other accounts' iCloud data — including, crucially, Photo Stream (iOS photos stored in iCloud).
+There's also the possibility that the photos, some of which are confirmed as authentic, may have come from a different source. Belenko, for one, is not so sure there's a cause and effect here. When asked if he or HackApp felt at all responsible and if they had given Apple a chance to patch the alleged hole before presenting iBrute, he replied on Twitter: "Don't know if it was disclosed (it should've been). I don't think that tool and the leak are connected though."
+
+I have to repeat once again THERE IS NO any evidences, that #ibrute was involved in this incident. If you have any, I look forward
+— HackApp (@hackappcom) September 1, 2014
+
+Mashable has contacted Apple for comment and will update this story with its response.
+Have something to add to this story? Share it in the comments.

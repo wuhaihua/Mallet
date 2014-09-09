@@ -1,0 +1,7 @@
+Sonos Cuts The Cord With New Software Update Sonos Cuts The Cord With New Software Update 
+In its mission to make listening to music at home as easy as possible Sonos today released a new free software update which cuts the cord for good. The update adds full Wi-Fi compatibility meaning that Sonos music streaming systems can now connect directly to a home Wi-Fi network. Previous Sonos required that there at least be one wired connection to a home router for the multi-room music streaming system to work. That requirement has been removed with the latest software update.
+
+With Sonos 5.1 users will be able to set up and run Sonos on existing Wi-Fi networks easily. They will no longer need a wired connection to a router or a Sonos Bridge. This change makes the process simpler and a lot easier, not to mention the fact that it also makes the process faster.
+Sonos promises that this will not result in a loss of quality. It still claims to have the ability to stream music throughout the house without delays, dropouts or echoes. Sonos says that it has tested performance of various kinds of home environments around the world to ensure that performance of the new Wi-Fi setup meets the standards users expect of it.
+However in environments where Wi-Fi signals are not likely to reach every nook and cranny of the house, Sonos recommends using a previous method with at least one wired connection to the router for the &#8220;most bulletproof experience.&#8221;
+The free Sonos 5.1 update is available for download now.

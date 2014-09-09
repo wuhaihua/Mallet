@@ -1,0 +1,17 @@
+Google Engineer: Support For GPS Hardware And Bluetooth Headphones Is Coming To Android Wear Google Engineer: Support For GPS Hardware And Bluetooth Headphones Is Coming To Android Wear 
+
+
+
+As a platform, Android Wear is in its infancy. Even Google itself is still figuring out some of the applications and limits of Android in a wrist watch form factor. But that's not stopping them from adding in a bunch of goodies, even at this early stage. Google's Director of Engineering for Android Wear David Singleton spoke with Cnet on the subject, and let loose a few snippets that should excite Wear fans. 
+
+First and foremost: Android Wear will be updated with the capability to pair with Bluetooth headphones. This functionality will be added specifically to allow for local music playback, which would let users store and play music without having their phone or tablet nearby. It has to be said that this isn't exactly new - some Samsung Gear watches are already capable of local music storage and Bluetooth headphone pairing. 
+One of the things we're going to be able to do is add the ability for these devices to start working with some of the other devices you might wear on your body. So we'll have an update coming that allows you to pair a Bluetooth headset with your watch. And that means you can play music stored on your watch directly on your Bluetooth headset.
+
+Another planned update will have less immediate applications: hardware support for GPS. None of the current Android Wear devices, including the upcoming LG G Watch R and Moto 360, include GPS modules. But future models should be able to perform basic positional functions like tracking a run or bike ride, or storing maps and directions, all on their own. 
+Alongside that, we're introducing GPS support for the platform. So that's obviously only for devices that have the GPS hardware. But we're excited about those two features together because it unlocks a whole set of new use cases.
+
+According to Vice President of Engineer for Android Hiroshi Lockheimer, updates for the Wear platform will continue at a fast pace, thanks to the relative ease of a semi-standard software base and the fact that Google doesn't have to deal with carriers to send out the updates. Singleton said that there would be "several [updates] before the end of the year," including one later this week for improved navigation. Neither Google representative went into detail on when GPS and Bluetooth features would be added. 
+Singleton also made brief mention of other ways to connect Wear to outside services, in response to an inquiry about the Samsung Gear S, a Tizen-based watch with its own wireless network connection. 
+I think we definitely see lots of innovation continuing in the space... We'll see other mechanisms for connecting, other than Bluetooth, and we'll start to enable those as we see partners wanting to build devices using them.
+
+Expect new Android Wear announcements from LG and ASUS at the IFA trade show in Berlin later this week. Other companies may join in as well. 

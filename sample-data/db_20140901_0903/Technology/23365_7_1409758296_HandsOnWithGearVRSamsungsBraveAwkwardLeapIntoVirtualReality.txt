@@ -1,0 +1,49 @@
+Hands-On With Gear VR: Samsung's Brave, Awkward Leap Into Virtual Reality Hands-On With Gear VR: Samsung's Brave, Awkward Leap Into Virtual Reality 
+
+        
+           
+              
+              
+           
+        
+
+      
+
+      Heaven help me, I'm at a Coldplay concert.
+
+Chris Martin is jumping around like a pogo stick, wearing the skinny rocker uniform of black pants and a T-shirt. A soft trickle of confetti is falling like snow over the crowd while benign soft rock squeaks out from a small pair of speakers. I turn around, and suddenly, before me is an enormous pair of angel wings floating over what looks like a technicolor ocean. Deciding that that's about enough, I take off the VR headset and place it on the table, only to find a beaming Samsung rep looking straight at me.
+
+"So!" he asks. "What'd you think?"
+
+That's one example of the rich media that will be part of Samsung's new Gear VR platform, the Korean technology giant's first, fancy foray into virtual reality. The company says it is working closely with VR pioneer Oculus Rift to bring new and immersive types of content to the masses: movies, music videos, and, yes, even video games.  
+
+The author, looking like a total dork.
+
+
+In addition to the Coldplay concert, the demo my colleague Harry McCracken and I experienced took us to Tony Stark's Iron Man lab, on a helicopter tour of New York City, through the waterways of Venice, and eventually to outer space, where we shot down enemy spacecraft near the sun's corona by tapping at a single, side-mounted button on the visor.
+
+Where Samsung's VR headset differs from Oculus, though, is that it is completely untethered from a wall or outlet. And yet it isn't a standalone device.
+
+
+Samsung Gear VR Lifestyle PhotoPhoto: courtesy of Samsung
+
+
+Like previous iterations of Samsung's Gear smartwatches, it needs  the engine of a Samsung phone to provide its computing muscle--in this case, the just-announced Samsung Galaxy Note 4. To use Gear VR, you remove the headset's visor and snap the Note 4 in front of your eyes, where a twin set of lenses refract the images into 3-D. The phone provides the rig with all the visual and processing firepower, while the headset and its gyroscopes lend the illusion of immersion. In short, the Gear VR is by and large an accessory.
+
+There's plenty to like about it. Every sample we experienced was impressively smooth, with no noticeable clipping. When touring the skyline of New York City, you could look up and around to see the propellers of the helicopter you're riding in.
+
+But while the Gear VR is ambitious in its scope (as Samsung products tend to be) the execution--at least during a brief hands-on--had a few not-so-flattering nuances worth noting. For instance, the sound emanating from its speakers was small, tinny, and otherwise unimpressive. Samsung says you can sync Gear VR with wireless headphones like the new Gear Circle. Otherwise anyone around you can clearly hear what you are experiencing.
+
+One other complaint: The manual focusing mechanism never made the images before me crystal clear, no matter how I adjusted the wheel. Everything was always a little blurry.
+
+
+
+
+
+Despite being constructed of flimsy-feeling plastic, the Gear VR still felt a tad heavy on my head. It looked as if an Epson all-in-one inkjet printer were strapped to my face. I'm not sure I would have been able to sit through an entire feature-length movie--which just so happens to be the amount of time the battery lasts--without resting my head against something. Or wearing a neck brace.
+
+But any new platform is only as good as its content, which is why Samsung says it is working closely with "content partners" to see where VR is going and gauge whether there's a demand for the technology. (For what it's worth, I think there will be. Eventually.) The company says it is also closely working with Oculus to bring the Rift's store to the Gear VR; borrowing from the largest virtual-reality marketplace on the planet is not a bad place to start.
+
+Samsung was mum on pricing and availability, but did say it will go on sale sometime this fall. And since you need the Note 4 to power it, one possibility is that the Gear VR will be available as some sort of bundle pack. Maybe even with a gaming controller.
+
+To learn more about Gear VR, head over Fast Company's liveblog, where we're keeping track of all of today's announcements.

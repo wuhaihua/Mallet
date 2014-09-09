@@ -1,0 +1,14 @@
+Pacemakers based on automatic watches will work without battery Pacemakers based on automatic watches will work without battery 
+				Image: Reuters
+			
+								Swiss engineers, famous for making the world&#8217;s finest watches, are turning their hands to cardiology with a prototype battery-less pacemaker based on a self-winding wristwatch.
+&nbsp;
+Current pacemakers, which help the heart beat more regularly, offer a lifeline for many patients with cardiac problems but the need for battery power is a limiting factor, since replacing them requires a surgical intervention.
+Adrian Zurbuchen of the University of Bern&#8217;s cardiovascular engineering group aims to get around the problem with his device, using automatic clockwork first developed for pocket watches by Swiss watchmaker Abraham-Louis Perrelet in 1777.
+In the same way that an automatic watch winds itself when it moves on the wrist, the clockwork pacemaker generates electrical current using the movement of heart muscle. To do this, it is stitched directly on to the pulsating heart.
+So far the experimental system has only been tested on pigs, Zurbuchen told the annual meeting of the European Society of Cardiology in Barcelona. The animals hearts were successfully regulated to a steady 130 beats per minute.
+&#8220;This is a feasibility study. We have shown that it is possible to pace the heart using the power of its own motion,&#8221; Zurbuchen said.
+The research is still at an early stage and there is, as yet, no schedule for human testing. Zurbuchen has also not discussed the idea with potential industrial partners but he said it was &#8220;probably a good time to look&#8221; for backers.
+Other researchers are investigating ways to get rid of batteries in pacemakers by transmitting power through the body from an external source &#8211; but the idea of using clockwork is novel.
+
+Reuters

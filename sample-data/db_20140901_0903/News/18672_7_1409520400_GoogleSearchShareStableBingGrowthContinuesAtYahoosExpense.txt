@@ -1,0 +1,32 @@
+Google Search Share Stable, Bing Growth Continues At Yahoo’s Expense Google Search Share Stable, Bing Growth Continues At Yahoo’s Expense 
+								
+							
+							
+							In February, Google controlled 67.5 percent of US search query volume, according to comScore. Bing had 18.4 percent and Yahoo, 10.3 percent. These numbers were essentially unchanged from last month.
+Compared with a year ago, Bing&#8217;s share has grown and Yahoo&#8217;s declined. In February 2013, Google had an identical 67.5 percent of queries while Bing had 16.7 percent, and Yahoo had 11.6 percent. A year before that, Google controlled 66.4 percent of queries, Bing 15.3 percent and Yahoo 13.8 percent.
+
+In terms of their &#8220;search alliance&#8221; Yahoo and Bing have not grown their collective share at all since Yahoo turned its search infrastructure over to Microsoft. The company has only ceded share to its partner. Ask and AOL have both lost share over the past several years though Ask has now seemingly stabilized around 2.5 percent.
+Total US search query volume has generally exhibited a growth pattern over the past several years. Total US search queries for February 2011 were 15.4 billion. That grew to 17.6 billion in 2012 and 18.2 billion in February 2013. This past month total search query volume was 17.7 billion.
+That&#8217;s off 10 percent vs. last month, which appears to be the largest month over month percentage decline over the past four years. Still the volume of search queries for February was greater than in 2011 and 2012, though not vs. 2013.
+
+None of these figures include mobile search share or query volumes. Currently in the US (according to StatCounter) the following is the mobile search market share breakdown (smartphones and tablets):
+
+Google: 87.1 percent
+Yahoo: 7.3 percent
+Bing: 5.2 percent
+Others: 0.4 percent
+
+There has been considerable discussion recently about how mobile search is cannibalizing desktop search volumes (and how Google will lose PC revenues accordingly.) Other than a potential flattening of US desktop query volume growth there still isn&#8217;t definitive evidence to validate that prediction.
+What is clear however is that on a global basis mobile search queries will surpass PC-based search volumes at some point later this year. Based on the above it&#8217;s safer to assert that the entire market has grown, not that search volumes are simply shifting to mobile.
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

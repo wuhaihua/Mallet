@@ -1,0 +1,52 @@
+Mars Rover Opportunity to Have Memory Wiped Mars Rover Opportunity to Have Memory Wiped 
+	
+	
+	
+		NASA's Mars Exploration Rover Opportunity looked south after completing a southward drive in reverse on Mars, Aug. 10, 2014.
+		
+			CREDIT: NASA/JPL-Caltech
+		
+	
+	
+
+   
+	Like any computer on Earth, long-duration space robots&#39; memories sometimes need to be reformatted. This is certainly the case for NASA&#39;s veteran Mars Exploration Rover Opportunity that has had more than its fair share of computer glitches recently.
+
+	So the time has come, according to mission managers at NASA&#39;s Jet Propulsion Laboratory, in Pasadena, Calif. &mdash; the little robot needs a memory wipe.
+
+	NEWS: Opportunity: The Amazing Self-Cleaning Mars Rover
+	   
+
+	The decision to reformat Opportunity&#39;s flash memory early next month is prompted by the multiple computer resets the rover has been experiencing. This month alone, Opportunity has had to be rebooted a dozen times, interrupting valuable time that should be taken up with carrying out science near the rim of Endeavour crater. [Opportunity Rover&#39;s Amazing Mars Photos&nbsp;]
+
+	&quot;Worn-out cells in the flash memory are the leading suspect in causing these resets,&quot; said JPL&#39;s John Callas, project manager for NASA&#39;s Mars Exploration Rover Project. &quot;The flash reformatting is a low-risk process, as critical sequences and flight software are stored elsewhere in other non-volatile memory on the rover.&quot;
+
+	NEWS: Opportunity Breaks NASA&rsquo;s 40-Year Roving Record
+
+	Flash memory allows data to be stored from Opportunity&#39;s surface operations even when the rover is in a powered-down down state. Not so dissimilar to the memory that stores photos inside your cellpone or important documents in a memory stick, even flash drives become worn down after continuous use.
+
+	Reformatting Opportunity&#39;s flash drive will identify corrupt or damaged cells, flagging them to avoid being used by the rover&#39;s computers, hopefully preventing the unexpected resets that are plaguing the mission.
+
+	Five years ago, the team successfully performed a reformat of sister rover Spirit&#39;s memory to stave off the bout of &quot;amnesia&quot; events it was experiencing. Sadly, in 2010, NASA had called off efforts to contact the rover after it became jammed in a sand trap at Gusev Crater months earlier.
+
+	NEWS: Mars Rover Opportunity Switches Itself to Safe Mode
+
+	Over a decade after landing on the Red Planet in 2004, this will be the first memory reformat for&nbsp;Opportunity  , one that NASA engineers are confident will be trouble free.
+
+	Before the reformat can begin, Opportunity&#39;s handlers will download all available data from Opportunity&#39;s flash drive and switch it into a mode that does not use flash memory, then the reformat can commence.
+
+	This article was provided by&nbsp;Discovery News.
+
+
+	
+
+
+
+	
+	 
+
+
+
+	
+		
+	

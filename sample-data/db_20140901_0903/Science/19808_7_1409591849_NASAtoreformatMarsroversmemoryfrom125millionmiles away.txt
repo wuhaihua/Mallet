@@ -1,0 +1,23 @@
+NASA to reformat Mars rover's memory from 125 million miles away NASA to reformat Mars rover's memory from 125 million miles away 
+    
+      
+    
+    (NASA/JPL-Caltech)
+
+
+
+
+
+        NASA's long-running Mars rover Opportunity is going to have its memory reformatted in an attempt to resolve a series of recurring errors that have been interrupting its work for a day or two at a time with some frequency over the last month. The rover, which is now over 10 years old and well beyond its original mission lifetime, reset itself over a dozen times last month because of what NASA says is likely an issue with worn-out flash memory that it's attempting to store data in. Pieces of flash memory can wear out after repeated use, and it's possible that the rover is still attempting to use these worn-out parts of its memory.
+
+
+  
+
+  
+
+
+
+
+"The flash reformatting is a low-risk process."
+"The flash reformatting is a low-risk process, as critical sequences and flight software are stored elsewhere in other non-volatile memory on the rover," John Callas, project manager for NASA's Mars Exploration Rover Project, says in a statement. By reformatting the memory, NASA says that it'll be able to identify and disable use of the bad flash memory cells, hopefully avoiding frequent resets like these for the foreseeable future. All "useful" data remaining on Opportunity will be downloaded before it's reformatted, and the rover will communicate with NASA at a slower data rate during the formatting process in order to improve reliability of the transmission.
+This will be the first memory reformat for Opportunity, which is currently about 125 million miles from NASA's California-based Jet Propulsion Laboratory. This won't be the first Mars rover to undergo a reformat though: NASA's Spirit rover, which landed on Mars just before Opportunity but is no longer operational, underwent a memory reformat back in 2009, five years after landing. Opportunity's reformatting is planned for next month. The rover was last reported to be traveling toward Mars' Marathon Valley, which is believed to be rich in clay minerals.

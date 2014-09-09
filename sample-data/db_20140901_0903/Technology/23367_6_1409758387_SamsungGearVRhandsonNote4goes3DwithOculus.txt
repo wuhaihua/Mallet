@@ -1,0 +1,55 @@
+Samsung Gear VR hands-on: Note 4 goes 3D with Oculus Samsung Gear VR hands-on: Note 4 goes 3D with Oculus 
+                
+
+   					
+                     
+                       
+                   
+        			Consumer virtual reality is coming of age, at least Samsung thinks it is, and a tie-in with Facebook-owned Oculus and the new Samsung Gear VR for the Galaxy Note 4 is how it will deliver it. The head-mounted display is, as the rumors suggested, an adapter to turn a smartphone into a 3D wearable; I tried the system on for size at Samsung Unpacked 2014.The Gear VR may look like a standalone product, but it's actually an accessory, and an accessory for just one Samsung phone: the Galaxy Note 4. Snap the phablet into place, and it donates its 5.7-inch Quad HD Super AMOLED display for media purposes.Half of that panel goes to each eye, and so just as we've seen with Oculus Rift, Sony Project Morpheus, and other HMDs you get the effect of 3D as content is slightly offset between each eyepiece.To be fair, the Note 4 is doing all the hard work, though that's not to say the Gear VR is a dumb plastic shell. The headset has buttons for volume and back, as well as touch pads on either side for navigation and control. There are also integrated sensors, like an accelerometer, magnetometer, and a proximity sensor that tracks whether or not you're wearing it.Power is courtesy of the Note 4's battery, and you can either plug in a regular set of wired headphones into the phone or pair up some Bluetooth headphones. Without that, you're left with the integrated speaker built into the Note 4, though since that's on the back of the handset and there's no ducting to redirect it to you, sound quality was a little lacking.Happily, video quality is surprisingly good. Samsung promised me "next to no latency whatsoever" and the Gear VR delivered; I was able to turn around in a 360-degree video and have the view pan and track smoothly. Head-tilting was handled crisply too.The demo game Samsung had to show me was rudimentary, but I was able to spin around to target marauding aliens and then tap the side of the Gear VR to fire back at them.Samsung's deal with Oculus will see an Oculus App Store on-device, though content is still being developed. The goal is a mixture of games, movies, and 360-degree videos, all with 3D graphics. However, you can load up any 2D content you might already have - say, though the Netflix app - and play that back; you won't get the 3D effect, but it does save you holding up the phone.Those with glasses will have to leave them off - the Gear VR clamps pretty closely to the face - but there's individual adjustment for each eyepiece. That should handle the most common sight issues, though you may still struggle if your prescription is unusual.All in all, it's an interesting approach to virtual reality. Samsung has high hopes for VR cinema and gaming, not to mention the possibility of 360-degree entertainment and experiential content, and the deal with Oculus certainly gives the Gear VR a foot in the door with what's probably the best-known headset around today.The clincher will be the quality and range of media on offer, not to mention how many people are willing to cough up for both a the phablet and its headset add-on; both are still to be demonstrated. The Samsung Gear VR is expected to begin shipping in October, with Samsung considering - but undecided on - bundle deals with the Galaxy Note 4.
+		
+		
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+		
+
+
+Story Timeline
+
+Samsung Galaxy Note Edge hands-on: Phablet meets curved OLED
+Samsung Galaxy Note 4 hands-on: Quad HD and metal
+Samsung Gear S hands-on: Wildly wireless wearable
+

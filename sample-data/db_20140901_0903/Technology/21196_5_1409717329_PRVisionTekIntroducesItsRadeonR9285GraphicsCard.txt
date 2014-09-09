@@ -1,0 +1,18 @@
+(PR) VisionTek Introduces Its Radeon R9 285 Graphics Card (PR) VisionTek Introduces Its Radeon R9 285 Graphics Card VisionTek Products LLC, a leading manufacturer of award-winning, high-performance upgrades and accessories for PCs and Macs, today announced the VisionTek Radeon R9 285 graphics card. The new, best-in-class card features up to 945 MHz clock speed, 2 GB GDDR5 RAM, support for 4K Ultra HD 4K gaming, realistic audio, and 3DMark Fire Strike scores that beat the NVIDIA GeForce GTX 760.
+Designed For Serious PC Gamers
+Specifically designed to enable PC gamers to play the most demanding games at maximum detail better than any card in its class, the VisionTek Radeon R9 285 is loaded with the latest technology advancements in Graphics Core Next Architecture, including AMD Eyefinity Technology, DirectX 12, and Mantle support.   
+Best-in-Class: Outperforms GTX 760
+To compare the VisionTek Radeon R9 285 to the NVIDIA GeForce GTX 760, 3DMark Fire Strike, the world's most popular gaming benchmarking tool, was used to determine each card's overall score in two demanding settings, Performance and Extreme. In both instances, the VisionTek Radeon R9 285 significantly outperformed the competition:
+
+3DMark Fire Strike Performance Setting Overall Score:R9 285: 7066GeForce GTX 760: 56503DMark Fire Strike Extreme Setting Overall Score:R9 285: 3513GeForce GTX 760: 2774See What You've Been Missing with 4K Resolution
+The VisionTek R9 285 supports 4K Ultra HD 4K (3840 x 2160) resolution, which is 4x the resolution of 1080p. Typically, configuring a graphics card for use with a high resolution monitor must be done manually. However, AMD's Catalyst Graphics Drivers will perform automatic "plug and play" configuration of supported 4K Ultra HD displays. Further simplifying the ability to use 4K displays is the card's use of AMD Eyefinity technology which can span multiple monitors into one large panoramic display.
+
+Hear What You've Been Missing with TrueAudio
+With an onboard audio processing chip powering AMD's TrueAudio technology, the VisionTek R9 285 can deliver accurate 3D surround sound within games and special audio effects like reverbs and room simulations while reducing CPU load. Now you can hear more real-time voices and situational sounds in-game with any and all audio hardware already owned.
+
+Available Immediately and Lifetime Warranty Backed
+The $249.99 MSRP VisionTek Radeon R9 285, available immediately at www.visiontek.com, comes backed by a lifetime warranty. The new graphics card's specification are as follows:Video Memory: 2 GB GDDR5Memory Interface: 256-bitDirectX Support: 12Bus Standard: PCI Express 3.0 x16Core Speed: Up to 945MHzMemory Speed: 1375 MHz (176GB/s bandwidth)Stream Processors/Shading Units: 1792Compute Units: 28Compute Performance: 3,226 GFLOPSSupported Outputs:(1) Dual link DVI-D connector
+(1) Dual link DVI-I connector (VGA supported with included DVI to VGA adapter)
+(1) HDMI connector (supports video and audio)
+(1) DisplayPort connector
+Number of Monitors Supported: FourWarranty: Limited Lifetime

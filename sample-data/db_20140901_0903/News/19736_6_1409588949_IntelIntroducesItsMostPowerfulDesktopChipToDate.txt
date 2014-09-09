@@ -1,0 +1,12 @@
+Intel Introduces Its Most Powerful Desktop Chip To Date Intel Introduces Its Most Powerful Desktop Chip To Date Intel has launched Haswell-E, its first ever desktop chip family to feature eight cores.
+These processors are clearly aimed at the PC enthusiast market &#8211; for example the flagship i7-5960X Extreme Edition ships with a base frequency of 3GHz but can be overclocked to 4.5GHz when using liquid cooling. To complement the new CPUs, Intel released a new x99 chipset, which is the first to support DDR4 memory on a desktop.
+The new silicon requires the motherboard to be compatible with a LGA-2011v3 socket, and i7-5960X will retail for around $999 (£600).
+When money is no object
+The new Haswell-E chips are built on a 22nm process, with i7-5960X squeezing 2.6 billion tri-gate transistors onto its sizeable die. This monster of a CPU offers 16-thread performance, support for quad-channel DDR4 memory clocked up to 2133 MHz, and 40 lanes of PCIe3.0, enabling up to four individual graphics cards.
+In terms of features, there’s a 20MB Smart Cache shared between all cores, Hyper-Threading and Turbo Boost 2.0 that can turn a 3GHz chip into 3.5GHz in an instant.
+The x99 chipset supports Apple’s Thunderbolt 2 interface capable of transferring data at 20Gbs – that’s twice as fast as the latest USB 3.1 specification.
+There’s also six USB 3.0 ports, 10 SATA 3.0 ports and optional Intel Rapid Storage Technology support &#8211; mainly used for RAID setup and management.
+Intel says the top-of-the-line chip is 14 percent better at processing game physics and AI over the previous generation headliner – the i7-4960X. In a workstation, i7-5960X can accomplish 4K video editing operations 20 percent faster, and cut the time needed to render a 3D scene by almost a third.
+As with most of Intel’s chips released after January 2014, the Haswell-E family does not contain conflict minerals that directly or indirectly finance armed groups in and around the Democratic Republic of Congo.
+Last week, Intel was showcasing the world’s smallest standalone 3G modem, the XMM 6255. The company believes this miniature chip can reduce the cost and improve the effectiveness of connected devices.
+What do you know about Intel? Take our quiz!

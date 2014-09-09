@@ -1,0 +1,5 @@
+Macro Xposed Module Brings Text Expansion To Any Android Keyboard Macro Xposed Module Brings Text Expansion To Any Android Keyboard 
+Android (root): Text expansion is one of the most useful features of desktop operating systems. On mobile, they&#8217;re a bit more rare. You can use shortcuts in the stock Android keyboard, but the Macro/Text Expansion Xposed module is for you if you want expansion everywhere.
+
+This module allows you to put large chunks of text into small shortcuts that are accessible via any keyboard that is currently installed. The module operates at the text-widget level, which simply means that anywhere you find a regular text field, your shortcuts will work (although, presumably, not in password fields).
+Macro / Text Expansion Module [XDA]

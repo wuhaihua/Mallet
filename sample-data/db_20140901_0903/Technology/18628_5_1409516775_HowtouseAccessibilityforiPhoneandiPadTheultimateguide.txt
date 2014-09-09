@@ -1,0 +1,167 @@
+How to use Accessibility for iPhone and iPad: The ultimate guide How to use Accessibility for iPhone and iPad: The ultimate guide   
+
+Accessibility — also referred to as inclusivity — is all about making the iPhone, iPod touch, and iPad work for as wide a range of people as possible. That can include the very young, the very old, people brand new to computers and mobile devices, and also people with disabilities and special needs. With iOS, Apple has added features to specifically help those with visual impairments, including blindness, color blindness, and low vision, with auditory impairments including deafness in one or both ears, physical or motor skill impairments, including limited coordination or range of motion, and learning challenges, including autism and dyslexia. It also includes general features, like Siri and FaceTime which can provide significant value for the blind or the deaf. Many of these features can be found in Settings, all of them can be found on the iPhone and iPad.
+
+Note: iOS 8 will be adding even more accessibility features for iPhone and iPad. Bookmark this page and check back later this fall when it's released!
+
+
+
+How to use voice control with Siri for iPhone and iPad
+
+
+
+Siri is the name of Apple's personal digital assistant, and one of its most important accessibility features. That's because Siri is voice control that talks back to you, that understands relationships and context, and with a personality straight out of Pixar. Ask Siri questions, or ask Siri to do things for you, just like you would ask a real assistant, and Siri will help keep you connected, informed, in the right place, and on time. You can even use Siri's built in dictation feature to enter text almost everywhere by simply using your voice.
+
+How to use voice control with Siri for iPhone and iPad 
+How to have your screen read with VoiceOver for iPhone and iPad
+
+
+
+VoiceOver is an accessibility feature that makes the iPhone and iPad easier to operate for blind people or people with low vision. With VoiceOver, anyone with a visual impairment can have their iPhone or iPad's screen read to them, including buttons, icons, links, and other interface elements, and use gestures to navigate and select options. Because VoiceOver is included in Apple's UIKit framework for developers, any app using default controls gets VoiceOver support built right in.
+
+How to activate VoiceOver on iPhone and iPad
+How to use VoiceOver on iPhone and iPad
+How to magnify your screen with zoom for iPhone and iPad
+
+
+
+Zoom is an accessibility feature that makes everything from text to icons to interface elements bigger and easier to see on the iPhone and iPad. Zoom magnification defaults to 200% but can be set from 100%-500% to help anyone with low vision of any level. When in zoomed mode, all the standard navigation and selection gestures — tap, swipe, and pinch — work just like normal. Zoom can even work alongside VoiceOver to provide even greater assistance for those with visual impairments.
+
+Note: Designers use zoom as well to help check pixel-level details on-screen.
+
+How to magnify your screen with zoom on your iPhone or iPad
+How to invert screen colors on iPhone and iPad
+
+
+
+Inverting screen colors is an accessibility feature that makes the iPhone and iPad easier on the eyes for some people with a sensitivity to brightness, easier to distinguish for some people with color blindness, and easier to make out for some people with low vision. It can even be used in combination with zoom to greatly increase legibility for anyone with a visual impairment.
+
+Note: Some people invert screen colors as a pseudo-dark theme or nighttime reading mode for when they want to greatly reduce light and glare from the display.
+
+How to invert screen colors on iPhone and iPad
+How to have text read with speak selection on your iPhone and iPad
+
+
+
+Speak selection is an accessibility feature that reads aloud any text you've highlighted on your iPhone or iPad. It's ideal anyone who has difficulty making out text because of small size or style, have dyslexia, is just learning a written language, or for any reason just want the words spoken to improve understanding. Speak selection can even highlight words as they're read to aid in comprehension, and adjust dialect and speed so you or a family member can better follow along.
+
+How to have text read with speak selection on your iPhone and iPad
+How to hear corrections with speak auto-text on iPhone and iPad
+
+
+
+Speak auto-text is an accessibility feature that makes the iPhone and iPad's automatic correction tool easier to use for anyone blind or with low vision. With speak auto-text enabled, any auto-corections, including auto-capitalizations will be read to you before they're implemented. That way, if iOS has made a mistake, or you meant to spell the word the way you did, you can revert any correction or capitalization before hitting return, send, tweet, or otherwise finishing up what you're writing.
+
+How to hear your corrections with speak auto-text for visual accessibility on iPhone and iPad
+How to increase legibility with large and bold text on iPhone and iPad
+
+
+
+Large and bold text is an Accessibility feature that helps increase legibility by using the iOS dynamic type engine to make fonts bigger and/or heavier and generally easier to read. For people with low vision, making text larger can magnify words without also magnifying interface elements. For people who need more contrast, making text bold can turn thin, hard-to-see lines into thicker, easier-to-see lines. Applying large or bold text in iOS will make text larger and bolder in all of Apple's apps, and in any App Store apps that support the dynamic type framework.
+
+How to increase legibility with large and bold text on iPhone and iPad
+How to make buttons more tappable by enabling shape outlines on iPhone and iPad
+
+
+
+Button shapes is an accessibility feature that re-creates the outlines found around tappable interface elements in previous versions of iOS. While the new "naked" style button — plain text that more closely resembles a web link than a traditional faux-3D button treatment — maintains the same tap target size, it does make it harder to know exactly where that target is and where it ends. For anyone with eye-hand coordination impairment, button shapes can help increase accuracy and reduce frustration.
+
+How to make buttons more tappable by enabling shape outlines on iPhone and iPad
+How to increase contrast on iPhone and iPad
+
+
+
+Increase contrast is an accessibility feature that makes it easier to make out text and interface elements iPhone and iPad. While one of the modern design tenants at Apple is depth, achieved by layers of transparency and blur, for some people with visual impairments, it results mainly in noise and distraction. With increase contrast the transparency becomes solid and the blue becomes sharp, making everything clearer and easier to read, tap, and understand.
+
+How to increase contrast on iPhone and iPad
+How to prevent vertigo by reducing motion on your iPhone and iPad
+
+
+
+Reduce motion is an accessibility feature that settles down and smooths out the zooms, pans, shifts, parallax, and other dynamic elements on the iPhone and iPad. Although current versions of iOS are built on a physics and particle engine that help give make them look more alive, for people who suffer from vertigo or other versions of motion sickness, the movements results not in delight but in nausea. With reduce motion most of that goes away. Zooms become fades, parallax becomes static, and bounces settle themselves down.
+
+How to prevent vertigo by reducing motion on your iPhone and iPad
+How to make toggles more visible by enabling on/off button labels on iPhone and iPad
+
+
+
+On/off button labels are an Accessibility feature that adds a more visible 1 and 0 digit to the standard white/green toggles modes on iPhone and iPad switches. While older versions of iOS clearly labeled toggles with "on" and "off" to help describe their state, that feature went away in current versions. Adding the text back with on/off labels can help those who are color blind or have visual impairments, or those who simply want more information to more easily discern the state of a toggle at a glance.
+
+How to make toggles more visible by enabling on/off button labels on iPhone and iPad
+How to use FaceTime to make video calls on your iPhone or iPad
+
+
+
+FaceTime is Apple's voice over IP (VoIP) calling service. It allows anyone with a recent iPhone, iPod touch, iPad, or Mac to make free video (or audio) calls to any other Apple user over Wi-Fi or cellular connection. That makes it perfect for keeping in touch with family who lives far away, with the kids while traveling, with business partners at distant offices, or even with that special someone while shopping for the perfect gift. It also makes it a great accessibility feature for anyone who is deaf or hard of hearing — you can visually communicate with sign-language right over FaceTime.
+
+How to use FaceTime to make video calls on your iPhone or iPad
+How to connect to hearing aids on your iPhone or iPad
+
+
+
+Hearing aid support is an accessibility feature that allows the iPhone and iPad to connect with and manage compatible hearing aids. You can connect to most Bluetooth enabled hearing aids as well as special Made of iPhone (and iPad) hearing aids that use a special version of Bluetooth to provide greater power-efficiency and higher quality digital audio. Made for iPhone (and iPad) hearing aids can also be placed into "live listen" mode where anyone with a hearing impairment can use the iPhone's mic helps pick up conversation and sound.
+
+How to connect to hearing aids on your iPhone or iPad
+How to use the LED flash as a visible notification light on your iPhone
+
+
+
+LED flash for alerts is an accessibility feature that lets anyone with a hearing impairment to use light to get their attention instead of or in addition to the usual sound and vibrations of Notification Center. With LED flash for alerts you can place your iPhone face-down on a table or nearby surface and not have to worry if you can't hear it beeping or buzzing. You'll be able to see it light up.
+
+Note: This also works for those coming from a BlackBerry or Android phone who are accustomed to an LED light for notifications.
+
+How to use the LED flash as a visible notification light on your iPhone
+How to enable mono audio on iPhone or iPad
+
+
+
+Mono audio is an accessibility feature that makes sure, even if you're hard of hearing or deaf in one ear, you never miss a word, note, or sound when listening to your iPhone or iPad with a headset on. Typical stereo audio includes distinct left and right channels, so different ears get different sounds. Mono audio makes sure both ears get all the sound. You can also adjust the volume independently for either ear, so you everything from audio books to podcasts to songs to videos come in loud and clear.
+
+Note: You can also use mono audio if a podcast or other audio file you're listening to has mistakenly put one panelist in the wrong channel, all panelists in only one channel, or not properly balanced the volume between channels.
+
+How to enable mono audio on iPhone or iPad
+How to enable subtitles and captioning on iPhone or iPad
+
+
+
+Subtitles and closed captioning are accessibility features that let anyone with a hearing impairment still enjoy any movie, TV show, podcast, and iTunes U video labeled with a CC in the iTunes Store. Subtitles and closed captioning work by layering text over the video, basically showing everything that's being said in written form. Subtitles and closed captioning on the iPhone and iPad even let you create your own display styles so you can make them as easy to see and enjoyable to read as possible.
+
+How to enable subtitles and captioning on iPhone or iPad
+How to lock attention to a specific app with Guided Access for iPhone and iPad
+
+
+
+Guide access is an accessibility feature that lets you lock the iPhone or iPad to a single app. For as long as guided access is enabled, only that one specific app can be used, and there's no way to exit it for the Home screen or any other app. Guided Access can be extremely useful in education settings, to help kids focus for learning math, language, and other skills, and for working with people on the autistic spectrum. Whether it's a writing app, drawing app, music app, math app, or a story, video, or reading app, guided access helps make sure that all attention remains on that app.
+
+Note: Guided access can also be used by kiosks, restaurants, store, and other businesses to create a dedicated information or transaction device, and it can even be used to create a "guest mode" so you can hand your device to someone and let them use Safari, iBooks, Video, or a game without having to worry about them snooping through your personal information.
+
+How to lock attention to a specific app with Guided Access for iPhone and iPad
+How to enable AssistiveTouch on iPhone or iPad
+
+
+
+AssistiveTouch is an Accessibility feature that makes the iPhone and iPad easier to use for anyone with motor control, coordination, or other forms of physical impairment. With AssistiveTouch a special on-screen menu lets you easily tap or perform other gestures instead of potentially more difficult or complex manipulations like pressing the hardware Home button, pressing multiple buttons at the same time, or performing other gestures that are uncomfortable or impossible. The iPhone and iPad can even interface with third-party assistive devices to make sure that, even if they're wheelchair mounted, they remain as accessible and functional as possible for as many people as possible.
+
+How to enable AssistiveTouch on iPhone or iPad
+How to enable switch control  on iPhone and iPad
+
+
+
+Switch control is an accessibility feature designed to make the iPhone and iPad easier to use for anyone with a physical and/or motor skills impairment. With Switch control you can scan between items, use crosshairs to pick specific points, or manually select items using multiple switches, and then use an external adaptive switch, your iPhone or iPad screen itself, or even the front FaceTime camera to trigger the switch. Both hardware buttons and software interface elements can be selected and triggered with switches and a variety of options let you set them up just exactly the way you want or need them.
+
+How to enable switch control  on iPhone and iPad
+How to adjust Home-click speed on iPhone and iPad
+
+
+
+Adjusting Home-click speed is an accessibility feature that lets you increase the interval of time needed for your iPhone or iPad to recognize a double or triple click. By default if you want to enter multitasking app switcher or bring up the accessibility shortcut you need to double or triple tap quickly, each click following in a very short period of time. Adjusting the speed lets you set a slow or even slower pace, so you have all the time you need to click-click or click-click-click.
+
+How to adjust Home-click speed on iPhone and iPad
+How to set the triple-click Home button shortcut on iPhone and iPad
+
+
+
+The triple-click Home button shortcut is an accessibility feature that lets you rapidly access one or more features without having to dive into Settings each time. With the short cut, a quick triple-click of the  Home button can put your iPhone or iPad into VoiceOver or Zoom, can invert colors or enable AssistiveTouch, or can even bring up a menu so you can choose from several options. If you don't want one or more accessibility features on all the time, but you use them often enough that you want to access them easily at any time, or different members of the family or group who share a device have different accessibility needs, the triple-lick Home button shortcut is for you.
+
+How to set the triple-click Home button shortcut on iPhone and iPad
+How to get more help with accessibility and iOS:

@@ -1,0 +1,11 @@
+Apple says iCloud flaw not at root of celebrity photo hack Apple says iCloud flaw not at root of celebrity photo hack 
+
+Addressing a widespread hack of celebrities’ photos, Apple on Tuesday issued an update on its investigation into the incident and said that it was continuing to work with law enforcement on the matter.
+
+According to the company, more than 40 hours of investigation from the company’s engineers has established that the accounts that were compromised were the subjects of a “very targeted attack on user names, passwords and security questions.” While previous reports suggested that a flaw in iCloud was responsible for the hack, Apple says that none of the cases it has looked into were tied to any vulnerability in the company’s systems.
+
+Targeted attacks on specific users are, as Apple says, commonplace, and hardly limited to a particular service or company. Wired editor Mat Honan, for example, was the victim of such an attack in 2012, and there are plenty of other examples as well.
+
+The company suggests use of a strong password and two-step verification to help protect against those attacks, though it’s unclear if the limitations on the latter would have made it an obstacle in this particular case. Another potential weak point are the security questions that we all fill out in order to be able to retrieve a forgotten password, though there are also steps you can take to make those more secure.
+
+It’s clear that Apple needs to take steps not only to further secure access to user accounts, but also to help its own users protect their own data—say by providing a way to block certain photos from being automatically synced to the cloud. Until then, there are a few steps you can take to make sure that your data doesn’t show up all over the Internet.

@@ -1,0 +1,25 @@
+onOne Perfect Photo Suite upgrade will compete with Lightroom and Aperture onOne Perfect Photo Suite upgrade will compete with Lightroom and Aperture 
+							
+														
+							onOne Software is taking the occasion of the Photoshop World conference to announce an overhaul of its Perfect Photo Suite image editing app for Mac and Windows.
+Version 9, which will be available in October both as a standalone app and as a plug-in to Photoshop, Lightroom and Aperture, is set to enter new territory with features and performance enhancements designed to compete with its host applications.
+The Perfect Photo Suite consists of eight specialized photo editing tools for improving portraits, adding filtered looks in color or black and white, resizing for large-format printing and making complex selections. It also facilitates access to photos from your computer, network or cloud-based storage services, such as Dropbox, iCloud Photo Stream, Google Drive and Microsoft OneDrive.
+Updated Browse function shows image previews quickly.
+Perfect Photo Suite 9′s revamped Browse module improves the performance of Raw image previews and includes new rating, ranking and keyword tools as well as updated filtering to let you sort through photos quickly after shooting.
+“The component we were really missing was the ability to look at all your files. We relied on Lightroom or Aperture or Bridge or other applications to view all of your photos so you could only view them one at a time,” Peter Kinnan, onOne’s director of sales & events, told TNW. “With the new Browse module you can view hundreds of photos … with no lag time — you can see everything instantaneously.”
+The new version lets users open hundreds of large Raw files without having to wait for the ingestion process, while at the same time preserving metadata and keywords (via XMP files) so you can edit using the onOne Suite or another editor such as Lightroom or Aperture.
+The new masking process in action.
+Version 9′s new Smart Photo feature lets you re-edit photos at a future time, keeping previous settings intact, even after you save and close them. Using this feature, all individual editing steps are saved so you can make changes later while still preserving the Photoshop file format.
+Better selections are also on the way with improved masking and selection tools integrated throughout the suite’s modules. The Perfect Layers and Perfect Mask modules are combined in version 9 for a unified compositing function.
+Responding to user requests, version 9 now includes noise reduction. Not only can you reduce noise, but you can selectively apply noise reduction to different parts of a photo, such as the shadows or highlights.
+Effects module
+Version 9 will let you run a new Quick Mask brush over an area on the canvas that you want to select or remove to automatically create a mask. A new Lens Flare filter in the Perfect Effects module lets you add a variety of sun flares to your images.
+Version 9 also includes, among other things, Retina display support, an enhanced automatic tone algorithm, better crop and level tools, an enhanced Perfect Brush that works on soft edges and semi-transparent objects, printing capabilities and better batch rename options.
+In addition to feature enhancements, improvements in image processing have filters and presets loading up to 30 percent faster than in previous versions, the company said. Perfect Photo Suite 9 will be available in late October in two versions.
+Portrait module
+The Premium edition supports Photoshop CC, CC 2014 and CS6; Lightroom 5 and 4; Photoshop Elements 12, 11 and 10 and Apple Aperture 3, for an introductory price of $129.95. The Basic standalone edition, which does not have plug-in support, is $79.95. For a limited time, owners of earlier versions of the Perfect Photo Suite can upgrade to Premium for $89.95.
+Kinnan says even though onOne considers Version 9 a brand new application with new modules and new technology incorporated within existing modules, it decided to maintain the version number convention for the benefit of its current users.
+The software will be available for pre-order throughout September, with a public beta coming in October, just prior to the full release at the end of October. More information about Perfect Photo Suite 9 — including videos and how-to articles — are available on the onOne website.
+➤ onOne Perfect Photo Suite 9
+							
+							

@@ -1,0 +1,17 @@
+Insert Citations In Multiple Formats Easily With Google Docs Insert Citations In Multiple Formats Easily With Google Docs 
+Google Docs is a handy free writing tool with a lot of great hidden features, including the research tool. You can save yourself some time and use the research sidebar to automatically insert the appropriate citations you need for your paper.
+
+The research sidebar is great for finding studies and academic papers on many subjects, and Chris Hoffman at The How-To Geek suggests taking advantage of the research sidebar&#8217;s ability to insert perfect citations and footnotes as well. Here&#8217;s how:
+
+
+    Open a document in Google Docs, then select Tools &gt; Research. Or use shortcut Ctrl+Alt+Shift+I.
+  
+
+    Find the paper or study you&#8217;d like to cite by selecting Scholar in the search bar, then searching by keyword or author.
+  
+
+    Select the study or paper and click either Cite as footnote or Insert.
+  
+
+Cite as footnote will create a perfect footnote reference at the bottom of your page, and Insert will cite the source like a bibliography. If you click the arrow under the search bar, you can change the formatting for your citations. You can easily cite references in MLA, APA or Chicago formats. Now you can do your footnotes and bibliographies with minimal frustration.
+10 Tips and Tricks for Google Docs [The How-To Geek]

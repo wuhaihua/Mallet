@@ -1,0 +1,22 @@
+NASA is building an air traffic control system for drones NASA is building an air traffic control system for drones 
+    
+      
+    
+    
+
+
+
+
+
+        NASA is developing an air traffic control system for drones. The New York Times reports the US space agency is working on creating a management system for vehicles that fly at around 400 to 500 feet off the ground — much lower than conventional aircraft — at its Moffett Field base around four miles from Google's Mountain View headquarters. The system would check for other low-flying drone traffic, help the small unmanned vehicles avoid buildings, and scan for adverse weather conditions that might knock a drone out of the sky.
+
+NASA's drone traffic control centers will be automated
+
+  
+
+  
+
+
+
+While the drone system would follow the same principles as full-fledged air traffic control, the NYT says its control center would be fully automated. Parimal H. Kopardekar, the NASA principal researcher managing the program, said that the first applications for the system would be in sparsely populated areas, performing such tasks as monitoring oil pipelines or crops. "In agriculture," Dr. Kopardekar said, "I'm hoping we will see some action inside of the next year."
+Huge companies are staking bets on drone delivery as the future of retail. Amazon and Google have both announced programs that will see items sent through the air to their customers, but both corporations are ahead of legislation — while hobbyists can use drones if they don't endanger others, the Federal Aviation Administration still prohibits the commercial use of drones. NASA's planned traffic control system could come in useful soon — an FAA spokesperson told the NYT that the body planned to publish rulings for unmanned drones later this year, despite reports of delays — but Google expects it to be between "a few years but less than a decade" before the unmanned aerial vehicles are delivering toothpaste and electrical appliances onto our doorstep.

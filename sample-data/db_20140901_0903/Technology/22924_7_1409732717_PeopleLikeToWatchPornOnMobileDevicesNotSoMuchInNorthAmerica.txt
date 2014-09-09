@@ -1,0 +1,23 @@
+People Like To Watch Porn On Mobile Devices--Not So Much In North America People Like To Watch Porn On Mobile Devices--Not So Much In North America 
+
+        
+
+      
+
+      When it comes to mobile video, YouTube is king. But across Europe, Asia, and the Middle East, adult video sites remain popular--less so in North America, which prefers Instagram and Vine, thank you very much.
+
+Overall, 52% of mobile data traffic can be attributed to streaming video, according to Citrix's mobile analytics report released Wednesday. In North America, the most popular video streaming services behind YouTube, which has a 71.4% mobile video share, include Instagram (4.92%), Vine (4.8%), Akamai (4.01%), and Edgecast (3.09%). North America was the only region the report highlighted where porn didn't crack the top five video streaming services on mobile.
+
+
+
+
+
+While faster LTE speeds mean better video playback on mobile devices, the experience can still be plagued with stalls. The delays are shortest in North America, where the lag time per minute of video averages 7.5 seconds. By contrast, Europe experiences a 12.3 second stall, followed by Europe at 27.4 seconds, and Asia at 38.4 seconds--people in Asia must be very patient, since half the time watching a video on mobile might be spent waiting. The actual percentage of videos that do stall is relatively small, from 5.4% in Europe to 12.7% in Asia. This report is the first time Citrix broke down this data by region. Citrix's report from the first quarter found mobile video around the world stalled an average of 15 seconds over an LTE connection and 47 seconds over 3G.
+
+
+
+
+
+Unsurprisingly, speeds have a big impact on the amount of mobile video served. LTE sees 1.5 times the number of video requests that 3G does, generating five times the video data volume served over 3G.
+
+

@@ -1,0 +1,12 @@
+With its powerful octa-core chip and unusual display, Meizu MX4 is great – but can it “handle” Ubuntu Touch? With its powerful octa-core chip and unusual display, Meizu MX4 is great – but can it “handle” Ubuntu Touch? Yesterday Meizu announced its latest flagship device, the MX4, and we love it. This bad boy comes with a 5.36-inch IPS display with unusual resolution of 1920 x 1152 pixels; that&#8217;s 418 PPI for those who count these sort of things.
+MediaTek&#8217;s brand-new MT6595 octa-core chip is providing the processing power needed to run things smoothly. Said SoC rocks four high-performance Cortex-A17 and four energy-efficient Cortex-A7 cores. This combo can apparently score as high as 47,000 points at the popular benchmark website AnTuTu; so yes, future owners of the MX4 will get one fast phone.
+The MX4&#8242;s camera is also rock-solid. The Chinese firm used Sony&#8217;s 20.7-megapixel IMX 220 Exmor RS BSI sensor with f/2.2 aperture, while adding dual-tone LED flash to the mix. And thanks to the mentioned fast chip, camera supports 4K video recording and 720p slow motion capture.
+There&#8217;s also 2GB of RAM, 2.1MP front-facing camera, NXP Smart PA second-gen audio chip, 4G LTE connectivity support, (TD-LTE / LTE-FDD), 3,100 mAh battery, and 16, 32 or 64 GB of internal storage.
+All this comes boxed in a 8.9mm-thin body that weighs 147 grams. Meizu&#8217;s own Flyme OS 4.0 is running the show, though we gotta wonder whether the same configuration will be able to cope with Ubuntu.
+As far as we know, Meizu is one of Canonical&#8217;s partners which will launch one of the first, if not the very first, Ubuntu-powered smartphone this year. Said device should bring the true convergence, allowing users to use one device both as a mobile phone and as desktop computer. Can&#8217;t wait for it; and in the meantime, I would have no problems reviewing the Flyme-based MX4.  
+Finally, the prices: 16, 32 and 64 GB variants will go for 1799 CYN (about $290), 1999 CYN ($325) and 2399 CYN ($390), respectively. Pre-bookings have already started with first devices shipping to Chinese customers on September 20th.
+
+Share
+Tweet
++ 1
+Mail

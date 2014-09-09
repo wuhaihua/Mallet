@@ -1,0 +1,24 @@
+Blumoo review: complete control form your smartphone Blumoo review: complete control form your smartphone 
+                
+
+   					
+                     
+                       
+                   
+        			Something familiar will happen to you tonight. You’ll sit down on your couch, go to turn on the TV — and curse. Probably loudly. Those remotes, all five or more, are strewn about your living room. Under a bag of chips, between the couch cushions — or who knows where. Your remotes just don’t behave. You could suffer this indignity indefinitely, or you could just get a Blumoo.
+Hardware
+Solidly built, the Blumoo is powered by both infrared (IR) and Bluetooth, which is why it has a very Daft Punk translucent cover. That IR receiving plastic is complimented nicely by a metal frame holding it in place. A very confidence-inspiring cord is sitting around back, a juxtaposition to the somewhat puny power adapter.Given that Blumoo can handle so much of your existing hardware — stereo system included — Blumoo also has an audio cable packed in. This is handy should you not have an extra, but it’s standard fare for an audio cable.
+Software
+The Blumoo app, available for Android and iOS, is solidly designed and well laid out. It walks you through setup for each of your peripherals quickly and simply, and it supports an absolute ton of devices. There seemed to be no stereo or TV it couldn’t support, this Blumoo app. In doing a little digging, I found a few of the supported peripherals were over a decade old.The app isn’t the slickest we’ve seen, but neither are your over-complicated remotes. The Blumoo app gets the job done, and then some, which is the point. It’s also highly customizable, so we’ll forgive any displeasing visual drawbacks.
+
+Use
+Right from the start, Blumoo wants to get rolling. Open the app, and it’s almost straight into peripheral setup, which is a breeze. Each peripheral needs to be set up independently, of course, so it might take you a solid 20 minutes or so for your entire home theater set-up (note: I have a TV, stereo receiver, and cable box; it took about 10 minutes total).From here, you can simply use Blumoo as an all-in-one remote for your home theater, or get a little more granular control. Custom buttons let you set a desired arrangement, which is great for events or movies. If you program a button in the Blumoo app for movies, it can automatically change your TV input, fire up the Stereo and DVD/BluRay player, silence the TV, and set the stereo to the profile and volume you like. That’s a one-button move, which is typically a four-remote dance of will. You can set these buttons up as you see fit; there are no presets or limitations, there.Streaming music was equally simple and pleasurable, and can be a great way to turn your fancy Play Music All Access subscription (or whatever you use) into home theater bliss. Where the IR blaster wins, we found bluetooth a bit spotty, though. In 30 minutes of play, and with the smartphone powering the music no further than 15 feet away, Blumoo stuttered once, but it was significant. We won’t knock it for that, as it can likely be remedied with a firmware update, but keep it in mind should you snap a Blumoo up.
+Conclusion
+Though Blumoo takes a little set-up on your end, it’s worth the time investment. At $130 (or so), it’s not the slimmest investment you’ll make for home automation, but it might be the best one for your home entertainment needs.Blumoo is clever on several levels. Using IR and Bluetooth straddles a line others have yet to really master, and both were fairly responsive. The music playback issue wasn’t a deal-breaker for us, either. It may be slightly embarrassing if you were hosting a party, but otherwise it’s no problem.Overall, the granular controls and ability to set up macros for things like movie night are far beyond expectations. What you think you’re getting is a device to control your various devices in the living room. What you end up with is a single app and receiver to take care of everything.Blumoo was tested as a device to take the place of living room remotes in a pinch. What I found was that Blumoo was actually much more pleasurable to use than my remotes, offering customizations via software that hardware remotes never could. As for those missing remotes — well, I’ve just stopped caring were they are. I have Blumoo, now.
+
+
+Story Timeline
+
+Blumoo: mobile entertainment system and music control
+Blumoo universal IR blaster gets Android support alongside iOS
+

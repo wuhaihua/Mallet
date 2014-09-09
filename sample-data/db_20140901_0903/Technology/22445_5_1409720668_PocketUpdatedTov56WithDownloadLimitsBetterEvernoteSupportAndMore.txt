@@ -1,0 +1,19 @@
+Pocket Updated To v5.6 With Download Limits, Better Evernote Support, And More Pocket Updated To v5.6 With Download Limits, Better Evernote Support, And More 
+
+
+
+Pocket is one of the most popular ways to read cluttered web pages in a format that won't drive you to the edge of madness. The Android app has been consistently awesome, and today it's getting even better with version 5.6. This time attention is being paid to how you manage your articles.
+
+
+Here's the changelog for v5.6.
+
+
+New: You can now set a limit to how much storage space Pocket is allowed to use.
+Fixed: Downloaded content is now properly removed when Archiving or Deleting items. After upgrading, Pocket will clean up unused files to help reclaim storage space.
+Fixed: Crash when listening to some articles.
+Improved: Deleting items no longer requires a confirmation prompt. Instead, an option to undo will be temporarily shown.
+Improved: Sharing to Evernote now includes images and rich text.
+
+
+The storage space limit will be a big deal to heavy users of Pocket. Since the whole idea is the content is synced to your device for offline access, it can eat up a lot of space. Faster deletions will likewise be great if you add tons of articles that you later find you don't need. The Evernote improvements will result in better formatting when you share to that service. This and more awaits you if you update in the Play Store. 
+

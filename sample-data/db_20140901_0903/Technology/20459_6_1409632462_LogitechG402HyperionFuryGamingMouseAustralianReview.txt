@@ -1,0 +1,80 @@
+Logitech G402 Hyperion Fury Gaming Mouse: Australian Review Logitech G402 Hyperion Fury Gaming Mouse: Australian Review 
+If you&#8217;re a PC gamer, there are only a few things that play a properly pivotal role in your gaming performance &#8212; your keyboard, your monitor, and your mouse. Picking the right mouse is less about colours and flashing lights than it is about outright design, quality hardware and the peripheral&#8217;s feel in your hand. Logitech&#8217;s new G402 Hyperion Fury has the fastest optical tracking of any mouse on the market.
+
+Gizmodo loves technology. Our product reviews are presented thanks to Dick Smith.
+
+What Is It?
+
+
+
+
+
+Specifications
+
+Mouse Type: Wired (USB 2.0)
+Bluetooth: No
+Buttons: 8 (programmable)
+Resolution: 240-4000dpi
+Weight: 144g
+Warranty: 2 years
+
+
+The $69.96 Logitech G402 Hyperion Fury is a right-handed gaming mouse; it&#8217;s the latest in Logitech&#8217;s stable of G-series gaming peripherals and inherits a lot of its features from the extremely well regarded G400s. This matte black plastic behemoth is a technological masterpiece, with a bevy of sensors and hardware and enough processing power to launch a nuclear missile.
+The G402 has switchable DPI of 240-4000, which might seem low, but over that resolution it sports a high speed tracking capability of over 500 inches per second with 1 millisecond reporting &#8212; you could throw this mouse (across an appropriately low-friction surface) and it would keep perfect track of its position and performance. This is complete overkill for any casual or professional gamer, of course, but there are probably some extremely niche use cases where having such a high-powered computer mouse could come in handy.
+
+
+
+The G402 is corded, with a 2.3m cable and buttons capable of withstanding 20 million furious clicks. It has ultra low-friction pads on its base and weighs a moderate 144 grams &#8212; unfortunately this weight can&#8217;t be altered unlike some of its competitors. It&#8217;s a mid-sized 136mm long, 72mm wide and 41mm tall &#8212; not especially large, which some gaming mice unfortunately are. Logitech bundles the Hyperion Fury with a two year hardware warranty, so you should have some peace of mind as to its longevity. 
+What Is It Good At?
+
+If having a bunch of different buttons that can be programmed and tailored to your every whim is what you want in a mouse, then Logitech has you covered. The G402 Hyperion Fury has eight programmable clickers arranged across the left and right edges, in addition to the left and right mouse buttons and the clickable free-wheeling scroll wheel. Logitech bundles the Hyperion Fury with its Game software, which lets you assign functions or macros to each individual button on a per-game basis.
+That software is very easy to use, too. I&#8217;m not usually one for programmable buttons on mice &#8212; that&#8217;s what a keyboard is for, with all of those conveniently placed keys &#8212; but I did find the Fury&#8217;s software useful and took advantage of a couple of programmable buttons in a few different FPS and RTS games. You can also adjust the DPI on the fly, as you&#8217;d expect of any gaming mouse worth its salt.
+
+
+
+To be fair, when I mentioned &#8216;optical&#8217; tracking earlier, that wasn&#8217;t entirely accurate. The G402 Hyperion Fury, in all its impressively-named glory, uses an optical laser sensor but pairs that with an internal gyroscope and accelerometer, all reporting to the mouse&#8217;s 32-bit ARM processing core. Yes, this is a mouse with an integrated processor. The idea behind this marriage of components is that when and if the optical sensor loses track of your desktop motion &#8212; which can occur with optical sensors when the movement speed is too high &#8212; the other sensors can accurately determine the speed and distance and time over which you move, giving you a perfect approximation of that movement on-screen.
+And it works, too. In a situation where a cheaper mouse like Logitech&#8217;s own venerable MX518 (my all-time favourite) and Steelseries&#8217; Sensei would give skipping, approximate motion on-screen &#8212; when you make extremely fast, short motions in my testing &#8212; the G402 didn&#8217;t miss a beat. This isn&#8217;t something I was able to test in a scientific sense, but anecdotally the difference is clear when it mattered. You&#8217;re only going to need the difference of the Hyperion Fury&#8217;s high speed sensor very occasionally, of course, but it&#8217;s that small difference that might count in a fast-paced FPS match or for that last-minute Zerg rush.
+
+
+
+Of course, you have to have a PC gaming system appropriately specced out to take proper advantage of the high-speed reading that the G402 Hyperion Fury can accomplish. A 144Hz monitor is almost mandatory for that fraction-of-a-second refresh rate and the smooth motion that accompanies it. To get that quality of gameplay on any modern PC game, you&#8217;ll have to have a powerful computer, and the expensive components that go along with it. 
+What Is It Not Good At?
+
+Computer mice aren&#8217;t exactly the avant garde masterpieces that some laptops and smartphones have become; the G402 Hyperion Fury certainly looks extremely modern, but at the same time it&#8217;s a little too &#8216;gamer&#8217;, where a competitor like the SteelSeries Sensei is more understated and simple. Of course, if you have a similarly over-the-top looking gaming PC or laptop, then it&#8217;s not a problem.
+There are different schools of thought as to the proper method of holding a computer mouse, and to that end there are different schools of thought as to what constitutes the best design for a gaming mouse. Where the Steelseries Sensei is symmetrical, the G402 only caters to right-handed gamers, and even then only those who control their mice with the heel of their palm rather than the claw grip of their fingers. If it were possible to try the G402 Hyperion Fury before you bought it, I&#8217;d recommend that, unless you were upgrading from a similarly shaped mouse or if you were certain that the shape suits your style of holding. 
+
+
+
+The shape also means that the Hyperion Fury mouse doesn&#8217;t have a rubberised or textured thumb grip. If you&#8217;re planning on a marathon gaming session or if you prefer a lower sensitivity, having a comfortable thumb grip can help you move the mouse more accurately, and the G402&#8242;s is the same matte black plastic as the rest of the peripheral. It&#8217;s not strictly a point against the mouse, but it would have been nice to see an area on the thumb rest with a different texture. 
+Should I Buy It?
+
+
+
+            Logitech G402 Hyperion Fury
+        
+        Price: AUD$69.96
+
+
+                 Like
+            
+
+Solid build quality.
+Over-powered sensors.
+Affordable price tag.
+
+
+                 Don&#8217;t Like
+            
+
+No left-handed option.
+No textured thumb grip.
+Gamer-focused design.
+
+
+                
+                   
+
+
+If you need a mouse that can track motion faster than any human arm can produce it, by all means buy the $69.96 G402 Hyperion Fury. Buy two. You&#8217;re not buying it to push it to its limits, though &#8212; the G402&#8242;s technology is future-proofing and over-speccing in the same way that buying a quad-core 4.0GHz CPU is overkill for all but a few very specific purposes. 
+But you never know when you might need that tiny little extra edge over its competitor mice, though, and that&#8217;s the reason you&#8217;d buy the Hyperion Fury. Like a performance car, you won&#8217;t push it to its limits all the time, but having the potential is the important part of owning it.
+it might not be the most fashionable mouse &#8212; its gamer credentials and the Hyperion Fury moniker prevented that when it was still on the drawing board at Logitech labs &#8212; but it certainly is capable and there&#8217;s probably nothing you could do without causing yourself a serious whiplash injury that would confuse the G402&#8242;s internal sensors. It&#8217;s probably the most powerful mouse that I&#8217;ve used. For that reason alone, it&#8217;s worth considering for your next PC gaming upgrade.

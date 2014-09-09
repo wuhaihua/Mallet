@@ -1,0 +1,21 @@
+3D Printed Prosthetics 3D Printed Prosthetics Depending on where you get your statistics, there are between 10 and 15 million amputees in the world. People who lose a limb go through a lot of pain obviously and the challenge to get a prosthetic limb that allows them to fully function again often doesn’t lessen the emotional pain aspect. It is a difficult process. Plus, it is not inexpensive. In this week’s news, there is a post about a young man in Ottawa who needs help to purchase a new prosthetic leg and he’s taken his need to crowdfunding on YouCaring.com. 
+Selvan Mohan is a PhD candidate at Carleton University. The university will help cover $10,000 of the $22,000 needed. His campaign is almost 50 percent funded. A group of people, friends included, got together to help him create the video which you can watch here. &nbsp;I found Mr. Mohan’s story compelling and worthy (check out the video), but what do you do if &nbsp;you cannot take your case to the powerful crowd-funding platforms?
+	
+								 
+ 
+Without crowdfunding, you might be able to 3D print a simple prosthetic with the help of some open source advocates. As I travel the nation meeting 3D printing inventors and entrepreneurs, I’m amazed at the ingenuity and caring, as well as the business cases of people who are trying to help the many in the world who cannot afford or who cannot get access to the technology (crowd-funding) to make it possible. The news is filled with stories about generous acts, but I found a group that is trying to spread the word even further.
+								
+										 
+Prosthetists Meet Printers:&nbsp;Mainstreaming Open Source 3D-Printed Prosthetics for Underserved Populations&nbsp;is an event that will take place in a few weeks, on Sunday Sept 28, at Johns Hopkins Hospital, Baltimore, Maryland. This organization, called e-NABLE, is doing some impressive work by creating a collaborative approach to get leaders in medicine, industry, and public policy to create an event that will not only educate professionals, but include donated prosthetics to children with upper limb disabilities. 
+This team of volunteers has created a prosthetic hand for about $50 with 3D printed parts and largely available screws and connectors. &nbsp;They are working to create&nbsp;open source&nbsp;hand design files&nbsp;to print, as well as heart-warming stories of&nbsp;the children,&nbsp;adults&nbsp;and military veterans&nbsp;who have been gifted these 3D printed hands from a global network of e-NABLE volunteers. 
+The e-NABLE team recently visited a leading trauma surgeon, Dr. Albert Chi, to show the surgeon their $50 3D printed plastic hand. Dr. Chi saw the potential for this hand and likely many other types of prosthetics, to change the lives of thousands of people worldwide, who could never afford a commercially made $30,000-$50,000 prosthetic. 
+Recently, I met an artist who donated her time to help a woman, Natasha Long of Nova Scotia, who was in an accident and lost her leg. The woman had an amazing attitude and viewed the loss of her leg as an “opportunity for art in prosthetics.” The 3D artist, Melissa Ng who owns&nbsp;Lumecluster, heard about the need and donated one of her elegant, artistic 3D printed mask designs to be used in the prosthetic for Natasha. The team at Thinking Robot Studios created the prosthetic leg – you can read the post at Melissa’s blog. &nbsp;I met Melissa during a visit to Shapeways, which I’ve written about before, here and here.
+										
+										 
+While prosthetic needs of the world cannot all get solved via open source designs or 3D printing, there are a lot more people with hope when they see these sorts of projects and the news that teams are forming to help address the cost and customization of prosthetic legs, arms, and hands. 
+
+ 
+ Click for full photo gallery: Inside The World's Biggest Consumer 3D Printing Factory
+ 
+Check out the other Forbes posts, to the left of this post. Some inspiring reads and more information to help those who may need a prosthetic. 
+Currently I am traveling around the USA on an 8-month roadtrip (in a bright blue RV) exploring 3D printing, 3D scanning, and 3D design. You can follow me on Twitter or at 3DRV.com.

@@ -1,0 +1,9 @@
+Procurify Hooks Investment From Gluster Founder For Cloud Procurement Platform Procurify Hooks Investment From Gluster Founder For Cloud Procurement Platform As organizations get more comfortable using cloud services, there is a corresponding increase in the number of services that not only take an existing process and deliver it via the cloud, but that also take advantage of the fact that business processes are now exposed to derive some insights from the data contained within them. 
+An interesting example of this is from cloud procurement vendor Procurify. Procurify is a cloud-based procurement software solution that is used to manage both direct and indirect company spending. By exposing these procurement processes, Procurify can deliver some additional value, giving control and visibility of where company money is going in real-time, using simple-to-generate reports and analytics. 
+	
+								 
+The company has recently attracted seed funding from Anand Periasamy, one of the founders of storage vendor Gluster which was itself acquired by Red Hat in 2011 for $136 million. On top of this seed investment, Procurify has gained funding to build a new marketplace. The Procurify Exchange (PEx) marketplace is a buyer-supplier marketplace that connects Procurify users with vendors and suppliers. The funding was by way of a EUREKA grant which aims to enhance competitiveness in world markets. The theory goes that by helping establish a market-driven and transparent procurement platform, benefits will accrue to all. 
+Whether Procurify or PEx will go anywhere is an unknown, but within the context of cloud computing enabling these sort of aggregate platforms to be created where they were difficult or impossible before, it is an interesting initiative to watch.
+								
+									 
+Connect with Ben on Twitter&nbsp;@benkepes&nbsp;|&nbsp;LinkedIn&nbsp;|&nbsp;AngelList

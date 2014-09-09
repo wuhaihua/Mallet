@@ -1,0 +1,12 @@
+iOS Blog: Apple Reveals Common Reasons for App Rejections on New Developer Page iOS Blog: Apple Reveals Common Reasons for App Rejections on New Developer Page  Apple has posted a new page on its developer website (via Cult of Mac) outlining reasons why it rejects apps from the App Store, giving tips on how to better prepare an app for a review. The page also gives the top ten reasons for app rejections during the 7-day period ending last week:Top 10 reasons for app rejections during the 7‑day period ending August 28, 2014.
+
+14%: More information needed
+8%: Guideline 2.2: Apps that exhibit bugs will be rejected
+6%: Did not comply with terms in the Developer Program License Agreement
+6%: Guideline 10.6: Apple and our customers place a high value on simple, refined, creative, well thought through interfaces. They take more work but are worth it. Apple sets a high bar. If your user interface is complex or less than very good, it may be rejected
+5%: Guideline 3.3: Apps with names, descriptions, or screenshots not relevant to the App content and functionality will be rejected
+5%: Guideline 22.2: Apps that contain false, fraudulent or misleading representations or use names or icons similar to other Apps will be rejected
+4%: Guideline 3.4: App names in iTunes Connect and as displayed on a device should be similar, so as not to cause confusion
+4%: Guideline 3.2: Apps with placeholder text will be rejected
+3%: Guideline 3.8: Developers are responsible for assigning appropriate ratings to their Apps. Inappropriate ratings may be changed/deleted by Apple
+2% Guideline 2.9: Apps that are "beta", "demo", "trial", or "test" versions will be rejected  Apple states that these top ten reasons account for 58% of all app rejections, as it asks that developers focus on a number of aspects to ensure quality before a review. Those aspects including removing any bugs, fixing broken links, removing placeholder content, optimizing user interfaces, and more.

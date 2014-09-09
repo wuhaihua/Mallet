@@ -1,0 +1,105 @@
+August in Latin America: Tech News Roundup August in Latin America: Tech News Roundup 
+							
+														
+							While Brazil’s falling into recession  isn’t good news for Latin America, it remains to be seen how much this will affect the region’s tech scene, which can still count on other long-term factors to fuel its growth. As a result, August was as busy a month as ever, with a flurry of new launches and acquisitions taking place. Here’s the news you don’t want to miss:
+Done deals
+Australian telecommunications giant Telstra is set to acquire 98 percent of video streaming and distribution firm Ooyala with a $270 million investment that comes in addition to the $61 million invested in the company over the past two years. Founded by Mexican-American brothers Bismarck Lepe and Belsasar Lepe, together with their friend Sean Knapp, Ooyala has several global offices, including one in Guadalajara, Mexico.
+Brazilian IT firm Tivit agreed to acquire Chile’s systems integrator Synapsis for S$150 million, Nearshore Americas reported. Tivit will now operate as Tivit-Synapsis in Spanish-speaking Latin America, while keeping its name in Brazil. It will control 9 data centers across the region.
+Fellow Brazilian IT firm BRQ acquired risk management software provider InfoSolution, Valor reported. The deal’s value wasn’t disclosed.
+Ad tech company Beanstock Media  acquired mobile publishing startup Onswipe, a Techstars NY alum co-founded by Colombian entrepreneur Andrés Barreto. While Fortune initially reported that investors wouldn’t see any return, the story was later amended to reflect that Onswipe’s backers and employees received Beanstock equity.
+Talking to TechCrunch, Onswipe’s former CEO and current chief marketing officer Jason Baptiste said that the acquisition involved an undisclosed amount of cash and stock, adding that 24 out of 28 Onswipe staff members would be joining Beanstock, creating an 80-person organization.
+European on-demand T-shirt printing platform Spreadshirt bought its Brazilian counterpart Vitrinepix to boost its international expansion. The Leipzig-based company already boasts operations in 18 countries and 10 languages.
+
+Spanish law portal vLex acquired Argentine startup Quolaw, Loogic reported. As you may remember, the startup was showcased at Wayra Demo Day in 2012 as one of Wayra Argentina’s alumni and went on to join Plug and Play Spain’s acceleration program.
+Brazilian hosting company RedeHost acquired email marketing startup Mailee for an undisclosed amount, Startupi reported.
+Brazilian online broadcast startup Netshow.me acqui-hired its competitor Tipit, one month after announcing its first angel investment round, Startupi also informed.
+In addition, it reported that motorcycle courier service 99motos was acquired by Incube for R$3 million (around $1.32 million USD). A self-described “venture builder”, Incube is now set to relaunch the service as MovMov.it.
+M&A talks
+France’s Vivendi picked Telefónica as best suitor to acquire Global Village Telecom (GVT), a Brazilian operator for which the Spanish telco had offered about $8.9 billion in cash and shares. Telecom Italia had made a competing but lower offer.
+As for British company Vodafone, it made clear that it was interested in entering the Brazilian market. However, it won’t do so by taking part in the upcoming 4G mobile auction as Brazilian authorities hoped. Instead, its plan is to acquire one of the country’s existing mobile carriers. According to Brazilian newspaper Estadão, the market’s second largest player TIM would be the most likely target.
+Funding news
+Singapore sovereign wealth fund GIC acquired an 18.5% stake in Brazilian education services company Abril Educação for an undisclosed sum, PEHub reported. GIC already took part in a major deal in Brazil last May when it led Netshoes’ $170 million funding round.
+Food delivery service FoodPanda raised a $60 million round from Rocket Internet and Falcon Edge Capital, TechCrunch reported. The company operates in Latin America under its Hellofood brand.
+Brazilian mobile commerce company Movile announced having secured a whopping total of $55 million this month. On one hand, it raised a $35 million Series D round led by growth equity firm Innova Capital, with participation from South African media and e-commerce heavyweight Naspers, which has been backing the company since 2008. On the other hand, it was granted $20 million in long-term financing through FINEP, Brazil’s Funding Authority for Studies and Projects within the Ministry of Science, Technology and Innovation.
+The company now plans to use its new capital to “build the ultimate platform for people to buy tangible goods and services through mobile devices,” hinting at potential acquisitions and partnerships in the “online-to-offline” space. A few days ago, we learned that it had raised its participation in food delivery startup iFood to a majority stake.
+Movile’s portfolio also includes PlayKids, a subscription-based kids’ entertainment app that is now one of the world’s top-grossing children’s apps.
+
+Latin American real estate and jobs classifieds holding Navent raised $20 million in a Series C funding from Riverwood Capital, Crunchbase reported. Founded in 2010 and headquartered in Buenos Aires, Navent operates sites all across Latin America, with properties such as Bumeran.com and ImovelWeb, through which it claims to attract 30 million monthly users.
+Bus travel booking platform ClickBus raised $10 million from Latin America Internet Group, Tengelmann Ventures, Holtzbrinck Ventures and Rocket Internet, VentureVillage reported. The startup is already present in 7 countries and plans to use this new funding to keep on growing and expanding. According to its Brazilian co-CEO Cesario Martins, it will also launch iOS and Android apps in the near future.
+Brazilian car parts online retailer Itaro raised a Series A round led by Astella Investimentos, with participation from Russia’s Simile Venture, Ukraine’s TA Venture, Mexico’s Variv Capital  and Argentina’s IG Business Angels, Startupi reported. 
+New York-based developer-focused startup Tutum raised a $2.65 million funding round led by RTP Ventures with participation from Azure Capital Partners. As VentureBeat explains, the one-year-old company is part of the ecosystem that has been emerging around open platform Docker. Its core business is to “provide cloud infrastructure for hosting applications that are packaged in Docker containers” to take the pain out of deploying apps. It had previously raised seed funding from NXTP Labs and Techstars (disclosure: NXTPLabs is an investor in my startup, MonoLibre).
+Open online marketplace for algorithms Algorithmia raised a $2.4 million investment round for its platform, which is currently in private beta and set to launch publicly by the end of the year. Its founders are AI PhD Kenneth Daniel and Uruguayan-born former Microsoft employee Diego Oppenheimer. The round was led by Madrona Venture Group, with participation from Deep Fork Capital, Rakuten Ventures and angel investors Oren Etzioni and Charles Fitzgerald.
+“Most algorithms never see daylight, because they are buried within academic papers. Algorithmia has the potential to turn into a key platform where algorithms’ innovation meets the market,” Etzioni said (translation ours).
+Mobile event management platform Vamo announced having raised R$4.5 million ($2 million USD) so far from angel investors. Co-founded by MeetMe’s former CEO, John Abbott, the five-month-old company boasts a presence in 5 Brazilian cities, where it powered ticketing for more than 1,000 small and mid-sized events.
+Brazilian website creation platform SitePX raised R$3 million ($1.33 million USD) from veteran Internet company Sul! Internet  in exchange for a 30% equity stake, Startupi reported.
+Event discovery app Vamos (not to be confused with above-mentioned Vamo) closed a “six-digit amount” of funding from high-profile angel investors, including SoundCloud’s co-founder and CTO Erik Wahlforss. While both companies are Berlin-based, Vamos has close ties to Latin America: its CEO Luis-Daniel Alegría is a Swedish-born Chilean, while its chief growth officer David Prentell is half-Mexican.
+The app already boasts more than 100,000 downloads and 20,000 monthly active users, and these numbers are likely to keep on growing. According to Alegría, Vamos is using its new capital to expand its team and bring its service to more devices and platforms.
+
+Brazilian online video distribution company Samba Tech took an undisclosed stake in e-learning platform Edools, which is now joining the Samba Group, Startupi reported.
+Fortaleza-based designer marketplace Logovia received a round of investment led by Initial Capital  with participation from Beberibe Ventures, Rising Ventures and angel investor Helmut Harz, Startupi reported.
+Latin American syndicate South Ventures  invested in Colombia-based office supplies startup Ofi. In a blog post, the fund highlighted location as one of the key factors that led it to invest in Ofi; Colombia is a fast-growing market, where office supply purchases still haven’t moved online. In addition, Ofi’s CEO Peter Ostrocke previously co-founded Brazilian fast-fashion startup Olook.
+Latin American e-commerce giant MercadoLibre announced the list of startups that will be the first ones to receive investment from its newly set MercadoLibre Commerce fund.  All three of them are Wayra Brasil  alumni: 00k, AirCRM and Intoo. The fund is currently analyzing other projects, and set its average investment ticket at $100k. As we reported last year, Wayra and MercadoLibre already had a partnership in place  for the Argentine company to provide support and backing to the accelerator’s retail-related ventures across several Latin American countries.
+Medellin-based VC firm Velum Ventures revealed the names of the three fist companies backed by its early-stage fund, Pulso Social reported. These are pet products online retailer Ciudad de Mascotas, food portal Cocina33  and online flower shop Flores y Más.
+More acceleration…
+500 Startups unveiled the list of startups about to join its 10th acceleration batch in San Francisco. While none of them are headquartered in Latin America this time, 18 of 28 have at least one foreign‐born founder, including Venezuelan entrepreneur Luis Perez from NakedRoom and Lendsquare‘s Mexican co-founders, Sebastian Villarreal and Jose Valdes.
+Facebook launched a series of actions to promote its Preferred Marketing Developer program in Brazil, where it organized a hackathon offering fast-track and dedicated support to winners.
+São Paulo welcomed a new accelerator, Gema Ventures, whose program has two specificities: it focuses on mobile B2B projects, and lasts 18 months. It is led by Luisa Ribeiro, who previously founded Rio-based accelerator Papaya Ventures, officially  shut down last June.
+Brazil Innovators revealed the list of 13 Brazilian entrepreneurs taking part in its latest TechMission, an immersion program that recently brought them to Silicon Valley.
+…and new launches
+Desktop blog editing app Blogo made a successful entry into the Mac App Store, where it got featured worldwide. While it’s made in Brazil by serial entrepreneur Amure Pinho and his team, it is entirely in English and aiming for a global audience. Priced at $14.99, it includes features such as offline mode, multiple WordPress blog management, Evernote integration and built-in image editing.
+
+Amazon started to sell printed books in Brazil. According to Brazilian newspaper Folha, its catalogue includes 150,000 titles in Portuguese, which come in addition to the e-books the company had already been selling in the country since 2012.
+Colombian fashion distributor Grupo Uribe launched a multi-brand online retailer Lük which is set to compete against Dafiti and Linio, Colombian newspaper La República reported.
+Meanwhile, MercadoLibre launched a fashion vertical with a dedicated portal, mercadolibre.com.ar/moda, where users can buy clothing items from official partner stores.
+
+Brazilian mobile marketing and advertising provider Pontomobi announced that its media division would now operate as a corporate spin-off named Hands. The new venture hopes to benefit from the growth of Latin America’s mobile advertising market, with backing from RBS Group’s investment arm e.Bricks Digital.
+SF-based startup Rabbit relaunched with a new website that pairs video streaming with group chat. Located at https://rabb.it, the browser-based service lets users create virtual rooms where they can group up and watch content from platforms such as Netflix, Hulu and YouTube. Video aside, users can also share documents and games in real-time, either randomly or with a predefined group of up to 10 people.
+According to Rabbit’s new CEO, half-Mexican entrepreneur Michael Temkin, the company is hoping to replace existing workarounds: “People have tried to recreate this experience online by cobbling together different technologies and devices, but it just doesn’t work. We’ve created a simple, seamless way to bring people together,” he said.
+Argentine startup TrackingTime launched a new iPhone app that helps freelancers and companies track their tasks and manage their projects. Available in English, German and Spanish, the SaaS service received funding from Argentine fund Enzyme VC.
+Banco Santander and Telefónica joined forces to launch Miriada X, an online education platform that will offer free courses in Spanish and in Portuguese, news agency EFE reported.
+New Android and iOS app Spiral was launched with hopes to change the way we connect with the people and places around us, TechCrunch reported. Its co-founders, several of whom are Mexican, found their inspiration while attending the Coachella festival earlier this year.
+Google updates
+Google deserves a section of its own, as it rolled out several new features in Brazil, including Google Maps’ Business View and Google Transit’s real-time updates. While the latter are only available in the city of Sorocaba, it wouldn’t be surprising to see them expand in the near future to some of the other cities supported by Google Transit.
+In addition, Google-owned Waze signed a partnership with Easy Taxi,  which lets the taxi company’s drivers and passengers share their routes through Waze’s app (as long as they have it installed.) The partnership is set to roll out first in Brazil, Singapore and the Philippines.
+Brazil aside, Google also made announcements regarding other Latin American countries, including Mexico, where it launched its Public Alerts and Crisis Map service. In practical terms, it means that users might see hurricane warnings when browsing Google or Google Maps on their computer and mobile devices. They will also be able to search for additional crisis-related information, provided in partnership with local authorities.
+
+Google also announced that Chrome is now available in Cuba, despite US trade restrictions. As the company notes, it previously took measures to do the same in Syria and Iran.
+Expansions…
+Brazilian edutainment startup Qranio signed a partnership with China Mobile to start commercial operations in China, for which it will start to localize and translate its content. This wasn’t the first telco to partner with Qranio, which previously teamed up with Portugal Telecom.
+E-reader company Bookeen landed in Brazil through a partnership with bookselling chain Saraiva, the French firm announced on its blog. Two of its LEV models are now available in more than 100 stores across the country, confirming the company’s focus on international growth.
+Business guide and review site Yelp is now available in Chile, FayerWayer reported. As we reported last June, the company recently rolled out a local site in Argentina.
+Sony launched its Video Unlimited service in Brazil, Tela Viva reported. The VOD portal claims a catalogue of 500 titles, available for rental or purchase.
+Argentine app iBillionaire partnered with Direxion Investments to launch an exchange-traded fund in the US. It is based on the iBillionaire Index, which reportedly “consists of the 30 leading U.S. stocks in which a pool of up to 10 billionaires has invested the most assets.”
+In the eye of the law
+Apple  delisted anonymous sharing app Secret  from the App Store in Brazil following a court order. The app’s increasing popularity in the country had quickly turned sour, resulting in  a series of complaints  for posts ranging from libel and insults to unauthorized naked pictures.
+While Secret’s supposed safeguards have proved lacking in the US, it was presumably even less prepared to deal with bullying posts in Brazilian Portuguese. Secret’s careers page currently lists a job vacancy for a Brazilian Portuguese-speaking community operations specialist able to “turn upset users into evangelists.”
+The Mexican government launched an initiative asking developers to come up with solutions to several public issues, for instance by creating apps to help citizens report street lighting problems and corruption. There are 7 open calls in total, known as “Retos Públicos” (“Public Challenges”), and each category will have its own winner and prize award.
+Perhaps more importantly, the entire selection process is meant to be as fair and transparent as possible. In an interview with FayerWayer, civic tech activist Manuel Morato commented on this point: “The challenges open up the competition to small and medium companies who can win contracts they otherwise couldn’t. It’s about winning the contracts on merits, not for having more and better contacts,” he noted (translation ours).
+
+As for the Brazilian government, it plans to pay $1.9 million to app and game developers that focus on public services, ZDNet reported.The initiative is called INOVApps and includes rewards of up to $43,937 each.
+Also on TNW:
+
+EA’s game subscription service for Xbox One emerges from beta
+How Rocket Internet’s Dafiti is helping to shape the future of e-commerce in Latin America
+LG targets first-time smartphone owners with two new quad-core, 3G devices
+Report: People in emerging markets prefer big smartphones. Here’s why.
+Rocket Internet moves into online payments via a $445 million investment from Asia
+Spotify integration returns to Shazam’s mobile apps in the UK, Germany and Mexico
+The war Uber faces: how it’s battling GrabTaxi and Easy Taxi in Southeast Asia
+
+Good reads from across the Web:
+
+An inside look at how Rocket Internet builds startups at scale [Tech.eu]
+Blacks, Latinos Dominate Silicon Valley’s ‘Invisible Workforce [Wall Street Journal]
+Executive Briefing: The Venture Industry Evolves [LAVCA]
+How Start-Up Chile is Influencing Entrepreneurial Behavior in Chile and Beyond [Leslie Forman]
+How TEDx is spreading through rural Colombia—thanks to one organizer [TED.com]
+M-commerce in Brazil up 84 percent in a year [ZDNet]
+New to the Archaeologist’s Tool Kit: The Drone [New York Times]
+Passing the baton: Colombia overtakes Peru to become the region’s fastest-growing big economy [The Economist]
+Se fosse operadora, ‘Gatonet’ seria a 3ª do Brasil [Link Estadão - in Portuguese]
+Sh*t Latam Investors say [Pulso Social - in Spanish]
+
+Image credit: StockMonkeys.com 
+							
+							

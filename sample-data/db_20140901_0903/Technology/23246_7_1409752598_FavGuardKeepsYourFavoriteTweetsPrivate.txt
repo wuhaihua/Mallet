@@ -1,0 +1,19 @@
+FavGuard Keeps Your Favorite Tweets Private FavGuard Keeps Your Favorite Tweets Private 
+							
+														
+							If you spend more of your life than you care to admit perusing the wonders of Twitter, you might well be the sort of person who ends up with an unmanageable, meaningless list of favorited items that’s never looked at again.
+Now, however, there’s FavGuard, a new beta tool that helps you keep better track of the tweets you’ve favorited, as well as providing the added benefit of keeping them all private from other Twitter users – which is particularly handy if you’re not too fond of Twitter’s recent experiment of showing favorited tweets in other people’s timelines.
+To get started using it is simple, just head to FavGuard and authorize the tool to access your Twitter account. Then you’ll need to wait; how long depends on how many favorites you have, but a few hours later (at the most), all your favorites should be viewable through the FavGuard dashboard.
+It’s pretty basic; there are controls for showing all your favorited tweets, ones that don’t contain a link and ones that do. There’s also a date selection box for picking a specific day/week/month/time-range.
+
+The number in the top bar denotes how many favorites you have of each type, and you can reply, retweet or delete the tweet from the dashboard. This doesn’t actually happen in-line, it kicks you across to Twitter’s composition window instead.
+If it’s a favorite containing a link, you can also view a drop-down summary (shown above) of the contents of that link directly in-line, which saves clicking through each.
+
+Behind the scenes, the system works by automatically checking your Twitter favorites every five minutes and then copying any additions across to your FavGuard account, and unfavoriting them on Twitter.
+Right now, the service is free, but the company says it will start charging a “nominal” yearly fee once the beta has ended. If at that point you don’t want to pay, you’ll still have access to your FavGuard dashboard and favorites, but you won’t be able to add any more.
+It’s worth bearing this point in mind before you set out, because if you treasure your Twitter favorites and authorize this tool, they will all be deleted and moved to FavGuard. There’s no magic button to restore them all to Twitter.
+In future, the company says it will also support integration of services like Pocket and Readability, so that favorites can automatically be added to your ‘read it later’ apps. Of course, you could probably automate something like this right now using IFTTT recipes.
+➤ FavGuard
+Image credit: Getty Images
+							
+							

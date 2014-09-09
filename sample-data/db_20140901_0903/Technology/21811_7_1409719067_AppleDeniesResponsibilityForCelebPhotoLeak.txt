@@ -1,0 +1,10 @@
+Apple Denies Responsibility For Celeb Photo Leak Apple Denies Responsibility For Celeb Photo Leak Apple released an official statement Tuesday denying responsibility for the weekend hacking and leaking of private photos belonging to actresses including Jennifer Lawrence and Kate Upton from their personal iCloud accounts.
+&#8220;We wanted to provide an update to our investigation into the theft of photos of certain celebrities. When we learned of the theft, we were outraged and immediately mobilized Apple’s engineers to discover the source,&#8221; the company said in a statement. &#8220;None of the cases we have investigated has resulted from any breach in any of Apple’s systems including iCloud or Find my iPhone. We are continuing to work with law enforcement to help identify the criminals involved.&#8221;
+
+The company did however state that &#8220;certain celebrity accounts were compromised,&#8221; but appears to suggest such hacks were a result of hacking attempts that any system on the web is vulnerable to, as opposed to exploiting a specific vulnerability built into Apple systems.
+Early reports said the hacker(s) accessed the iCloud accounts of actresses and models including Lawrence, Upton, Ariana Grande, Kirsten Dunst and others by executing a brute force hacking attack against Apple&#8217;s &#8220;Find My iPhone&#8221; app, which reportedly allowed the attacker(s) to try multiple passwords with a guessing tool before eventually stumbling across the right one, as opposed to conventional security logins, which lock a user out after a number of incorrect entries.
+
+Such attacks rely on research into a target in order to bypass passwords or security answers by eventually guessing the right answers.
+Apple has since reported the flaw as fixed.
+
+Follow Giuseppe on Twitter and Facebook

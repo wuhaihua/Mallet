@@ -1,0 +1,23 @@
+Apple Admits Celebrity Photos Were Stolen In Targeted Hack Apple Admits Celebrity Photos Were Stolen In Targeted Hack 
+									
+								
+
+
+								
+Following days of speculation, Apple admitted on Tuesday that the alleged nude photos of celebrities like Jennifer Lawrence and Kate Upton released on Internet message boards were the result of a targeted hack. 
+The tech giant denied Apple systems iCloud or Find my iPhone were breached through any major security bug, as some had wondered. Apple said the results of a 40-hour investigation revealed that “certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions.”
+	
+								 
+Presumably, hackers breached the accounts of celebrities by writing brute-force software programs to attempt many passwords for email addresses deemed likely to be used in association with the account. It is a technique that Apple says “has become all too common on the Internet.” Two-step verification, or requiring multiple authentication methods to access an account from a new computer, is available to address this problem. 
+The question of security in the cloud is one companies like Apple, with its September 9 iPhone (and potential iWatch) event coming up, need to grapple with if they want to convince customers to trust them with their personal information.
+								
+										 
+Apple said it is “continuing to work with law enforcement to help identify the criminals involved.” 
+Below is the full text of the Apple statement:  
+
+ We wanted to provide an update to our investigation into the theft of photos of certain celebrities. When we learned of the theft, we were outraged and immediately mobilized Apple’s engineers to discover the source. Our customers’ privacy and security are of utmost importance to us. After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet. None of the cases we have investigated has resulted from any breach in any of Apple’s systems including iCloud or Find my iPhone. We are continuing to work with law enforcement to help identify the criminals involved. 
+ To protect against this type of attack, we advise all users to always use a strong password and enable two-step verification. Both of these are addressed on our website at&nbsp;http://support.apple.com/kb/ht4232.
+										
+										
+ 
+Follow Brian on&nbsp;Facebook&nbsp;and&nbsp;Twitter.

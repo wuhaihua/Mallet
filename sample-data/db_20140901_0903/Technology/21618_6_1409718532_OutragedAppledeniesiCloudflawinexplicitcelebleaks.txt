@@ -1,0 +1,8 @@
+Outraged Apple denies iCloud flaw in explicit celeb leaks Outraged Apple denies iCloud flaw in explicit celeb leaks 
+                
+
+   					
+                     
+                       
+                   
+        			This afternoon, Apple has made an official statement on their investigation of "the theft of photos of certain celebrities." They make clear that when they "learned of the theft, we were outraged and immediately mobilized Apple’s engineers to discover the source." For those of you just learning of this leak of explicit photos, please head back to our safety guide for iCloud, Facebook, and Google+ as well.Apple’s response includes confirmation that no investigation that Apple has conducted has revealed "any breach of Apple’s systems" - this includes iCloud and Find my iPhone, despite previous rumors.The statement forwarded to the press by Apple reads as follows."Our customers’ privacy and security are of utmost importance to us. After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet." - Apple RepresentativeApple added specifically that they are "continuing to work with law enforcement to help identify the criminals involved." The company suggests that all users "always use a strong password and enable two-step verification." So what Apple suggests here is that this was a breach, but it wasn't necessarily due to a flaw in iCloud's security.What do you think? Is this enough from Apple, given the fact that there’s been no solid proof that it was Apple’s systems that were to blame in the first place?

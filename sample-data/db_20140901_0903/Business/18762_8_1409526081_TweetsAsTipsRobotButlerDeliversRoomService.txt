@@ -1,0 +1,13 @@
+Tweets As Tips: Robot Butler Delivers Room Service Tweets As Tips: Robot Butler Delivers Room Service The best way to expose technology to mass market is in a way people can relate with. By using technology that blends into our normal routines you are more likely to remove any barriers for adoption. 
+Robotics is one of those technologies. For mass market adoption of robotics outside of service robots like iRobot’s Roomba or a telepresence robot, the robot needs to remove any fear of renegade AI taking over or taking our jobs. What better way to expedite robotic adoption than to put a robot to work in the service industry, in this case a hotel.
+	
+								 
+Starwood’s Aloft Hotel&nbsp;in Cupertino, California has invested in what’s considered to be the first robotic butler inside a hotel for&nbsp;both front and back of house duties. The robot is called A.L.O. Botlr. 
+ 
+A.L.O. Botlr will be on call and function as a robotic operative to assist staff in delivering amenities to guest rooms. A.L.O. Botlr, just like other hotel staff, will be dressed in a collared uniform and sport a nametag. Tipping? Yes but A.L.O only accepts tweets as tips. 
+The hotel considers A.L.O. a new Aloft associate and emphasizes he will free up staff time to create more personalized experiences for guests as well as supplement the hotel’s current tech offerings. Brian McGuinness, Global Brand leader, Starwood’s Specialty Select Brands said A.L.O. has the work ethic of Wall-E, the humor of Rosie from&nbsp;The Jetsons and reminds you of R2-D2. 
+A.L.O. is the first customized robot from Steve Cousin’s new robotics company, Savioke. The company’s first robot, SaviOne is a customizable delivery robot for the services industry. SaviOne was adapted to the job specifications Aloft Hotels wanted in its first robot butler. Cousins is the former CEO of Willow Garage which created the&nbsp;open source software called Robot Operating System (ROS),&nbsp;spawned several robotics companies, including Unbounded Robotics, and PR2, a research and academic robot. 
+A.L.O will prioritize multiple guest deliveries, communicate with guests through the hotel’s communications platforms and will be able to navigate through the Aloft Hotel in Cupertino, including elevators.
+										
+										 
+A.L.O. reported for work on August 20, 2014.

@@ -1,0 +1,29 @@
+Dynamic Pricing in a Post-Uber World Dynamic Pricing in a Post-Uber World Here is one more thing we can thank (or blame depending on your perspective) Uber for: the widespread acceptance of dynamic pricing in the retail and consumer service sector. 
+In simple terms, dynamic pricing refers to the setting of prices for a good or service based on the demand for said good or service at the moment and the availability of supply.&nbsp; It sounds like Econ 101 and essentially it is, with the added complexity of pricing becoming a moving target, changing almost in real-time depending on what is happening in the market at that moment. Is there, for example, a snowstorm underway. Is it, to borrow another common scenario from Uber’s playbook, 2 in the morning and nary a cab on the street? Then the price you pay for that ride goes up.
+	
+								 
+For retailers – and for the hospitality and travel industry before it – dynamic pricing has helped maximize revenues in a high-cost, low-margin world. In the case of retailers specifically it has also proven to be a great offense against showrooming, precisely because the prices are always changing. 
+Basically all retailers do it to some degree or another—Amazon is a great example but so are brick-and-mortar retailers like Sears and Wal-Mart. It is Uber, however, that has come under fire for the practice from its customers, as MIT Technology Review recently noted. 
+								
+										 
+
+ Thanks to its reliance on what it calls ‘surge pricing’— meaning that during times of high demand, Uber raises its prices, often sharply—the company has been accused of profiteering and exploiting its customers. When Uber jacked up prices during a snowstorm in New York last December, for instance, there was an eruption of complaints, the general mood being summed up by a tweet calling Uber ‘price-gouging assholes.’
+ 
+&nbsp; 
+Uber is taking greater care to explain its pricing policies and in some cases it is bowing to the conventional opinion that surge pricing is unfair. It recently reached an agreement with New York’s attorney general to cap surge pricing in emergency situations, for example. 
+While he understands the politics and PR behind the agreement on emergency pricing, article author James Surowiecki warns against Uber tinkering with the basic premise of dynamic pricing, which he argues is fair and makes sense.
+										
+										 
+I don’t think Surowiecki, or Uber for that matter, has anything to worry about. 
+New Data Points 
+Not only is dynamic pricing becoming a part of mainstream retail, but new data points are also being thrown into the mix that will impact even more the final price. 
+Tel Aviv-based FeedVisor, an algorithmic pricing and business intelligence platform for online retailers on Amazon’s platform, just raised a $6 million Series A round led by Australia’s Square Peg Capital. 
+FeedVisor watches hundreds of millions of sales on Amazon to determine what the best price is a for a particular retailer and product, Shmuli Goldberg, director of Marketing at FeedVisor tells me – but that is hardly the basis for its decision making. 
+“If you are selling a product for $12 and you see your competitor is selling it for $11.50 so you drop your price to $11.49 you have not accomplished anything except starting a price war,” he says. 
+FeedVisor, besides analyzing the competitive environment and product demand, also takes into account the company’s brand as well as a few other non-price metrics. “We basically work out how much a brand is worth to the customer and then raise the price to what we think they are willing to pay to buy a certain product from that retailer.” 
+Other factors the system takes into account is how the item is shipped, or fulfillment, the seller’s Amazon rating, how long it takes the seller to ship out a product, how much feedback it receives and whether that feedback was positive or negative and the seller’s order history. 
+Most of the price increases are below a $1 but there have been times when the system determined a seller could raise its prices by 20% to 30% and still make the sale, Goldberg says. 
+Other companies are also introducing their own versions of dynamic pricing with a secret sauce consisting of a mix of various indicators that determine just how price elastic a good or service can get. 
+  San Francisco startup, Beyond Pricing, calculates the maximum price people can charge to rent out houses or rooms through Airbnb, based on the demand for that particular day. 
+As Andrew Kitchell, CEO and co-founder explained to BetaBoston, the system analyzes a wide range of factors from airfares, hotel rates, and the prices of properties listed on Airbnb and HomeAway. It also factors in such data points as single nights available between bookings and near-term vacancies versus vacancies several months away. 
+Of course there are other factors that go into a customer’s decision to make a purchase besides just price: loyalty programs and gamification techniques (buy 11 sandwiches and get the 12th free) come to mind as do really killer marketing. &nbsp;And here is another: if a customer feels like it is being manipulated, or worse, gouged it could refuse to buy on principle. That hasn’t happened to Uber but then it is trail blazer of sorts in many respects. Other companies might not be so lucky.

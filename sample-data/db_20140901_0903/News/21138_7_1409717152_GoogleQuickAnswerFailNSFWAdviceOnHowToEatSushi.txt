@@ -1,0 +1,32 @@
+Google Quick Answer Fail: NSFW Advice On “How To Eat Sushi” Google Quick Answer Fail: NSFW Advice On “How To Eat Sushi” 
+								
+							
+							
+							Google continues to expand the number of quick answers it offers in its results, as well as the size of those answers themselves. But since Google takes these answers from other sites without any human review, that can lead to goofs. The latest: some advice on eating sushi that might not go down well with some.
+In a search for how to eat sushi, Google provides a four-step direct answer that it has lifted from Vice&#8217;s Munchies site:
+
+Notice the fourth point, which ends with:
+That&#8217;s like shaking your wanker in public.
+For those not familiar, &#8220;wanker&#8221; is primarily UK slang for penis. OK, actually, for what someone might do with &#8230; well, you can read it yourself. And sure, the reference probably isn&#8217;t that offensive to many. Not safe for work &#8211; NSFW? Heck, maybe it&#8217;s even OK there. But the inclusion probably doesn&#8217;t make this the best advice on eating sushi that Google could offer.
+The bigger issue is why Google even feels it has to offer this much advice on eating sushi. In the old days, Google used to refer people to web sites, when they were looking for advice. One of the advantages to this is that if the advice was going to be written with a particular tone &#8212; funny, randy, serious, academic or whatever &#8212; that tone made sense within the context of the site.
+These days, Google just lifts answers off of pages, which not only potentially reduces the chance that the site actually providing the answer doesn&#8217;t get traffic but also producing the problem above, where the context is lost.
+The other issue, of course, is that no human being at Google is reviewing all this. It&#8217;s all done through an automated process. And what started as short definitions and factual statements that were being provided has turned into more complex step-by-step instructions &#8212; and more opportunity for error.
+Ironically, today&#8217;s embarrassment was spotted by a Googler, Stephen Lau of Google X, who tweeted:
+
+
+PSA: go google &quot;how to eat sushi&quot;.  do it now before it gets fixed.
+&mdash; Stephen Lau (@stevel) September 2, 2014
+
+For some previous examples, see our story last month, Some Of The Weird Issues When Google’s Quick Answers Come From Random Sources.
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

@@ -1,0 +1,64 @@
+5 more awesome Android apps you may not have heard of 5 more awesome Android apps you may not have heard of 
+					Because you can never have enough apps in your life, we&#8217;ve decided to comb through a recent thread of new Android app recommendations over at Reddit&#8217;s Android community and pluck out the best gems for your enjoyment. Some of these apps have been out for a while but some of them are brand new so don&#8217;t be shocked if they come with bugs. That said, they&#8217;re all highly rated and you can be sure the developers will issue patches to fix any reported issues people may find. And without further ado, here are five more terrific Android apps you may never have heard of.Moon+ Reader Pro is a widely acclaimed book reader app that&#8217;s won praise for its customization options that will let you change an ebook&#8217;s fonts, margins and much more. Unlike the other apps mentioned here, Moon+ Reader Pro will cost you $4.99 but for the more than 50,000 people who have installed it, it seems worthwhile.Better designed book reader with powerful controls &amp; full functions, supports epub, pdf, mobi, chm, cbr, cbz, umd, fb2, txt, html, rar, zip or OPDS formats.☀Additional benefits in pro version:✔ Ad-free, faster &amp; smoother
+✔ Shake the phone to speak (Text-to-speech, TTS engine support)
+✔ PDF support, fast &amp; speech compatible
+✔ Reading statistics function
+✔ More beautiful themes, background images and fonts
+✔ Customize reader bar function
+✔ Headset &amp; Bluetooth keys control
+✔ Multi-point touch support
+✔ Option for password protection at startup
+✔ Book to home screen shortcut
+✔ Annotations, highlights &amp; bookmarks share support
+✔ Open/Backup/Sync/Download/Upload book files via Dropbox/GDrive
+✔ Widget shelf support, group your favorite books, put them to desktop as widget
+✔ Tilt to turn page with customized actions
+✔ Customer email support☀PDF features in Pro version:✔ Fill out PDF Form
+✔ Highlight, annotation, handwriting
+✔ Smart scroll lock, smooth reading experience
+✔ Night mode support, 6 additional pdf themes available
+✔ Dual-page mode for landscape screen
+✔ Speech, auto-scroll compatible
+✔ Read statistics, sync, flip animation available☆The key features:• Support online ebook libraries and personal calibre ebook server.
+• Read local books with smooth scroll and tons of innovation.☆Standard functions:• Full visual options: line space, font scale, bold, italic, shadow, alpha colors, fading edge etc.
+• 10+ themes embedded, includes Day &amp; Night mode switcher.
+• Various types of paging: touch screen, volume keys or even camera, search or back keys.
+• 24 customized operations (screen click, swipe gesture, hardware keys), apply to 15 customized events: search, bookmark, themes, navigation, font size and more.
+• 5 auto-scroll modes: rolling blind mode; by pixel, by line or by page. Real-time speed control.
+• Adjust the brightness by sliding your finger along the left edge of the screen, gesture commands supported.
+• Intelligent paragraph; indent paragraph; trim unwanted blank spaces and lines options.
+• Keep your eyes health options for long-time reading.
+• Real page turning effect with customized speed/color/transparent; 5 page flip animations.
+• My Bookshelf design: Favorites, Downloads, Authors, Tags; self bookcover, search, import supported.
+• Justified text alignment, hyphenation mode supported.
+• Dual page mode for landscape screen.
+• Support all four screen orientations.
+• EPUB3 multimedia content support (video and audio), popup footnote support
+• Backup/Restore options to cloud via DropBox, sync reading positions between phones and tablets.
+• Highlight, Annotation, Dictionary (Offline or Online, support ColorDict, GoldenDict, Fora, ABBYY Lingvo, etc.), Translation, Share functions all in moon+ ebook reader.Forget Flappy Bird — Duet is the sort of hugely addictive game that really deserves to become an overnight sensation. The premise of the game is incredibly simple — you have two spheres that you can manipulate and move around to make sure they avoid any oncoming objects as they move upward.Enter a mesmerising trance of co-dependence in Duet. The rules are simple: control two vessels in sync, survive against all odds and keep calm.Your survival is dependent on protecting two vessels &#8211; they are devices in sync, a dance and song between two entities tethered together in symbiosis. Feel edge of your seat terror where the world around you becomes quiet and numb as all that matters is the game living between your palms &#8212; that is Duet.% EIGHT CHAPTERSExperience eight chapters of deceptive narrative and nerve-twisting gameplay. Replay any stage to perfect your movements and unlock over 25 achievements. This is a game that will test you. Unlock the Survival mode, Daily Challenges and four additional chapters of bonus challenges.% PERFECT GAMEPLAYWith air tight controls and gameplay that’s tuned to perfection Duet provides the perfect balance between challenge and pure gaming satisfaction. Touch either side of the screen to twist your vessels and avoid everything in your path. Remember: even that which begins simple can end complex.% HYPNOTIC AUDIOAn outstanding handcrafted soundtrack by Melbourne composer and Gotye multi-instrumentalist Tim Shiel. Nine unique and mesmerizingly beautiful compositions ensure an immersive experience for you at every step of your journey.% FULLY FEATURED- Full Google Play Game Services sync support &#8211; sync your progress across all your devices.
+&#8211; Phones and Tablet support &#8211; play everywhere.
+&#8211; Compete with Google Play Game Services across the Survival mode and Daily Challenges leaderboards.% GO PREMIUMDuet is free to download and play with some advertisements between gameplay. However, you may pay a once-off in-app purchase to unlock “Duet Premium”. This will remove all advertisements from the game, unlock Survival mode for endless score chasing delight, the Daily Challenges feature and four bonus challenge chapters. You will also help support more independent development of video games.As its name suggests, Music Control is a very simple moveable widget that will give you the ability to control whatever music is playing on your phone across multiple apps, whether it&#8217;s on Spotify, on the Google Play Store or just a song that&#8217;s on your device. The app seems to be very new, so don&#8217;t expect it to be perfect and its developer is asking for user feedback. That said, it seems very promising.With this application you can control the running music on your device very easy.
+It opens a window thas overlays on top of all other apps (also games) and can be moved completly free.Supports many mediaplayers such as Play Music, Spotify or Apollo.- Display track infomation, also artwork
+&#8211; Change track from anywhere
+&#8211; Window opens automaticaly on music start or headphone event
+&#8211; Minimized mode which starts by an double touch outside of the windowIf you can&#8217;t wait for Android L to come out — and given issues of Android fragmentation, you may be waiting for a long time — then you might want to get at least a taste of what&#8217;s to come with the Ultimate Android L Lockscreen. Essentially, this is an Android L lockscreen simulator based on the Android 4.4 API that will give you access to Android L-style lockscreen notifications. This is a beta release of the app so, like with Music Control, you should be aware that it will likely have its share of bugs at the start.Features :
+• Lockscreen Notifications!
+• Using Android 4.4 API
+• Swipe Lockscreen up for music controls
+• Swipe Lockscreen down to unlock
+• Swipe Lockscreen right for quick Camera access
+• Swipe Lockscreen left for quick Phone access
+• Setup a Pin code to stop friends from unlocking!
+• Real Android L font
+•Design based on android L 5.0Customization includes vibrate on press, show next alarm at quick glance .Please keep in mind that this is a beta release so bugs can be expected.More features coming soon!And finally, the Algeo graphing calculator is a well received graphing calculator app for people who want to do more advanced mathematics on their smartphones.It has the best graphing experience available on the Play Store.
+Draw functions, find intersections and show a table of values of the functions with an easy to use interface.Use the following unique features to help you with your Calculus and Algebra class:
+*Symbolic Differentiation
+*Definite Integrals
+*Calculate Taylor-series
+*Solve EquationsAlgeo has every feature a scientific calculator needs:
+*Trigonometric and Hyperbolic Functions
+*Radians and Degree Support
+*Result History
+*Variables
+*Scientific Notation
+*Supports Landscape Mode

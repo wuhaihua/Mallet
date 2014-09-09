@@ -1,0 +1,84 @@
+How To Use Schema and Open Graph Markup For Local SEO How To Use Schema and Open Graph Markup For Local SEO 
+								
+							
+							
+							One of the least-tapped areas of local business website optimization continues to be semantic markup. Semantic markup can increase chances that information from your website will be highlighted in search engine results pages via rich snippets, attracting greater attention and clickthroughs. So, read on and use this checklist to see if you&#8217;re exploiting all elements possible for your local business website.
+While special markup likely may not directly improve your rankings in search, it does apparently increase clickthrough rate or &#8220;CTR,&#8221; as consumers are more drawn to your site&#8217;s listings. The increase is reportedly 15% on average, and potentially higher!
+Just this increase in CTR alone could benefit your rankings over time, as clickthroughs can influence rankings; so, there are a few reasons why semantic markup is worthwhile. Semantic markup optimizes for Google, Bing, and Facebook search, too.
+If you think most Microformats/RDFa/Micro Data/Schemas don&#8217;t apply to your local business website &#8212; think again! While only a few of these may impact your listing in the local 7-pack or in Google Maps, your site can also attract customers via the regular, keyword search results pages; and, regular listings can and do appear on the same results pages as the 7-pack!
+So, check to see if you&#8217;ve added the following semantic markups to your local website (if applicable). Improving your traffic, even on search results which are not directly related to something you sell, can help benefit all the rest of your website as your overall popularity becomes augmented.
+13 Semantic Markup Strategies For Local Business Websites
+1.  Authorship Markup
+The number-one, best semantic markup is likely authorship &#8212; it allows your personal photo to appear with pages you author, and your website, when they are listed in search engine results.
+For instance, check out listings of articles from Search Engine Land, and you&#8217;ll frequently see icon pics and names of authors paired up with their article listings.
+For local search, this may be even more compelling in Google, making your listing appear far more interesting and professional in the 7-pack. In the search below for personal injury attorneys in Seattle, the first two listings sport pics of the attorneys:
+
+To enable this to happen, you must have a Google+ profile for the business proprietor, link to it from your website including a querystring with rel=author:
+&lt;a href=&#8221;[profile_url]?rel=author&#8221;&gt;Google&lt;/a&gt;
+Then, link back to your site from your Google+ profile in the &#8220;Contributor To&#8221; section. It&#8217;s also a good idea to have a good author photo for Google+.
+2.  Local Business Schema and Geotag
+Schema.org provides a few different types of semantic markup that I&#8217;ll be listing in this article, and the prime one is for describing local businesses. Essentially, you can use this to markup your address and contact information on your site, although there are additional fields you can include such as hours of operation, payment types accepted, and more.
+Example markup:
+
+You can also geotag your location (or &#8220;Place&#8221; in Schema.org lingo) by including your geocoordinates with your LocalBusiness code. As I&#8217;ve noted before, if you&#8217;ve been using hCard Microformat for this purpose, you can continue to do so, although Schema markup has become more preferred.
+If desired, you can use both simultaneously, such as what I&#8217;ve done with my business address on my homepage at Argent Media. For LocalBusiness Schema instructions, go here.
+3.  Testimonial
+Testimonials on a business website can often aid in persuading visitors to become customers.
+Because of this, Google allows local businesses to disclose that they have a testimonial by using semantic markup for reviews, and Google sometimes will display that information in conjunction with the business&#8217;s listings in SERPs. I believe tagging your testimonials can increase their chances of being displayed in the snippet text beneath your listing, and in the sample text callouts shown variously in the cached image of your webpage.
+For instance, check out the EagleLift foundation repair company in Los Angeles which has a testimonial page marked-up with the Schema for testimonials &#8212; and that testimonial text now shows up in both the description snippet and the cached page callout:
+
+4.  Breadcrumbs
+Many sites I run across neglect to use breadcrumb navigation, despite it being highly useful, according to usability experts. Even on relatively small sites, breadcrumbs can help a user orient themselves in the site&#8217;s hierarchy, and provide them with related pages that they might wish to visit. For this reason, Google began bubbling-up this data to display in rich snippets as additional links beneath the hyperlinked page name.
+Simply from a statistical perspective, having additional links to your site on search results pages increases the odds of you having users click through over time &#8212; so, breadcrumb links are highly desirable! Google does a fair job of automatically detecting these, but there are times when a page&#8217;s breadcrumb code isn&#8217;t interpreted successfully by them in order to be displayed in the snippet. To increase your chances, use the breadcrumb markup on your site pages.
+For local sites targeting a few local city names or with multiple offices around a metro area, breadcrumbs are very worthwhile. For example, here&#8217;s a breadcrumb from my company site:
+Once you&#8217;ve coded your page, check the code in Google&#8217;s Structured Data Testing Tool, which should reflect the breadcrumb links properly. The tool shows a search listing preview for my page at Argent Media, in addition to the extracted structured data.
+5.  Events
+If your company participates in some events or provides special services at different times/dates during the year, you might consider incorporating the Events Schema markup. If you are too intimidated to do structured data on your site, or you don&#8217;t feel confident at doing the coding necessary, Google does give you another option for Events at this time.
+In your Webmaster Tools account, Google has provided a beta service called the Data Highlighter for Events. Using this interface, you can highlight elements of events and tell Google which data item is which event element &#8212; Name, Date, Venue, Address, URL, etc.
+
+&nbsp;
+*If Google deems the Data Highlighter to be successful, they&#8217;ll likely expand it to include other types of rich snippets as well. I hope they do &#8212; this would be a great boon for small business websites!
+6.  Coupons/Offers
+If you have coupons or special offers, use the Offer Schema. It&#8217;s not clear to me that Google or Bing does any special snippet treatment for coupons or offers at this time, but they included it in Schema.org, and it would make sense for them to consider incorporating it more visibly at a future date, since they&#8217;re obviously interested in it, and it would be the sort of thing that end users would like a lot.
+7.  Videos
+Google recommends that you use the VideoObject Schema to help them to better interpret and represent your video content in search results. If you&#8217;re not using videos on your site, you should &#8212; video listings in search results take up more room in search results and are more attention-grabbing.
+Consumers apparently like seeing videos of products or of businesses providing services, so this can help with conversions as well. Here&#8217;s an example video page listing in search results from the Wasp Barcode Technologies company in Plano, Texas:
+
+8.  Recipes
+Recipes get tons of searches on the net, and for that reason search engines highlight the presentation of their listings in search results.
+Most local businesses don&#8217;t feel that they really lend themselves to food themes, so it might not occur to them to show a recipe or two on their site and mark it up for search engines. True, recipes may make more sense for a restaurant, hotel, caterer, or even a coffee shop, but there&#8217;s no reason why a business couldn&#8217;t publish some favorite recipe and get some extra traffic and ranking power by doing so.
+For instance, a lawyer recently made headlines by filing a Freedom of Information Request with the government in order to obtain President Obama&#8217;s beer recipe (&#8220;White House Honey Ale&#8221;). The lawyer was likely satisfied that the recipe is now published on the White House&#8217;s website, but he&#8217;s missed out on the opportunity of publishing the recipe on his own website and marking it up for search.
+The White House&#8217;s recipe is actually very non-optimal, because it was published in a couple of images instead of in text, and it won&#8217;t look as pretty in search results as recipes at the Food Network or AllRecipes.com.
+Your reason for publishing a recipe doesn&#8217;t have to be dramatic, though &#8212; just do it to interact with the Web community more and your business may benefit.
+9.  Individuals
+I&#8217;ve written before on how highlighting your employees can help with local search rankings. In addition to displaying author information, you can also mark up information about executives and employees on your site as well by using the Schema for a Person.
+10.  Tables &amp; Bulleted Lists
+This doesn&#8217;t really require any special semantic markup &#8212; but, if you have tabular data or content that lends itself to presentation in a list, providing this on your website can again make your listing in search results get more attention, and it affords you the opportunity to display more info about your products and services before potential customers have even reached your website.
+Example &#8212; rental cabins in Gatlinburg, TN:
+The Cabins of the Smokey Mountains webpage presents their rental properties and features in a table, and Google has featured that below their listing. To enable this to happen, consider whether you have any information that might lend itself to a table or bullet list format, and create a page for it.
+For example, this could work great for many restaurants, if they put their menu in an HTML table &#8212; preferable, compared with the Flash/PDF/image formats that many eateries use instead.
+11.  Products
+If your business sells products, seriously consider incorporating data about them on your site and marking it up with the Product Schema. The product markup can enable your listings to show price, ratings, and availability in the search results:
+Note that the Product markup can be particularly effective in combination with breadcrumbs! (Shout out to Zachary Palmer for reminding me of this one.)
+12.  Meta Descriptions
+While it doesn&#8217;t involve Schema, Meta Descriptions have been one of the earliest and longest surviving semantic markup elements. They&#8217;re possibly the most-influential as well, since they often appear as the entire snippet text in search results.
+Despite all this, the Description Meta Tag is still frequently neglected on many small business websites. The Meta Description should briefly describe what a particular page is all about, incorporating good keywords. You should not use the same description for all pages, or even more than one page on your site!
+Don&#8217;t just parse the first sentence of a blog post into the description field, either &#8212; make them custom, describing the page. Twenty-five words ought to do it. Check in your Webmaster Tools and see if any changes are recommended, too &#8212; warnings about being too short or duplicated tags should alert you to adjust.
+13.  Facebook Open Graph
+Instead of cooperating with the search engines to make life easier for millions of webmasters and developers, Facebook uses the Open Graph protocol. To help ensure your site&#8217;s pages are presented well in Facebook search and various interfaces, incorporate Open Graph for local businesses as I suggested previously. Use it simultaneously with Schema.org protocol &#8212; the two do not conflict with one another.
+Each time you insert semantic markup, be sure to check it using Google&#8217;s Structured Data Testing Tool (previously called the &#8220;Rich Snippet Testing Tool&#8221;). I&#8217;ve seen many instances where designers and programmers think they&#8217;ve incorporated semantic markup, but instead it&#8217;s incorrectly configured and erroneous.
+So, go through this checklist and add any of the semantic markup options you can, and it may help you achieve a very rosy year for your website and business in 2013!
+Postscript: Regarding Testimonials, I made a mistake in citing the EagleLift company&#8217;s testimonial page and suggesting using the &#8220;Schema for testimonials&#8221;, which doesn&#8217;t exist. I realized after seeing a number of comments around this that it was confusing, and the page I provided as an example actually has a mistake in their structured code which Google&#8217;s Structured Data Tool did not catch when I looked at it. Their code referred to an item type for &#8220;http://schema.org/testimonial&#8220;, which is nonexistant. I had found the example, and the Structured Data Tool appeared to validate it, and I&#8217;d unintentionally recommended it.
+To clarify, as I stated earlier in that section, &#8220;Google allows local businesses to disclose that they have a testimonial by using semantic markup for reviews&#8221; on their website. That is correct guidance. Use the review schema at: http://schema.org/Review
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

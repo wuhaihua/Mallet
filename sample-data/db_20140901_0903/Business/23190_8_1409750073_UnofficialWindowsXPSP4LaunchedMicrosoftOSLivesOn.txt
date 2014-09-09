@@ -1,0 +1,54 @@
+'Unofficial' Windows XP SP4 Launched. Microsoft OS Lives On 'Unofficial' Windows XP SP4 Launched. Microsoft OS Lives On In May I commented that  Windows XP is more difficult to kill than Wolverine &nbsp;and four months on it does indeed appear that the operating system was coded using Adamantium. How? Well despite having been discarded by Microsoft in April, the 12 year old OS just received Service Pack 4. 
+&nbsp;
+	
+								 
+Needless to say this isn’t Microsoft demonstrating yet another generous act of utter stupidity, but the work of its diehard fanbase. Dubbed the ‘Unofficial Service Pack 4’, credit goes to Greece-based developer harkaz who started the project back in September 2013. The third beta has already been launched and, in true Microsoft fashion, a Release Candidate (RC) will be ready soon. 
+&nbsp;
+								
+										 
+“Many users – including me – who won’t be able to upgrade their old machines to a newer OS would like to easily install all Windows updates in one convenient package. For this reason, I started working on a Service Pack 4 package,” said&nbsp;harkaz on the RyanVM discussion boards. 
+“Windows XP Unofficial SP4 ENU is a cumulative update rollup for Windows XP (x86) English,” he explained. “It can be applied to a live Windows XP system which has SP1, at minimum, installed or it can be slipstreamed (integrated) in any Windows XP installation media.” 
+&nbsp; 
+
+ 
+ …or has it? Image credit: Microsoft official Windows XP page
+										
+										
+ 
+&nbsp; 
+harkaz breaks down Unofficial SP4 stating that it includes ‘ updates for most Windows XP components’, including:  
+ 
+ MCE and Tablet PC 
+ Request-only hotfixes 
+ Microsoft .NET Frameworks 4.0, 3.5, 1.1 and 1.0 (Tablet PC only) 
+ Integrated POSReady security updates 
+ 
+&nbsp; 
+A detailed list of fixed can be found here, but of particular interest is POSReady. The POSReady security hack was announced in May and it takes advantage of a Microsoft loophole that provides security support for ‘Windows Embedded POSReady’ (now called ‘Windows Embedded Industry’) which will last until 2019. Emdedded Industry is a b2b-focused variant of Windows XP running Service Pack 3. 
+&nbsp; 
+How it works is the POSReady hack tricks Microsoft servers into thinking consumer versions of Windows XP are in fact Embedded Industry and therefore supplying them with security updates. Rightfully critics have noted that the two OSes are not identical which could cause problems, but it has proved a fruitful route so far. The hack was fairly simple, but automating it within a wider update will appeal to many. 
+&nbsp; 
+Read more: Simple Hack Gives Windows XP Users 5 More Years Of Support 
+&nbsp; 
+Needless to say caveats apply if you are going to consider installing Unofficial SP4, many of which are stated by harkaz. The main one of which is to obtain the downloads from the developer’s posts on RyanVM as there are numerous malware and virus infected fake SP4 patches floating around. 
+&nbsp; 
+
+ 
+ The official Microsoft Windows XP countdown clock has expired
+ 
+&nbsp; 
+I would also add that in installing any Windows patch not verified by Microsoft is a risk, though in this case the lack of future security patches for Windows XP means running the OS is already a big risk in itself. Furthermore – with a reported 25% of all PCs still running Windows XP – this is a risk which is only going to get worse. 
+&nbsp; 
+All of this is a potential PR disaster for Microsoft. I personally believe the company has every right to end support for an operating system after providing it for free for 12 years and providing years of warning, but reports of Windows XP mass hacks and customers suffering poses a real problem. Furthermore with Windows 8 failing to take off and Windows 7 Mainstream Support ending in January Microsoft is fast becoming cornered. 
+The only card the company has to play is Windows 9. It will have to be incredibly lean to have any chance of running on Windows XP computers, but more than that it will need to be a compelling, crowd pleasing and affordable operating system in its own right. 
+&nbsp; 
+Read more:&nbsp;What Windows 9 Must Do To Avoid Flopping Like Windows 8 
+&nbsp; 
+The first public beta of Windows 9 is expected to arrive on 30 September. No pressure Microsoft… 
+  ___ 
+Follow @GordonKelly 
+&nbsp; 
+More on Forbes 
+
+ see photosAP Photo/Richard Drew
+ Click for full photo gallery: Microsoft's Biggest Hits And Flops

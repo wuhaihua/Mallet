@@ -1,0 +1,8 @@
+Explicit celebrity photos leak following speculated iCloud breach Explicit celebrity photos leak following speculated iCloud breach 
+                
+
+   					
+                     
+                       
+                   
+        			It was an unfortunate weekend for a handful of celebrities, with an unknown hacker on 4chan posting a plethora of photos -- some explicit -- of various well-known individuals in exchange for Bitcoin. Details on how, exactly, this individual came to acquire the content isn't yet known, but many have been quick to peg Apple's iCloud as the source.The celebrities affected are numerous, and include Jennifer Lawrence, Kate Upton, Mary E. Winstead, Rihanna, and more. An iCloud breach has been hailed as the cause of the attack by many, though the hacker hasn't stated how he or she came to acquire the images, and many have cast doubt on that speculation.Instead, a phishing attack or some form of social engineering is more likely, with the hacker perhaps gaining access to email addresses and using those to retrieve the accounts' passwords. Other less likely causes are guessed to be leaks by account managers or publicists, though that wouldn't explain the wide roster of celebrities affected.Apple is said to be looking into claims that the content was scored from its iCloud service, but hasn't made any official statement on the matter at this time. This could prove to be an example of why using two-factor authentication is necessary, even if it is inconvenient at times.SOURCE: The Guardian

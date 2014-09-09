@@ -1,0 +1,36 @@
+How Investors Could React To Apple's Various September 9 Announcements How Investors Could React To Apple's Various September 9 Announcements Everyone is anticipating Apple to announce at least one if not two new iPhones on September 9 with an expected availability on Friday, September 19. There is also a lot of speculation circulating that an iWatch and potentially payments partnerships could be part of it. 
+With the announcement being held at the Flint Center at De Anza College, which holds about 2,400 people, and the site where Steve Jobs unveiled the Mac in 1984 it does seem very likely that it will be more than two updated iPhones. There is also a large structure being built at the Flint Center which makes it feel like there will be “One More Thing”.
+	
+								 
+The following analysis is how the Street could react to various features, solutions or products announced on September 9. 
+&nbsp;
+								
+										 
+High impact on the stock price 
+The most written about feature of Apple’s iPhone 6 are 4.7” and 5.5” screen sizes. Since they are the most anticipated feature if there is only one size or if there is more than a one to two months delay in availability beyond September 19th the stock could react negatively.  
+ 
+ 
+  
+  Steve Jobs shows off the white iPhone 4 at the 2010 Worldwide Developers Conference (Photo credit: Wikipedia)
+  
+ 
+The new iPhones having Sapphire displays, or at least the larger size having it, is probably the second most anticipated feature since it could help differentiate Apple from other smartphones. If they don’t have sapphire screens or it leads to delayed availability or limited supply (making for long lead times) the stock could react negatively. On the flip side if both sizes have sapphire displays and lead times are similar to other iPhone launches the stock could react positively.
+										
+										 
+How many countries have the new iPhones available at launch and when could be critical to how the stock reacts. The 5c and 5s were available in 11 countries in the first wave and China was included for the first time. The iPhone 5 was available in 9 countries in the first wave and 7 countries for the iPhone 4S. I believe the expectation is that the iPhone 6 will be available in the same countries as the iPhone 5c and 5s. If there are fewer countries in the first wave or shortly thereafter, and especially when China has it available, the stock could take a hit. If Apple is able to increase the number of countries in the first wave that would be positive for the shares since it would indicate good availability. 
+Near Field Communication or NFC has been bantered around for a few previous iPhone’s pre-announcement. There doesn’t seem to be much discussion this time which means if this feature is included and especially leverages iBeacon it could have a positive impact to the stock. It could also help deliver a mobile payment solution. 
+If mobile payments are part of the announcement this could have a very positive impact on the shares. Re/code published an article that Apple had reached an agreement with American Express to partner on a payment system. If Apple is able to capture 20 to 30 basis points or more of mobile electronic transactions this could be a large and high margin recurring revenue stream. 
+Due to the higher cost of a larger screen iPhone and especially if its components, such as a Sapphire display, lead to a higher bill of materials the subsidized price may be higher than the typical $199 for the base 16GB model ($649 full price). A case can be made that a higher price could be positive or negative for Apple’s shares. If customers are willing to pay the higher price due to getting more features than it should be positive. If customers shy away from the higher priced models and either don’t buy a new iPhone (unlikely) or decide on a lower priced one that could be negative for the shares. 
+There is speculation that an iWatch will also be part of Apple’s announcement. Some of the key factors on its impact to the stock price will be its features, apps, availability (maybe not until late in the holiday season or next year), “coolness” and pricing. Remember the original iPhone was announced on January 9, 2007, but was not available for almost six months on June 29. There may be a similar delay with the iWatch so that enough apps can be made available which could generate positive initial reviews. Depending on how these various factors play out will determine the stock’s reaction. Overall it is more likely to be positive vs. negative if something is announced and if it is not announced the stock will move based on the other announcements. 
+&nbsp; 
+Low impact on the stock price 
+An upgraded A8 processor is pretty much expected but shouldn’t have a major impact on Apple’s shares. The company has released a new processor with every new iPhone since the 3GS so this is pretty much table stakes. 
+New processors, such as TouchID and the M7 motion coprocessor that were included in the iPhone 5s probably won’t have a major impact on the shares by themselves. If they allow a payment system to be implemented (such as a security chip) then it should help the stock. 
+Upgrading the cameras, especially the front facing one, could help Apple’s shares since they are a widely used feature on any smartphone. 
+  A longer-life battery life would have a minor impact on the shares unless it is dramatically longer. While the battery should be physically larger due to the increased size of the iPhone the additional power needed to power the screen could offset much of an enhanced battery. 
+&nbsp; 
+No impact on the stock price 
+Having a 128 GB memory iPhone model would be nice but not needle moving from a financial or stock perspective. 
+I don’t think investors will provide the stock with any additional benefit if Apple announces new iPhones that are waterproof or water resistant. 
+Also low on investors wish list is more pixels per inch (ppi) but what could be interesting is will Apple make it easier for developers to port their apps to a larger screen size. 
+&nbsp;

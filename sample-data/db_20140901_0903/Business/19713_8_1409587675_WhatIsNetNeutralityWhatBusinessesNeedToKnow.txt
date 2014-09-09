@@ -1,0 +1,111 @@
+What Is Net Neutrality? What Businesses Need To Know What Is Net Neutrality? What Businesses Need To Know 
+			
+
+		
+
+					    
+
+
+			
+				Sell. Service. Market. Succeed.
+					
+			
+
+			
+				
+			
+		
+
+		
+			Salesforce.com began with a vision to reinvent CRM in the cloud and a commitment to donating 1% of our equity, 1% of our employees’ time, and 1% of our product. These two key decisions have fueled our incredible growth, made us the global leader in CRM, defined the era of cloud computing, and inspired a new philanthropic model. Today, thanks to our dedicated employees, partners, and customers, our industry-leading CRM platform has become the world's leading enterprise cloud ecosystem. Using the latest innovations in mobile, social, and cloud technology, we help companies connect to their customers in a whole new way—and sell, service, market, and succeed like never before.
+			
+
+
+					Twitter
+
+					Website
+
+				Profile
+
+			
+		
+
+
+
+
+							
+			    
+
+	
+		Connecting marketers to the Forbes audience. What is this?
+	
+	
+		
+		
+		
+			Forbes &trade; allows marketers to 
+			connect directly with the Forbes audience by enabling them to create 
+			content – and participate in the conversation – on the Forbes digital publishing 
+			platform. Each &trade; is produced 
+			by the marketer. 
+			
+			More on &trade; here
+			, or email us directly at 
+			brandvoice@forbes.com.
+			Opinions expressed by Forbes ™ Contributors are their own. 
+		
+	
+
+							
+
+						
+
+						
+
+						
+
+
+								
+On a recent episode of Last Week Tonight, John Oliver motivated thousands of viewers to leave comments about net neutrality on the FCC website.  &nbsp;Thought leaders from Harvard, Wharton—and HBO—weigh in. 
+Not long ago, John Oliver’s HBO show Last Week Tonight&nbsp;made waves with a 13-minute segment on net neutrality. In the segment, Oliver suggested that the FCC is in bed with big cable and telecom companies such as Comcast, Time Warner and Verizon. 
+Oliver also pointed out that Comcast’s lobbying efforts on Capitol Hill are second only to defense contractor Northrop Grumman’s. All the while, he quipped, Americans endure download speeds that are slower than they’d get if they lived in Estonia, despite the fact that we pay more for internet service than almost any other country in the world. 
+ 
+ 
+If you missed his comments, you can view them here. Oliver ended the segment by delivering an impassioned plea to Americans to visit the FCC website, and to comment on the proposed changes that would, among other things, create a two-tiered system wherein service providers like Comcast and Time Warner would be able to offer faster speeds to companies who would be willing to pay a higher price. 
+What Is Net Neutrality? 
+Net neutrality is the principle that suggests maintaining what we have now—an internet that, according the FCC’s own Open Internet page,&nbsp;”uses free, publically available standards that anyone can access and build to, and [that] treats all traffic that flows across the network in roughly the same way.” 
+Net neutrality proponents want to keep the internet as free and democratic as possible. Those who are against net neutrality argue that businesses—like Comcast and Time Warner—have every right to offer enhanced services to those who want to pay for them. In fact, the FCC’s proposed updates to allow just this kind of “two-tiered” system sparked the current debate. 
+It may take a while for the FCC to move forward with any plans as the debate rages on this issue, pitting consumer groups against the Goliaths in the cable and telecom industries, but there’s no doubt about it: If you’re in business—or interested in doing business—on the internet, you need to care about net neutrality. 
+Why Businesses Should Care About Net Neutrality 
+The biggest worry is that creating and enforcing a two-tiered system will establish a monopoly where big, deep-pocketed cable companies have an unfair advantage, delivering the fastest service to companies who pay the most, and leaving those with lesser resources in the slow lane. 
+The most recent case may have affected you directly: Comcast and Netflix reached an agreement in which Netflix will pay Comcast for faster access to Comcast’s internet subscribers. 
+Prior to the agreement—as John Oliver’s piece hilariously points out—Netflix users were experiencing rather unendurable download times on the Comcast network. However, once an agreement had been reached, download times picked up almost immediately. If that strikes you as suspicious, you’re not alone. 
+ 
+ 
+Timothy Wu, a professor of technology law at Columbia University, likens a two-tiered internet system to the way a certain famous fictional-mobster does business: “Companies can either offer more value, or they can try and extract cash from companies because they’re in a position to threaten them,” said Wu in an interview with Rick Karr on PBS’s Moyers on America. “It’s the Tony Soprano system…like a protection racket, and it’s not an economically productive activity to toll both companies because you happen to have the power over the gateway to do so.” 
+Kevin Werbach, an associate professor of legal studies and business ethics at Wharton, speaks on&nbsp;Knowledge@Wharton addressing the need for some sort of regulation. He says that the U.S. currently has almost no rules that are legally enforceable. The right conditions must be set, he notes: “If there’s too much room for the broadband providers to degrade the basic internet pipe, that will violate the spirit and reality of network neutrality.” 
+What’s at stake in this discussion is a lot more than faster speeds for downloading the new season of&nbsp;Orange Is the New Black. It’s even bigger than the payola aspect of access that’s embedded in the debate. Ideas such as freedom, creativity and innovation are at the root of net neutrality proponents’ battle cry. “The U.S. is the world center for internet innovation, internet economic value creation and internet freedom,” says Werbach, “but that’s been weakened in recent years, partly because of some of the revelations about government surveillance, which have caused companies and governments to no longer trust the U.S.” 
+Werbach points out—as Oliver did—that developing countries and emerging global markets with faster, less-restricted broadband access will have a competitive advantage over the United States. A recent article in The Guardian supports Werbach’s position. Mobile carriers in Chile were going to partner with internet service giants like Facebook and Google to offer no-cost mobile data to customers who used those services. The Chilean government, however, nixed the idea with the hope of preserving a better long-term experience for the consumer. 
+Wireless services and neutrality 
+Net neutrality extends beyond traditional internet access and into the future of wireless innovation. Of mobile web users around the world, 50% now use mobile devices as their primary means of accessing the internet. 
+Wireless could become a viable competitor to the traditional big broadband providers, notes Werbach, who advocates the thoughtful construction of laws to support future growth and governance. 
+Is a Two-Tiered System Really “Pro-Business”? 
+Writing in opposition to net neutrality for the Harvard Business Review blog, Robert E. Litan, vice president for research and policy at the Kauffman Foundation and a Senior Fellow in Economic Studies at the Brookings Institute, and Hal J. Singer, a managing director at Navigant Economics, argue that businesses need internet service providers to continue investing in their broadband networks, and they also need the opportunity to innovate. 
+“Priority delivery would enable certain real-time applications to operate free of jitter and generally perform at higher levels,” they argue, adding, “Absent net neutrality restrictions, entrepreneurs in their garages would devote significant energies trying to topple Google with the next killer application.” 
+Similarly, the U.S. Chamber of Commerce has advocated a position in which the ISPs govern themselves, free of FCC regulation of any kind. 
+How Does Net Neutrality Impact Us? 
+In the end, it’s small- to medium-sized businesses and consumers who stand to lose the most if we move to a two-tiered system. As more and more businesses jump online, competition increases, driving online marketing prices up. 
+Increasing competition by creating a fast lane where only the biggest and the best can afford to be would threaten to create a second-class internet landscape that consumers would go out of their way to avoid. 
+At the heart of this discussion is the fear that the consumer internet experience might turn into a nightmare similar to the modern airport experience—the wealthiest can afford private jets, and some others are willing to pay more for first class and fast access through security, but the greater majority of travelers are left to stand in line for hours and settle for a seat in steerage. 
+ 
+As a result, most internet users are dead-set against the idea of eliminating internet neutrality. In fact, according to a recent report conducted by Ask Your Target Market, 76% of those surveyed said that internet service providers should not be able to differentiate between high-bandwidth services and other online data. 
+But consumers aren’t the only ones who are worried; key internet players Google, Amazon, eBay, Facebook and more than 100 other internet and technology companies recently signed a letter to FCC Chairman Tom Wheeler. It petitioned the chairman, suggesting that “Instead of permitting individualized bargaining and discrimination, the Commission’s rules should protect users and internet companies on both fixed and mobile platforms against blocking, discrimination, and paid prioritization, and should make the market for internet services more transparent.” Read Wheeler’s full letter on Scribd. 
+There’s No Being Neutral in ‘Net Neutrality’ 
+It will take some time for the FCC to introduce any kind of regulation. Current proposals are still in the comments phase, and it looks as though they’ll have quite a few to sift through. The Monday following John Oliver’s suggestion that his audience comment on the FCC site regarding their opposition to revoking Internet Neutrality, the FCC site went offline due to the technical difficulties it experienced under the weight of 45,000 comments that morning. 
+“I’m worried…if we don’t have a true national policy of promoting advances in broadband and more competition at every turn, that the U.S. falls behind,” says Werbach, “and also that we lose some of this potential that the internet has and that broadband has for catalyzing both economic benefit as well as these great social benefits.” 
+This post originally appeared on the Salesforce.com Blog. 
+Read more: 
+Why Cloud-Based Apps Are Key to Unlocking the Internet of Things 
+Free E-Book: 100 Ways to Run Your Business From Your Phone 
+&nbsp; 
+Stuart Leung is an SEO Manager at salesforce.com.

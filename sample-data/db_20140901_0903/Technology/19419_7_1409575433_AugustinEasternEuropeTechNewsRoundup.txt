@@ -1,0 +1,91 @@
+August in Eastern Europe: Tech News Roundup August in Eastern Europe: Tech News Roundup 
+							
+														
+							The last month of summer has proved what we were suspecting for a while — there’s no such thing as “quiet time” in the tech business any more. Let us help you navigate the tech scene of Central and Eastern Europe with this round-up of the most significant news and deals that happened here in August.
+If you think that something is missing, or would like to draw our attention to an important story, feel free to ping the author in Twitter (@shlema) or by e-mail at shlema@gmail.com.
+Startups, funds and accelerators
+
+VKontakte co-founder Vyacheslav Mirilashvili has co-founded Yesodot Private Equity, a new venture fund in Israel.
+Inventure has announced an increased €68 million fund to assist Nordic & Baltic startups in soft landing to the US.
+Latvian data visualization startup Infogr.am has added Mikko Jarvenpaa to its team as COO.
+Startup Wise Guys BusinessTech accelerator has introduced its autumn 2014 batch.
+Serbian startup Semaphore has become free for private use, offering developers a “GitHub of software testing.”
+Ukrainian startup Ritot has been accused of fraud after raising $1 million on Indiegogo.
+Airbnb has partnered with Russian startup Ostrovok to enable the latter’s customers to book Airbnb properties through its website.
+Croatian startup Codeanywhere, which is developing tools for programming in the cloud, has joined the fall 2014 Boston batch of the TechStars accelerator.
+Ukraine’s venture capitalists have launched their own association that aims to be “the front door for foreign investors.”
+Polish startup has unveiled the Cloud Beacon, which comes with a crucial new feature: Wi-Fi connectivity.
+Central and Eastern Europe has got a new venture fund in Fiedler Capital.
+Ukrainian-founded startup Attendify has unveiled Hub, a completely redesigned platform for creating and managing event apps.
+Wired has highlighted 10 Russian startups, but presumably got it wrong with positive business predictions.
+Estonia-based collaboration tool Fleep has come out of beta and added a premium option.
+
+Funding deals and M&A
+
+Lithuanian marketplace for beauty services Tokia.lt has raised close to $300,000 in funding from Practica Capital.
+Russian-backed venture fund TMT Investments has injected $250,000 in US fashion rental platform Le Tote.
+Russian event-management service TimePad has received a second round of investment from the fund Target Ventures, bringing the total funding to $1 million.
+Hungarian Bitcoin startup Bits of Proof has been acquired by CoinTerra.
+Freshly launched Russian venture fund Run Capital has invested  $600,000 in tour operator service WeAtlas.
+Moscow Seed Fund has co-invested $83,000 in advertising system Likeberi.
+Russian startups PromoAtlas and Fotokeeper have raised $496,000 in funding via crowd investment platform StartTrack.
+Romanian-founded startup TwoTap has landed a $2.7 funding round.
+Ukrainian mobile payment startup Advice Wallet has closed a funding round at 1.5 million dollars with Russian Life.SREDA.
+Russian holding company KupiVIP has acquired Price3d.ru, a product catalogue platform that works with online stores in the clothing, shoes and accessories sector.
+Russian venture fund Life.SREDA has reportedly participated in a $13 million funding round for mobile payment operator SumUp.
+Ukrainian startup DataProm has attracted $500,000 in funding from investment fund Fison.
+Ukrainian startup myTips has received $75,000 in funding and a place at Californian incubator 500 Startups.
+Controversial Russian startup HealBe has received $2.6 million in funding from a group of unnamed private investors.
+Riga-based social Q&A platform Ask.fm has been acquired by Ask.com.
+Dutch Bitcoin platform Blocktrail has received $670k investment from BlockCorp, founded by Boaz Bechar and former Vkontakte shareholder Lev Leviev.
+Russian audio streaming startup Zvooq has received round A investment totaling $20 million.
+Mail.ru Group has disclosed the sum it paid in April for 12% of social network VKontakte: the stake cost the group around $345 million.
+Russian pension funds will invest $1 billion in venture funds and innovative companies.
+Ukrainian startup YoCard has received $300,000 in funding for expansion to Russian market.
+Ukrainian-Kazakh startup Robo has landed $200,000 in funding from US venture fund SOS Ventures and moved to the Chinese hardware startup accelerator HAXLR8R.
+Russian Action Media Group has invested $200,000 in SaaS service Arnica.pro.
+Video streaming service Vidmind has raised $30 million from Russian retail tycoon.
+Warsaw-based Beacons service provider Ifinity had been valued at $12 million after a seed funding round.
+Hungarian navigation software developer NNG, which makes the iGO application, has bought US peer nFuzion.
+Restaurant search and discovery service Zomato has acquired Czech Republic’s Lunchtime.cz and Slovakia’s Obedovat.sk.
+
+In other news
+
+Yandex has launched a new speech recognition cloud service called SpeechKit Cloud.
+The total investments in Russian Internet projects totaled $231.7 million in the first half of 2014, up 77% compared with the same period last year.
+Russian smartphone vendor YotaDevices has opened an office in Canada.
+Yandex.Money has launched Merchium, a new service for creating online stores.
+Ukrainian tech sector will showcase its emerging talent in San Francisco at U.T.Gem conference.
+Online catalogue platform Tiendeo has arrived in Russia.
+Profits from private investments in Russia and Central Europe have been higher than anywhere else, based on the amount of profit compared to the amount of investment.
+Asian bank card giants UnionPay and JCB have expanded initiatives to conquer the Russian market.
+Russia’s Quadro Capital Partners and Forex Club have announced plans to invest $200 million in international online trading.
+Russian Internet giant Mail.Ru has cut sales growth forecast as advertising revenue took a nosedive.
+Russian search giant Yandex has released Q2 earnings.
+Yandex has launched a new commercial version of its Translation API, allowing users to translate larger volumes of text.
+The European Bank of Reconstruction and Development has pulled out of a planned joint investment fund with Russian state-owned technology investment company Rusnano.
+Twitter has expanded its advertising network in Europe with 12 countries, mainly in the CEE region.
+Yandex has announced significant changes in its leadership in Russia and globally.
+Russian hacking group has reportedly collected 1.2 billion usernames and passwords.
+Ukrainian parliament is considering a law that would allow authorities to block websites, along with other media.
+Unknown hackers had hijacked the Twitter account of Russian Prime Minister Dmitry Medvedev.
+Mail.Ru’s myMail has become the most popular alternative email app for Android and iOS, according to Distimo.
+Two major US high-tech firms have stopped supplying Russian partners.
+Russian government has forced popular bloggers to register with the country’s communications regulator Roskomnadzor.
+Investment AB Kinnevik has published a trading statement of Russia’s most popular classifieds website Avito.ru for the second quarter 2014.
+FBI is investigating Russian links to recent JPMorgan hacking.
+
+Good reads from around the Web
+
+Slovenia will boost its startup ecosystem
+Chinese giants make their move into Russia’s booming cross-border e-commerce scene
+Why Slovakian paywall technology startup Piano Media is making news
+Putin Pops Russia’s Tech Bubble
+How a community is born: The rise of Polish startups
+Meet DocPlanner, the Polish startup that aims to take the pain out of booking medical appointments
+How a Polish student’s website became an Isis propaganda tool
+How to sneak a Tesla into Russia for just 6.5 million rubles
+
+Image credit: Shutterstock
+							
+							

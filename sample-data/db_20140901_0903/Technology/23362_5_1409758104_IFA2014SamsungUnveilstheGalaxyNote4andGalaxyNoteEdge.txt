@@ -1,0 +1,445 @@
+IFA 2014: Samsung Unveils the Galaxy Note 4 and Galaxy Note Edge IFA 2014: Samsung Unveils the Galaxy Note 4 and Galaxy Note Edge Samsung&#8217;s Unpacked event is underway, and it just keeps getting juicier. As expected, Sammy has just announced the Galaxy Note 4, the next iteration of the company&#8217;s hit Note series of Android devices. The Note 4 is impressive for sure, but Samsung upped the ante by announcing a Note variant called the Note Edge which expends the device&#8217;s screen all the way around the side of the device. If you&#8217;ve been following Samsung rumors, you&#8217;ve seen the concept pictures which resemble the Note Edge.
+Here are some shots and specs of the Samsung Edge and Samsung Galaxy Note 4:
+
+
+
+
+
+Samsung Galaxy Note Edge Product Specifications
+
+
+
+
+
+Network
+
+
+2.5G (GSM/ GPRS/ EDGE): 850 / 900 / 1800 / 1900 MHz
+3G (HSPA? 42Mbps): 850 / 900 / 1900 / 2100 MHz
+4G (LTE Cat 4 150/50Mbps) or 4G(LTE Cat 6 300/50Mbps)
+*May differ by country and carrier.
+
+
+
+
+AP
+
+
+2.7 GHz Quad-Core Processor
+
+
+
+
+Display
+
+
+5.6 inch (141.9mm) Quad HD+ Super AMOLED (2560 x 1440 + 160)
+
+
+
+
+OS
+
+
+Android 4.4 (KitKat)
+
+
+
+
+Camera
+
+
+Rear Facing: 16 Mega pixel Auto Focus camera with Smart OIS
+Front Facing: 3.7 Mega pixel camera with f1.9
+
+
+
+
+Rear Facing Camera : HDR (Rich tone), Selective Focus, Rear-cam Selfie, Beauty face, Virtual Tour Shot, Shot&amp;More, Dual Camera
+Front Facing Camera : Selfie, Wide Selfie
+
+
+
+
+Video
+
+
+Codec: H.264, MPEG-4, H.263, VC-1, WMV7, WMV8, Sorenson Spark, MP43, VP8, Recording &amp; Playback: up to UHD
+
+
+
+
+Audio
+
+
+Codec: MP3, AAC/AAC?/eAAC?, WMA, AMR-NB/WB, Vorbis, FLAC(?)
+(?) Ultra High Quality Audio (~192KHz, 24 bit) support
+
+
+
+
+S Pen Optimized Features
+
+
+Air Command: Action Memo, Screen Write, Image Clip, Smart Select,
+S Note, Snap Note, Direct Pen Input
+
+
+
+
+Additional Features
+
+
+Multi Window
+
+
+
+
+Ultra Power Saving Mode
+
+
+
+
+Voice Recorder (Normal Mode, Interview Mode, Meeting Mode, Voice Memo)
+
+
+
+
+Download Booster
+
+
+
+
+S Health 3.5
+
+
+
+
+Dynamic Lock Screen
+
+
+
+
+Briefing
+
+
+
+
+Edge screen UX : Revolving Interaction, Immersive apps(Camera, Video, S Note),
+Ticker board, Express me, Quick Tools, Night Clock, etc
+
+
+
+
+Google Mobile Services
+
+
+Chrome, Drive, Photos, Gmail, Google, Google+, Google Settings, Hangouts, Maps, Play Books, Play Games, Play Newsstand, Play Movie &amp; TV, Play Music, Play Store, Voice Search, YouTube
+
+
+
+
+Connectivity
+
+
+WiFi 802.11 a/b/g/n/ac (HT80) MIMO PCIe
+GPS / GLONASS / Beidou
+NFC, Bluetooth® v 4.1 (BLE, ANT+)
+IR LED (Remote Control), USB2.0, MHL 3.0
+
+
+
+
+Sensor
+
+
+Gesture, Accelerometer, Geo-magnetic, Gyroscope, RGB, IR-LED
+Proximity, Barometer, Hall Sensor, Finger Scanner, UV, Heart Rate Monitoring, SpO2 (Dependent on market)
+
+
+
+
+Memory
+
+
+32/ 64 GB Internal memory ? microSD slot (up to 64GB)
+3GB RAM
+
+
+
+
+Dimension
+
+
+151.3 x 82.4 x 8.3mm, 174g
+
+
+
+
+Battery
+
+
+Standard battery, Li-ion 3,000 mAh, Fast Charging (Adaptive Fast Charging &amp; QC2.0)
+
+
+
+
+
+Samsung Galaxy Note 4 Product Specifications:
+
+
+
+
+Network
+
+
+2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz
+3G (HSPA? 42Mbps): 850 / 900 / 1900 / 2100 MHz
+4G (LTE Cat 4 150/50Mbps) or 4G (LTE Cat 6 300/50Mbps)
+* May differ by country and carrier
+
+
+
+
+AP
+
+
+2.7 GHz Quad-Core Processor
+1.9 GHz Octa-Core (1.9GHz Quad + 1.3GHz Quad-Core) Processor
+*May differ by country and carrier
+
+
+
+
+Display
+
+
+5.7 inch (143.9mm) Quad HD Super AMOLED (2560 x 1440)
+
+
+
+
+OS
+
+
+Android 4.4 (KitKat)
+
+
+
+
+Camera
+
+
+Rear Facing: 16 Mega pixel Auto Focus camera with Smart OIS
+Front Facing: 3.7 Mega pixel camera with f1.9
+
+
+
+
+Rear Facing Camera : HDR (Rich tone), Selective Focus, Rear-cam Selfie, Beauty face, Virtual Tour Shot, Shot &amp; More, Dual Camera
+Front Facing Camera: Selfie, Wide Selfie
+
+
+
+
+Video
+
+
+Codec: H.264, MPEG-4, H.263, VC-1, WMV7, WMV8, Sorenson Spark, MP43, VP8
+Recording &amp; Playback: up to UHD
+
+
+
+
+Audio
+
+
+Codec: MP3, AAC/AAC?/eAAC?, WMA, AMR-NB/WB, Vorbis, FLAC(?)
+(?) Ultra High Quality Audio (~192KHz, 24 bit) support
+
+
+
+
+S Pen Optimized Features
+
+
+Air Command (Action Memo, Smart Select, Image Clip, Screen Write)
+S Note, Snap Note, Direct Pen Input
+
+
+
+
+Additional Features
+
+
+Multi Window
+
+
+
+
+Ultra Power Saving Mode
+
+
+
+
+Voice Recorder (Normal Mode, Interview Mode, Meeting Mode, Voice Memo)
+
+
+
+
+Download Booster
+
+
+
+
+S Health 3.5
+
+
+
+
+Dynamic Lock Screen
+
+
+
+
+Briefing
+
+
+
+
+Google Mobile Services
+
+
+Chrome, Drive, Photos, Gmail, Google, Google+, Google Settings, Hangouts, Maps, Play Books, Play Games, Play Newsstand, Play Movie &amp; TV, Play Music, Play Store, Voice Search, YouTube
+
+
+
+
+Connectivity
+
+
+WiFi 802.11 a/b/g/n/ac (HT80) MIMO PCIe
+GPS / GLONASS / Baidu
+NFC, Bluetooth® v 4.1 (BLE,ANT+)
+IR LED (Remote Control), USB2.0, MHL 3.0
+
+
+
+
+Sensor
+
+
+Gesture, Accelerometer, Geo-magnetic, Gyroscope, RGB,IR-LED
+Proximity, Barometer, Hall Sensor, Finger Scanner, UV, Heart Rate Monitoring, SpO2 (Dependent on market)
+
+
+
+
+Memory
+
+
+32 GB Internal memory ? micro SD slot (up to 64GB)
+3GB RAM
+
+
+
+
+Dimension
+
+
+153.5 x 78.6 x 8.5mm, 176g
+
+
+
+
+Battery
+
+
+Standard battery, Li-ion 3,220mAh, Fast Charging (Adaptive Fast Charging &amp; QC2.0)
+
+
+
+
+?
+
+We&#8217;re still waiting on specs and details, we&#8217;ll have those as soon as they come in! Check out Samsung&#8217;s press release below.
+Story developing&#8230;
+
+Samsung Introduces the Latest in its Iconic Note Series &#8211; The Galaxy Note 4, and Showcases Next Generation Display with Galaxy Note Edge
+ 
+Offering a new dimension to Samsung’s unique Note culture, the Galaxy Note 4
+and Note Edge strengthen Samsung’s category leadership with
+the most progressive mobile devices on the market
+ 
+Berlin, Germany – September 3, 2014 – Samsung Electronics Co., Ltd. today announced the expansion of its flagship Galaxy Note series with the new Galaxy Note 4 and Galaxy Note Edge. Blending an evolved S Pen with a superior viewing experience, the Galaxy Note 4 provides users with the most unique and powerful mobile experience on the market.
+&nbsp;
+“The Galaxy Note series signaled extraordinary innovation within the technology industry. Its larger screen size and iconic S Pen technology launched a new standard in smartphone culture,” said JK Shin, CEO and Head of IT &amp; Mobile Communication at Samsung Electronics. “With the introduction of the Galaxy Note series, we brought the age-old culture of the pen and notepad into the digital world. The new Galaxy Note 4 introduces the most refined Note experience to-date by combining all the latest technology that users expect from the Galaxy series.”
+&nbsp;
+Powerful Performance that Matters the Most to You
+The Galaxy Note 4 embraces Samsung’s heritage of an unrivaled Galaxy mobile experience. Its extraordinary 5.7-inch Quad HD (2560&#215;1440) Super AMOLED display reproduces clearer and more vivid images with deep contrast, better viewing angles, and response times as fast as a millionth of a second, providing a tremendous viewing experience.
+&nbsp;
+Due to its large screen, the refined Multi Window feature is able to maximize the user’s experience providing them with the key to easier multi-tasking. Users can choose how they access their applications with full, split or pop-up screens, and easily change the size and positioning of apps on the screen with one intuitive swipe.
+&nbsp;
+The Galaxy Note 4 also sports an advanced camera system that is able to reproduce brighter and clearer images. The device is equipped with a 16 megapixel rear-facing camera featuring a Smart Optical Image Stabilizer that counter-balances camera shake and automatically extends exposure time in dark settings. In addition, a 3.7 megapixel front-facing camera with f1.9 offers a default 90 degree shooting angle and up to 120 degree wide angle so users can take the best group shots with friends.
+&nbsp;
+The Galaxy Note 4‘s wide selection of enhanced essential features enable users to get even more from their mobile device. With the Fast Charging feature and Ultra Power Saving Mode, the Galaxy Note 4 charges faster and ensures that users don’t run out of power when they need it most. The Galaxy Note 4 comes equipped with multiple microphones and an improved speaker phone for better noise cancellation when speaking in loud environments. A built-in Voice Recorder offers eight different directional voice tagging and a selective playback capability that allows users to isolate and listen to specific voices in a group conversation.
+&nbsp;
+The Galaxy Note 4 also offers an improved Fingerprint Scanner, to secure personal data and the world’s first UV sensor in a mobile device.
+&nbsp;
+S Pen and S Note for Everyday Tasks
+Making everyday tasks much faster and easier, the Galaxy Note 4’s S Pen has been specifically evolved to serve as the primary tool that users go to for common, everyday mobile device use. This new S Pen offers a much more authentic pen experience, with a more natural brush effect that perfectly emulates writing on paper with a fountain or calligraphy pen. The S Pen also introduces a more user-friendly Air Command functionality along with other intuitive features such as Action Memo, Screen Write, Image Clip and Smart Select that allows users to create and collect content with ease. A new Smart Select feature enables users to easily piece together content from different origins, and share it with ease.
+&nbsp;
+The Galaxy Note 4 also provides users with a choice of multiple, seamless note-taking methods integrated with Samsung’s S Note application that allows everyday tasks to get done faster and more easily. In addition to typing and writing, the innovative Snap Note feature allows users to take a picture of their notes on a paper or a classroom board, and then quickly and easily convert to an S Note. They can also further unleash their creativity by jotting down their thoughts quickly with Voice Memo.
+&nbsp;
+Premium Yet Functional Design
+The Galaxy Note 4 introduces a new sleek and stylish Galaxy design language. The device features a premium metal frame with fluid curvature that seamlessly blends with the device display. The Galaxy Note 4’s 2.5D glass screen, inherited from the Galaxy S3, offers extra protection while perfectly complementing the device’s rich viewing experience. A soft-textured back cover provides incredible comfort that makes it easy to control with one hand. The device not only looks beautiful, but offers a superior grip and enhanced durability.
+ 
+Introducing Galaxy Note Edge
+Samsung’s relentless pursuit of the best in innovation through the optimization of mobile technology and the user experience has led to the debut of the innovative and unique Galaxy Note Edge. Taking the Galaxy Note experience to the next level, the Note Edge provides users with a new way to access information, engage with their mobile device, and express their personality and tastes. The Galaxy Note Edge’s unique curved Edge screen provides quick access to frequently used apps, alerts and device functionality – even when the cover is closed – all with the swipe of a thumb. Users can also receive notifications directly on the Edge Screen while watching videos without disturbing their viewing.
+&nbsp;
+The Galaxy Note 4 will be available in &#8220;Charcoal Black,&#8221; &#8220;Frost White,&#8221; &#8220;Bronze Gold,” and “Blossom Pink” in global markets starting in October and the Galaxy Note Edge will be available in “Charcoal Black” and “Frost White” in select markets through Samsung’s retail channels, e-commerce and carriers later this year.
+&nbsp;
+Full details and product images are available at www.samsungmobilepress.com.
+&nbsp;
+Samsung Galaxy Note 4 Product Specifications:
+ 
+
+
+
+Network
+2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz3G (HSPA? 42Mbps): 850 / 900 / 1900 / 2100 MHz
+
+
+
+4G (LTE Cat 4 150/50Mbps) or 4G (LTE Cat 6 300/50Mbps)
+* May differ by country and carrierAP2.7 GHz Quad-Core Processor1.9 GHz Octa-Core (1.9GHz Quad + 1.3GHz Quad-Core) Processor
+*May differ by country and carrierDisplay5.7 inch (143.9mm)  Quad HD Super AMOLED (2560 x 1440)OSAndroid 4.4 (KitKat)CameraRear Facing: 16 Mega pixel Auto Focus camera with Smart OISFront Facing: 3.7 Mega pixel camera with  f1.9Rear Facing Camera :  HDR (Rich tone), Selective Focus, Rear-cam Selfie, Beauty face, Virtual Tour Shot, Shot &amp; More, Dual CameraFront Facing Camera: Selfie, Wide SelfieVideoCodec: H.264, MPEG-4, H.263, VC-1, WMV7, WMV8, Sorenson Spark, MP43, VP8Recording &amp; Playback: up to UHDAudioCodec: MP3, AAC/AAC?/eAAC?, WMA, AMR-NB/WB, Vorbis, FLAC(?)(?) Ultra High Quality Audio (~192KHz, 24 bit) supportS Pen Optimized FeaturesAir Command (Action Memo, Smart Select, Image Clip, Screen Write)S Note, Snap Note, Direct Pen InputAdditional FeaturesMulti WindowUltra Power Saving ModeVoice Recorder (Normal Mode, Interview Mode, Meeting Mode, Voice Memo)Download BoosterS Health 3.5Dynamic Lock ScreenBriefingGoogle Mobile ServicesChrome, Drive, Photos, Gmail, Google, Google+, Google Settings, Hangouts, Maps, Play Books, Play Games, Play Newsstand, Play Movie &amp; TV, Play Music, Play Store, Voice Search, YouTubeConnectivityWiFi 802.11 a/b/g/n/ac (HT80) MIMO PCIeGPS / GLONASS / Baidu
+NFC,  Bluetooth® v 4.1 (BLE,ANT+)
+IR LED (Remote Control), USB2.0, MHL 3.0SensorGesture, Accelerometer, Geo-magnetic, Gyroscope, RGB,IR-LEDProximity, Barometer,  Hall Sensor, Finger Scanner, UV, Heart Rate Monitoring, SpO2 (Dependent on market)Memory32 GB Internal memory ? micro SD slot (up to 64GB)3GB RAMDimension153.5 x 78.6 x 8.5mm, 176gBatteryStandard battery, Li-ion 3,220mAh, Fast Charging (Adaptive Fast Charging &amp; QC2.0)
+* The availability of each service may differ by country.
+* All functionality, features, specifications, and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice or obligation.
+&nbsp;
+Samsung Galaxy Note Edge Product Specifications
+ 
+
+
+
+Network
+2.5G (GSM/ GPRS/ EDGE): 850 / 900 / 1800 / 1900 MHz3G (HSPA? 42Mbps): 850 / 900 / 1900 / 2100 MHz
+
+
+
+4G (LTE Cat 4 150/50Mbps) or 4G(LTE Cat 6 300/50Mbps)
+*May differ by country and carrier.AP2.7 GHz Quad-Core ProcessorDisplay5.6 inch (141.9mm)  Quad HD+ Super AMOLED (2560  x 1440 + 160)OSAndroid 4.4 (KitKat)CameraRear Facing: 16 Mega pixel Auto Focus camera with Smart OISFront Facing: 3.7 Mega pixel camera with  f1.9Rear Facing Camera :  HDR (Rich tone), Selective Focus, Rear-cam Selfie, Beauty face, Virtual Tour Shot, Shot&amp;More, Dual CameraFront Facing Camera : Selfie, Wide SelfieVideoCodec: H.264, MPEG-4, H.263, VC-1, WMV7, WMV8, Sorenson Spark, MP43, VP8, Recording &amp; Playback: up to UHDAudioCodec: MP3, AAC/AAC?/eAAC?, WMA, AMR-NB/WB, Vorbis, FLAC(?)(?) Ultra High Quality Audio (~192KHz, 24 bit) supportS Pen Optimized FeaturesAir Command: Action Memo, Screen Write, Image Clip, Smart Select,S Note, Snap Note, Direct Pen InputAdditional FeaturesMulti WindowUltra Power Saving ModeVoice Recorder (Normal Mode, Interview Mode, Meeting Mode, Voice Memo)Download BoosterS Health 3.5Dynamic Lock ScreenBriefingEdge screen UX : Revolving Interaction, Immersive apps(Camera, Video, S Note),Ticker board, Express me, Quick Tools, Night Clock, etcGoogle Mobile ServicesChrome, Drive, Photos, Gmail, Google, Google+, Google Settings, Hangouts, Maps, Play Books, Play Games, Play Newsstand, Play Movie &amp; TV, Play Music, Play Store, Voice Search, YouTubeConnectivityWiFi 802.11 a/b/g/n/ac (HT80) MIMO PCIeGPS / GLONASS / Beidou
+NFC,  Bluetooth® v 4.1 (BLE, ANT+)
+IR LED (Remote Control), USB2.0, MHL 3.0SensorGesture, Accelerometer, Geo-magnetic, Gyroscope, RGB, IR-LEDProximity, Barometer, Hall Sensor, Finger Scanner, UV, Heart Rate Monitoring, SpO2 (Dependent on market)Memory32/ 64 GB Internal memory ? microSD slot (up to 64GB)3GB RAMDimension151.3 x 82.4 x 8.3mm, 174gBatteryStandard battery, Li-ion 3,000 mAh, Fast Charging (Adaptive Fast Charging &amp; QC2.0)
+* The availability of service may differ by country.
+* All functionality, features, specifications, and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice or obligation.
+&nbsp;
+About Samsung Electronics Co., Ltd.
+Samsung Electronics Co., Ltd. is a global leader in technology, opening new possibilities for people everywhere. Through relentless innovation and discovery, we are transforming the worlds of TVs, smartphones, tablets, PCs, cameras, home appliances, printers, LTE systems, medical devices, semiconductors and LED solutions. We employ 286,000 people across 80 countries with annual sales of US$216.7 billion. To discover more, please visit www.samsung.com.
+
+Share
+Tweet
++ 1
+Mail

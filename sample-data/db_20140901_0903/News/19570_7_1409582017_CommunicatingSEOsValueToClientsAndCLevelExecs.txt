@@ -1,0 +1,53 @@
+Communicating SEO’s Value To Clients And C-Level Execs Communicating SEO’s Value To Clients And C-Level Execs 
+								
+							
+							
+							
+As an SEO professional, you understand the value of your work. You also understand that not all of your clients or prospects (or C-level execs if you&#8217;re working in house) fully appreciate what is required to really make SEO work.
+This can be due in part to the fact that proving return on investment for dollars spent on SEO can be challenging. That does not mean, however, that it is impossible.
+It is important to track ROI on SEO efforts. You need to do this to justify your worth to your clients and your clients need it to justify continued expenditures to themselves or their management.
+Sadly, SEO is one of the first things that many businesses let go in favor of activities that more readily present themselves with hard ROI statistics. How do you combat this?
+Let The Numbers Do The Talking
+When proving the value of SEO, utilizing hard data is a must. The following steps can streamline this process:
+
+Measure leads
+Measure revenue
+Measure revenue per leads
+
+You can calculate revenue per leads by simply dividing the total amount of revenue by the total number of leads.
+A Word (Or Two) About Leads
+Perhaps the first thing that must be said here is that page visits are not necessarily leads. They can be, but they do not have to be. Tracking page visits can provide a snapshot of overall activity, but the data most important to track here when mapping it back to revenue are events or goals.
+Events and goals in Google Analytics can be confusing to many companies. Turn this confusion into an opportunity for you by educating clients about them — what they are and why they are important to businesses.
+Start by clearly explaining what events and goals are, as follows:
+
+Events: An event is a particular action that a user engages in while on a website. Examples include clicking on links or downloading information or assets. Each event indicates some form of engagement by a visitor, indicating that particular prospect is more qualified than one who simply visits a page. Hence, the importance of tracking events versus just page views.
+Goals: A goal, as the name suggests, is something that you want to happen. In terms of web visits, there are four important goals a business may want to track. The first is visits to a particular URL, such as a confirmation page. The second is the length of time that a person spends on a site. The third is the number of pages on a site viewed in a single visit. The fourth is actually an event as noted above.
+
+Tracking events and goals gives you and your clients far more insight into their prospect and customer behavior that simply tracking the number of people who came to their sites ever could. These metrics can also tie directly into revenue stream data.
+Set Yourself &#8211; And Your Clients &#8211; Up For Success
+Perhaps one of the most important elements of accurately measuring the ROI of your SEO work is to set the stage from the get-go. Ensuring that you and your clients are on the same page can go a long way toward avoiding some unpleasant (and unnecessary) experiences.
+Once again, you are presented with an opportunity to shine by showcasing your expertise and sharing it with your clients. The more you teach your clients, the more you empower them and the more you increase their loyalty to you.
+The three most important points to establish with new clients are:
+1. SEO Is A Long-Term Proposition
+Instant gratification is great but that is not at all what SEO is about. This may not be what clients want to hear but it is exactly what you need to tell them. The upside to this is that SEO can return benefits for the long haul, boosting its value tremendously.
+Even when search result positions improve, revenue increases may not yet be apparent for some time. It is vital that clients understand this and be willing to wait more than just a few months to get what they really want.
+2. How To Measure ROI
+It is not just the revenue per lead or even the number of events or goals that indicate success with an SEO program.
+Because SEO can take some time to realize its full potential, there are many things along the way that should be measured to track progress such as the removal of Google penalties. Additionally, some metrics are simply not directly trackable to revenue, like a click to driving directions.
+3. How To Set Up Analytics
+If your clients’ analytics are not set up to track conversions properly, the analytics themselves may paint an incorrect picture. Work closely with your clients to make sure all analytics are setup to capture and show what you need to know.
+Establishing these concepts when you first begin working with a client goes a long way toward a healthy — and profitable— relationship between you and that client.
+SEO Is Not About Getting Leads
+SEO is about getting the right leads. It is also about accurately tracking those leads so that you can make adjustments to your activities as need be but also so that you can accurately help your clients calculate their ROI for SEO.
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

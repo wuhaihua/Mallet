@@ -1,0 +1,22 @@
+How To Avoid Nude Photo Syndrome How To Avoid Nude Photo Syndrome OK, I’ve just done a quick poll around the office and overwhelmingly the feeling is that I should stay fully clothed in any photo session. And people don’t much want those photos either, which is fine by me, if a little hurtful (I work from home so this is basically my wife and daughter’s opinion). 
+Nonetheless, some celebrities have had nude pictures of themselves stolen. There’s a really good analysis of the security issues that went wrong from Graham Cluley here, but it’s worth looking at some of the managerial lessons to be learned for the entrepreneurs among you and those responsible for their IT network.
+	
+								 
+Don’t… 
+OK, as Cluley says, lesson number one is don’t take nude pictures of yourself, lesson number two is don’t put them online.
+								
+										 
+Actually I’d add lesson number three, assume that everything you put online is going to be accessed by someone you didn’t intend, sometime. You want to put something in the cloud completely securely right now? Great, but you know what? It’s 2014. In 2016 security standards will be different, and in 2018 for all we know today’s security standards will look like something a kindergarten child would make with crayons. 
+So, nudity aside, don’t put anything out there that you don’t want to see broadcast, shared and generally on social media. 
+Also don’t assume hitting the ‘delete’ button means you’ve erased something permanently. Remember audio cassettes? They had a little tab you could push out to secure your recording and if you wanted to record over them, you put a bit of tape over the hole where the tab used to be. The tape didn’t erase the cassette, though. All the information was still on it until you actively recorded over it, and it’s the same for computers. 
+Do…
+										
+										 
+Revise your security policies often. Keep them up to date, keep passwords changing and don’t make them easy to guess. 
+Keep your information backed up and moving. If Apple or someone else has a security breach, be ready to move your business data elsewhere – or better still, engage a provider who specialises in data storage and protection rather than a phone or search engine specialist doing it as a sideline. I know often a startup business has no choice but to opt for the cheapest provider but longer term this is something from which you should be moving away. 
+Do keep staff briefed on any security risks and what you’re doing about it. If they understand the issues they’ll help. If they don’t, they probably won’t. 
+And do stay dressed in all your photos. It’s by far the best way to avoid anything else leaking online.  
+ 
+ 
+  
+  Compact audio cassette Fran&ccedil;ais : Une Cassette audio (Photo credit: Wikipedia)

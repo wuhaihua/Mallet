@@ -1,0 +1,50 @@
+Lessons From the Celeb Photo Hack Lessons From the Celeb Photo Hack 
+The hackers who perpetrated the privacy breach on stars including Jennifer Lawrence and Kate Upton likely had a lot of time on their hands to spend targeting the digital lives of dozens of A-listers, experts said.
+
+                                        
+                                        
+                                    
+                                            
+                                            Getty Images
+                                        
+                            
+                        
+                        
+Robert Siciliano, a McAfee online security expert, told ABC News the hackers could have spent "minutes, hours, months, days or years" to get inside the celebrity accounts.
+
+"That is what these people do. That is their life," Siciliano said. "They have nothing else to do other than try and get access to a celebrity’s mobile phone, because they can."
+
+"The icing on the cake is that she has nude pictures," he said. "That’s the holy grail."
+
+How Hackers Targeted Celebrities' Apple Accounts
+
+Hackers Post Alleged Naked Pics of Jennifer Lawrence and More
+
+Does Your Digital Footprint Include Nude Photos Waiting to Be Hacked?
+
+After a 40-hour investigation, Apple discovered the hackers used a very targeted attack on user names, passwords and security questions, according to a statement released today by the company.
+
+The investigation found that none of the leaked photos were the result of any breach of Apple's systems, including iCloud and Find My iPhone, the company noted in its statement.
+
+The celebrity accounts were compromised by a style of attack Apple said has become "all too common" on the Internet -- and something Siciliano said just takes a little time and persistence on the part of the hackers to crack their targets' security questions and passwords.
+
+Many of the hackers will begin penetrating their target by zeroing in on the people around them, Siciliano said.
+
+"They're sending emails off to you and your mom and your brother and aunt and uncle -- all to get access to your dad," he said. "They will target everyone around that person until they get access."
+
+Sometimes that first step means finding out their target's email address, Siciliano said.
+
+From there the hackers can use a phishing tactic to try and trick their target into clicking a link that might look like their iCloud account. If the target falls victim to the trick, all of their information, including those private photos, are now in the hacker's possession.
+
+It could also be as simple as re-using passwords across multiple sites.
+
+"The largest and most damaging attacks come from hackers who collect passwords and then exploit the fact that we all re-use our passwords on multiple websites," David Cowan, a cyber security expert at Bessemer Venture Partners and the co-founder of Verisign, told ABC News.
+
+"Cyber attackers are confidently launching an attack against everybody. Think about it as more like fishing with a net than with a fishing pole," he said. "You’re more likely to get caught in the net than get tricked by the bait."
+
+Apple recommends that users protect themselves form this type of attack by using a strong password and two-step verification -- which is offered by a variety of top cloud hosting services.
+
+When two-step verification is set up, a user trying to log onto their account from a new device must verify their identity from a second device before they are granted access.
+
+"It really makes sense to look globally at what are the things everyone can do," Cowan said. "There are so many vulnerabilities out there and so many ways for people to compromise our security."
+

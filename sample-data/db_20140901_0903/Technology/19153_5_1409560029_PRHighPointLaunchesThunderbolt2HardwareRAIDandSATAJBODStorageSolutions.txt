@@ -1,0 +1,22 @@
+(PR) HighPoint Launches Thunderbolt 2 Hardware RAID and SATA JBOD Storage Solutions (PR) HighPoint Launches Thunderbolt 2 Hardware RAID and SATA JBOD Storage Solutions HighPoint Technologies proudly unveils our latest Thunderbolt 2 powered product line - RocketStor 6300 Thunderbolt 2 Series Diskless Storage Solutions. Available for hardware RAID or JBOD configurations of up to 8 SAS/SATA drives, RocketStor 6300 Solutions are ready for all levels of professional storage applications. Storage configurations hosted by RocketStor 6300 Solutions can be easily tailored to accommodate a wide range of professional media applications, from 2K and 4K video editing and post production workstations, to HD media streaming platforms, and media libraries used for archiving digital assets. Each RocketStor 6300 solution pairs our innovative Thunderbolt 2 Storage Adapters with a robust, multi-bay Storage Tower, and a complete set-up kit. Installation could not be simpler: install the hard disks of your choice and your Storage is ready for use.
+
+The highly versatile, modular form factor streamlines storage upgrade and expansion projects. Unlike preconfigured storage solutions, customers are not restricted to a specific set of drives, nor saddled with capacity or performance limitations, and costly upgrade paths. The RAID controllers and Thunderbolt 2 connections are kept separate from the storage devices, and are housed within the compact adapter module. The storage tower's removable, hot-swappable bays support any industry standard 3.5" SAS and SATA hard drive. Customers can avoid the expense of replacing entire Thunderbolt storage appliances and upgrade at their own pace. Each RocketStor 6300 solution can support daisy chaining, one after another, 7 total devices including Thunderbolt Displays, I/O Adapters, PCIe expansion stations and drive docks. 
+RocketStor 6328AS - Hardware RAID Diskless Storage Solution
+The RocketStor 6328AS is a hardware RAID powered 8-Bay diskless RAID solution designed for high-performance Thunderbolt 2 host platforms. The built-in hardware RAID controller supports RAID 0, 1, 5, 6, 10, 50 & JBOD configurations and delivers the uncompromised performance and superior data protection demanded by professional 4K media applications. The RocketStor 6328AS includes a streamlined web-based user interface designed to simplify the storage configuration process. Intuitive and Preemptive RAID Storage measures add additional layers of data security to redundant RAID 5 and 6 configurations. Advanced management features allow customers to configure Email notification, and manage storage remotely via a local network connection.  
+
+The RocketStor 6328AS kit includes a Thunderbolt 2 Hardware RAID 6Gb/s SAS/SATA Adapter, an 8-Bay Tower Enclosure with removable 3.5" SAS/SATA drive trays, 2 external Mini-SAS cables, a 1 meter Thunderbolt cable, external power adapter and quick installation guide.
+
+North American MSRP: USD $1,299.00
+
+RocketStor 6324LS / 6328LS , SATA JBOD Diskless Storage Solutions
+The RocketStor 6328LS and 6324LS Diskless 6Gb/s SATA JBOD storage solutions are ideal for customers looking for cost-effective, high-capacity JBOD storage for their Thunderbolt 2 platforms, and were designed to host mid-scale backup applications, digital libraries and archives for digital assets. RocketStor 6300LS solutions feature separate Thunderbolt 2 adapter and storage tower enclosure modules for quick, easy setup and seamless upgrades.
+RocketStor 6328LS 
+
+The RocketStor 6328LS Thunderbolt 2 8-Bay SATA JBOD Storage solution includes a Thunderbolt 2 SATA Adapter, a Tower Enclosure with removable 3.5" SAT drive trays, 2 external Mini-SAS cables, a 1 meter Thunderbolt cable, external power adapter and quick installation guide.
+
+North American MSRP: USD $999.00
+
+RocketStor 6324LS
+The RocketStor 6324LS Thunderbolt 2 4-Bay SATA JBOD Storage solution includes a Thunderbolt 2 SATA Adapter, a Tower Enclosure with removable 3.5" SAT drive trays, 1 external Mini-SAS cable, a 1 meter Thunderbolt cable, external power adapter and quick installation guide.
+
+North American MSRP: USD $649.00

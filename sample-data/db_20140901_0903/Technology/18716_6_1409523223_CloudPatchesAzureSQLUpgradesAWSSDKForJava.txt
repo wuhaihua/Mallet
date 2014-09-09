@@ -1,0 +1,10 @@
+Cloud Patches: Azure SQL Upgrades, AWS SDK For Java Cloud Patches: Azure SQL Upgrades, AWS SDK For Java 
+Last week in cloud computing: Azure saw significant enhancements to its SQL database offerings, while Amazon took a new approach to Java development.
+Cloud picture from Shutterstock
+
+Microsoft has tweaked the service tiers for Azure SQL databases, with some reduced prices and an enhanced service-level agreement with 99.99 per cent promised uptime. Costs have been cut on Premium and Standard tiers, and there&#8217;s a new S0 tier for light users. The new options are available from this month; pricing will change in November. Azure SQL has also added auditing features.
+Azure Automation now supports using PowerShell and Active Directory for organisation identity credential-based authentication,Read more here.
+The AWS SDK (software development kit) for Java has been updated with a new &#8220;resource-oriented&#8221; set of APIs which work better with object-oriented approaches. In preview mode, it works with EC2, IAM and Glacier.
+As we noted during the week, Amazon Zocalo is now generally available.
+
+Cloud Patches rounds up new features and services added to major cloud computing platforms each week..

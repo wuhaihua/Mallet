@@ -1,0 +1,34 @@
+The Celeb Photo Leak: Is Using ICloud Safe? The Celeb Photo Leak: Is Using ICloud Safe? 
+
+        
+
+      
+
+      Over the weekend, dozens of intimate and private photos belonging to famous women were published to the Internet, awakening a dormant kraken of horny males all flocking to their computers in chorus. Although it's unclear how the collection was obtained, the flood of images on 4chan--and, not much later, on Reddit and Twitter--sparked a smorgasbord of misogyny and victim-shaming, and called into question the security of the cloud.
+
+On Reddit, the event was dubbed "The Fappening"--the term "fap" is Internet shorthand for masturbation. But how were the photos obtained? The details are sordid and unclear, although more information will likely trickle out over the next few days. 
+
+
+One early hypothesis concerned the use of a "brute force" script, which theoretically could have been used to break into a victim's iPhone through a flaw in "Find My iPhone." The theory went that a security vulnerability may have allowed hackers to automate the guessing of a user's password over and over again without raising any red flags in Apple's systems. According to GitHub, as of Monday, Apple patched this flawed alarm system--and significantly, in a statement, Apple flat-out denied that the breach concerned iCloud or Find My iPhone.
+
+"After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet," Apple wrote.
+
+If we take the company's statement at face value, it is likely that the images were slowly amassed by multiple perpetrators over a period of many months (or possibly years). Arguably, this is a less scary alternative to a single, massive hole in Apple's security. And this scenario speaks to the sophistication of other intrusive measures, like hackers targeting user passwords (working with someone's leaked LinkedIn password as a starting point for password guessing, for example, makes brute forcing your way into an account dramatically easier); using the emails and phone numbers taken from the address books of celebrities to re-target other celebrities; or utilizing sophisticated social engineering attacks to trick service representatives and gain access to someone else's iCloud account, like when hackers were able to break into Wired writer Mat Honan's iPhone in 2012.
+
+How safe is iCloud?
+So: The cloud. Is it safe? Are we putting too much faith in a little-understood automated system that beams our messages and photos to an encrypted server... somewhere? As many other experts have already noted, the single best thing a user can do to protect their private information is to activate two-factor authentication. In addition to a password, users are asked to confirm their true identities via a PIN code sent by text message. The problem--and it is a problem--is that only a minority of the population does this.
+
+This morning I attempted to activate Apple's two-factor authentication. I am a tech reporter, yet it was difficult to do. Apple does not make activating its most potent security safeguard easy: I had to Google how to do it, and had to click through several different pages to change my security preferences in my Apple ID settings. Although two-step verification has been available since early last year, the feature isn't widely advertised--it's unclear why it isn't. Enabling this feature is a hassle that puts the onus on customers to be vigilant and proactive about their data. This approach--and Apple is hardly alone here--is wrong.
+
+"As we put more important things online and in the cloud, one of the critical aspects of this is security must be easy to use," notes Patrick Thomas, security researcher at Neohapsis. "One of the important takeaways is that these are [famous] people not doing things any worse than average folks out there… We are all in the same boat. We all use iCloud! We all use these kinds of services! As a security person, I wouldn't want us to say here's a special thing that you need to do to send private photos to someone. It needs to be that the tools people use make it so that people can use those easily and securely."
+
+He adds, "You shouldn't have to resort to complex tools in order to do something as simple as send a private email or photo." Two-factor authentication, he argues, should be the default.
+
+Is it even possible to send private photos?
+Here's the thing: Everything you send should automatically be private. We shouldn't have to think about it. Most people don't. When I pressed Thomas on the best way to send private information, he noted the use of PGP encryption (a method favored by whistleblowers) is probably your safest bet, but conceded that it is clumsy and difficult to set up; it's why so few people actually use it. No one wants to think about PGP when they are sending a bathroom mirror selfie to their significant other.
+
+In fact, Thomas, game as he was to my question, struggled to come up with a viable and widely available way to send private photographs to the people closet to you. "Snapchat is out there and is purported to provide security guarantees," he said. "But it absolutely did not." (Snapchat was hacked earlier this year.)
+
+Right now, the safest way to send a salacious photo is to literally never take one. And that sucks. It's not fair. The fact that there are no easy answers speaks volumes about the vagueness and complexity of the way our devices work, and why it should be the responsibilities of Apples, Googles, and Dropboxes to seamlessly provide users with the tools that ensure the most sacred parts of our lives are safe. As I've written before, security is still not a top priority for everyone from established Fortune 500 companies to new and trendy startups. It is an afterthought.
+
+We shouldn't have to think about it, and yet, it is up to users to be actively vigilant about safeguarding their pixelated private lives. Those two ideas shouldn't have to be mutually exclusive, but here we are. Something is clearly wrong. "It's like the idea that you think you live in a safe neighborhood, so you leave your doors unlocked. That could be a perfectly rational security decision for some people," adds Thomas. "But on the Internet, it's all the same neighborhood."

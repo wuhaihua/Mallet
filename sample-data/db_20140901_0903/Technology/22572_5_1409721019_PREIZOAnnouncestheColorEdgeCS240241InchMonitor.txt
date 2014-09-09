@@ -1,0 +1,17 @@
+(PR) EIZO Announces the ColorEdge CS240 24.1-Inch Monitor (PR) EIZO Announces the ColorEdge CS240 24.1-Inch Monitor EIZO Corporation today introduced the ColorEdge CS240, a 24.1-inch monitor that fits the varying needs and budgets of all levels of photographers and graphic design professionals. The ColorEdge CS240 offers many of the advanced features of other EIZO ColorEdge monitors such as a wide color gamut and hardware calibration. It also delivers benefits not usually available with cost-performance monitors such as dedicated calibration software that supports compatibility with a wide range of third-party calibration devices and a manufacturer's five-year warranty.
+
+ColorEdge CS240The ColorEdge CS240 features a wide-gamut IPS (in-plane switching) with a 1920 x 1200 native resolution and reproduces 99% of the Adobe RGB color space. With this extended gamut, images shot in RAW can be converted to Adobe RGB or images shot in Adobe RGB will be displayed in vibrant and lush colors. An LED backlight reduces power consumption to just 27 watts during typical operation and utilizes brightness modulation technology for flicker-free image display to help prevent eye fatigue. 
+The ColorEdge CS240 comes equipped with DisplayPort, HDMI, and DVI input terminals. With the DisplayPort input, the monitor offers 10-bit display (more than one billion colors simultaneously) from a 16-bit look-up table. In addition, it can display 10-bit color via the HDMI input terminal with Deep Color applicable devices.
+
+EIZO's DUE (digital uniformity equalizer) technology compensates for uniformity errors common to all LCD panels to produce more even brightness and color across the screen.
+
+For users that require a wide variety of calibration functionality, EIZO bundles its proprietary ColorNavigator 6 software. Preset target values for photography, printing, and web design are included for users looking for a simple way to calibrate the monitor. Experienced users can set their own target values for brightness, gamma, and white point, and generate an ICC profile. ColorNavigator 6 offers several advanced functions such as measuring the white of the paper to be used for printing for better screen-to-print matching and profile validation for verifying calibration results.
+
+Because ColorNavigator 6 is proprietary software, EIZO has ensured it is compatible with a wide range of calibration devices from X-Rite, DataColor, and other manufacturers and supports both Macintosh and Windows operating systems. Updates to ColorNavigator 6 are available on www.eizo.com free of charge.
+
+An ergonomic stand with 35° tilt, 344° swivel, portrait mode, and 130 mm height adjustment lets users place the screen in the optimal position. The stand has a sturdy build and includes a cable holder for a clutter-free desktop.
+
+The ColorEdge CS240 is backed by a five-year manufacturer's warranty including the LCD panel. This is at least two years more than the warranty of most monitors to ensure a long service life and low total cost of ownership.
+
+Additional FeaturesGamma curve for each monitor adjusted on the EIZO factory line.Two upstream and two downstream USB ports.Supports EIZO's UniColor Pro software that simulates color blindness so designers can choose color schemes for maps, road signs, web sites, etc. that can be viewed by everyone.EIZO shading hood for reducing ambient light reflection available as an option.Availability
+The ColorEdge CS240 is now shipping.

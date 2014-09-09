@@ -1,0 +1,37 @@
+Space Launch Schedule For September 2014 Space Launch Schedule For September 2014 
+									
+								
+
+
+								
+Curious to know what’s being launched this month? Here’s a schedule for planned launches in September 2014. It will be updated continuously during the month with mission status updates and time/date changes. 
+
+	
+								 
+TBD, likely early September 
+Company: SpaceX Rocket Type: Falcon 9 Payload: AsiaSat-6 From: Cape Canaveral, FL
+								
+										 
+Notes: This mission will launch a communications satellite for AsiaSat to provide coverage for its customers in Asia, Australasia, Central Asia and the Pacific islands. More info. 
+Status: The Falcon 9′s static fire test was successful and the satellite is now fully encapsulated. However, the launch, originally scheduled for Aug. 26 and moved to Aug. 27, has been delayed to “triple-check” Falcon 9′s systems after an experimental SpaceX rocket failed a test flight. No new launch date for this mission has yet been announced, but it is likely to be early September. More info here. 
+September 10 
+Company: Arianespace Rocket Type: Ariane 5 Payload: Optus 10 and MEASAT-3b From: French Guiana
+										
+										 
+Notes: This Ariane 5 rocket is carrying two separate commercial payloads. First, the Optus 10, which will provide Optus customers with TV, internet, data and telephone transmissions. Second, the MEASAT-3b, which will expand MEASAT’s direct-to-home broadcasting services to its customers. 
+Status: The Optus 10 satellite has been fitted to the Ariane 5 craft already, with the MEASAT-3b to follow shortly. 
+September 16 
+Company: United Launch Alliance Rocket Type: Atlas V Payload: CLIO Mission From: Cape Canaveral, FL 
+Notes: ULA will be launching the CLIO mission for the U.S. government. What CLIO is and which agency is the customer has not been disclosed. 
+September 19 
+Company: SpaceX Rocket Type: Falcon 9 Payload: Dragon capsule From: Cape Canaveral, FL 
+Notes: For its fourth mission under its commercial cargo contract with NASA (and fifth overall), SpaceX’s Dragon capsule will be delivering cargo and crew supplies to the International Space Station. It will also be delivering the ISS-Rapidscat instrument, which will measure ocean currents and temperatures. Also on board? Mousetronauts! 
+  Status: This launch was pushed back a week in August, having originally been scheduled for September 12. That was before the experimental rocket failure that delayed the AsiaSat-6 launch. It’s unclear yet if this launch will be affected by that incident as well. 
+September 25, 4:23pm EDT 
+Agency: Roscosmos Rocket Type: Soyuz-FG Payload: Soyuz TMA capsule From: Baikonur Cosmodrome, Kazakhstan 
+Notes: This launch will be taking NASA astronaut Barry Wilmore and Russian cosmonauts Elena Serova and Alexander Samokutyaev to the International Space Station. 
+Status: So far, greater geopolitical tensions between the U.S.A. and Russia haven’t impacted the regularly scheduled flights of astronauts to the ISS. No issues with this launch are expected. 
+September 28 
+Agency: Roscosmos Rocket Type: Proton M Payload: Luch relay satellite From: Baikonur Cosmodrome, Kazakhstan 
+Notes: This is the first launch of a Proton M rocket since May, when a Proton carrying a communications satellite was destroyed in the upper atmosphere on another Roscosmos launch. The cause of the accident has been studied, and other Proton M launches were delayed until this one. The success of this launch is particularly important to International Launch Services, which uses the Proton rocket for most of its launches. 
+Follow me on&nbsp;Twitter&nbsp;or&nbsp;Facebook. Read my Forbes blog&nbsp;here.

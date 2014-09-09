@@ -1,0 +1,15 @@
+Android Wear boost incoming: Bluetooth music, GPS, more Android Wear boost incoming: Bluetooth music, GPS, more 
+                
+
+   					
+                     
+                       
+                   
+        			Android Wear will get some new smartwatch hardware to play on this week, but Google is also planning a flood of software updates which it hopes will dramatically increase the appeal of its wearables platform. The first, due this week, will improve the voice control experience of the wrist-worn platform, as well as how navigation works on devices like the Moto 360 and Samsung Gear Live, but according to the Android Wear team, that's just the start of things.In fact, a series of updates are expected to be released before 2014 is through, David Singleton, Director of Engineering for Android Wear, and Hiroshi Lockheimer, Vice President of Engineering for Android, told CNET.Unsurprisingly, neither exec shared the full roadmap of features that Android Wear users could expect. However, they did confirm a few tidbits, including the custom watch face API we heard about a few months ago.That will allow developers to effectively customize "every pixel" of the smartwatch's display, whether square or round, and come up with task or activity-specific layouts. Examples could include a fitness-centric screen, perhaps, or one which showed stock performance for a company or companies.Meanwhile, there's also Bluetooth headset support incoming, which will allow music stored on Android Wear devices to be streamed to headphones. Most of the hardware examples we've seen so far have around 4GB of onboard capacity, enough to keep you entertained while you're out on a run, for instance.Google also intends to support GPS, if the hardware is there, which will allow smartwatches to track location independently of a smartphone. Down the line, Google plans to experiment with methods other than Bluetooth to connect Android Wear devices, though neither exec is confirming whether that could be onboard 3G as in Samsung's Tizen-powered Gear S or something else.According to Lockheimer, Google has been liberated somewhat when it comes to updates on Android Wear compared to the experience of pushing out new features for phones and tablets. Without having to gain carrier approval, for instance, "it really simplifies the whole pipeline," he points out, allowing firmware changes to be more frequent.With only two Android Wear watches on the market today - though more, like the Moto 360 and LG G Watch R due in the near future, complete with more eye-catching circular displays - and the OS itself in a fledgling state it's still early days for Google's smartwatch platform.Still, avoiding the sort of usability fragmentation that Android smartphones have suffered seems a sensible strategy, though it may take sub-$100 models before adoption really gathers pace.SOURCE CNET
+
+Story Timeline
+
+Android Wear Review: Your wrist just got smarter
+Did Android Wear just bomb, or did Moto 360 just win?
+Android Wear will support third-party watch faces
+

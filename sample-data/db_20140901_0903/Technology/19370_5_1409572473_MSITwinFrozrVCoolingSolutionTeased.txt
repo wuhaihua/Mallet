@@ -1,0 +1,6 @@
+MSI TwinFrozr V Cooling Solution Teased MSI TwinFrozr V Cooling Solution Teased MSI teased the first CGI sketches of its next-generation TwinFrozr V cooling solution, designed for high-end GPUs, under its Gaming Series. A prototype of the cooler made its first appearance at Computex 2014, in June. The cooler features a large dual-stack aluminium fin heatsink to which heat drawn from the GPU is fed by five 8 mm thick nickel-plated copper heat pipes. The fin-stack is ventilated by a pair of what's now appearing to be two 100 mm fans. MSI is rumored to be innovating a new impeller design that steps up air-flow to noise ratio. 
+
+It's interesting to note that in its CGI render of a card equipped with this cooler, MSI showed a PCB with two NVIDIA SLI bridge fingers, and two 6-pin PCIe power inputs. Could this be the NVIDIA GeForce GTX 980, in effect making the card the MSI GTX 980 Gaming OC? Wait until the 19th of September to find out. GeForce GTX 980 and GTX 970 are NVIDIA's next high-end GPUs, based on the 28 nm "GM204" silicon, derived from the company's new "Maxwell" architecture.
+
+
+Source: MyDrivers

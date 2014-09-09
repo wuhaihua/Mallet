@@ -1,0 +1,13 @@
+Microsoft Increases OneDrive's File Size Limit Microsoft Increases OneDrive's File Size Limit 
+							
+														
+							Microsoft has started increasing OneDrive’s file size limit from 2GB to an unknown new maximum. The change was first spotted by Reddit user megaman821 and confirmed by multiple replies on the site. We got in touch with Microsoft to confirm the change.
+“As we mentioned on our uservoice, we have started the work to increase the file size limit for all OneDrive accounts,” a Microsoft spokesperson told TNW. “We have started the process with a small number of customers and will continue to roll it out to our full customer base. We will have more to share on this update in the near future, stay tuned to the OneDrive blog.”
+The uservoice thread in question is here, has 280 votes, and contains an explanation from Microsoft Group Program Manager Omar Shahine. “It’s not arbitrary,” Shahine says. “It’s simply an old limit that we’ve been working on removing for far too long now. The good news is that we are actively working on this.”
+The fact Shahine says “removing” as opposed to “increasing” has some OneDrive users speculating that all files will soon be accepted for uploading to the service. We asked Microsoft for clarification but the spokesperson said the company has nothing more to share.
+Frankly, it’s about time Microsoft started this process. Dropbox has an upload limit of 10GB while Google Drive maxes out at 5TB.
+Whether or not there is a specific new limit isn’t very important. As long as Microsoft increases it to something in the terabytes, like Google has, the improvement will likely be enough for almost everyone.
+See also – Microsoft integrates OneDrive for Business into main OneDrive for Android app, iOS app gets native search and Microsoft increases OneDrive for Business storage from 25GB to 1TB per user, including for Office 365 ProPlus
+Thumbnail image credit: Microsoft
+							
+							

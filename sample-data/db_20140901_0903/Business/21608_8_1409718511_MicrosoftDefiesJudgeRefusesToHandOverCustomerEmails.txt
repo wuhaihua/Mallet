@@ -1,0 +1,27 @@
+Microsoft Defies Judge, Refuses To Hand Over Customer Emails Microsoft Defies Judge, Refuses To Hand Over Customer Emails Microsoft looks set to be found in contempt of court after defying an order from a US judge that it should hand over data stored in Ireland. 
+Judge Loretta Preska, chief of the US District Court in Manhattan, has lifted a stay on her previous order that Microsoft must give email messages held in an Irish data center to US prosecutors investigating a criminal case.
+	
+								 
+However, Microsoft is refusing to comply. While the judge has concluded that the order itself isn’t appealable, a refusal to play ball by Microsoft could force her to find the company in contempt. Microsoft could then appeal against that finding to continue arguing its case. 
+“We will appeal promptly and continue to advocate that people’s emails deserve strong privacy protection in the US and around the world,” says Microsoft general counsel Brad Smith in a statement. “The only issue that was certain this morning was that the District Court’s decision would not represent the final step in this process.”
+								
+										 
+The disagreement hinges on whether the servers on which the data is kept are subject to US jurisdiction. In July, the judge ruled that Microsoft must hand over the emails because, while they were stored overseas, they were under the control of a US company. 
+Soon after, though, she suspended the ruling after an outcry from technology companies complaining that allowing US authorities to search and seize data held internationally was illegal.  
+ 
+ 
+  
+  Photo credit: Wikipedia
+  
+ 
+Preska has now concluded that Microsoft has no right to appeal the order and lifted the suspension, meaning that the company is legally required to hand over the emails immediately. Unfortunately, this would put in in breach of Irish law – not a great situation to be in. There are, of course, legal treaties covering the sharing of data internationally, and Microsoft is arguing that these procedures should be followed.
+										
+										 
+But the company’s biggest concern is that handing over the data would alienate customers as well as governments. Trust in the cloud is a fragile thing, particularly following recent revelations that the National Security Agency has been helping itself to data held on US servers. 
+Other companies, including AT&amp;T, Apple, Cisco and Verizon have submitted briefs in support of Microsoft, concerned that customers will no longer trust them. The German government, for example, is reported to have told Microsoft that it won’t use data storage from US companies unless the ruling is overturned. 
+“In some instances, potential customers have decided not to purchase services from Microsoft and have opted to instead for a provider based outside the United States that is perceived as being not subject to US jurisdiction,” Microsoft argued in June. 
+“If this trend continues, the US technology sector’s business model of providing ‘cloud’ internet-based services to enterprises, governments, and educational institutions worldwide will be substantially undermined.” 
+Preska’s judgement is based on the Stored Communications Act – drafted in 1986, in circumstances very different from today’s. In the longer term, it may be that the legislation needs a comprehensive reworking. 
+In the meantime, Microsoft and other cloud providers may have some options. Nolan Goldberg, a senior counsel in the litigation department of Proskauer Rose, suggests that cloud providers could redesign their systems so that foreign data is only controlled in the country where it resides, and can’t be accessed by the provider from a US terminal. 
+“In such a situation the provider would not have control over the data in the United States, and the logic of the decision would not seem to apply”, he writes. 
+Alternatively, we may start to see more of a move towards the encryption of all customer data. If Microsoft and other cloud providers didn’t have access to the encryption keys, the data couldn’t be deemed to be under their control – and they couldn’t hand it over.

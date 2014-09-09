@@ -1,0 +1,5 @@
+RFSNA Site Helps You Find Current And Planned Mobile Base Stations RFSNA Site Helps You Find Current And Planned Mobile Base Stations 
+Curious about where the nearest mobile tower is? The Radio Frequency National Site Archive (RFSNA) lets you search by address to find current mobile base station sites in Australia, as well as locations where new towers are proposed and details of any community consultations.
+Picture: Alan Isherwood
+Enter a postcode and address and you&#8217;ll see a list of nearby base stations. For each location, you&#8217;ll also see any EME reports identifying current levels of electromagnetic activity, and also any published announcements about planned upgrades. (Turns out Telstra is planning to add 700MHz gear to the mobile equipment at the top of Lifehacker HQ.) There&#8217;s also an advanced search which lets you filter by carrier.
+RFSNA

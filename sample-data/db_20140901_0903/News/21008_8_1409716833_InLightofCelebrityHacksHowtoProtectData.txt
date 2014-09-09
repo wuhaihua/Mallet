@@ -1,0 +1,76 @@
+In Light of Celebrity Hacks, How to Protect Data In Light of Celebrity Hacks, How to Protect Data 
+ 
+
+The circulation of nude photographs stolen from celebrities' online accounts has raised questions about the security of storing information over the Internet.
+
+Apple acknowledged Tuesday that computer hackers broke into the accounts of several celebrities, a security breakdown that Apple blamed on the intruders' ability to figure out passwords and bypass other safeguards.
+
+Apple says it found no evidence of a widespread problem in iCloud or its Find my iPhone service. Instead, the affected celebrity accounts were targeted by hackers who had enough information to know the usernames, passwords and answers to personal security questions designed to thwart unauthorized entries, according to Apple. Knowing this crucial information would enable an outsider to break into Apple accounts, including iCloud.
+
+The break-in has exposed weaknesses in online security at a time more people are storing photos and other sensitive information on other computers housed in massive data centers, a practice known as cloud computing.
+
+So if celebrities' information isn't safe, then whose is? Here is a closer look at how safe data is when stored remotely on these services.
+
+&#8212;&#8212;&#8212;
+
+Q. What is the cloud?
+
+A. The cloud is a way of storing photos, documents, email and other data on computers located elsewhere, so you're not using space on your computer, phone or other device. Amazon, Apple, Google and Microsoft all offer cloud-based storage. Smaller companies like Dropbox and Evernote do, too.
+
+The advantage is that you can access the same information from any device. And if you lose your phone, for example, you don't lose your vacation pictures.
+
+The drawback is that you are putting your information somewhere else, so you run the risk of a hacking attack on those systems and accounts.
+
+Q. Is it secure?
+
+For the most part, yes. Companies invest a lot on trying to ensure that people's private information stays private.
+
+"The short answer is the cloud is often more secure than other storage," says Rich Mogull, CEO of security research and advisory firm Securosis.
+
+But that doesn't mean it is completely immune.
+
+"Like a lot of internet services, there are a lot of attackers who have a lot of time," Mogull says.
+
+Q. How can individuals make their data more secure?
+
+A. You need passwords to access your accounts, so choosing a strong one is important.
+
+Tim Bajarin, an analyst at technology research firm Creative Strategies, recommends having different passwords for each account you hold online, so a breach in one system won't compromise another. It is also important to have a number and punctuation mark in each password, or a creative spelling of a word to make it harder to guess. Also, avoid using common words or notable birthdays as passwords. A strong password is particularly important if you store sensitive information online.
+
+Another way to make your information harder to hack is called multi-factor, or two-step, identification. That means the first time you log onto an account from a new device, you are asked for a second form of identification. Usually, that involves getting sent a code as a text on your phone or an email. A hacker who has your password would still need physical possession of your phone to get the text.
+
+Most major cloud services, including Apple's iCloud, Google Drive and Dropbox, offer this kind of protection. Amazon's Cloud Drive is the notable exception. But you usually have to turn this on.
+
+Apple is urging its users to switch to stronger passwords and enable the two-step authentication feature in the aftermath of the celebrity hacking attacks.
+
+Q. How can I tell if my phone or computer is uploading information to the cloud?
+
+A. You had to have signed up and agreed to the cloud services' terms of services, but that might have happened long ago, as you were setting up your device.
+
+If you are not sure if you have opted in, check your phone's settings.
+
+With iPhone photos, for instance, if you have Photo Stream turned on, that means you are storing your photos on iCloud. Check your settings under iCloud. On Android phones, check the Auto Backup settings under Google+ in Google Settings.
+
+A. Is my financial information at risk?
+
+Yes, if you use the same password for online banking that you do for other sites, and if you don't have multi-factor identification on your banking website.
+
+But generally, financial information is among the most protected online. Information is encrypted, or scrambled, in transit. You can tell if a site does that if you see "https" rather than "http" before the website address.
+
+Q. Will my photos and other information remain on the cloud even after I delete them?
+
+A. They should not. Settings vary for different cloud services, but most of them delete information from the cloud when you delete something from your phone or computer, at least once the device has had a chance to sync with the online service.
+
+You can check online, however. All the cloud storage providers have websites you can sign into to check out what information is being stored.
+
+"If you want that extra feeling of being safe, make sure it's deleted online," says technology analyst Patrick Moorhead of Moor Insights & Strategy.
+
+Q. How do I opt out of cloud storage?
+
+A. Check your phone or computer settings if you don't want your photos and documents stored online. There are other ways to store information, including using an external hard drive or your device's own storage.
+
+"If you really want to be safe, keep confidential information off your service provider and back it up to an external hard drive the old-fashioned way," Gartner analyst Avivah Litan says.
+
+&#8212;&#8212;&#8212;
+
+AP Technology Writer Michael Liedtke in San Francisco contributed to this story.

@@ -1,0 +1,45 @@
+Debt From KPMG Tax Shelter Survives Bankruptcy Debt From KPMG Tax Shelter Survives Bankruptcy Reading appellate tax decision, there is “as bad as it gets”, which is appealing your sentence after you have been incarcerated. &nbsp;”Almost as bad as it gets” is appealing a bankruptcy court refusing to discharge your tax debt. &nbsp;That is what James Charles Vaughn was seeing the Tenth Circuit about. &nbsp;He did not get any help, so his multi-million dollar tax debt survives his bankruptcy. &nbsp;Even though, I wasn’t rooting for him as I read this case, I do feel really bad from him. &nbsp;Primarily, he is a victim of the deprofessionalization of public accounting, which is a pretty sad thing. Mr. Vaughn was part of the large number of people around the turn of the millenium who were led to believe that their major liquidity events could be tax free, thanks to the brilliant geniuses at their Big 4 firms. &nbsp;In his case it was KPMG. 
+Mr. Vaughn, whom the Court calls “Appellant” was a really smart guy. 
+	
+								 
+
+ In the mid-nineties, Appellant was Chief Executive Officer of a cable television acquisition company, FrontierVision Partners, LP. Though Appellant had little formal education beyond high school, he had significant practical business experience. In the decade-and-a-half prior to becoming CEO of FrontierVision, Appellant served in senior executive positions at a number of cable and communication companies. Appellant was so effective in these positions he was described by one of his colleagues, the Chief Financial Officer at FrontierVision, Jack Koo, as having “as much business acumen as anyone that [Mr. Koo had] known in [his] career.”
+ 
+So when Mr. Vaughn did something that turned out in retrospect to have been kind of dumb, it was something dumb designed by very smart people that was really complicated. &nbsp;It was called BLIPS.
+								
+										 
+
+ &nbsp;BLIPS was described as a structured, multi-stage program that involved investment in foreign currencies. BLIPS’s use as a tax strategy resulted from the manner in which the program combined a participant’s relatively small cash contribution to an investment fund (made through a limited liability company), with a nonrecourse loan and a loan premium, ultimately facilitating a high tax loss for the participant without a corresponding economic loss. Through BLIPS, a desired tax loss could be tailored to offset a participant’s actual economic gain, and thereby shelter that gain from tax. The BLIPS program was structured so the basis for a desired tax loss would be achieved by closing out the investment fund after sixty days.
+ 
+Have you ever seen the proof that 1=0? &nbsp;Buried in all the steps is a division by 0. &nbsp;BLIPS and its relatives such as BOSS and Son of Boss, have buried in them an unbalanced entry. &nbsp;As a variation on an old accounting joke, I have called it “Debit By the Window, Credit Out the Window”. 
+ 
+ 
+  
+  The logo of KPMG. (Photo credit: Wikipedia)
+  
+ 
+At the suggestion of KPMG Mr. Vaughn used a BLIPS transaction to shelter the thirty million dollar gain he had from the sale of Frontier Vision in 1999. &nbsp;Unfortunately for Mr. Vaughn, he got into the game late. &nbsp;In September 2000, the IRS issued Notice 2000-44. which described the BLIPS transaction to a “t” without naming it and indicated that it did not work. &nbsp;KPMG thought the notice would make interesting reading for Mr. Vaughn and sent him a copy in February 2001.
+										
+										 
+In June 2001, the IRS notified Mr. Koo (The Frontier CFO) that he was being audited on the BLIPS transaction. &nbsp;Mr. Koo passed the good news along to Mr. Vaughn. &nbsp;In February 2002, KPMG advised Mr. Vaughn that his return was likely to be selected for audit and that he might want to participate in a voluntary disclosure program to cut the rent on the penalties. &nbsp;The case does not indicate whether KPMG refunded the 500 grand they charged for putting him into the deal in the first place. 
+We’re going to skip ahead here to November of 2006. &nbsp;Mr. Vaughn was filing Chapter 11 and the IRS put in a proof of claim in the amount of $14,359,592 for deficiencies arising from Mr. Vaughn’s 1999 and 2000 returns. &nbsp;The bankruptcy court ended up ruling that Mr. Vaughn’s taxes were not dischargeable both because he had filed a fraudulent return and had willfully evaded taxes. &nbsp;I tend to think that Mr. Vaughn is getting a raw deal relative to most of the people who participated in what Jack Townsend calls the “bullshit shelters”. 
+The fraudulent return part of the ruling is easy to understand, if somewhat debatable given that he had prestigious advisers supporting him. &nbsp;The “willfully evaded” gets into what was happening in Mr. Vaughn’s life from the time he got the bad news from Mr. Koo. &nbsp;The decision goes into some detail, but the Cliff Notes is pretty simple. &nbsp;After learning that he might have a large liability from 1999, Mr. Vaughn got divorced, remarried and divorced again. &nbsp;He was pretty generous with his new wife, including buying a $1.73 million home that he put in her name. &nbsp;He also funded a $1.5 million trust for his new step-daughter. &nbsp;So in 2004, when taxpayers had an opportunity to get out from under this problem, he could not join in the settlement, because he could not come up with the entire tax. &nbsp;The Court also seemed to think he was living pretty high for somebody with a multi-millionaire dollar tax dead hanging over his head. 
+
+ &nbsp;For instance, between October 2001 and April 2003, the couple wrote checks to cash, or to themselves, totaling $157,000. Throughout their marriage, which ended in March 2003, the couple spent thousands of dollars in monthly charges to various credit card accounts and spent similarly substantial sums of money on such things as home decoration, jewelry, and cars.
+ 
+Why This Is A Relatively Raw Deal 
+In the Home Concrete decision the Supreme Court saved the bacon of many people who invested in these shelters by declaring that a basis misstatement was not an omission income. &nbsp;That meant that the IRS only got three years to catch people rather than six. &nbsp;In the wake of that decision, Jack Townsend pointed out that if the IRS had asserted fraud on those returns, there would have been an unlimited statute (not to mention a 75% penalty rather than a 40% penalty). &nbsp;Given that they did not take that approach in the case of so many taxpayers, from whom they might have collected, why are they picking on somebody who is bankrupt? &nbsp;How much are they likely to collect form him? 
+Jack Townsend also covered this case. &nbsp;He noted: 
+
+ It appears that, in denying the discharge, the courts relied principally upon the second basis for denial of discharge — “willfully attempted in any manner to evade or defeat such tax.” &nbsp;The 10th Circuit found that Vaughn participated in a shaky shelter and then voluntarily depleted his assets during the long period of time before the Government finally assessed the tax liability. &nbsp;(Readers will recall that substantial periods of time can elapse from &nbsp;the time an &nbsp;unreported tax liability arises and when it finally is assessed.) &nbsp;The taxpayer claimed that his conduct was negligent at best, but not willful as required by the text of the statute, because it was before the IRS assessed the tax. &nbsp;The 10th Circuit rejected the argument, holding as it had previously held that assessment of the tax is not required for the denial of discharge to apply.
+ 
+The Moral Of The Story 
+To get more background on the atmosphere that led to Mr. Vaughn’s bad decision at the turn of the millennium, you should check out the recent book Confidence Games: Lawyers, Accountants, and the Tax Shelter Industry. In his Amazon review of the book, Jack Townsend noted: 
+
+ &nbsp;History will repeat itself. These cycles will come back, particularly as big accounting firms and law firms look for ever increasing revenue and profits per equity partner.
+ 
+You will often hear people talking about how stressful public accounting is. &nbsp;I have to tell you that the source of the stress at a very deep level is rooted in envy, since if your practice is any good, you will always have clients who are much better off than you are. 
+The other element of history repeating itself is the demoralization of the IRS that is being repeated with the interminable scandal. 
+That’s the big picture, though, not the moral. &nbsp;The moral of the story is Reilly’s First Law of Tax Planning “Sometime, it’s better to just pay the taxes”. 
+&nbsp; 
+You can follow me on Twitter @peterreillycpa.&nbsp;For my musings on non-tax matters check out We Are The Future Generations.

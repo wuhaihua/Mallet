@@ -1,0 +1,7 @@
+Hackers Reportedly Use a Police Tool to Access iCloud Data Hackers Reportedly Use a Police Tool to Access iCloud Data While Apple has denied that its iCloud service was at fault in last week’s leaking of nude celebrity photos, Wired is reporting that attackers are using a forensic tool marketed for law enforcement officials to download backups of victims’ iCloud accounts.
+Writer Andy Greenberg spent time on the Anon-IB anonymous image forums researching the techniques that hackers are using to gain access to private photos. One such tool is Elcomsoft’s Phone Password Breaker (EPPB). Elcomsoft calls its software an “ideal solution for law enforcement and intelligence organizations,” but it has gained popularity among users trying to steal private data from others. While attackers would still need to gain the account details through other methods, EPPB also advertises a password-free feature that involves skimming an authentication token from a synced PC or Mac.
+Elcomsoft has been around for years now, so this technique isn’t anything new, but these shady tactics have surfaced with the attention that this latest leak has brought. We’ve reached out to Apple and Elcomsoft to ask about EPPB and iCloud and will update as needed.
+➤ The Police Tool That Pervs Use to Steal Nude Pics From Apple’s iCloud [Wired]
+Featured Image Credit – Getty Images
+							
+							

@@ -1,0 +1,19 @@
+Why Google Won't Be Sending A Drone To Your Doorstep Anytime Soon Why Google Won't Be Sending A Drone To Your Doorstep Anytime Soon 
+
+        
+
+      
+
+      Last week, Google introduced Project Wing, an experimental, drone-based delivery system being developed by the semi-secret Google X innovation lab. The announcement came barely nine months after Amazon CEO Jeff Bezos revealed his plans to deliver packages to customers via octocopter in under 30 minutes.
+
+But don't stop stocking up on toilet paper just yet: According to NASA researchers, it'll take a lot more fine-tuning before drones can weave through city streets Jetsons-style.
+
+The New York Times reported that NASA is currently working on an unmanned air traffic control program for objects that would fly within 400 feet to 500 feet of the ground. The program would be similar to conventional aircraft monitoring, with the extra considerations of buildings, helicopters, and other obstacles that might endanger an 18-pound drone in urban areas.
+
+The future of commercial drone use will also largely depend on the Federal Aviation Administration's ruling on commercial uses of unmanned aircraft--which is expected to come later this year--as well as the development of protections against nefarious 24-esque drone hijacking. Drones would have to abide by existing rules that delineate no-fly zones, including airports and classified airspace. And of course, there's the issue of coming to terms with drones flying overhead, as NASA principal investigator Parimal H. Kopardekar pointed out:
+
+"There is the technology piece and then there is the public acceptance piece, and both have to evolve... How do you have [drones] safely land and take off in the presence of a grandma doing landscaping and kids playing soccer?"
+
+In less-populated areas, however, drone deliveries could get the green light "perhaps within five years," Kopardekar told the New York Times, referencing Google's testing grounds in rural Australia. Till then, sit back and enjoy the thrills of drone photography.
+
+[h/t: Engadget]

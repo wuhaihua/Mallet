@@ -1,0 +1,18 @@
+Oops! Microsoft accidentally teases Windows 9 'coming soon' on social media Oops! Microsoft accidentally teases Windows 9 'coming soon' on social media Shy Designs
+
+Microsoft's internal censors seem to be sleeping on the job this year. In June, the Surface Pro 3 manual included several references to a small-screen Surface Mini despite the fact that a small-screen Surface Mini was never actually released. And now, as rumors of Windows 9 swirl, Microsoft China appears to have confirmed the impending reveal.
+
+
+Posting to Weibo—a Chinese social media site—Microsoft China posed its followers a question: "Microsoft’s latest OS Windows 9 is coming soon, do you think the start menu at the left bottom will make a comeback?" (Translation courtesy of The Verge.)
+
+
+Oops. And not just because Microsoft has already announced the return of the Start menu.
+
+
+The post was accompanied by a screenshot of a Windows 9 logo mock-up by Shy Designs, seen above. Microsoft China appears to have quickly realized the error of its ways, as the Weibo message has since been removed, though not before Cnbeta noticed and first reported it.
+
+
+Several reports from oft-reliable sources say Microsoft is  prepared to announce Windows 9  in "technical preview" form at the end of September or early in October, just before Windows 7 PCs disappear from store shelves, though Microsoft itself has yet to confirm it. Leaks suggest Windows 9 will better let a PC be a PC and a tablet be a tablet, bringing several mouse-friendly changes to the desktop and possibly  killing the desktop completely  in tablets and phones powered by mobile ARM processors.
+
+
+If Windows 9 is indeed incoming—and Microsoft China's slip-up suggests it is—we have some suggestions for features we'd want to see. But one of the most crucial improvements Microsoft needs to make ASAP has nothing to do with the core operating system itself: The company needs to  clean up the Windows Store pronto  if it ever hopes to make Metro apps viable on the desktop. Fortunately, Microsoft's already taking its  first tentative steps towards fixing the mess.

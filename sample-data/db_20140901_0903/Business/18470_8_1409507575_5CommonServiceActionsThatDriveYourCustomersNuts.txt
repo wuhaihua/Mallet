@@ -1,0 +1,95 @@
+5 Common Service Actions That Drive Your Customers Nuts 5 Common Service Actions That Drive Your Customers Nuts 
+			
+
+		
+
+					    
+
+
+			
+				Sell. Service. Market. Succeed.
+					
+			
+
+			
+				
+			
+		
+
+		
+			Salesforce.com began with a vision to reinvent CRM in the cloud and a commitment to donating 1% of our equity, 1% of our employees’ time, and 1% of our product. These two key decisions have fueled our incredible growth, made us the global leader in CRM, defined the era of cloud computing, and inspired a new philanthropic model. Today, thanks to our dedicated employees, partners, and customers, our industry-leading CRM platform has become the world's leading enterprise cloud ecosystem. Using the latest innovations in mobile, social, and cloud technology, we help companies connect to their customers in a whole new way—and sell, service, market, and succeed like never before.
+			
+
+
+					Twitter
+
+					Website
+
+				Profile
+
+			
+		
+
+
+
+
+							
+			    
+
+	
+		Connecting marketers to the Forbes audience. What is this?
+	
+	
+		
+		
+		
+			Forbes &trade; allows marketers to 
+			connect directly with the Forbes audience by enabling them to create 
+			content – and participate in the conversation – on the Forbes digital publishing 
+			platform. Each &trade; is produced 
+			by the marketer. 
+			
+			More on &trade; here
+			, or email us directly at 
+			brandvoice@forbes.com.
+			Opinions expressed by Forbes ™ Contributors are their own. 
+		
+	
+
+							
+
+						
+
+						
+
+						
+
+
+								
+We all know exactly the types of customer service interactions that raise our blood pressure. Five of the most prevalent points of pain that surface in CCMC’s bi-annual National Rage Studies are practices common in many service systems. 
+All five actions overtly pour gasoline on the dissatisfaction fire.&nbsp; 
+Each of the following customer service flashpoints can damage satisfaction by ten to thirty points. Keep reading to see if your company is guilty of any of them and, if so, how to stop: 
+ 
+1. &nbsp;Tell people on hold that they can get faster service by going to the website 
+The fallacy of this message is the belief that customers will call before going to the website. &nbsp;In fact, almost all customers try the website first and only call when they cannot find what they are looking for on the website. 
+2. Provide a search tool which then responds with “no answer found” for common questions and problem. &nbsp; 
+I often enter common terms like “complaint” or “problem” into search tools and they return no solution. This suggests that the company has no understanding of the customer experience. A majority of the visitors to most websites are current customers looking for answers and support. Your search engine should be tuned to answer all of the 100 top questions or problem. Each of those 100 issues should have links from a least four different key word descriptors of the issue. 
+3. Tell customers on hold that their call is important 
+Telling a customer that the call is important when they are on hold again pours gasoline on the fire. The fact that they are on hold long enough to receive that message means you have not allocated enough resources to service – the message simply draws their attention to that fact. Just apologize for the wait and leave it at that! 
+4. Ask for information that customer has already entered into IVR 
+This action shows that you are inept at technology that most of the world got right ten years ago. The service representative starts in a hole they must dig out of by first apologizing for asking again. Do not ask for information to be entered until you have the computer telephone integration mastered so the data will be transferred. 
+5. Play advertisements for more services on the hold line for customers calling with problems with their current service 
+The worst I recently encountered was vacation sales advertisements on an airline lost baggage line. Service lines should provide educational information, interesting, engaging facts, and calming music. Do not try to sell anything to customers on hold with a question or problem. 
+How to fix these actions: 
+ 
+  Call your main service phone numbers at three peak periods over the next week and see if you encounter items 1, 3 or 5.  
+  Go to your website and enter problem and complaint as well as three common questions and see if the results seem logical and responsive.  
+  Go to a service operation and ask five representatives how often they have to ask customers for information, only to be told it had already been entered.  
+  Go to your main website’s sitemap and see if the top 20 issues or questions customers have are obvious and above the fold.  
+ 
+A version of this post first appeared on the Salesforce.com Blog. 
+Read More: 
+Customer Service, CRM, Customer Experience—What’s the Difference? 
+The Customer Is Always Engaged: 4 Steps to Social Media 
+Free E-Book: 5 Ways to Make Service Easier for Today’s Customer 
+John Goodman is the Vice Chairman of Customer Care Measurement &amp; Consulting.

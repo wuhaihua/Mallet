@@ -1,0 +1,16 @@
+Google working on quantum computing project to build smarter hardware Google working on quantum computing project to build smarter hardware 
+				Image: Reuters
+			
+									
+								Google said a research team led by physicist John Martinis from the University of California Santa Barbara will join the company to start a project to build new quantum information processors based on superconducting electronics.
+&nbsp;
+The Quantum Artificial Intelligence Lab is a collaboration between Google, NASA Ames Research Center and the Universities Space Research Association (USRA) to study the application of quantum optimization related to artificial intelligence.
+&nbsp;
+&#8220;With an integrated hardware group, the Quantum AI team will now be able to implement and test new designs for quantum optimization and inference processors based on recent theoretical insights as well as our learnings from the D-Wave quantum annealing architecture,&#8221; Google&#8217;s director of engineering, Hartmut Neven, said on its research blog. Quantum computing can help create systems that are millions of times faster than current supercomputers. In traditional computing, bits can only hold values of &#8220;1&#8243; or &#8220;0.&#8221; However, quantum bits—or &#8220;qubits&#8221;—can hold values of 1, 0, or both at the same time, opening up the possibility of systems running through millions of calculations simultaneously. This opens up the possibility of creating computing systems analogous to human communications.
+Quantum computing holds the promise of creating systems that are millions of times faster than current supercomputers. &#8211; See more at: http://www.eweek.com/servers/google-developing-quantum-computing-chip.html#sthash.wvkbAt50.dpuf
+Quantum computing holds the promise of creating systems that are millions of times faster than current supercomputers. &#8211; See more at: http://www.eweek.com/servers/google-developing-quantum-computing-chip.html#sthash.wvkbAt50.dpuf
+Quantum computing holds the promise of creating systems that are millions of times faster than current supercomputers. &#8211; See more at: http://www.eweek.com/servers/google-developing-quantum-computing-chip.html#sthash.wvkbAt50.dpuf
+&nbsp;
+Google, which is working on projects including self-driving cars and robots, has become increasingly focused on artificial intelligence in recent years. Earlier in January, Google acquired privately held artificial intelligence company DeepMind Technologies. It  is also working on building the world&#8217;s largest knowledge database with Knowledge Vault to bring users a near-sentient form of search.
+
+With inputs from Reuters

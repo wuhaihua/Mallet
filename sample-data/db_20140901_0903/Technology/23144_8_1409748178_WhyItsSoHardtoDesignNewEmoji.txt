@@ -1,0 +1,44 @@
+Why It's So Hard to Design New Emoji Why It's So Hard to Design New Emoji Image: Aeonflax http://aeonflax.deviantart.com/art/EMOJI-STICKER-PACK-PNG-473040030
+
+Emoji. There are just never enough. 
+The little, colorful pictograms were born in Japan in the late 1990s. Though they grew in popularity, for awhile it was impossible for people outside of the country to use the images. They needed a new coding system, one that enabled all kinds of programs to universally read emoji the same way. 
+That's where the Unicode Consortium stepped in. The non-profit organization created a global standard for coding the characters. That's why you and someone in Japan can both see emojis on your smartphones in almost the same way. 
+
+But who is this collective of techies who banded together to bring emoji to the masses? Over the years, companies like Apple and Google have joined the consortium, completing the majority of the work needed to keep up emoji standards. In addition, they've been creating new emoji along the way, albeit infrequently or in batches. 
+Who decides which emoji get created? And what does the process entail? Is the non-profit archetype really the best model for a job that requires constant work and upkeep? Much the consortium's process happens under a veil — most outsiders don't understand the hows and whys of Unicode design choices. 
+How the emoji consortium operates
+Back in 1987, three engineers, Joe Becker, who worked at Xerox, Lee Collins and Mark Davis, both from Apple, set about creating a global standard set of characters for computing systems. Simply put, they wanted to design characters that looked the same to people no matter how they were encoded. They created a set of unique numbers for characters, and dubbed it "Unicode," which Becker coined because it was a "unique, universal and uniform character encoding." 
+In 1991 the consortium was formed, a non-profit devoted to developing and maintaining the Unicode Standard, according to Unicode's site. Who makes up the consortium? Members of Apple, Google, IBM and more. Aside from these large organizations, people can also join as individual members.
+
+
+Logos of just a few companies that support Unicode can be found on the Consortium's site.Image:  Unicode That membership comes with a price tag, depending on your interest level. A full member, a company like Apple, pays $18,000 per year, while an institutional member (a school or government body) pays $12,000. Individual members have it easier, paying $75, while students with a valid ID pay $35. 
+The allure of joining appeals to techies who want or need access to any and all information about the Unicode Standard. Full members get to be "active participants" in future Unicode projects and standards; they secure a vote in all technical committees and help select board members. The opportunities shrink with each level, but still offer Unicode inclusion. 
+According to Mark Davis, the consortium's president, members do most of the heavy lifting when it comes to maintaing the Standard. And since they're not full time, you can imagine why output appears uneven.
+
+Thinking about translating a Unicode web page? Here's what you need to know: http://t.co/9R0jUa3tex
+— Unicode Consortium (@unicode) April 8, 2013
+
+"The consortium has a very small staff," he tells Mashable via email. "The contributions to the work of the consortium are — for the most part — provided by the membership. For example, I work for Google, but a certain percentage of my time is spent doing work on Unicode."
+Davis has been president of the consortium since it was incorporated. That small staff he speaks of can mostly be found on Unicode's site.
+The consortium has already achieved its main goal of establishing the global standard. However, its current hardest challenge is upkeep. 
+"Because we are so central to how computers and mobile devices use text and handle languages, it is a constant challenge to maintain backwards compatibility, while also meeting new requirements," Davis says. He describes their day job as "plumbing."
+But if there's so much constant work to be done, why choose the non-profit model, instead of starting an outright company?  Simply, because Unicode is for everyone. It’s the universal standard for all text, and thus has to be operated on a non-profit basis, so one group isn't autonomously controlling everything. The consortium is dealing with over 100,000 characters, which requires global commitment from all over the tech community. 
+Emoji factor
+
+An example of different pictorial representation of emoji using Unicode. Image:  Unicode ConsortiumOne of the consortium's most important jobs to the everyday web user is the global standard for emoji. The code makes it so emoji characters can be used with a variety of programs. However, as evidenced in the image above, emoji can have different styles and designs across platforms — Unicode doesn't control the look. It just provides the coding skeleton, so designers can play from there. 
+Unicode is a benevolent sort of overseer, but is for the most part neither seen nor heard. Gedeon Maheux, a cofounder of IconFactory, a company that designs icons and user interfaces, told Mashable he’s never even been in contact with Unicode. Maheux's team was recently responsible for designing Twitter's emoji. For two months, they worked on emoji design, but not once did they have contact with the consortium. However, that's just because they were making designs based on already existing emoji. 
+
+"Font designers don't have to get permission from the consortium," Davis says. "It's not like, say, certifying a Bluetooth device."
+It's one thing that makes the consortium appear mysterious. 
+Recently, Unicode announced there would be 250 new emoji on the way. According to the consortium's emoji FAQ, there's a "long, formal" process that goes into creating code (but not designing the look) for emoji.
+
+One of the new announced emoji is a middle finger. Mashable drew a composite, imagining what the character would look like. "I don't know how they decide what emojis get added," Maheux admits. "I don't know how it works."
+And if the consortium's job is mainly just plumbing and upkeep, why bother creating new emoji at all? Technically, it's just creating more work for the organization, which operates on a non-profit basis. 
+As it turns out, new emoji mainly rely on outside suggestions. 
+The consortium's site says people can request to have an emoji added to the Standard, but that, again, the process will take awhile. For example, the sunglasses emoji was proposed years before it was developed. 
+There's a serious outcry for more diverse emoji, too. The frequent request has approached a tipping point, but the coding takes a long time to create. The consortium's site reminds users it's not responsible for design, or "racial or ethnic appearance." However, because of the increasing anger over lack of diversity, consortium members have started to develop proposals to combat this issue. Hopefully down the line, we'll see the progress of these proposals brought to life. 
+Unicode's ubiquity
+The consortium will continue to grow as more characters and emoji get added. Unicode is a firmly ingrained essential in the tech world. It's global, the standard to which our programs adhere. (The costly membership is pennies for a company like Apple, which ends up benefitting greatly from having a say in Unicode's activities.)
+One of Davis' favorite memories in the Unicode journey is when he realized just how influential the organization was. "I still remember some years ago when one of my daughters took an introductory programming class her first quarter at [University of California, San Diego], and on the very first day the professor started talking about Unicode," Davis says. "We'd hit a tipping point."
+Now, the main goal is staying above water. And making time to grow.
+Have something to add to this story? Share it in the comments.

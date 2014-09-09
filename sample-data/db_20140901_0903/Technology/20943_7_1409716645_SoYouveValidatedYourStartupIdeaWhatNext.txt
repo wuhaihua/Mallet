@@ -1,0 +1,61 @@
+So You've Validated Your Startup Idea. What Next? So You've Validated Your Startup Idea. What Next? 
+							
+														
+							Ariel Rosenthal is a co-founder at Xprt, a new startup looking to provide instant technical support and shopping advice from reliable and vetted experts.
+
+Working on startups for the last 10 years, I had some successes and some failures. Six months ago, I pulled the curtains on a startup I had dedicated years of my life to, but today I am working on a new venture. 
+After experiencing so many highs and lows, I now feel much more prepared, and confident that I gained tools and learned lessons that will help me avoid another failure. 
+In my previous post, I shared some insights on how to validate your idea before jumping into deep water. But what happens once your idea is validated? What are the next steps? Here are some tips to get you going.
+Carefully select your core team
+Finding co-founders is extremely hard. There aren’t many people who are willing to leave their comfortable job and join a demanding and often discouraging project that may likely end up failing.
+It is also very hard to find people with enough self-discipline and motivation to take a non-existing dream and turn it into reality. That’s why you need to be extremely careful when you stumble upon someone who is actually willing to take this risk and not automatically welcome them on board. 
+Like it or not, when you find your co-founder, congratulations, you just got married. You are about to spend much more time with your co-founder than you spend with your spouse. You are going to experience happy and satisfying moments but also tough and challenging ones.
+
+Just like marriage, you need to find the right match; someone who completes you and makes you stronger instead of the another version of yourself. Find someone who listens and can take criticism, but also stands on their own and speak their mind. 
+You are not looking for an employee but for a co-founder who can contribute and push the company forward. Great founding teams are often composed by a technical person and a business/marketing person. If you want to add a third co-founder, I would look for a good UX/UI person to complete the core team.
+Having the wrong team is one of the most common reasons for startup failures. It’s also one of the reasons for my own failures. Make sure you are not taking this decision lightly. 
+Don’t waste your time creating a business plan
+One of the things they teach you in business school is how to create a business plan. They put so much emphasis on it, that when you graduate, you think that before doing anything else, you first need to write a business plan.
+This might be good in theory… but totally pointless in real life. Fresh out of business school, the first thing that I did before starting my old company was write a business plan. This ended up being a file we did not open once during the course of three years. No investor wanted to see it and our company changed so rapidly that it became irrelevant almost instantly.
+An executive summary, a pitch deck and a financial projection are the things you should spend your time on. 
+
+A good executive summary is a succinct version of a business plan, no more than two pages long. It must clearly convey the company’s message and vision, but most importantly, it has to appeal to investors. It requires the same amount of research as a business plan, but you will not spend days putting it all in writing.
+Since the executive summary is short and snappy, investors can take it in the main points at a glance and read the whole thing in minutes. That is about all the time they will give you at first. Here’s a guide on how to write the perfect executive summary.  
+Once you have the executive summary written, you are ready to create the pitch deck. This is what you will use when pitching to investors, but very often investors will ask to see it prior to a meeting. It has to be eye-catching, to the point, and no longer than 10 slides.
+A good pitch deck will outline the problem and your solution, describe the competitive landscape and your competitive edge, outline your current accomplishments and your roadmap for the upcoming months, portray how you are going to make money off it, and finally, introduce the team who will make it all happen.
+This is a good guide on how to create a pitch deck. If you want to stand out, invest time on the deck’s design. Check out this site for inspiration.
+Lastly, the financial projection is probably the most important section of a business plan. This is a spreadsheet that you will often revisit and edit. It is more important for you and your company than it is for investors, as it will help you set goals, figure out how much money you are going to spend, how many employees you will need to hire and how much money you will need to raise.
+It will also help you figure out if your business model is valid and later on, will tell you if your assumptions were good. You can easily find great financial projection templates with a quick Google search. 
+It cannot be overemphasized that investors have severely short attention spans. They see and hear countless pitches every month, so you have to be as creative as you can to catch their attention. 
+Start building relationships with investors
+
+Raising money is a lengthy task that takes months and can often be supremely frustrating. Don’t wait until the last minute to start raising money. Even if you believe that you have the greatest idea since the invention of the iPhone, chances are this idea will change several times before becoming successful.
+Investors know this, and that’s why they will almost never invest in someone who send them a cold email. They are much more likely to invest in people they know and believe have what it takes to create a successful company.
+That’s why you should start early. Try to get introduced to investors, or find them on meetups and conventions. Tell them about your company, but avoid trying to sell it to them. Ask their opinion and get them involved. They have so much experience, their advice is likely to enrich your product and warn you of obstacles you might have failed to prepare for otherwise.
+Follow-up and keep them in the loop by sending updates on your progress every few weeks. When it comes time to raise money, it will be much easier for you to approach them. By then, they will already know your product, the stepping stones you took and have taken an active part in the process.
+If you did a good job, they should be engaged with your product, and this means they are more likely to want to invest in it.
+Marketing is not less important than programming
+Most startups only begin thinking about marketing after months of development and once the MVP (Minimum Viable Product) is ready. Planning the marketing strategy and building online presence is as important, if not more important, than developing the product.
+Your product might be really beautiful and revolutionary, but what is it good for if no one knows about it? You need to work in parallel to your developers and prepare the surface before launching.
+Create a landing page and start collecting emails of potential users. Don’t neglect these users. Keep them interested by sending an occasional newsletter. 
+
+Build an online presence. Understand who your target audience is and start engaging with it. Write guest blog posts on relevant blogs, comment on forums and give answers on Q&A sites like Quora. 
+Try to get bloggers in your field interested in your story and write about your startup. Don’t send generic emails to a list of bloggers. Understand who you are writing to and show them that you know who they are. 
+Learn about growth hacking. It will open up your world to a huge variety of new possibilities. A good place to start is Growth Hacker TV. 
+Starting a business with no money
+I entered this new endeavor after earning a very small salary on my previous startup. Bootstrapping when you have no money might seem impossible, but I am now learning how much can be accomplished despite that fact. 
+We are two co-founders. I took the role of the CEO since I have a lot of experience with business and product development, and my co-founder took the role of the CTO since he is the superior programmer. Both of us are not mobile developers or very good UI designers.
+Of course, we could have learned a new programming language and developed a mobile app, but this would have meant delaying the entire project by a few months, a luxury we couldn’t afford. Instead, we stuck to what we knew, created the entire back-end logic and hired a UI designer and an iOS programmer to develop our client side. 
+How could we hire two people with no money? South America and Eastern Europe both offer great quality programmers and designers who charge substantially less money than what you would expect to pay in the United States. By substantially, I mean as low as 10 percent, and sometimes less than that.
+Make sure to agree on a set price for the entire project and never pay on an hourly basis. Taking this approach saved us months of work and produced a higher quality product than what we could have produced as newbies to the programming language. 
+You can find high quality designers on Dribbble and programmers on different freelancer marketplaces, such as Elance and ODesk. These are also good places to find help for your marketing efforts.
+Having only two people in the core team and so many hours in the day, means you have to delegate tasks. With a small budget of a few hundred dollars a month, you can hire people who will help you write blog posts, collect information, conduct research and even help strengthen your online presence. 
+Be agile
+
+One of the biggest mistakes I made in my last startup was not realizing on time that the concept was not working. We were so convinced in our vision that we were blind to the fact that it simply didn’t solve a big enough pain.
+Six months went by before we acknowledged that fact and pivoted to something that proved to be much more successful. Six months are substantial for a startup. Because of that wasted time, we ended up without enough money to succeed with the pivot and eventually had to close the company. 
+Plan ahead, think of different scenarios and have a plan B and C. Most importantly, be flexible and agile. Insanity is doing the same thing over and over again and expecting different results, or so Albert Einstein says.
+If something is not working, it probably won’t start working all of a sudden. Take a different path, try another method and don’t be as stubborn and insane as we were. 
+Read next: Growth vs. profit: What should rising startups focus on first?
+							
+							

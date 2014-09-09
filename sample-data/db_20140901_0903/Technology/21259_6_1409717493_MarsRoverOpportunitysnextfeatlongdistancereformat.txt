@@ -1,0 +1,17 @@
+Mars Rover Opportunity’s next feat: long distance reformat Mars Rover Opportunity’s next feat: long distance reformat 
+                
+
+   					
+                     
+                       
+                   
+        			NASA has just announced that it has started preparations to have the Opportunity Mars Rover's flash memory reformatted, a procedure that is relatively rarely undertaken considering the intricacies involved in trying to reformat a computer located on a different planet.That said, it isn't exactly an alien procedure either. Just five years ago, NASA also performed a reformat on Opportunity's now defunct partner in crime, the Spirit Mars Rover, in order to cure amnesia problems that its computer was having. The Opportunity's record is a bit more impressive. Both Rovers started operations in 2004 but it is only now that the Opportunity required such a maintenance procedure.The problem is that this Mars Rover has been experiencing frequent and random resets, already a dozen this month alone, blamed on faulty and worn out memory cells. And it takes at least a day to recover from such resets. While reformatting won't magically fix those cells, it will at least clear out the memory, flag those aberrant cells, and tell the operating system to avoid them. NASA says that, in truth, it isn't as risky as it might sound. The rover's critical software aren't store on flash memory, which is used more for storage of data and photos. That said, of course, preparations are in order.The NASA team has already started downloading all useful data from the rover's flash memory. Yes, even hardcore scientists need to make backups. Then they will switch the rover to a mode that will not make use of that flash memory while it is being reformatted. The team will also have to make provisions to take into account that the rover is 200 million kilometers away from the Jet Propulsion Labs (JPL) in California, where all this will take place. They also have to throttle down the rover's communication, in case the computer resets again while these preparations are still taking place.SOURCE: NASA
+VIA: Engadget
+
+Story Timeline
+
+Mars rover Opportunity breaks space driving distance record
+NASA Opportunity rover finds sign of past non-acidic water on Mars
+Mars rock appears out of seemingly nowhere in Opportunity rover image
+Achievement Unlocked: Mars rover sets off-world driving record
+

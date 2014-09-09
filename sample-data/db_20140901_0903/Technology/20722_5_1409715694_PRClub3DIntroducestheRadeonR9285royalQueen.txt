@@ -1,0 +1,14 @@
+(PR) Club 3D Introduces the Radeon R9 285 royalQueen (PR) Club 3D Introduces the Radeon R9 285 royalQueen Club 3D proudly presents the latest addition to the R9 Series, a card that is built for gaming beyond 1080p and delivers exceptional performance per dollar. The all brand new Radeon R9 285 royalQueen.
+
+The AMD Radeon R9 285 uses the latest iteration of the Graphics Core Next Architecture and gains all the nice features found on the existing R9 290 series as well as the R7 260, supporting natively Eyefinty on the Dual DVI ports + HDMI making it easy for an Eyefinity 3 setup and AMD TrueAudio support.   
+The Radeon R9 285 is AMD's first discreet GPU with a redesigned fixed-funtion decoder (UVD - Unified Video Decoder) that supports full hardware decode of 4K H.264 videos. This next generation UVD supports H.264 base, main and high profile, up to level 5.2. The primary benefit of having a fixed-function decoder, especially for high bit-rate 4K content, is the significantly reduced CPU utilization. This results in a more responsive system and more importantly, the system will not exhibit any skipped frames during playback.
+
+It also provides superior compute performance across a wide number of applications. With a growing number of applications in the market leveraging OpenCL and GPGPU performance in general, this is becoming even more important to the end user.
+
+PokerSeries R9 285 royalQueen
+With "PokerSeries" Club 3D offers a new level of special game cards that delivers the best performance, newest features and best coolers. PokerSeries graphic cards present our highest demands.
+
+Custom CoolStream Cooler
+Club 3D CoolStream features high performance heatpipes that keeps the components cool and outperforms standard cooling solutions. Transferring heat from the center area to each fin, ensuring enhanced heat dissipation. The result is a dramatic increase of performance for your gaming and multimedia experience.
+
+For more information about this product please click here.

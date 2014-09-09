@@ -1,0 +1,6 @@
+Apple releases 7th preview of OS X Yosemite to developers Apple releases 7th preview of OS X Yosemite to developers By AppleInsider StaffThe next version of Apple's desktop operating system drew closer to release on Tuesday as the company pushed OS X Yosemite Developer Preview 7 to registered Apple developers. 
+The update, which Apple as usual says is "recommended for all users," can be downloaded via the Mac App Store. It has not been made available to members of the Yosemite public beta program, who were given access to a second prerelease version in late August.
+Accompanying the new Yosemite beta are updated beta versions of Xcode 6, OS X Server 4.0, and Apple Configurator 1.7. Release notes are not yet available for the updated operating system.
+ 
+				
+				

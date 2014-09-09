@@ -1,0 +1,18 @@
+Sonos 5.1 Update Lets Users Set Things Up Using Their Existing Wi-Fi Networks, No Sonos Bridge Required Sonos 5.1 Update Lets Users Set Things Up Using Their Existing Wi-Fi Networks, No Sonos Bridge Required 
+
+
+
+With a Sonos sound system, people can pump music through every room of the house using their Android phone or tablet as a master control device. This wireless audio jujitsu previously required users to directly plug a Sonos Bridge into their routers, which would create a dedicated network for the system to do its business on. With version 5.1, the Bridge is no longer required. New customers can set up their Sonos systems using their existing Wi-Fi networks.
+
+Now here's the thing, customers who have already got things up and running using a Sonos Bridge should just leave everything as it is. That approach is still the preferable option, as it gives the sound system its own dedicated network. This can result in a better experience than having Sonos share the same Wi-Fi connection with every other Internet hungry device in the house.
+But for people who don't already have a Bridge, Sonos&nbsp;is&nbsp;asserting that doing without a direct connection to a router should still result in a solid experience free of drops, echoes, and delays. The company is confident enough to push new users towards this setup option by default. Nevertheless, there are still some situations that are better addressed by making sure you have a bridge.
+
+BRIDGE setup is ideal for:
+
+Larger homes where the WiFi performance isn&rsquo;t reliable or doesn&rsquo;t reach all of the rooms where you want music. &middot;
+Homes where the WiFi network is already in high demand with streaming video and web surfing and you want to create a dedicated wireless network exclusively for your Sonos speakers.
+Sonos 3.1 or 5.1 home theater system setup (BRIDGE setup is required if you want to pair a SUB and/or a pair of rear surround speakers with your PLAYBAR).
+
+
+For more details, hit up the source links below.
+

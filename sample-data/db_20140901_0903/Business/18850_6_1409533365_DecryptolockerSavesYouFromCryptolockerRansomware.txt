@@ -1,0 +1,14 @@
+Decryptolocker Saves You From Cryptolocker Ransomware Decryptolocker Saves You From Cryptolocker Ransomware 
+Cryptolocker is a nasty piece of malware that encrypts the files on your computer and holds them ransom. If you don&#8217;t pay for a code to unlock the files, you don&#8217;t get them back. FireEye and Fox-IT recently launched a tool to help users get their files back.
+
+You should make sure you have the necessary precautions against malware like Cryptolocker:
+
+
+    Antivirus. We recently covered the best antivirus software and that&#8217;s your best line of defence. No antivirus is foolproof, but it can go a long way.
+  
+
+    Reliable, cloud-based backup. If you can&#8217;t decrypt the files, the only way to get your data back is from a backup. In this case, your recovery options are better withan online backup service. Online backup services can restore your files to a time before they were encrypted; Cryptolocker infects external hard drives so they won&#8217;t help you here.
+  
+
+However, if you&#8217;re already infected, Decryptolocker allows you to email them an encrypted file, after which they will send you a master decryption key and tool to free your files. The keys they are using are based on the original version of Cryptolocker, so they won&#8217;t always be able to help with newer variants. If you can, you&#8217;re better off restoring your files from a backup, but this is a good last line of defence.
+Decryptolocker [via Krebs on Security]

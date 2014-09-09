@@ -1,0 +1,114 @@
+SearchCap: Google HTTPS Study, Consolidated AdWords Billing & Google Quick Answer Failure SearchCap: Google HTTPS Study, Consolidated AdWords Billing & Google Quick Answer Failure 
+								
+							
+							
+							Below is what happened in search today, as reported on Search Engine Land and from other places across the web.
+From Search Engine Land:
+
+Google Quick Answer Fail: NSFW Advice On &#8220;How To Eat Sushi&#8221;
+Google continues to expand the number of quick answers it offers in its results, as well as the size of those answers themselves. But since Google takes these answers from other sites without any human review, that can lead to goofs. The latest: some advice on eating sushi that might not go down well with [&hellip;]
+
+Demystifying The Knowledge Graph
+Columnist Barbara Starr explains the power of the newly extended Knowledge Graph and how to leverage semantic technology for better search visibility.
+
+Google Says There&#8217;s No Bug, Older Versions Of Its Search Page Showing Up On Purpose
+After more than 200 comments on a Google Search Help Forum thread last week, reporting a glitch that caused an older version of Google&#8217;s search page to display in certain browsers, a Google employee claimed there was no glitch at all. According to Googler Nealem, the page was working just fine. The Google employee left [&hellip;]
+
+Report: HTTPS URLs Have No Discernible Ranking Benefit In Google Currently
+In August 2014, Google announced that they would give a small ranking boost to HTTPS with the new HTTPS ranking factor. Now that it is a few weeks later, many are wondering how much of an impact does HTTPS URLs actually have on rankings. The answer according to SearchMetrics is none currently. Marcus Tober of [&hellip;]
+
+Google Rolling Out Consolidated Billing For AdWords MCC Users
+Over the weekend, Google announced the roll out of Consolidated Billing for AdWords users managing multiple accounts through an MCC (My Client Center). The new billing system combines invoices for several accounts into one. Consolidated Billing will replace MDOs (Manager Defined Orders), which were only available upon request from a Google rep among other requirements. [&hellip;]
+
+5 Less Common Link Building Mistakes You Might Be Making
+Even the most advanced link builders can sometimes make simple mistakes. Are you one of them?
+
+Check Out the Workshop Lineup at SMX Social Media Marketing – Best Rates Available Now
+Attend a comprehensive workshop conducted by leading experts in internet marketing on November 18, immediately preceding SMX Social Media Marketing November 19-20 in Las Vegas. Workshop topics: Marketing Land’s Social Media Marketing Boot Camp: The editors of Marketing Land will get you up to speed with traffic and revenue-driving tactics, and provide the context you’ll [&hellip;]
+
+Communicating SEO&#8217;s Value To Clients And C-Level Execs
+When it comes to marketing activities, SEO is often the first thing on the chopping block when budget cuts come around. Here&#8217;s how to avoid the axe. 
+
+
+Recent Headlines From Marketing Land, Our Sister Site Dedicated To Internet Marketing:
+
+U.S. Open Uses Social Media To Tell The #StoryOfTheOpen On A Billboard
+Content Marketing: What To Measure Beyond Sales &#038; Leads
+3 Online Website Creator Tools For Your Small Business
+Will Apple Payments Resurrect Google Wallet?
+VIDEO: HubSpot&#8217;s Dharmesh Shah, The Engineer Who Hacked Marketing, Chats At MarTech
+EU Taking Harder Look At $19B Facebook-WhatsApp Deal
+Why Perfectionists Make Great Content Marketers
+Check Out the Workshop Lineup at SMX Social Media Marketing – Best Rates Available Now
+Disappearing Act: LinkedIn Lays Off InMaps Network Visualization Tool
+The First New User Sign-Up Path In 3 Years Arrives On Twitter
+Richard Branson Asks People to Share #VirginRumors About His New Hotel
+The Case For Embracing B2B Social Marketing
+
+Search News From Around The Web:
+Industry
+
+Google Hosting A Top Contributor Program In Munich, Search Engine Roundtable
+Interview: Inside Google Brain Founder Andrew Ng&#8217;s Plans To Transform Baidu, Forbes
+A New CEO at Distilled, Distilled
+
+Local &amp; Maps
+
+Boost Your Visibility &amp; Your Business with Google+ Local, Vertical Measures
+Moz Local Summer Updates, Moz
+
+Link Building
+
+Hacking Causes Manual Penalty &#8211; Negative SEO is Possible, linkresearchtools.com
+Types of Shareable Content (And How to Earn Links With Them), Search Engine People Blog
+Advanced Link Report upgrades, blog.majesticseo.com
+Content Ideation for Creating Linkable Assets, SEMrush Blog
+Google Webmaster Tools Now Reports More than 100,000 Links, Bill Hartzer
+
+Searching
+
+Through the Google lens: search trends August 22-28, Official Google Blog
+Extracting Facts for Entities from Sources such as Wikipedia Titles and Infoboxes, SEO By The Sea
+Does Google think you&rsquo;re famous?, Washington Post
+Google&#8217;s Black Bar Home Page Is For Older Browsers, Search Engine Roundtable
+Google tests light colors for search results, allgoogletesting.blogspot.com
+Google&#8217;s Private Search Tool Search Results Sporadic, Search Engine Roundtable
+
+SEO
+
+SEO for Ecommerce Websites, SEO.com
+Google Shopping Optimisation Tips, State of Digital
+Looking at Peer Document Titles and Anchor Text when Collecting Facts about an Entity, SEO By The Sea
+SEO considerations when moving from HTTP to HTTPS, Branded3
+Think Globally, Act Locally: 5 Local SEO Strategies for Global Businesses, SEMrush Blog
+7 SEO Lessons on How to Dominate the SERPs, linkresearchtools.com
+Google Now Crawling Final Rendered Page, Skips Static Version, Search Engine Roundtable
+How Does Google Determine Content Quality? How Would You? &ndash; Episode 8, Stone Temple
+
+SEM / Paid Search
+
+Yahoo! tests fixed ads of different colors, allgoogletesting.blogspot.com
+Brand Terms in Bing Ads: To Bid or Not to Bid?, Bing Ads Blog
+Forgot to Transition Your AdWords PLAs? Here&#8217;s What Happens, The SEM Post
+Get Started Australia (Part 9/9): Conversion tracking with Campaign Analytics, advertise.bingads.microsoft.com
+PPC &#8211; The Ultimate Guide to Pay-Per-Click Marketing, PPC Hero
+Spotlight on Fixed Fee Agency PPC Management, koozai.com
+The People vs. Bing Broad Match, PPC Hero
+
+Search Marketing
+
+Microsoft Advertising UK busts industry jargon with #EatAdWaffle, advertising.microsoft.com
+How To Protect Your Online Reputation, Raven Blog
+
+							
+							
+							Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.
+							
+							
+							
+	
+				
+	
+
+				
+							(Some images used under license from Shutterstock.com.)

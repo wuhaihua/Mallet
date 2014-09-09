@@ -1,0 +1,14 @@
+Hackers Using Law Enforcement Tools to Access iCloud Backups Unprotected by Two-Factor Authentication Hackers Using Law Enforcement Tools to Access iCloud Backups Unprotected by Two-Factor Authentication Earlier today, Apple issued a press release stating that an iCloud/Find My iPhone breach had not been responsible for the leak of several private celebrity photos over the weekend, instead pointing towards a "very targeted attack on user names, passwords, and security questions" hackers used to gain access to celebrity accounts.
+
+The company did not divulge specific details on how hackers accessed the iCloud accounts, leading Wired writer Andy Greenberg to investigate the methods that hackers might possibly have used to acquire the stolen media.
+
+Greenberg visited Anon-IB, a popular anonymous image board where some of the celebrity photos first originated, and discovered that hackers openly discuss exploiting software designed for law enforcement and government officials. Called ElcomSoft Phone Password Breaker (EPPB), the software in question lets hackers enter a stolen username and password to obtain a victim's full iPhone/iPad backup."Use the script to hack her passwd...use eppb to download the backup," wrote one anonymous user on Anon-IB explaining the process to a less-experienced hacker. "Post your wins here ;-)"Acquiring just a user name and password allows hackers access to content on iCloud.com, but with the accompaniment of the ElcomSoft software, a complete backup can reportedly be downloaded into easy-to-access folders filled with the device's contents.
+
+According to security researcher Jonathan Zdziarski, who spoke to Wired, metadata from some of the leaked photos is in line with the use of the ElcomSoft software and possibly the iBrute software, which exploited a vulnerability in Find My iPhone to allow hackers unlimited attempts to guess a password. Apple has, however, patched the exploit, and has suggested iBrute was not a factor in the attacks.
+
+As noted by TechCrunch, using ElcomSoft's software to download an iPhone's backup successfully circumvents two-factor verification as the two-factor authentication system does not cover iCloud backups or Photo Stream. Apple's press release pointed towards two-factor authentication as a way to prevent similar hacking attempts, but it appears enabling two-factor authentication would not stop iCloud backup hacks conducted with the Phone Password Breaker.
+
+
+The ElcomSoft software does not require any credentials to purchase and while it costs &#36;399 to purchase, it is also available on bittorrent sites. This gap in security has been known for quite some time, with ElcomSoft's own CEO pointing towards the lack of two-factor authentication for iCloud backups back in May of 2013.
+
+Apple has explored expanding two-factor authentication to some iCloud services, but an official expansion of the security feature has not yet been introduced.

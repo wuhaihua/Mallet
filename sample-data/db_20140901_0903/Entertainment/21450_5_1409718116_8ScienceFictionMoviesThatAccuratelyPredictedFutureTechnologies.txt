@@ -1,0 +1,70 @@
+8 Science Fiction Movies That Accurately Predicted Future Technologies 8 Science Fiction Movies That Accurately Predicted Future Technologies YOSHIKAZU TSUNO/AFP/Getty Images
+It should come as no surprise that science fiction writers have often provided prescient glimpses of future technologies. From the advanced submarine imagined by Jules Verne in his 1870 novel Twenty Thousand Leagues Under the Sea, to the spacecraft described by H.G. Wells in his 1897 novel The War of the Worlds, there are countless examples of science fiction works that have foreshadowed, or even inspired, the development of real technologies.
+With the advent of motion pictures, science fiction writers’ ideas about what the future might look like could also be visually brought to life on screen. While it would be nearly impossible to cite all the future technologies depicted in movies over the hundred-plus years that the medium has existed, there have been several notable science fiction films that have provided particularly accurate predictions of technologies before they were invented.
+Since there are so many films that depict fictional technologies that were later invented, this list is far from comprehensive. However, we tried to include films that featured the earliest depiction of a particular technology. We also highlighted several films that accurately predicted multiple future technologies. On the other hand, some of the movies included on this list were chosen according to our personal preferences and our subjective opinion of what constitutes an accurate prediction of a future technology. Keeping those caveats in mind, here are eight science fiction movies that provided amazingly accurate glimpses of future technologies. Movies are listed in the order of their release dates, from oldest to newest.
+
+          
+                    
+					
+
+
+No, director Fritz Lang’s seminal science fiction film does not depict Google’s open source operating system. However, it does feature one of the earliest movie portrayals of a robot that is made to look like a human. In the film, a mad scientist named Rotwang transforms a robot into a doppelgänger of another character named Maria, in order to crush a workers revolt.
+While today’s androids may not approach the same level of human likeness as Rotwang’s creation, there are plenty of fairly realistic humanoid robots that will take you deep into the uncanny valley. Perhaps the secret to more realistic androids lies in Rotwang’s use of a Tesla coil and an inverted pentagram. As an added bonus for science fiction fans, it should be pointed out that the original robot in Metropolis looks a lot like a cross between Star Wars’ C-3PO and Spaceballs’ Dot Matrix.
+					
+          
+                    
+					
+
+
+While French director Georges Méliès’s famous A Trip to the Moon film preceded Woman in the Moon by over twenty years, the depiction of space travel in Fritz Lang’s film is considered much more realistic. While the characters in A Trip to the Moon utilize a giant cannon to launch their spacecraft into the eye of an anthropomorphic moon, Woman in the Moon includes a fairly accurate depiction of a multistage rocket launch.
+On the other hand, the film’s depiction of some aspects of rocket travel and the moon were pretty far off base, such as the rocket’s launch from water and the existence of a lunar atmosphere. Still, Woman in the Moon offers an amazingly prescient depiction of later rocket launches into space, especially considering that the movie was made twenty-eight years before the Soviet Union’s Sputnik 1 launch.
+					
+          
+                    
+					
+
+
+Among all the wondrous technical gadgetry depicted in Stanley Kubrick’s groundbreaking science fiction film is a device that many of us likely own today: the tablet computer. Besides depicting devices that bear an unmistakable resemblance to the tablets we use today, Kubrick’s film also fairly accurately predicted the time period when these devices would appear. Apple’s iPad made its debut in 2010, only nine years after the setting of 2001: A Space Odyssey.
+As reported by FOSS Patents, the movie props’ resemblance to Apple’s iPad became enshrined in U.S. federal court records when Samsung cited 2001: A Space Odyssey as prior art against Apple’s iPad design patent claim. Fortunately &#8212; as far as we know &#8212; no one has yet tried to replicate Kubrick’s depiction of a killer artificial intelligence.
+					
+          
+                    
+					
+
+
+When it comes to predicting future technologies, it can be argued that the Star Trek franchise tops all other science fiction movies combined. Some of the currently existing technologies that the Star Trek franchise predicted include videophone communications, 3-D printers (replicators), and computer speech recognition. However, perhaps the most iconic Star Trek technology that later became a reality is the handheld communicator.
+Interestingly, the first two Star Trek theatrical releases &#8212; Star Trek: The Motion Picture and Star Trek II: The Wrath of Khan &#8212; depicted the films’ characters using wrist-worn communicators instead of the classic handheld devices used on the original television series. So perhaps the smartwatch should also be added to the list of technologies predicted by Star Trek. However, the classic handheld communicators returned in Star Trek III: The Search for Spock.
+Martin Cooper, the inventor of the first cell phone, cited the handheld communicators depicted in the Star Trek universe as an inspiration for his invention, according to TIME. While Cooper’s first cell phone was a “brick” that bore little resemblance to the handheld communicator seen in the clip above, the “flip phone” design that was later used by various mobile phone makers appears to be directly inspired by Star Trek’s iconic devices.
+					
+          
+                    
+					
+
+
+While this film’s story about a robot that becomes self-aware after being struck by lightning may not be based on solid science, its depiction of the military’s interest in robots was spot on. In the film, “Number 5,” or “Johnny Five,” is an experimental prototype robot that the government has developed for military applications.
+Today, the use of robots by the military for reconnaissance and attack purposes is well established. The best known military robots may be the unmanned aerial vehicles that are used by the U.S. and various other militaries around the world. However, there are also military robots that use a continuous track-based design that looks a lot like Johnny Five’s. Hopefully this MAARS robot developed by defense contractor QinetiQ will never gain self-awareness.
+					
+          
+                    
+					
+
+
+Not surprisingly for a film that revolves around time travel, Back to the Future Part II depicts multiple futuristic technologies. While we’re still waiting for functional hoverboards, Nike has apparently promised self-lacing shoes by next year, according to The Verge.
+Another real technology predicted by Back to the Future Part II is the smart eyewear that Marty McFly’s children are using in the film. Is it a head-mounted virtual reality device like the Oculus Rift, or is it more like Google Glass? We’re not sure, but as seen in the clip above, the device apparently handles phone call notifications.
+					
+
+
+Loosely based on a short story by science fiction author Philip K. Dick, this blockbuster film starring Arnold Schwarzenegger is packed with all sorts of futuristic technologies that have yet to be invented, including machines that can implant false memories and animatronic disguises that sort of work. However, amid all the Martian mayhem, there is also a scene that depicts a technology that is currently being developed by Google: driverless cars.
+To be fair, Google’s self-driving car project does not include a creepy robot driver that looks like the offspring of Andy Griffith and Howdy Doody. The sleek looking self-driving vehicles depicted in 2004’s I, Robot is probably closer to what Google has in mind. However, we give props to Total Recall for giving a fairly early portrayal of what may one day become a widely used technology. 
+
+          
+                    
+					
+
+
+Once again, a Philip K. Dick short story was the source material for a film that portrayed multiple fictional technologies that have since become reality, including facial recognition software, personalized advertising, and psychics who predict future crimes. Okay, maybe not that last one…yet. However, the film did accurately predict gesture-based user interfaces long before touchscreens and motion-sensing inputs became common.
+In the scene, Captain John Anderton &#8212; played by Tom Cruise &#8212; manipulates images on a computer with dramatic gestures. While most people today don’t operate their smartphones and tablets with exaggerated two-handed gestures, the swipe and pinch-to-zoom motions used by Anderton are essentially the same gestures used to operate touchscreens today. The user interface seen in Minority Report also foreshadowed motion sensing input devices like Microsoft’s Kinect system.
+It should be noted that Minority Report’s amazingly prescient predictions weren’t just random guesses about what the future may look like. Director Steven Spielberg told Roger Ebert that like Stanley Kubrick did for 2001: A Space Odyssey, he “consulted with industrial designers, futurists, advertising people, to try to visualize what the future world would look like.”
+
+
+Follow Nathanael on Twitter (@ArnoldEtan_WSCS)

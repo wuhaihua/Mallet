@@ -1,0 +1,11 @@
+Intel Hires Qualcomm Exec To Boost Mobile Efforts Intel Hires Qualcomm Exec To Boost Mobile Efforts Intel has moved to improve its mobile and M2M operations by recruiting a senior executive from rival firm Qualcomm.
+Amir Faintuch, who previously headed up Qualcomm’s networking and connectivity efforts as president of Qualcomm Atheros, will be a senior vice president and co-general manager of Intel’s Platform Engineering Group and will be one of the company’s 12 most senior executives.
+Intel rarely recruits high profile staff from its competitors and, ironically, has been named in a US lawsuit as one of a number of tech firms that agreed not to poach each other’s staff.
+Intel Qualcomm appointment
+However despite leading the desktop and laptop processor market, Intel has struggled with slowing PC sales and has so far been unable to crack a smartphone and tablet market dominated by ARM’s System-on-a-chip (SoC) designs manufactured by the likes of Qualcomm.
+According to Reuters, Intel believes Faintuch will provide the company with more experience in designing SoCs, which will help improve its mobile fortunes and further its ambitions for the Internet of Things (IoT), which has become a major area of focus.
+The company launched an IoT-dedicated business unit in 2013, reporting directly to CEO Brian Krzanich, and has opened four dedicated innovation centres in the EMEA region, the most recent of which was Swindon in June. Earlier this year, Krzanich unveiled a new family of ‘gateway’ solutions for IoT devices based on the Quark System-on-a-Chip and Atom processors.
+Last week, the firm revealed what it claimed to be the world’s smallest 3G modem, adding the development could reduce the cost and improve the effectiveness of connected devices.
+However, the company is increasingly optimistic about the future of the PC market. It has just launched the Haswell-E, its first ever desktop chip to feature eight cores, and raised its forecast for third quarter sales in its most recent results.
+What do you know about Intel? Take our quiz!
+&nbsp;

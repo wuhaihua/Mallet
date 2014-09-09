@@ -1,0 +1,10 @@
+Radar Eyes Can See The Scars Of The Napa Valley Quake From Space Radar Eyes Can See The Scars Of The Napa Valley Quake From Space 
+The colourful picture you&#8217;re looking at isn&#8217;t modern art. In fact, it&#8217;s a radar image that shows the damage caused by the earthquake that hit California&#8217;s Napa Valley at the end of last month.
+
+It&#8217;s actually an interferogram generated from two radar images snapped by Sentinel-1A, the radar imaging satellite of the European Space Agency, on August 7 and August 31, 2014, a few days before and after the 6.0-magnitude earthquake struck California.
+The wine-producing region was hit in the early hours of August 24, 2014, and it was the biggest earthquake that has shaken northern California in 25 years. This radar image comes from the satellite launched in April, and it&#8217;s being used by scientists to analyse the quake. The most important conclusion is that the fault that caused the earthquake is probably more dangerous than experts previously thought. As ESA explains:
+
+The two round shapes around Napa valley, which are visible in the central part of the image show how the ground moved during the quake. Deformation on the ground causes phase changes in radar signals that appear as the rainbow-coloured patterns. Each colour cycle corresponds to a deformation of 28 mm deformation. The maximum deformation is more than 10 cm, and an area of about 30&#215;30 km was affected significantly.
+Interferograms like these are being used by scientists on the ground to help them map the surface rupture and model the earthquake. This interferogram very clearly shows the fault that caused the earthquake, which had not been identified as being particularly hazardous prior to the event.
+
+Picture: Copernicus data (2014)/ESA/PPO.labs/Norut/COMET-SEOM Insarap study

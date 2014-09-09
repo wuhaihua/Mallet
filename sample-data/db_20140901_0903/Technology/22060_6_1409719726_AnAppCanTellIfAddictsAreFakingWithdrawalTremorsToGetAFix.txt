@@ -1,0 +1,7 @@
+An App Can Tell If Addicts Are Faking Withdrawal Tremors To Get A Fix An App Can Tell If Addicts Are Faking Withdrawal Tremors To Get A Fix 
+If your body is used to consuming alcohol every day, and you suddenly stop cold turkey, you&#8217;re going to experience withdrawal symptoms including tremors. They&#8217;re treatable with benzodiazepine drugs, but they can often be abused by addicts who fake tremors in order to get a prescription. Spotting those fake tremors isn&#8217;t always easy, so researchers at the University of Toronto have created a smartphone app that&#8217;s incredibly hard to fool.
+
+The app relies on the smartphone&#8217;s built-in motion sensors (or in this case an iPod Touch&#8217;s) to measure the strength and frequency of a patient&#8217;s supposed tremors. Through testing and trials in hospitals around Toronto, the researchers found that those suffering from genuine alcohol withdrawal exhibited tremors with a peak frequency of just over seven cycles per second. And using that data, the app is able to determine if the patient is faking the symptom just to get their hands on the drugs.
+
+
+The app isn&#8217;t quiet perfect yet though. Experienced physicians are still capable of spotting fake tremors with a better success rate. But through continued trials, as well as taking into account other symptoms exhibited by a patient including body temperature and other metrics, the U of T researchers are confident their app could be a vital tool for weeding out patients in the ER just looking to get their hands on some drugs.

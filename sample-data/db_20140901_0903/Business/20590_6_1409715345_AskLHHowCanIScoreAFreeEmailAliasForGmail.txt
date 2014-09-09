@@ -1,0 +1,15 @@
+Ask LH: How Can I Score A Free Email Alias For Gmail? Ask LH: How Can I Score A Free Email Alias For Gmail? 
+Hey Lifehacker, I&#8217;m trying to figure out how to get a free email alias that I can automatically forward to my personal Gmail. I love Gmail and its integration with other Google services, but for business purposes my Gmail handle is a little unprofessional.
+I created my email handle when I was a teenager (I&#8217;m now 28), and it&#8217;s not really appropriate for putting on resumes. I have previously used the bundled email addresses from my ISP before, but these have changed over the years and lack continuity, especially as I am about to move overseas!
+I looked into getting a domain name and email, but can&#8217;t justify the cost just for a business-friendly email address (I&#8217;m an engineer working for a large multinational &#8211; it&#8217;s not like I need my own website or online presence). Creating another Gmail handle seems impossible without a strange option with weird numbers at the end &#8212; again, not ideal for business purposes. Can you recommend a free option for a business-friendly email alias?
+Thanks
+Need A Name
+Office picture from Shutterstock
+Dear NAN,
+Our basic take on this is short and blunt: cough up a few dollars and pay for your own domain already. You&#8217;re an adult working as an engineer. You might not need a domain for your own web site right now, but who knows where your career will take you in the future? 
+Here&#8217;s a simple option: a Google Apps for Business account costs $50 a year. You can easily register a domain for $10 or less and use that with the Google Apps account, giving you the full range of Gmail services when you need them. If you&#8217;re worried about looking professional, $5 a month isn&#8217;t actually a lot. Think of it as a medium-priced business shirt once a year.
+The basic problem with any free option is that as you&#8217;re not paying for it, you have no grounds for complaint if it doesn&#8217;t work. You also have no guarantee that it&#8217;s going to continue operating in the future. Not being able to reply to your mail looks much less professional than anything you&#8217;re worried about right now. So does having your email automatically peppered with ads, which happens with some free services.
+If you absolutely refuse to spend the money, then creating a second Google account for use in business contexts is the best way to go. Yes, most of the &#8220;good&#8221; names are gone and you may end up with a sequence of numbers on the end. However, if you&#8217;re not prepared to invest in your own domain, that&#8217;s the price you&#8217;ll pay &#8212; and realistically, most business contacts aren&#8217;t going to spend a lot of time contemplating your email address. The content of the email matters more. Tech entrepreneur Ruslan Kogan says that he favours candidates with Gmail addresses or their own domain, but even he doesn&#8217;t seem too worried about what the address is.
+Cheers
+Lifehacker
+Got your own question you want to put to Lifehacker? Send it using our contact form.

@@ -1,0 +1,74 @@
+How Robots Could Soon Learn to Teach Themselves How Robots Could Soon Learn to Teach Themselves 
+Robots that can learn how to do just about anything, including anticipating what their human owners are about to do, may be lurking around the corner if scientists at four leading research universities and several high tech companies achieve their goal.
+
+                                        
+                                        
+                                    
+                                            
+                                            Patrick Aventurier/Getty Images
+                                        
+                            
+                        
+                        
+No human assistance needed.  Robots anywhere in the world will be able to call up Robo Brain and find out how to pour a cup of coffee, or assemble a bike, or build a better world.
+
+That's the goal of scientists like Ashutosh Saxena of Cornell University, the principle investigator in an ambitious multidiscipline project that could revolutionize the world of robotics.
+
+"Every robot in the world should be able to connect to our Robo Brain" within a few years, Saxena said in a telephone interview.  "It's just like people going on the Internet to find information."
+
+Think You Decide What You Want to Eat? Think Again
+
+How the Cuckoo Wages an 'Evolutionary Arms Race'
+
+How the Clever Hummingbird Tortures Scientists
+
+Robots will be able to ask questions, read manuals, watch videos, or even interact with a human if necessary, paving the way to the Holy Grail of computing -- robots that can learn on their own.
+
+Sound like science fiction?  It's not.
+
+Researchers at Cornell, Brown and Stanford universities and the University of California, Berkeley, are heading up the project, and they will soon be joined by six other research universities.  They are supported by the National Science Foundation, the Office of Naval Research, the Army Research Office and the National Robotics Initiative. And, by the way, the deep pockets of Google, Microsoft, Qualcomm, and the Alfred P. Sloan Foundation.
+
+So this is the real deal.
+
+Robo Brain is based on cloud computing, or the use of shared resources toward common goals.  So far, about 1 billion images, 120,000 You Tube videos, and 100 million documents and appliance manuals have been added to the cloud. Those numbers are expected to soar into the stratosphere over the next three years.
+
+Only the universities have access to the brain at the moment, but in three years the researchers expect to link the cloud to a server, making it accessible to anyone.  But it will be more than an Internet for robots.  
+Saxena described it as "a knowledge base" offering tried and proven ways to get something done, and hopefully without the tons of misinformation crowding the Internet.
+
+The researchers are working with several existing robots, including PR2 and the ever-so-clever Baxter, which is designed to do the grunt work in factories, freeing humans for more challenging tasks.
+
+The obvious ultimate goal is to make robots more like us, and thus more useful to us in many ways.  And therein lies a conundrum: robots are more predictable than humans.  But for robots to work side by side with humans, and do whatever we want them to do, they have to anticipate what we are about to do next, like turn left when our right-turn blinker is flashing.  That's probably what Google's driverless car is thinking.
+
+How is a robot supposed to know what we are about to do, even if we aren't sure ourselves?  That's not as hard as it sounds, according to Saxena, who pointed out that we humans are actually pretty predictable.
+
+
+
+"People follow habits," he said.  "We do some things more than others.  We use our right hand more than our left.  When passing someone else, we usually pass on the right.  We know how people behave because of kinematic constraints (we can't really jump over the moon) and our actions are based on habits, so it's possible to guess what a person is going to do."
+
+One video shows a robot about to pour a cup of coffee, but it stops when it sees a person's right hand moving toward the cup.  Chances are the hand is going to move the cup, allowing the coffee to spill across the table.  So the robot waits.
+
+It learns, in other words, how to pour the coffee safely, after it has figured out how to open the coffee can and make the coffee and retrieve the cup from the cabinet, and so forth.
+
+
+
+
+
+A good robot also needs to learn how to be polite.  Another video shows a soccer fan transfixed before a television set, anticipating an upcoming play.  But a robot, on its way to the coffee machine, moves between the fan and the TV at just the wrong moment.  The robot quickly learns to go around the viewer the next time.
+
+
+
+
+
+Saxena almost makes it all sound too simple.  But he notes that all we need to access the Internet is a smart phone, or a laptop.  Any respectable robot would come with that ability, and Robo Brain will be accessible 24/7.
+
+To function in a human environment a robot needs to understand the most fundamental facts, like the function of a chair.  There are all kinds of chairs, used for all kinds of purposes, like reading, sitting, sleeping, eating.  Just getting that through to a robot requires what the researchers describe as "deep learning."
+
+That means translating a coffee mug into a series of abstract images that the robot can comprehend through its three-dimensional vision.  That's right, Saxena said, robots "see" in 3-D.
+
+That's actually based on technology dating back to the 1960s -- a lifetime ago -- when scientists created LIDAR (sometimes spelled Lidar, or lidar) which combined light (LI) and radar (dar) to image three dimensional objects, like the surface of the Earth.
+
+They can see, they can hear, they can talk, and soon all of them will be able to tap into the Robo Brain to learn how to open a door that has a weird handle.  Nobody needs to help them.  They can watch a video, or read a manual, or study a diagram.
+
+They can stay on the job for 24 hours, seven days a week.  They aren't likely to sue you, or go out on a strike.
+
+But that leaves us with a question.  When they finally know how to do everything, why would they need us?

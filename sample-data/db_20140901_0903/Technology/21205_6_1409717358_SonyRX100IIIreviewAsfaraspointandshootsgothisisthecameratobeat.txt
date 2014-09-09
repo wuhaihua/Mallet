@@ -1,0 +1,104 @@
+Sony RX100 III review: As far as point and shoots go, this is the camera to beat! Sony RX100 III review: As far as point and shoots go, this is the camera to beat! 
+				Sony RX100 III review: As far as point and shoots go, this is the camera to beat!
+			
+									
+								Sony RX100 had marked a beginning as far as its compact advanced point and shoot series went. For its compact size, it tends to pack in a lot of features and offers good performance. Last year we had seen the Sony RX100 II and we came away impressed with the overall image quality and handling, although not so much with the pricing. But since its launch, the price has come down significantly. So continuing with its yearly refresh cycle, Sony has now come out with the Sony RX100 III. Unlike the RX100 II, which just added wireless connectivity and a hot-shoe accessory, the RX100 III brings in some major improvements which we shall see in a while.
+&nbsp;
+Build and Design
+Sony RX100 III looks similar to its previous two iterations from the front, having the same sturdy metallic body with a smooth palm rest
+Looking from the front, you will barely notice any major change, apart from the top bump, which was present on the RX100 II. The RX100 III has done away with the accessory port, which we felt was anyway unnecessary as the accessories cost a lot. Build quality is identical to the one seen on the RX100 II having a black coloured all-metal body. The only changes on the top portion of the RX100 III is the presence of the pop-up flash unit in the centre, where the RX100 II had the accessory port. The button placement on the right hand side is identical to the RX100 II with the mode-dial to the extreme right with the shutter and power buttons closeby.
+&nbsp;
+On the rear side you have a 3-inch 1228k-dot LCD screen with a retractable EVF on top
+So the first major addition that we were referring to earlier, is the presence of a dedicated electronic viewfinder (EVF). The way Sony has implemented the EVF ensuring the compact nature of the RX100 III remains unchanged is nothing short of impressive! Instead of having an EVF which stands atop the camera or juts of from the side, thereby creating additional vertical or horizontal protrusion, Sony has gone with a retractable design. Just like the pop-up flash unit, you have a notch which releases the EVF from its closed state. But that is just half the equation. You will need to pull out the EVF to be able to see clearly through the glass. There’s a very fine dioptre adjustment notch above the EVF glass enclosure. When closed, you will not even realise that the camera has an EVF.
+&nbsp;
+The top portion is flat housing the pop-up flash and retractable EVF on the left. It features a control ring around the lens element
+The other common elements in terms of build quality include the metallic control ring around the lens barrel and the tiltable LCD screen. The hinge mechanism is a bit different with the RX100 III. Instead of being able to only tilt it by 90 degrees on the RX100 II, Sony has moved on with the times and allowed a full 180 degree flip &#8211; an obvious attempt at capturing the need of an increasingly selfie-enthusiast market. So you can shoot from waist-level, take a selfie and even shoot over your shoulder height thanks to the 45 degree front tilt support.
+&nbsp;
+Button arrangement on the rear side is the standard directional pad in the centre, surrounded by four buttons around it. From the top, you have the function, menu, playback and custom buttons. The movie-record button is placed in the corner and has a metallic build. We liked the rubber finish on the thumb rest, and would have really liked to see a rubberised finish around the palm-grip region as well. Sony does sell a rubberised palm grip separately.
+&nbsp;
+Features
+Sony RX100 III features the same 20.1MP 1-inch Exmor R BSI-CMOS sensor and pairs it with the BIONZ X image processor. The latter is seen in Sony’s high end cameras such as the Alpha 7/7R as well as the RX10. The ISO range for the RX100 III is the same as its predecessor going from ISO 80 to ISO 12800.
+&nbsp;
+The Sony RX100 III drops the accessory port, giving a dedicated EVF instead.
+&nbsp;
+In terms of feature set, the major addition has got to be the use of a faster lens. While the maximum aperture at the widest end is the same as the RX100 II i.e. f/1.8, it is the aperture at the telephoto end which blows the socks off the RX100 II; it&#8217;s  f/2.8 as against the f/4.9 on the RX100 II. This does come at a slight cost of the optical zoom range. Where the RX100 II offered 3.6x optical zoom (28-100mm equivalent focal length), the RX100 III offers a 2.9x optical zoom (24-70mm equivalent focal length). While the zoom range is lost, notice that you have a wider lens, allowing you to get slightly more within your frame.
+&nbsp;
+Other features are pretty much the standard ones carried over from the RX100 II. The user interface on the RX100 III is slightly different with the menu layout slightly modified. Wireless adapter and NFC allow you to transfer images from the RX100 III to your mobile devices, using the Play memories app. You can also shoot remotely using your mobile devices, along with the Smart remote embedded application on your camera.
+&nbsp;
+The 3-inch screen can flip up by 180 degrees, allowing the selfie enthusiasts to click selfies with a 3-second timer
+&nbsp;
+The 0.39-inch electronic viewfinder sports a 1440k-dot resolution and is bright enough despite the small size. To save on battery, you can set the display to be seen only on the EVF. The 3-inch LCD screen has a 1229k-dot resolution, and you can opt between three types of display &#8211; on showing all the features on the screen in live-view mode, one showing just the settings on a black background and two minimal ones showing the histogram and the control rings.
+&nbsp;
+The remote shooting menu on the Smart Remote Embedded application for the RX100 III is quite minimal letting you adjust only the exposure and zoom
+Video mode allows you to shoot in the XAVC S format, but ensure that your SD card is compatible with shooting that format. It allows you to shoot slow motion videos at 100p and so on. Apart from that you have the AVCHD and MP4 formats as well. With the MP4 format though you can only shoot at 1440&#215;1080 and VGA resolutions.
+&nbsp;
+On the imaging front, you have the dynamic correction, HDR, image stabilisation, face detection and smile detection features. The sweep panorama mode makes shooting ultra-wide images easier with internal photo stitching.
+&nbsp;
+Performance
+ Studio ISO Performance
+Our studio ISO test comprises a setup which has a healthy mix of colours, textures, materials, fine text and so on. We affixed the Sony RX100 III on a tripod and kept it in the Aperture priority mode at f/6.3. We proceeded to take images across the ISO range. To ensure minimal camera shake we had a 2-second timer enabled to click the pictures.
+&nbsp;
+Sample shot of the Studio ISO setup
+The studio ISO performance of the Sony RX100 III is at par with that on the Sony Alpha A6000. From ISO 100 to ISO 1600, you get relatively noise-free images. Even at lower ISO levels such as ISO 80, you have extremely clean images. At ISO 3200, you will notice some noise at 100 per cent crops, but not so much as to render the image useless. Around ISO 6400, you will notice a marked deterioration and get a more waxy output. The text on the bottle is unreadable, the Intel logo beside Spongebob figure is illegible, the thread spool appears as solid blocks of colour, and so on. With the fast lens, you will barely need to stretch the ISO to such high levels. For most low light use cases, ISO 3200 gives decent enough images. ISO 12800 is completely useless.
+&nbsp;
+Note: Images below have been resized. To see the full sized images, please click on them. Additionally, visit our Sony RX100 III album on Flickr to see more high resolution images.
+&nbsp;
+ISO 80
+ISO 125
+ISO 200
+ISO 400
+ISO 800
+ISO 1600
+ISO 3200
+ISO 6400
+ISO 12800
+&nbsp;
+Focus and Handling
+It locks focus fast while shooting outdoors. ISO 125, f/4, 1/2000th sec
+&nbsp;
+Like its predecessor, the Sony RX100 III features a contrast-detect AF system. So although it is fast, it is nowhere close to the AF speed on the Sony Alpha A6000 which employs a hybrid AF system. Most of the focus related features are similar to the older RX100 II, but thanks to the BIONZ X image processor, you now have a lock-on AF feature, which helps with focus tracking. It can be used in conjunction with the other types of focus such as centre, wide and flexible point AF. We didn’t find it that effective though when it came to fast moving objects. Another irritation was that you need two clicks to be able to move around the focus point when in the Flexible spot AF mode. AF speed is decent in the daytime, but by dusk, things start getting relatively slower. We liked the DMF option, which allows you to use both autofocus as well as the control ring to focus on your subject.
+&nbsp;
+Note: Images below have been resized. To see the full sized images, please click on them. Additionally, visit our Sony RX100 III album on Flickr to see more high resolution images.
+ISO 125, f/2.8, 1/30th sec
+Handling of the camera is superb. Thanks to the compact size and the easy reachability of all the buttons, even one-handed operation is easy. It being a light camera, doesn’t cause any fatigue. The function menu can be adjusted based on your preference, which makes shooting quicker. Also there is a dedicated custom button which you can set to one of the 42 functions on offer. The control ring can also be set to one of nine different functions. You can even set the control ring to work as a step zoom. One issue which could annoy users is that the RX100 III shuts down after you put the EVF compartment back in.
+&nbsp;
+Image Quality
+ISO 1000, f/2.8, 1/80th sec
+Image quality is where the RX100 III shines, giving images with natural colours with image sharpness maintained at the centre as well as around the edges. Even while shooting fine objects such as leaves on a tree at a distance, the RX100 III is able to resolve it well at regular ISO levels. Colours were quite vibrant even in the standard creative style mode. Chromatic aberration or purple fringing is almost non-existent in most cases. You can play around with around 18 creative styles. You have around three custom WB modes, along with one where you can set the white balance from the surroundings. Dynamic Range and HDR modes allow you to further tackle tricky light conditions. Apart from this there are 15 picture effects and 12 scene modes to further help out with optimising the image quality. We quite liked the Extra fine JPEG mode, although the noise reduction algorithms can be a bit aggressive at high ISO levels as compared to an equivalent RAW file, which also gives you more leeway to play around with the highlights and shadows.
+&nbsp;
+Note: Images below have been resized. To see the full sized images, please click on them. Additionally, visit our Sony RX100 III album on Flickr to see more high resolution images.
+ISO 125, f/4, 1/160th sec
+ISO 125, f/4, 1/125th sec
+ISO 1000, f/2.8, 1/80th sec
+ISO 6400, f/2.8, 1/25th sec
+Video Quality
+
+Video output is decent with ample scope for casual as well as semi-pro work. It does offer manual mode shooting and it supports the high bitrate XAVC S format, but sadly for using that format, you will need an SDXC card. The XAVC S format did not work with Sony’s own bundled 8GB SDHC card, which is terribly slow, and neither did it work with our test card &#8211; the SanDisk Ultra 16GB SDHC card. You can shoot slow motion videos with the XAVC S format which offers around 100fps video modes as well. We liked the fact that you can shoot on manual settings or on aperture or shutter priority modes. A microphone input would have been handy for those using the RX100 III for shooting some professional video. The continuous AF is speedy enough considering it only has contrast detect AF. You do notice that little bit of twitching before the camera locks focus, but on the whole C-AF mode works well.
+
+While shooting outdoors, we notice some amount of shutter rolling with fast moving objects. The auto-exposure works well as is seen towards the end of the video. We also liked the optical Steadyshot image stabilisation mode which controls camera shake well when shooting while walking. It is not as good as the 5-axis image stabilisation we saw on Olympus cameras though.
+&nbsp;
+Verdict and Price in India
+Sony RX100 III improves upon the RX100 II, which in itself was a great point and shoot camera. It is not just an iterative update like the RX100 II was to the RX100, but adds in some major features such as a faster lens and a dedicated viewfinder, which can appeal to those who love street and documentary photography. Its light weight and compact size allow you to easily carry it in your back pocket.
+&nbsp;
+It does have some flaws, but the good points easily overshadow the bad ones. Battery life is not that great and the draining is accelerated if you shoot video. Even the use of EVF hits battery life. Only way to resolve this issue is to carry an extra battery. We really feel Sony should have bundled an external charger with the camera. Rendering the camera useless when a battery is charging is just plain stupid. Some of you may crib about the LCD not being touch-sensitive, but it does not take away from the user experience at all. Some may also find the turning off of the camera after closing the EVF annoying.
+&nbsp;
+The price point of Rs 54,990 slots this in a precarious position. And the competition is not from the Canon G1X Mark II (the RX100 III easily outperforms the G1X Mark II) which is still Rs 3,000 higher, but Sony’s very own Alpha a6000 which is Rs 3,000 less. Agreed, the a6000 is a mirrorless camera, and definitely not as compact as the RX100 III &#8211; and this is where it can put a potential buyer in a big dilemma. If you are looking for a strictly compact camera, go for RX100 III, but if AF speed is of prime importance to you, even at the cost of compactness &#8211; then the phase-detect focus on the a6000 is the way to go.
+&nbsp;
+Another thing to note is that the RX100 II comes at around Rs 35,000 and for someone who is willing to forego the EVF, RX100 II is still a fantastic camera. At a Rs 20,000 premium over its older sibling which is a good camera in itself, Sony is charging a bit much for the RX100 III. Of course, if money is no objective then the RX100 III comes highly recommended.
+
+Sony has been doing some innovative work in the camera segment, and the RX100 III is a good example of that. The benchmark set by the original RX100 has been maintained by its third gen sibling. It is a joy to work with and offers great handling and is packed to the gills with features. We wished it came with a better price tag. But still, as far as compact point and shoots go, the RX100 III is the camera to beat!
+
+				
+											Related:
+													#digital cameras 
+													#Sony RX100 III India Price 
+													#Sony RX100 III performance 
+													#Sony RX100 III review 
+													#Sony RX100 series 
+															
+				
+
+				
+			
+				
+			Sony RX100 III looks similar to its previous two iterations from the front, having the same sturdy metallic body with a smooth palm restOn the rear side you have a 3-inch 1228k-dot LCD screen with a retractable EVF on topThe top portion is flat housing the pop-up flash and retractable EVF on the left. It features a control ring around the lens elementThe Sony RX100 III drops the accessory port, giving a dedicated EVF instead.The 3-inch screen can flip up by 180 degrees, allowing the selfie enthusiasts to click selfies with a 3-second timerThe remote shooting menu on the Smart Remote Embedded application for the RX100 III is quite minimal letting you adjust only the exposure and zoomSample shot of the Studio ISO setupISO 80ISO 125ISO 200ISO 400ISO 800ISO 1600ISO 3200ISO 6400ISO 12800It locks focus fast while shooting outdoors. ISO 125, f/4, 1/2000th secISO 125, f/2.8, 1/30th secISO 1000, f/2.8, 1/80th secISO 125, f/4, 1/160th secISO 125, f/4, 1/125th secISO 6400, f/2.8, 1/25th sec

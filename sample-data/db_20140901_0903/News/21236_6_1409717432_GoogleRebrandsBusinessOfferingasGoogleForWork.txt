@@ -1,0 +1,10 @@
+Google Rebrands Business Offering as ‘Google For Work’ Google Rebrands Business Offering as ‘Google For Work’ Google has rebranded its enterprise service offering as ‘Google for Work’ with the company seeking to expand the reach of its cloud services.
+In a blog post, Google Chairman Eric Schmidt explained the name change reflected its desire not to create a traditional “enterprise” business, but encourage new ways of working.
+He said Google’s business offering had expanded significantly since it first entered the market with search and Gmail ten years ago, with the company capable of offering a full range of cloud-based services.
+Google for Work
+“Work today is very different from 10 years ago,” said Schmidt. “Cloud computing, once a new idea, is abundantly available, and collaboration is possible across offices, cities, countries and continents.”
+Google offers collaboration and storage tools in the form of Google Drive for work, while it can also provide hardware with Android and Chrome based systems. But one of the biggest developments is the ability for companies to build infrastructure services using the Google Cloud Platform.
+This comprises Google’s Big Query analytics platform, its app engine, its cloud storage and Google Compute Engine physical infrastructure. These are the same tools which power Google’s own services and bring it closer in line with rivals like Amazon Web Services (AWS) and Salesforce. The company claims five million businesses use its services and Schmidt hopes the name change will appeal to all size of business.
+“We’ve invested in what matters to our customers and partners &#8211; security, transparency, compliance and customer support. And our team, the breadth of our offerings, and our commitment to business customers have all increased substantially.
+“As of today, what was called Google Enterprise is now, simply, Google for Work. When we use the tools that make our lives easier—Google Apps, Maps, Search, Chrome, Android, Cloud Platform and more—work gets better. And that’s what we’re working on—the best of Google, now for work.”
+Are you an expert on Google? Take our quiz!

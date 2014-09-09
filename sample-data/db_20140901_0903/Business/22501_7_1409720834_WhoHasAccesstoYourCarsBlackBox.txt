@@ -1,0 +1,19 @@
+Who Has Access to Your Car's Black Box? Who Has Access to Your Car's Black Box? A mandate requiring automakers to include black boxes in their vehicles kicked in this month, and access to the wide array of information stored on those devices could be the next item on the regulatory agenda.
+
+As of Sept. 1, the National Highway Traffic Safety Administration requires manufacturers to install black boxes -- officially known as event data recorders -- in all new vehicles rolling off assembly lines. EDRs record information such as throttle position, brake position, vehicle speed, air bag deployment and whether seat belts were buckled.
+
+But the use of black boxes is nothing new. According to the Insurance Institute for Highway Safety, 91.6% of new vehicles were already manufactured with EDRs back in 2006. The latest versions capture a greater amount of data points, thanks to more advanced technology inside vehicles.
+
+"Manufacturers have been using black boxes for several decades," Edmunds.com executive editor Ed Hellwig said. "They used to record information on a limited number of things because there were few electronic inputs available. Now there are probably hundreds of inputs."
+
+The regulatory mandate sparked a debate over driver privacy, with some consumers voicing concern over location data and other bits of information. So far, access to EDR data is limited. Information stored on a vehicle's black box belongs to the owner, IIHS says. Police, insurers and automakers can only retrieve the data with an owner's consent.
+
+"It's definitely an area where NHTSA is looking," Hellwig said. "There's a pretty long list of people who would want that information. It's more of a legal quandary than a technical one."
+
+Law enforcement often seek access to EDRs as part of their crash investigations. For manufacturers, EDRs can help develop or improve safety features in future generations of vehicles.
+
+Insurance companies also have a stake in the effort to unlock EDRs, since black boxes can help determine who was at fault in an accident. Insurers can include provisions in their policyholders' contracts to require that drivers hand over EDR data, although some states prohibit insurers from doing so.
+
+Hellwig noted that insurance companies often get around limitations on EDR access by having owners opt in to programs, some of which offer discounted rates for safe driving.
+
+"For some people, that's fine. It puts it in the hand of the consumers, one thing NHTSA is considering," Hellwig added. "Access to information is what most people are concerned about. There's quite a bit that's still left to be decided."

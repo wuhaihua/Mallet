@@ -1,0 +1,42 @@
+After Nude Photo Hack, Should Cloud Users Be Worried? After Nude Photo Hack, Should Cloud Users Be Worried? 
+For anyone whose digital life needs some extra space, the cloud seems like a miraculous solution.
+
+                                        
+                                        
+                                            
+                                        
+                                                                Nude Photos of Celebs Released on Internet
+                                                                Martin Bureau/AFP/Getty Images
+                                                            
+                                        
+
+                                
+                                
+                            
+                        
+                        
+But after dozens of purported nude and risque photos of celebrities, including Jennifer Lawrence and Kate Upton, leaked online late Sunday, reportedly hacked from their personal cloud accounts, users might be concerned about their own cyber safety.
+
+How the Cloud Really Works
+
+Hackers Post Alleged Naked Pics of Jennifer Lawrence and More
+
+"A lot of people don't understand how far their information is spreading," Clifford Neuman, the director of the USC Center for Computer System Security, told ABC News. "There's a lot more stuff that gets sucked into these sites than one would understand."
+
+Many people use the cloud and don't even know it -- Google Drive and Dropbox are common examples.
+
+Experts say that, to be safe, it's important to remember how the cloud works and that when you sync a device like your smartphone to the cloud, it creates two copies of files.
+
+At least one of the hacked stars, Mary E. Winstead, said she deleted the leaked photos "long ago."
+
+However, if you delete something from a device like a tablet or smartphone, it doesn't necessarily delete from the cloud, Neuman pointed out.
+
+"You still have to go into the cloud account and delete it, in many cases," he said.
+
+Another problem is passwords. If you use the same password for multiple accounts, as many people do, you're at greater risk. If one of your digital accounts is hacked and you're using the same password for your cloud account, hackers can also gain access to what's on your cloud.
+
+"You should be using a different password for your cloud account than you do for other accounts," Neuman said.
+
+People should also know that they can unlink their devices from the cloud.
+
+"The downside, of course, is that if you lose your phone you lose everything that's on it, like photos," Neuman said.

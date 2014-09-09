@@ -1,0 +1,49 @@
+How Your Landing Page Can Connect With Every Area Of The Human Brain How Your Landing Page Can Connect With Every Area Of The Human Brain A landing page should connect directly with the user’s mind. 
+But how does this really work? In order to create a mentally engaging experience for the user, how should a landing page look, work, feel, function?
+	
+								 
+This article explains each of the four lobes of the brain, their function, and how a landing page can create an experience that connect with every area. The result is a landing page that is intensely engaging. The greater your understanding of a user’s mental process, the more effectively you will be able to create a landing page that gains conversions. 
+The brain has four main lobes, or sections — the frontal, parietal, occipital, and temporal. Each section of the brain has a distinct function.
+								
+										 
+Connecting with the Frontal Lobe 
+What does the frontal lobe do? 
+This is the section of the brain that is responsible for reasoning, planning, speaking, and problem solving. The frontal lobe governs the body’s executive functions, which refers to the management of memory, reasoning, and execution. 
+How do you connect to the frontal lobe?
+										
+										 
+ 
+  Ask the user to make a choice. A great way to target the frontal lobe is through choice-based landing pages. A choice, no matter how easy, is a problem-solving event. The frontal lobe is the problem-solving center of the brain. By giving the user a choice, you are activating this section of brain, making the landing page more interactive and memorable.  
+  Present the user with data. Frontal lobe activity is often referred to as “analytical.” It is responsible for the “higher order functions” — the type of information that is associated with reasoning, deduction, and analysis. Thus, it can be persuaded through rational means —&nbsp;statistics, data, metrics, etc.  
+  Provide product comparison charts. Information in chart form directly addresses the functions of the frontal lobe. The purpose of charts may be to compare the features of your product with other products or to demonstrate the price difference.  
+  Use time-based language. The frontal lobe possesses chronological processing power. Messaging such as “offer good for two weeks only,” or “bidding closes at midnight” will connect with the frontal lobe.  
+ 
+Connecting with the Temporal Lobe 
+Functions of the temporal lobe: 
+The temporal lobe is associated with perception, recognition, processing auditory stimuli, memory, and speech. This section of the brain is located around the temples (thus the name). Because it’s so close to the ears, much of the brain’s auditory functionality is located in this region. However, it is also responsible for processing speech, vision, and new memory encoding. 
+How do you connect to the temporal lobe? 
+ 
+  Use pictures of people’s faces. Scientists have long studied the brain’s process in recognizing faces. Infants can recognize faces just a few hours after birth. We recognize hundreds of different faces and can detect small differences, even though we’ve seen thousands of different faces over a lifetime. This unique feature of the human brain — the fusiform face area — is remarkable in its power. Featuring pictures of human faces on a landing page will immediately activate this section of the brain.  
+  Create a landing page that is unusual or memorable. The temporal lobe encodes new memories. Events, particularly language or visual memories as opposed to experiential memories, are processed through the hippocampus of the temporal lobe. If you create a landing page experience that is unusual or otherwise memorable, you will accurately activate this portion of the brain.  
+  Skillfully use headlines. The temporal lobe’s function in language processing means that your headline is the most direct way to affect this area of the brain.  
+ 
+Connecting with the Occipital Lobe 
+Functions of the occipital lobe: 
+A person’s occipital lobe is the visual processing center. Even though it is the smallest of the four lobes in the brain, it is responsible for keeping a “full map of the visual world.” The occipital lobe basically takes the information from the eyes and makes sense of it. 
+How do you connect to the occipital lobe? 
+ 
+  Use pictures. The brain processes images many times faster than text. The quickest way to gain the attention of a user is through images, which immediately activate the occipital lobe.  
+  Create a landing page with visual flow and structure. When the occipital lobe processes visual information, it instinctively creates a map of what it sees. This can be a complex map — like knowing how to drive from your apartment in downtown San Francisco to a hotel in Manhattan. Or it can be a simple map — like the layout of a landing page’s components. If you want to make your landing page connect to the occipital lobe, create a layout that is clean, cohesive, and logical.  
+  Use a relevant color scheme. The occipital lobe is the portion of the brain that differentiates between certain colors. It is also the body’s first response to the psychological affect of colors. To more powerfully activate and engage with the brain’s occipital lobe, use colors that are relevant, compelling, and persuasive.  
+ 
+Connecting with the Parietal Lobe 
+Functions of the parietal lobe: 
+The parietal lobe helps the body move, make sense of its surroundings, and respond to stimuli. This is the area of the brain that processes sensory stimuli, the body’s sense of touch. You use your parietal lobe when you shake someone’s hand, throw a basketball through a hoop, and tap a button on your tablet. 
+How do you connect to the parietal lobe? 
+ 
+  Make CTA buttons large and distinct. You’ve heard of “hand-eye coordination” before. This is where it happens —&nbsp;in the parietal lobe. In order to connect with a parietal lobe, you should use CTA buttons on your landing page — not merely text links. According to Fitt’s Law, the larger and more pronounced this button, the easier it is for the user to click it.  
+  Use motion. The parietal lobe powers the two ways that our minds process vision — the dorsal stream and the ventral stream. The parietal lobe’s dorsal stream is responsible for positioning and tracking objects’ movements. When a person is watching a ball fly through the air, or an ant crawl across the sidewalk, they are using the dorsal stream of the parietal lobe. Motion on the screen is an effective way to use this dorsal processing power. Parallax pages, interactive features, and animated sections of a landing page are ideal for connecting with the parietal lobe in this way.  
+  Use a typical-looking CTA. The ventral stream of the parietal lobe is how the brain recognizes objects. It’s called the “what stream,” because it helps the mind understand what they’re looking at. Closely connected with the long-term memory storage, the ventral stream pairs past “what” memories with “now” objects, making logical connections. That’s why people interact better in familiar visual surroundings. Their mind recognizes objects, shapes, and forms. Rather than attempt some new and unique approach to a CTA button, go with what people are familiar with. Their mind will respond quicker and more readily to familiar signals.  
+ 
+Conclusion 
+The more deeply you engage with the brain, the more effective your landing page will be. A more immersive mental experience on a landing page will result in a page that registers stronger memories, compels greater action, and ends up scoring you more conversions.

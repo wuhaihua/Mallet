@@ -1,0 +1,19 @@
+If You Use An Old Browser, Google Searches For You Like It's 2011 If You Use An Old Browser, Google Searches For You Like It's 2011 
+If you&#8217;re still using an ancient browser, it seems like Google is deliberately serving you an older version of the Google homepage from 2011 in the hope that you will upgrade.
+
+Over the weekend, a user called DJSigma posted on Google&#8217;s official user forums:
+
+A few minutes ago, Google&#8217;s homepage reverted to the old version for me. I&#8217;m using Opera 12.17. If I search for something, the results are shown with the current Google look, but the homepage itself is the old look with the black bar across the top. It seems to affect only the Google homepage and image search. If I click on &#8220;News&#8221;, for instance, it&#8217;s fine.
+I&#8217;ve tried clearing cookies and deleting the browser cache/persistent storage. I&#8217;ve tried disabling all extensions. I&#8217;ve tried masking the browser as IE and Firefox. It doesn&#8217;t matter whether I&#8217;m signed in or signed out. Nothing works. Please fix this!
+
+In less than 24 hours, a Google employee called &#8220;nealem&#8221; had replied:
+
+Hi everyone,
+
+I want to assure you that this isn&#8217;t a bug. It&#8217;s working as intended.
+
+We&#8217;re continually making improvements to Search, so we can only provide limited support for some outdated browsers. We encourage everyone to make the free upgrade to modern browsers &#8212; they&#8217;re more secure and provide a better web experience overall.
+
+What happens when you go back to the older Google Search? You get that unsightly black bar on the top of your screen &#8212; which means you&#8217;ll need to hunt and peck through the links to access Google+, YouTube and other Google services. Worst of all, Google Suggest is completely disabled. The message is clear: upgrade or bust.
+Google already serves up deprecated versions of Gmail to people on outdated browsers, so it isn&#8217;t surprising that it&#8217;s now doing the same thing with its homepage. Because seriously, if you&#8217;re still using something Opera 12.17 or Internet Explorer 8, get a better browser already! [The Register]
+Top image: DJSigma

@@ -1,0 +1,15 @@
+Oracle Unlikely To Challenge TomorrowNow Verdict Oracle Unlikely To Challenge TomorrowNow Verdict In a recent verdict, a federal appeals court vacated the $1.3 billion in penalties and damages awarded to database leader Oracle by a jury in a trial arising our of German rival SAP SE‘s acquisition in 2007 of Tomorrow Now. The jury award had been reduced by the trial judge as excessive, a ruling Oracle appealed. A three-judge federal bench upheld the judge’s ruling and awarded approximately $357 million in damages, with about $121 million in lost profits for Oracle and $236 million in infringement profit for SAP, stating the previous award was “based on undue speculation.” 
+The federal bench directed the trial judge to offer a new trial for Oracle if the company rejected the lower award. However, the company has been barred from presenting hypothetical license damages in case it goes ahead with a new trial.&nbsp;Oracle sued TomorrowNow, an enterprise software services company acquired by SAP in 2007, when it became known that the acquired company had previously and illegally downloaded copies of Oracle software to provide transitional maintenance service to customers migrating from Oracle to SAP applications.
+	
+								 
+See Our Complete Analysis For Oracle Corp. and SAP SE 
+Oracle Is Unlikely To Contest Verdict; SAP To Close the Books a Messy Deal 
+								
+										 
+The original lawsuit from Oracle claimed that TomorrowNow illegally downloaded its software for products such as Seibel, J.D. Edwards and PeopleSoft at lower rates than Oracle, hoping to convince them to become SAP customers. A joint discovery statement states that Oracle has brought serious claims of intellectual property theft, including claims for violation of criminal statutes, infringement of numerous copyrights and a cover-up by SAP’s executive board of directors. 
+Oracle states that TomorrowNow had been utilizing software of companies it acquired allegedly from as far back as 2002, to provide support for services such as Individual Client Fixes, Critical Support Updates, Financial Updates, Master Fixes, Sync-Up Bundles and Retrofit Tax Updates for PeopleSoft software stored on TomorrowNow servers. In September 2011, the trial judge awarded Oracle with compensatory damages of approximately $272 million, lower than the $1.3 billion the jury provided in November 2010. 
+However, SAP stated in its Q2’14 report that Oracle challenged the September 2011 verdict and appealed to seek higher damages. Now that the company has been awarded about $357 million in damages, it remains to be seen if Oracle challenges the verdict and starts with another new trail, which seems less likely. At the end of Q2’14 (ends June 30, 2014), SAP had litigation provisions of approximately €514 million (~$674 million) for the TomorrowNow and Versata lawsuits. 
+See More at Trefis | View Interactive Institutional Research (Powered by Trefis) Get Trefis Technology
+										
+										 
+Like our charts? Embed them in your own posts using the Trefis WordPress Plugin.

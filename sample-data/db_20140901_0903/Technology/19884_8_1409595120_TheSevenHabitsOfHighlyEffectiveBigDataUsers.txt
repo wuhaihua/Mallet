@@ -1,0 +1,45 @@
+The Seven Habits Of Highly Effective Big Data Users The Seven Habits Of Highly Effective Big Data Users Personal improvement educator Stephen Covey originally wrote The Seven Habits of Highly Effective People back in 1989. Since that time his approach to attaining goals effectively has been reimagined and reinvented for an infinite variety of disciplines and behaviours — so why not big data analytics? 
+With so much discussion currently rife across the media concerning just exactly how we should approach big data and derive value out of it, it is useful to look at the personality traits exhibited by those who handle it proficiently. If we know a little more about the mindset of the big data pro, then surely we will know how to handle it ourselves better, or so the theory goes anyway.
+	
+								 
+While Covey’s 7-habits book has more than just a tinge of salesy win-win proactivity about it, the big data pedagogue is probably a more considered character with a deeply analytical brain, yet still able to be nimble and pre-emptive. Let us consider the seven holy virtues of big data analytics for users, analysts, developers, managers and evangelists far and wide. 
+1 – Begin With No End In Mind
+								
+										 
+This dictum sits in direct opposition to Covey’s original call that we start all actions with an end game goal in mind. Conversely, the beauty of big data is a world where virtually limitless information creation exists. This means that we will NEVER know what analytics we might be able to perform next and what insight this might bring in any industry and in any scenario. 
+2 – Be Proactive, Pragmatic,&nbsp;Progressive &amp; Persuasive 
+The big data analyst has to be proactive and look for trends that nobody else has identified in their data. He or she has to be pragmatic about what is of real value to the business — and then progressive in terms of trying to unearth insight over and above that which is immediately obvious in the data at hand. Finally this person is persuasive i.e. they need to sell the value of that insight back to the board or the rest of the company.  
+
+ Duncan Ross, director data science at Teradata agrees and says that along with these four P’s, it is crucial that the data scientist must, above all, be creative. “After all, data science is a creative discipline. Data science is about discovery, explanation and storytelling. How else will you be able to solve a challenge your business may not even know it has? While great analytic skills will always be required, they are useless unless the results are understandable by everyone in the company and have a clear impact on business success,” he said.
+										
+										
+ 
+3 – Be Technology Toolset Agnostic 
+Without making this a manifesto for open source, the highly effective big data user/analyst/manager or super-fan is open to openness. An open attitude to programming language and platform (think Java, .NET or other vendor-specific), software application development and delivery methodology (think Waterfall, Agile, Lean, RUP or Scrum) — and an open attitude to toolsets used in terms of actual analytics (think any vendor you like). 
+ 
+4 – Take Big Data Into The Toilet 
+In terms of scenario implementation and vertical industry application, big data can be used anywhere and the effective big data professional knows this. Austrian hygiene company Hagleitner has used sensors and SAP&nbsp;HANA big data analysis to track stocks of soap, air freshener and paper towels in some of the country’s fast food restaurants. The firm has changed its business model as a result. 
+
+ “We used to sell paper [towels], now we sell expertise,” Gernot Bernert, managing director at Hagleitner. “Hagleitner used to develop and produce disinfectants, dispenser systems and cleaning agents that were used everywhere from hotel bedding to airport restrooms and even in hospital operating theaters. Our data even allows us to optimize how we deploy cleaning personnel.”
+ 
+5 – Be Time Sensitive 
+We know that big data is ubiquitous, abundant and miscellaneously multifarious. These are the who, what, where and hopefully why parts of big data covered — so what about the ‘when’ factor? 
+
+ European CTO for TIBCO, Maurizio Canton has stated that not all data is created equal. “For some types leisurely analysis is sufficient, but others have an intrinsic ‘use by’ date, calling for immediate action.&nbsp;Take retail, for example, where tracking of purchases, browsing habits and so on are now routine. Tie that ‘cold’ data to ‘hot’ information, such as real-time mobile location data and current in-store offers, and you can identify potential customers that are ready to receive and accept an offer while&nbsp;they shop,” he said.
+ 
+6 – Keep A Wide Open Path For Big Data 
+&nbsp; 
+It’s important that big data users can rely upon a scalable infrastructure that can keep pace with the rapid exponential growth of their data. It’s a home truth rarely spoken out loud as we spend most of our big data discussion time talking about ‘creating insight’, ‘adding business value’ and various other prosaic business banalities. Let us also think about taking the web-scale road less travelled. 
+
+ “The first question that most IT teams face when they implement Hadoop or Splunk is whether to run the system on bare metal, or to virtualise the environment,” said Declan Waters, head of corporate communications at Nutanix. “The&nbsp;latest state-of-the-art converged web-scale architecture&nbsp;that we are now seeing is capable of dealing with up to 500,000 events per second for each 2U appliance, providing high performance results for users.”
+ 
+7 – Above All, Be Holistic 
+… and finally, how could we analyse big data analysis without being big picture? Commentators have called big data the ‘old shoe box (or cluttered drawer) of information’ i.e. it’s where we store things that we don’t even know what to do with yet. The highly effective big data user knows this to be true and has his or her head in the (computing) clouds and further above too. 
+
+ “Like any individual, an enterprise is greater than the simple sum of its own parts,” said Fred Hermans, CEO of&nbsp;Every Angle Software.&nbsp; “For this reason, it’s important that, when using analytics to explore the efficiency of your business, you have to take in the full picture and analyse everything that impacts upon its productivity. Remember that analytics can do more harm than good when used in isolation, and that,&nbsp;in order to analyse data effectively, you must&nbsp;see the impact on&nbsp;every stage of your organisation.&nbsp; This requires&nbsp;end-to-end visibility through total value chain transparency.”
+ 
+Okay so these aren’t exactly holy laws laid down by the all-seeing divine big data deity, but surely they’re enough to be going on with in 2014 aren’t they? 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+Follow me on Twitter&nbsp;

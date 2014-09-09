@@ -1,0 +1,15 @@
+Sonos speaker update dismantles the bridge in favor of Wi-Fi connectivity Sonos speaker update dismantles the bridge in favor of Wi-Fi connectivity 
+
+Sonos has today announced a substantial software update (version 5.1), which will allow consumers to run existing hardware from the company directly through Wi-Fi. This negates the requirement to have everything wired up to a router or even a Sonos Bridge. Simply connect the speakers to a wireless network and you're good to go.
+
+
+
+With competing tech giants attempting to wrestle in and tackle Sonos, the company has made it a breeze for anyone who wants to create a wireless home speaker system to get started. Want another speaker in the bedroom? No worries; purchase another Sonos system and connect to the Wi-Fi network. Now hit 'play'.
+
+The new firmware will handle everything technical to ensure owners don't have to put up with echoing, delays or even dropouts (though this will also depend on the signal strength and capacity of the home network). While everything should work over a wireless connection, it's not always the case (just take wireless network adapters as a solid example). Wiring speakers up to the network will better protect the experience from the above issues.
+
+Also, it's worth noting that the Sonos 3.1 and 5.1 home theater setups still require a wired connection, while the standalone PLAYBAR does not. If you already rock a Sonos Bridge and have everything connected and working perfectly, there's no need to change anything. For those who require stronger signal coverage, Sonos will be releasing the Sonos Boost for $99 later this year. More details are expected in the coming months.
+
+Have you updated and connected via Wi-Fi? Let us know your impressions below.
+
+Source: Sonos

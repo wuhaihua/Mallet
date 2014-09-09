@@ -1,0 +1,5 @@
+Notable PDF Edits PDFs From Within Chrome Notable PDF Edits PDFs From Within Chrome 
+Chrome: Notable PDF is a Chrome extension lets you edit PDF files from within the Chrome browser. This extension works offline, too, so it&#8217;s a great add-on for Chromebooks.
+
+Once you install the extension and create an account, you&#8217;ll be able to alter PDFs and add comments. The extension integrates with Dropbox and Box accounts for opening and saving PDFs. Most options are free. If you want to save the PDF directly to Google Drive or digitally sign the PDF, you&#8217;ll need a $US4.99 per month account.
+Notable PDF [Chrome Web Store via AddictiveTips]
