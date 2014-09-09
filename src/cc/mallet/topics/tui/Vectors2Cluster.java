@@ -205,6 +205,17 @@ public class Vectors2Cluster {
 	
 	public static void main (String[] args) throws java.io.IOException
 	{
+		//--input autorial_all2.mallet --num-topics 5 --optimize-interval 20 
+		//--output-doc-topics autorial_compostion_all2.txt --k 5
+		String[] inputArgs = {"--input","autorial_all3.mallet","--num-topics","5",
+				"--optimize-interval","20","--output-doc-topics","autorial_compostion_all2.txt",
+				"--k","5"};
+		preMain(inputArgs);
+
+	}
+
+
+	public static InstanceList[] preMain(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		CommandOption.setSummary (Vectors2Cluster.class,
 				  "A tool for estimating, saving and printing diagnostics for topic Cluster, LDA + KMeans.");
@@ -292,11 +303,7 @@ public class Vectors2Cluster {
 			
 		}
 		
-		
-		
-		
-
-
+		return clusters;
 	}
 
 }

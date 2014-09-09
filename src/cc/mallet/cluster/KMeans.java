@@ -48,13 +48,14 @@ public class KMeans extends Clusterer {
   private static final long serialVersionUID = 1L;
 
   // Stop after movement of means is less than this
-  static double MEANS_TOLERANCE = 1e-2;
+  static double MEANS_TOLERANCE = 1e-3;
 
   // Maximum number of iterations
   static int MAX_ITER = 100;
 
   // Minimum fraction of points that move
-  static double POINTS_TOLERANCE = .005;
+  //static double POINTS_TOLERANCE = .001;
+  static double POINTS_TOLERANCE = .0;
 
   /**
    * Treat an empty cluster as an error condition.

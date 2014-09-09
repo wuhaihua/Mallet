@@ -123,6 +123,14 @@ public class Text2Vectors {
 		 "   to standard output. This option is intended for debugging.", null);
 	
 	public static void main (String[] args) throws FileNotFoundException, IOException 	{
+		//--input all --output autorial_all2.mallet --keep-sequence --remove-stopwords
+	    //String[] inargs = {"--input","all","--output","autorial_all3.mallet","--keep-sequence","--remove-stopwords"};
+		//preMain(inargs);
+		preMain(args);
+		
+	}
+
+	public static void preMain(String[] args) throws IOException, FileNotFoundException {
 		// Process the command-line options
 		CommandOption.setSummary (Text2Vectors.class,
 								  "A tool for creating instance lists of FeatureVectors or FeatureSequences from text documents.\n");
@@ -350,7 +358,6 @@ public class Text2Vectors {
 			oos.writeObject(previousInstanceList);
 			oos.close();
 		}
-	
 	}
 
 }
