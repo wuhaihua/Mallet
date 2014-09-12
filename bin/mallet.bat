@@ -27,6 +27,7 @@ if "%CMD%"=="classify-dir" set CLASS=cc.mallet.classify.tui.Text2Classify
 if "%CMD%"=="classify-file" set CLASS=cc.mallet.classify.tui.Csv2Classify
 if "%CMD%"=="classify-svmlight" set CLASS=cc.mallet.classify.tui.SvmLight2Classify
 if "%CMD%"=="train-topics" set CLASS=cc.mallet.topics.tui.Vectors2Topics
+if "%CMD%"=="train-clusters" set CLASS=cc.mallet.topics.tui.Vectors2Cluster
 if "%CMD%"=="infer-topics" set CLASS=cc.mallet.topics.tui.InferTopics
 if "%CMD%"=="evaluate-topics" set CLASS=cc.mallet.topics.tui.EvaluateTopics
 if "%CMD%"=="hlda" set CLASS=cc.mallet.topics.tui.HierarchicalLDATUI
