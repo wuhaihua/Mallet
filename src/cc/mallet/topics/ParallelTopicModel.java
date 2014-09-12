@@ -305,6 +305,10 @@ public class ParallelTopicModel implements Serializable {
 			FeatureSequence tokens = (FeatureSequence) document.instance.getData();
 			for (int position = 0; position < tokens.getLength(); position++) {
 				int type = tokens.getIndexAtPosition(position);
+				/*if ( type == 502 ) {
+					type = type;
+				}
+				*/
 				typeTotals[ type ]++;
 			}
 		}
@@ -1226,7 +1230,17 @@ public class ParallelTopicModel implements Serializable {
 			if (usingNewLines) {
 				//out.append (topic + "\t" + formatter.format(alpha[topic]) + "\n");
 				while (iterator.hasNext() && word < numWords) {
-					IDSorter info = iterator.next();
+					IDSorter info = iterator.next();	
+					/*
+					if ( info.getWeight() == 95 ) {
+					 
+						int ks = 15;
+					}
+					
+					if ( info.getID() == 502 ) {
+						int ks = 15;
+					}
+					*/
 					out.append(alphabet.lookupObject(info.getID()) + "\t" + formatter.format(info.getWeight()) + "\n");
 					word++;
 				}

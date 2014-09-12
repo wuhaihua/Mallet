@@ -16,6 +16,8 @@ package cc.mallet.pipe;
 
 
 import java.io.*;
+import java.nio.charset.*;
+
 import java.net.URI;
 import java.util.regex.Pattern;
 
@@ -61,6 +63,21 @@ public class CharSequence2TokenSequence extends Pipe implements Serializable
 	public Instance pipe (Instance carrier)
 	{
 		CharSequence string = (CharSequence) carrier.getData();
+		/*
+		 String aa = string.toString().replaceAll("\\xE2\\x80\\x99", " ");
+		 
+		String bb = string.toString();
+		byte[] bytes = bb.getBytes();
+		
+		for ( int i = 0; i < bb.length() - 2; i++) {
+			if ( bytes[i] == -30 && bytes[i+1] == -128 && bytes[i+2] == -103) {
+				System.out.println(i + ": " + bytes[i] + bytes[i+1] + bytes[i+2]);
+			}			
+		}
+		
+		String aa = bb.replaceAll("\\x77\\x69\\x6c\\x6c", " ");
+		System.out.println(aa);
+		*/
 		lexer.setCharSequence (string);
 		TokenSequence ts = new StringTokenization (string);
 		while (lexer.hasNext()) {

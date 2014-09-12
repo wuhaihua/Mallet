@@ -109,7 +109,8 @@ public class Text2Vectors {
 		 "Java code for the constructor of a Pipe to be run as soon as input becomes a FeatureVector", null);
 	
 	static CommandOption.String encoding = new CommandOption.String
-		(Text2Vectors.class, "encoding", "STRING", true, Charset.defaultCharset().displayName(),
+		//(Text2Vectors.class, "encoding", "STRING", true, Charset.defaultCharset().displayName(),
+		(Text2Vectors.class, "encoding", "STRING", true, "UTF-8",			
 		 "Character encoding for input file", null);
 	
 	static CommandOption.String tokenRegex = new CommandOption.String

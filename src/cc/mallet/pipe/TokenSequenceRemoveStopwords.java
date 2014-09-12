@@ -155,6 +155,9 @@ public class TokenSequenceRemoveStopwords extends Pipe implements Serializable
 		TokenSequence ret = new TokenSequence ();
 		Token prevToken = null;
 		for (int i = 0; i < ts.size(); i++) {
+			//if ( i == 110 ) {
+				//int faint = i; //Debugging code
+			//}
 			Token t = ts.get(i);
 			if (! stoplist.contains (caseSensitive ? t.getText() : t.getText().toLowerCase())) {
 				// xxx Should we instead make and add a copy of the Token?
@@ -716,7 +719,7 @@ public class TokenSequenceRemoveStopwords extends Pipe implements Serializable
 		"yourself",
 		"yourselves",
 		"z",
-		"zero",
+		"zero",		
 		// stop words for paper abstracts
 		//		"abstract",
 		//"paper",
@@ -728,6 +731,7 @@ public class TokenSequenceRemoveStopwords extends Pipe implements Serializable
 		//"based",
 		//"approach"
 	};	
+	
 		//stopwords for french, added by Limin Yao
 	static final String[] stopwordsFrench = {
 		"fut",
