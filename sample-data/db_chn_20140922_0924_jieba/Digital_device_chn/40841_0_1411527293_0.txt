@@ -1,0 +1,5 @@
+苹果 Apple   TV 悄然 获得 HomeKit 支持 
+ 　 　 苹果 上周 对   Apple   TV   进行 了 固件 更新 ， 对 用户界面 进行 了 大幅 修整 ， 同时 还 添加 了 Beats   Music 应用 。 不过 ， Apple   TV 还有 一个 不太 明显 的 改进 ， 据 用户 报告 ， 目前 第三代 Apple   TV 已经 能 支持 苹果 智能家居 平台 HomeKit 。 　 　 据介绍 ， HomeKit 让 iPhone 用户 能 通过 手机 对 电器 ， 如 电灯 、 家电 、 安全 警报系统 等 进行 操控 。 在 iOS   8 正式版 中 ， 苹果 还 为   HomeKit   添加 了   Siri   语音 支持 。 　 　 今年 的 WWDC 上 ， 苹果 首次 向 公众 介绍 了 HomeKit ， 它 是 一个 能 与 物 联网 设备 相连 的 智能家居 平台 ， 只要 厂商 获得 苹果 授权 认证 ， 就 能 制作 支持   HomeKit 的 家居 设备 。 其实 ， HomeKit   最早 在 Apple   TV   7.0   Beta 版中 就 出现 过 ， 不过 在 正式版 当中 ， 苹果 没有 将 其 列入 更新 列表 。 	 
+ 	 
+ 
+ 

@@ -59,7 +59,7 @@
       listfiles="no"
       >
       <src path="${src}"/>
-      <include name="cc/**/*.java"/>
+      <include name="**/*.java"/>
 	  <!-- compilerarg value="-Xlint:unchecked"/ --> 
     </javac>
   </target>

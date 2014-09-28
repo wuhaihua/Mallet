@@ -1,0 +1,15 @@
+当 我们 在 聊 Android   L 时   开发者 在 聊 Android   M 了 
+                                     
+                                             
+                                             
+                                             
+                                               
+                                     
+                             虽然 普通 的 Android 用户 还 没能 正式 用 上 AndroidL 系统 ， 但 在 开发者 的 世界 里 ， 他们 已经 开始 聊 AndroidM 了 ， 这是 一套 比 AndroidL 更新 的 操作系统 。 虽然 普通 的 Android 用户 并 不 对 AndroidM 起 特别 的 兴趣 ， 不过 在 开发者 的 世界 里 ， 这 是 件 让 人 兴奋 的 事 。 据   Phone   Arena   报道 ， Android   M   或许 会 在 明年 年底 ， 或   2016   年 的 年初 公开 。 
+                                     
+                                             
+                                             
+                                             
+                                               
+                                     
+                             正如 我们 上图 所 看到 的 ， cherry - picking   将 不出 出现 在   LMP （ Android   L   代号 ） ， 这是   M   的 功能 。 这 意味着 彩色 的   logcat   代码 将 不会 出现   Android   L   中 ， 而会 出现 在 Android   M   中 。

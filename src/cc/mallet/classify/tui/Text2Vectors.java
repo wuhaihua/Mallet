@@ -131,7 +131,7 @@ public class Text2Vectors {
 		
 	}
 
-	public static void preMain(String[] args) throws IOException, FileNotFoundException {
+	public static InstanceList preMain(String[] args) throws IOException, FileNotFoundException {
 		// Process the command-line options
 		CommandOption.setSummary (Text2Vectors.class,
 								  "A tool for creating instance lists of FeatureVectors or FeatureSequences from text documents.\n");
@@ -359,6 +359,8 @@ public class Text2Vectors {
 			oos.writeObject(previousInstanceList);
 			oos.close();
 		}
+		
+		return instances;
 	}
 
 }

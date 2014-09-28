@@ -35,7 +35,7 @@ public abstract class Clusterer implements Serializable {
 	}
 	
 	/** Return a clustering of an InstanceList */
-	public abstract Clustering cluster (InstanceList trainingSet);
+	public abstract Clustering cluster (InstanceList trainingSet);	
 
 	public Pipe getPipe () { return instancePipe; }
 	

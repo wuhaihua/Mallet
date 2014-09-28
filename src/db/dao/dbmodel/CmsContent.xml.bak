@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="db.dao.inter.CmsContentDao">
+
+	<select id="get" parameterType="int" resultType="CmsContent">
+		SELECT
+		id,
+		cid,
+		title,
+		simTitle,
+		content,
+		poster,
+		source,
+		pic1,
+		pic2,
+		pic3,
+		postDate,
+		editDate,
+		keyWord,
+		isPass,
+		operate,
+		isReview,
+		isDel,
+		sourceUrl,
+		originalTime,
+		classID,
+		siteID,
+		siteTypeID,
+		reviewCount
+		FROM
+		Cms_content_ok,
+		Cms_count
+		WHERE Cms_content_ok.id = Cms_count.contentid and Cms_content_ok.id = #{id} EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
+	</select>
+
+
+	<select id="getCountByCid" parameterType="String" resultType="NewsClassStat">
+		SELECT
+		count(*) as num,
+		Cid as cid
+		FROM
+		Cms_content
+		where EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
+		group by Cid;
+    </select>
+
+	<select id="getContentList" parameterType="int" resultType="CmsContent">
+		SELECT
+		id,
+		cid,
+		title,
+		simTitle,
+		content,
+		poster,
+		source,
+		pic1,
+		pic2,
+		pic3,
+		postDate,
+		editDate,
+		keyWord,
+		isPass,
+		operate,
+		isReview,
+		isDel,
+		sourceUrl,
+		originalTime,
+		classID,
+		siteID,
+		siteTypeID,
+		reviewCount
+		FROM
+		Cms_content_ok,
+		Cms_count
+		WHERE Cms_content_ok.id = Cms_count.contentid and Cms_content_ok.id &lt;= #{max}
+		and id>=#{min} and cid = #{cid}
+    </select>
+
+	<select id="getContentAll" parameterType="String" resultType="CmsContent">
+		SELECT
+		id,
+		cid,
+		title,
+		simTitle,
+		ContentText,
+		editDate,
+		PR,
+		ImportantLevel
+		FROM
+		Cms_content_ok where EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
+    </select>
+    
+<select id="getContentAllChinese" parameterType="String" resultType="CmsContent">
+		SELECT
+		id,
+		cid,
+		title,
+		simTitle,
+		ContentText,
+		editDate		
+		FROM
+		Cms_content_ok where EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
+    </select>    
+
+	<resultMap type="CmsContent" id="CmsContent"></resultMap>
+</mapper>

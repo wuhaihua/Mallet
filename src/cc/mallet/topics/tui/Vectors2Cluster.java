@@ -16,7 +16,6 @@ import cc.mallet.cluster.KMeans;
 import cc.mallet.pipe.iterator.DBInstanceIterator;
 
 import java.io.*;
-
 import java.util.*;
 import java.util.regex.*;
 import java.net.*;
@@ -91,6 +90,11 @@ public class Vectors2Cluster {
 			"The filename in which to write the top words and phrases for each topic and any Dirichlet parameters in XML format.  " +
 			"By default this is null, indicating that no file will be written.", null);
 
+	static CommandOption.String clusterResultFile = new CommandOption.String
+			(Vectors2Cluster.class, "output-cluster-results", "FILENAME", true, null,
+			 "The filename in which to write the cluster result for each document.  " +
+			 "By default this is null, indicating that no file will be written.", null);
+	
 	static CommandOption.String docTopicsFile = new CommandOption.String
 			(Vectors2Cluster.class, "output-doc-topics", "FILENAME", true, null,
 			"The filename in which to write the topic proportions per document, at the end of the iterations.  " +
@@ -152,6 +156,15 @@ public class Vectors2Cluster {
 	static CommandOption.Boolean useSymmetricAlpha = new CommandOption.Boolean
 			(Vectors2Cluster.class, "use-symmetric-alpha", "true|false", false, false,
 			 "Only optimize the concentration parameter of the prior over document-topic distributions. This may reduce the number of very small, poorly estimated topics, but may disperse common words over several topics.", null);
+	
+	static CommandOption.Boolean referDoc = new CommandOption.Boolean
+			(Vectors2Cluster.class, "output-reference-document", "true|false", false, false,
+			 "Indicate whether need output reference documents based on cluster result as well as similarity.", null);
+	
+	static CommandOption.Boolean propTopicDocVector = new CommandOption.Boolean
+			(Vectors2Cluster.class, "output-topic-proportional-vector", "true|false", false, false,
+			 "Indicate whether need output topic document proportional vector on cluster results.", null);
+	
 
 	static CommandOption.Boolean useNgrams = new CommandOption.Boolean
 			(Vectors2Cluster.class, "use-ngrams", "true|false", false, false,
@@ -216,7 +229,8 @@ public class Vectors2Cluster {
 	}
 
 
-	public static InstanceList[] preMain(String[] args) throws IOException {
+	//public static InstanceList[] preMain(String[] args) throws IOException {
+	public static Clustering preMain(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		CommandOption.setSummary (Vectors2Cluster.class,
 				  "A tool for estimating, saving and printing diagnostics for topic Cluster, LDA + KMeans.");
@@ -286,9 +300,36 @@ public class Vectors2Cluster {
 		
 		Metric metric = new NormalizedDotProductMetric(); // cosine similarity
 		
-		KMeans kmeans = new KMeans(instances.getPipe(), numClusters.value, metric, KMeans.EMPTY_DROP);
+		KMeans kmeans = new KMeans(instances.getPipe(), numClusters.value, metric, KMeans.EMPTY_DROP, true);
+		//Clustering clustering = kmeans.cluster_withDump(instances);
 		Clustering clustering = kmeans.cluster(instances);
 		InstanceList[] clusters = clustering.getClusters();
+		
+		
+		if (clusterResultFile.value != null) {
+			PrintWriter out = new PrintWriter (new FileWriter ((new File(clusterResultFile.value))));
+			kmeans.printClusterResult(out, clustering, referDoc.value, propTopicDocVector.value);
+			out.close();
+		}
+
+		/*
+
+		KMeans kmeans_debug = new KMeans(instances.getPipe(), numClusters.value, metric, KMeans.EMPTY_DROP, false);
+
+		Clustering clustering_base = kmeans_debug.cluster(instances);
+		InstanceList[] clusters_base = clustering_base.getClusters();
+		
+		
+		if (clusterResultFile.value != null) {
+			PrintWriter out = new PrintWriter (new FileWriter ((new File("Dumped_Cluster_Result_base.txt"))));
+			kmeans_debug.printClusterResult(out, clustering_base, referDoc.value, propTopicDocVector.value);
+			out.close();
+		}
+		*/
+
+		
+		
+		/*
 		
 		for (int i = 0; i < numClusters.value; i++ ) {
 			
@@ -296,15 +337,16 @@ public class Vectors2Cluster {
 			
 			for (int j = 0; j < clusters[i].size(); j++) {
 				if ( clusters[i].get(j).getName() != null ) {
-					System.out.println(clusters[i].get(j).getName() + "\n");				
+					System.out.println(clusters[i].get(j).getName() + "Cluster: " + i + "\n");				
 					
 				}
 				
 			}
 			
 		}
-		
-		return clusters;
+		*/
+		//return clusters;
+		return clustering;
 	}
 
 }
