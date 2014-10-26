@@ -25,14 +25,18 @@
 		isDel,
 		sourceUrl,
 		originalTime,
-		classID,
+		classID,		
+		PR,
+		PRExt,
+		LBClassID,
+		ImportantLevel
 		siteID,
 		siteTypeID,
 		reviewCount
 		FROM
-		Cms_content_ok,
+		Cms_content,
 		Cms_count
-		WHERE Cms_content_ok.id = Cms_count.contentid and Cms_content_ok.id = #{id} EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
+		WHERE Cms_content.id = Cms_count.contentid and Cms_content.id = #{id} EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
 	</select>
 
 
@@ -41,9 +45,19 @@
 		count(*) as num,
 		Cid as cid
 		FROM
-		Cms_content_ok
+		Cms_content
 		where EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
 		group by Cid;
+    </select>
+    
+ <select id="getCountByLBClassID" parameterType="String" resultType="ClientCategoryStat">
+		SELECT
+		count(*) as num,
+		LBClassID as category_id
+		FROM
+		Cms_content
+		where EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
+		group by LBClassID;
     </select>
 
 	<select id="getContentList" parameterType="int" resultType="CmsContent">
@@ -72,9 +86,9 @@
 		siteTypeID,
 		reviewCount
 		FROM
-		Cms_content_ok,
+		Cms_content,
 		Cms_count
-		WHERE Cms_content_ok.id = Cms_count.contentid and Cms_content_ok.id &lt;= #{max}
+		WHERE Cms_content.id = Cms_count.contentid and Cms_content.id &lt;= #{max}
 		and id>=#{min} and cid = #{cid}
     </select>
 
@@ -85,14 +99,41 @@
 		title,
 		simTitle,
 		ContentText,
+		ContentLength,
+		Pic1,
+		Pic2,
+		Pic3,
 		editDate,
 		PR,
 		ImportantLevel
 		FROM
-		Cms_content_ok where EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
+		Cms_content where EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
     </select>
-    
+        
 <select id="getContentAllChinese" parameterType="String" resultType="CmsContent">
+		SELECT
+		id,
+		cid,
+		title,
+		simTitle,		
+		contentText,
+		contentLength,
+		pic1,
+		pic2,
+		pic3,
+		editDate,
+		LBClassID,
+		Poolid,
+		IsShoudong,
+		PR,
+		ImportantLevel,
+		CopyNumbers as CopyNumber
+		FROM
+		Cms_content where editDate &gt; #{minDate} and editDate &lt; #{maxDate}
+    </select> 
+    
+    
+<select id="getContentByid" parameterType="Integer" resultType="CmsContent">
 		SELECT
 		id,
 		cid,
@@ -101,10 +142,12 @@
 		ContentText,
 		editDate,
 		PR,
+		PRExt,
+		LBClassID,	
 		ImportantLevel
 		FROM
-		Cms_content_ok where EditDate &gt; #{minDate} and EditDate &lt; #{maxDate}
-    </select>    
+		Cms_content where id = #{id}
+    </select>        
 
 	<resultMap type="CmsContent" id="CmsContent"></resultMap>
 </mapper>

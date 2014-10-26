@@ -23,6 +23,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 
 import db.dao.dbmodel.CmsContent;
 import db.dao.dbmodel.NewsClassStat;
+import db.dao.dbmodel.ClientCategoryStat;
 import db.dao.inter.CmsContentDao;
 
 public class DBservice {
@@ -85,6 +86,23 @@ public class DBservice {
 		return cmsContent;
 
 	}
+	
+	public List<CmsContent> getContent(int id) {
+
+		SqlSession cmUnAccSession = this.getSqlSessionApi();
+		CmsContentDao cmsContentDao = cmUnAccSession.getMapper(CmsContentDao.class);
+
+		List<CmsContent> cmsContent = null;
+		
+		cmsContent = cmsContentDao.getContentByid(id);	//Go Chinese branch		
+		
+
+		System.out.println("size:" + cmsContent.size());
+		cmUnAccSession.close();
+
+		return cmsContent;
+
+	}
 
 	public List<NewsClassStat> DBgetCountGroupCid(String max_editdata,String min_editdata) {
 		try {
@@ -96,6 +114,26 @@ public class DBservice {
 //		SqlSession cmUnAccSession = sessionFactory.openSession();
 		CmsContentDao cmsContentDao = cmUnAccSession.getMapper(CmsContentDao.class);
 		List<NewsClassStat> list = cmsContentDao.getCountByCid(max_editdata, min_editdata);
+		return list;
+		
+		} catch (Exception e) {
+			e.printStackTrace();
+			
+		}
+		return null;
+	}
+	
+	
+	public List<ClientCategoryStat> DBgetCountClientGroupCid(String max_editdata,String min_editdata) {
+		try {
+//		Reader cmUnAccReader = Resources.getResourceAsReader("Configuration_api.xml");
+//		
+//		SqlSessionFactory sessionFactory = new SqlSessionFactoryBuilder().build(cmUnAccReader);
+//		DBservice db = new DBservice();
+		SqlSession cmUnAccSession = this.getSqlSessionApi();
+//		SqlSession cmUnAccSession = sessionFactory.openSession();
+		CmsContentDao cmsContentDao = cmUnAccSession.getMapper(CmsContentDao.class);
+		List<ClientCategoryStat> list = cmsContentDao.getCountByLBClassID(max_editdata, min_editdata);
 		return list;
 		
 		} catch (Exception e) {
@@ -118,11 +156,21 @@ public class DBservice {
 
 			for (int i = 0; i < num; i++) {
 				CmsContent con = cmsContent.get(i);
-				int cid = con.getCid();
-				// if(null==(bw=map.get(cid))){//
+				int client_cid = con.getLBClassID();
 
+				
+				
+				 int id = con.getId();
+				 
+				if ( id == 141327 ) {
+				 //if ( id == 113712 ) {
+					System.out.println("article ID: " + id + " Found ");
+				}
+
+				
+				
 				// 拼装文件夹路径
-				String foldPath = dir + "//" + cid;
+				String foldPath = dir + "//" + client_cid;
 				File f = new File(foldPath);
 //				System.out.println("f.exists():" + f.exists());
 				if (!f.exists()) {
@@ -131,8 +179,12 @@ public class DBservice {
 				}
 
 				long editDate = getEditDate(con.getEditDate()) / 1000;
+				
+				//ArticleID, PR, EditTime, LayoutScore, CopyNum, PicNum, ArticleLength 
 
-				String filePath = foldPath + "//" + con.getId() + "_" + con.getPR() + "_" + editDate + "_"+con.getImportantLevel()+".txt";
+				String filePath = foldPath + "//" + con.getId() + "_" + con.getPR() + "_" + editDate + "_"+con.getImportantLevel()+"_"+con.getCopyNumber()+"_"+con.countPicNum()+"_"+con.getContentLength()+".txt";
+				//String filePath = foldPath + "//" + con.getId() + "_" + StringFilter(con.getTitle()) +".txt";
+						
 //				filePath = foldPath + "//" + con.getId() + "_" + con.getPR() + "_" + editDate + "_"+ StringFilter(con.getTitle()) + ".txt";
 				System.out.println("filePath:" + filePath);
 				FileWriter fw  = null;
@@ -150,6 +202,7 @@ public class DBservice {
 				} else if (LanguagePick.equals("chn")) {
 					
 					bw.write(con.getContentText());	// In Chinese version, Similar works is done in data base (along with word split)
+					//bw.write(con.getContentNoHTML());	// In Chinese version, Similar works is done in data base (along with word split)
 				}
 
 				bw.flush();

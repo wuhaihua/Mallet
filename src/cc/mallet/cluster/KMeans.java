@@ -23,9 +23,18 @@
 
 package cc.mallet.cluster;
 
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Random;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import cc.mallet.pipe.Pipe;
 import cc.mallet.types.Instance;
@@ -33,14 +42,6 @@ import cc.mallet.types.InstanceList;
 import cc.mallet.types.Metric;
 import cc.mallet.types.SparseVector;
 import cc.mallet.util.VectorStats;
-
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executor;
-import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
-import java.io.*;
-import java.util.regex.Pattern;
-import java.util.regex.Matcher;
 
 /**
  * KMeans Clusterer
@@ -112,7 +113,7 @@ public class KMeans extends Clusterer  {
     this.clusterMeans = new ArrayList<SparseVector>(numClusters);
     this.randinator = new Random();
     
-    this.numThreads = 4;
+    this.numThreads = Runtime.getRuntime().availableProcessors();
 	this.executor = Executors.newFixedThreadPool(this.numThreads);
 	this.executeInThreadPool = bMultiThread;
 
@@ -128,7 +129,7 @@ public class KMeans extends Clusterer  {
    */
   public KMeans(Pipe instancePipe, int numClusters, Metric metric) {
     this(instancePipe, numClusters, metric, EMPTY_ERROR, false);
-    this.numThreads = 4;
+    this.numThreads = Runtime.getRuntime().availableProcessors();
 	this.executor = Executors.newFixedThreadPool(this.numThreads);	
   }
 
@@ -168,6 +169,8 @@ public class KMeans extends Clusterer  {
 	    }
 
 	    logger.info("Entering KMeans iteration");
+	    
+	    //start_time = System.currentTimeMillis();
 
 	    while (deltaMeans > MEANS_TOLERANCE && iterations < MAX_ITER
 	        && deltaPoints > instances.size() * POINTS_TOLERANCE) {
@@ -331,6 +334,11 @@ public class KMeans extends Clusterer  {
 
 	      logger.info("Iter " + iterations + " deltaMeans = " + deltaMeans);
 	    }
+	    
+	    //end_time = System.currentTimeMillis();
+	    //init_time = end_time - start_time; 
+	    
+	    //System.out.println("KMeans iterations cost: " + init_time);
 
 	    if (deltaMeans <= MEANS_TOLERANCE)
 	      logger.info("KMeans converged with deltaMeans = " + deltaMeans);
@@ -909,12 +917,28 @@ public class KMeans extends Clusterer  {
 								  continue;
 								  }
 							  
-							  double similarity = metric.distance((SparseVector)clusters[i].get(j).getData(), (SparseVector)clusters[i].get(k).getData());
+
+							  
+							  
 							  String negighbor_filename = clusters[i].get(k).getName().toString();
 							  Matcher m_neighbor = p.matcher(negighbor_filename);
 						  
-							  if ( m_neighbor.find()) {
+							  if ( m_neighbor.find()) {  
 								  String fileID_neighbor = negighbor_filename.substring(m_neighbor.start()+1, m_neighbor.end());
+								  
+								//Debugging
+								  //if ( fileID.equals("123535") &&  fileID_neighbor.equals("117798")) {
+								  if ( fileID.equals("124932")) {
+									  System.out.println("checking point is found \n");
+								  }
+								  
+								  if ( fileID.equals("124932") &&  fileID_neighbor.equals("117855")) {
+									  System.out.println("checking point is found \n");
+								  }
+								  
+								  double similarity = 1.0 - metric.distance((SparseVector)clusters[i].get(j).getData(), (SparseVector)clusters[i].get(k).getData());
+									  
+									  
 								  builder.append(fileID_neighbor + " " + similarity + " ");
 							  }
 						  }
@@ -997,7 +1021,7 @@ public class KMeans extends Clusterer  {
 
   }
   
-  private void initializeMeansSample_DP(InstanceList instList, Metric metric) {
+  private void initializeMeansSample_DP(final InstanceList instList, final Metric metric) {
 
 	    // InstanceList has no remove() and null instances aren't
 	    // parsed out by most Pipes, so we have to pre-process
@@ -1005,7 +1029,7 @@ public class KMeans extends Clusterer  {
 	    // cluster assignments.
 	  int inst_num = instList.size();
 
-	  double[][] similarity = new double[inst_num][inst_num];
+	  final double[][] similarity = new double[inst_num][inst_num];
 	  ArrayList<Integer> points_index = new ArrayList<Integer>(numClusters);
 	  ArrayList<Integer> centers_index = new ArrayList<Integer>(0);
 	  
@@ -1013,7 +1037,7 @@ public class KMeans extends Clusterer  {
 		  points_index.add(i);
 	  }
 	  
-	  
+/* 修改成多线程版本，注释 by zhouzhenhua 
 	  for ( int i = 0; i < inst_num; i++ ) {
 		  
 		  for ( int j = 0; j < inst_num; j++ ) {
@@ -1022,6 +1046,28 @@ public class KMeans extends Clusterer  {
 		  }
 		  
 	  }
+*/
+
+		ExecutorService service = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
+		for (int i = 0; i < inst_num; i++) {
+			for (int j = 0; j < inst_num; j++) {
+				final int m = i, n = j;
+				Runnable run = new Runnable() {
+					@Override
+					public void run() {
+						similarity[m][n] = metric.distance((SparseVector) instList.get(m).getData(), (SparseVector) instList.get(n).getData());
+					}
+				};
+				service.execute(run);
+			}
+		}
+		service.shutdown();
+
+		try {
+			service.awaitTermination(Long.MAX_VALUE, TimeUnit.DAYS);
+		} catch (InterruptedException e) {
+			throw new IllegalStateException(e);
+		}
 	  
 	  ArrayList<Instance> instances = new ArrayList<Instance>(instList.size());
 	  for (int i = 0; i < instList.size(); i++) {

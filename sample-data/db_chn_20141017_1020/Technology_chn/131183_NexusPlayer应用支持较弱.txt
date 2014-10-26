@@ -1,0 +1,55 @@
+Nexus   Player 应用 支持 较弱 
+                                     
+                                             
+                                             
+                                             
+                                               
+                                     
+                             10 月 20 日 消息 ， 据 CNET 报道 ， 谷歌 在 几天 前 正式 发布 了 NexusPlayer ， 这 是 该 公司 的 首款 AndroidTV 设备 。 AndroidTV 是 谷歌 在 今年 6 月 发布 的 电视 机顶盒 平台 ， 它 不仅 支持 多媒体 串流 和 电视 播放 ， 甚至 还 可以 扮演 “ 微型 游戏 主机 ” 的 角色 。 Android   TV 基于 Android   L 打造 ， 是 谷 歌继 Google   TV 、 Nexus   Q 和 Chromecast 之后 在 客厅 领域 的 最新 尝试 。 目前 Nexus   Player 已经 在 美国 的 Google   Play 开放 预定 ， 售价 99 美元 （ 约合 606 元 人民币 ） 。 硬件 ： 冰球 造型 99 美元 的 定价 和 功能 ， 让 Nexus   Player 成为 了 Roku   3 、 Apple   TV 和 亚马逊 Fire   TV 等 流媒体 机顶盒 设备 的 直接 竞争对手 。 由于 采用 了 圆形 的 设计 ， Nexus   Player 相比 其他 盒子 设备 而言 更 像是 一颗 冰球 。 虽然 它 的 尺寸 已经 足够 小巧 ， 但 价格 更 便宜 的 Chromecast 和 Roku   Streaming   Stick 还要 更 小 一些 。 
+                                     
+                                             
+                                             
+                                             
+                                               
+                                     
+                             Nexus   Player 配备 了 主频 为 1.8 Ghz 的 酷 睿 四核 处理器 ， 支持 通过 蓝牙 连接 和 麦克风 来 进行 远程 控制 。 另外 ， 用户 还 可以 花费 40 美元 （ 约合 245 元 人民币 ） 购买 用来 操作 游戏 的 手柄 。 
+                                     
+                                             
+                                             
+                                             
+                                               
+                                     
+                             Nexus   Player 的 接口 较 少 ， 只有 一个 HDMI 接口 （ 没有 赠送 HDMI 线 ） ， 不 支持 模拟 视频 或 光学 数字音频 输出 。 它 也 不 具备 网线 接口 ， 因此 只能 通过 Wi - Fi 来 实现 网络连接 。 通过 一个 专门 的 应用 ， 它 将 支持 语音 搜索 命令 。 虽然 谷歌 官网 介绍 页面 没有 说明 这 款 设备 是否 拥有 USB 接口 ， 不过 据 一些 媒体 透露 ， Nexus   Player 拥有 一个 Micro   USB   2.0 接口 。 Nexus   Player 的 机身 空间 为 8GB ， 未来 或许 将 支持 通过 USB 接口 扩展 储存 空间 。 软件 ： 暂时 缺乏 我们 可以 从谷歌 的 官 网页 面 了解 到 ， Nexus   Player 当前 的 最大 问题 是 缺乏 应用 的 支持 。 目前 HBO   Go （ 当前 最 重要 的 一款 流媒体 应用 ） 、 Amazon   Instant 和 Spotify 都 不 支持 这 款 设备 。 不过 谷歌 表示 ， 该 公司 将 在 11 月 15 日 放出 一批 支持 Nexus   Playe 的 流媒体 应用 。 相比之下 ， Roku 、 Apple   TV 和 亚马逊 Fire   TV 在 发布 同时 就 支持 大量 原生 应用 。 
+                                     
+                                             
+                                             
+                                             
+                                               
+                                     
+                             好 在 Nexus   Player 支持 谷歌 的 Cast 技术 ， 因此 它 可以 实现 类似 Chromecast 的 功能 ， 通过 访问 手机 或 平板 电脑 上 的 应用 ， 把 内容 串流 至 电视 上 。 目前 这项 技术支持 HBO   Go 、 Crackle 和 Vudu ， 尚 不 支持 亚马逊 的 相关 服务 。 
+                                     
+                                             
+                                             
+                                             
+                                               
+                                     
+                             Nexus   Player 还 支持 来自 Chrome 浏览器 和 Chromebook 的 屏幕 共享 ， 这 让 它 能够 获得 更 多 的 视频 来源 。 不过 ， 相 较 于原生 或 Cast 技术 兼容 的 应用 ， 屏幕 共享 的 画面质量 较差 。 
+                                     
+                                             
+                                             
+                                             
+                                               
+                                     
+                             目前 尚 不 清楚 Nexus   Player 未来 是否 会 支持 直接 安装 来自 Google   Play 的 应用 ， 也 不 清楚 谷歌 是否 会 让 它 支持 Google   Play 的 付费 电影 和 电视 内容 。 
+ 
+                         
+ 
+                         
+ 
+                 
+                 
+ 
+ 
+                 
+ 
+         谷歌 表示 ， 今后 将 超越 Google   Play 和 YouTube ， 为 Nexus   Player 引入 更 多 的 语音 搜索 标签 。 用户 将 得到 更为 良好 的 跨平台 语音 搜索 体验 。 与 Chromecast 不同 ， Android   TV 将 拥有 一个 更为 完整 的 屏幕 界面 和 搜索 功能 ， 而且 整个 界面 比 Google   TV 更为 简单 。 它 能够 预测 你 的 收看 习惯 ， 如会 预测 你 将要 收看 的 下 一集 电视剧 ， 把 它们 放 内容 的 顶部 位置 。 初步 印象 ： 有 潜力 但 需 完善 现在 99 美元 价位 的 流媒体 机顶盒 竞争 十分激烈 ， 我们 目前 没有 看到 Android   TV 和 Nexus   Player 有何 特别之处 。 Roku 是 这个 价位 最佳 的 选择   ， 它 既 为 我们 提供 了 大量 的 可选 硬件 ， 还 支持 许多 原生 应用 ， 搜索 功能 也 较为 强大 ； Apple   TV 拥有 最棒 的 屏幕 分享 应用 AirPlay ， 但是 它 的 硬件 过于 老旧 ； 而 亚马逊 Fire   TV 的 优势 则 在于 支持 市面上 所有 最为 流行 的 流媒体 应用 。 对于 Nexus   Player 来说 ， 它 需要 将 Android   TV 进一步 提炼 并 支持 更 多 的 原生 应用 ， 才能 在 市场 上 获得 一席之地 。

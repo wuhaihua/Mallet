@@ -12,6 +12,8 @@ bin\mallet train-topics --input autorial.mallet --num-topics 20 --optimize-inter
 
 bin\mallet train-topics --input autorial.mallet --num-topics 20 --optimize-interval 20 --output-doc-topics autorial_compostion.txt --output-topic-keys autorial_topic_keys.txt --output-global-keys autorial_global_keys.txt
 
+--input C:\Mallet\autorial.mallet --num-topics 10 --optimize-interval 10 --k 3 --output-cluster-results cluster_results_autorial_N10K3.txt
+
 bin\mallet train-topics --input CHN.mallet --num-topics 3 --optimize-interval 10 --output-doc-topics CHN_compostion.txt --output-topic-keys CHN_topic_keys.txt --output-global-keys CHN_global_keys.txt
 
 bin\mallet train-clusters --input CHN.mallet --num-topics 3 --optimize-interval 10 --k 2 >> Output_CHN_Cluster_N3K2.txt
@@ -33,7 +35,13 @@ bin\mallet import-dir --input sample-data\db_20140901_0903\Sports --output Sport
 
 bin\mallet import-dir --input sample-data\db_20140901_0903\Sports --output Sports_agg.mallet --keep-sequence --remove-stopwords --extra-stopwords stoplists\sports.txt
 
+bin\mallet import-dir --input sample-data\db_20140917_3days\Sports --output Sports_agg.mallet --keep-sequence --stoplist-file stoplists\en.txt --extra-stopwords stoplists\sports.txt
+
 bin\mallet train-clusters --input Sports_agg.mallet --num-topics 150 --optimize-interval 20 --k 300 >> Output_Sports_Cluster_N150K300_1438.txt
+
+bin\mallet train-clusters --input C:\Mallet\Sports_agg.mallet --num-topics 150 --optimize-interval 20 --k 300 --output-cluster-results cluster_results_sports_N150K300.txt
+
+bin\mallet train-clusters --input C:\Mallet\Sports_agg.mallet --num-topics 90 --optimize-interval 20 --k 216 --output-cluster-results cluster_results_sports_N90K216_Sep17.txt
 
 bin\mallet train-topics --input Sports_agg.mallet --num-topics 150 --optimize-interval 20 --output-doc-topics Sports_compostion_1438.txt --output-topic-keys Sports_topic_keys_1438.txt
 

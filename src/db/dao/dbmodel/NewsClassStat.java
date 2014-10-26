@@ -21,3 +21,6 @@ public class NewsClassStat {
 		this.cid = cid;
 	}
 }
+
+
+

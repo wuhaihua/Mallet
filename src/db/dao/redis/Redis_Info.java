@@ -14,8 +14,10 @@ import java.util.Map;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.apache.derby.iapi.util.StringUtil;
 import org.omg.CORBA.portable.UnknownException;
 
+import com.cmcm.AppContext;
 import com.cmcm.DocumentDescription;
 import com.cmcm.NeighborSimilarity;
 import com.cmcm.Main;
@@ -38,8 +40,20 @@ public class Redis_Info{
 		  JedisPoolConfig jedisConf = new JedisPoolConfig();
 		  jedisConf.setMaxTotal(2000);//"10.33.41.135"  //"127.0.0.1",6380
 		  //return new JedisPool(new JedisPoolConfig(), "10.33.41.135",6379, 2000);
-		  //return new JedisPool(new JedisPoolConfig(), "10.33.20.66",6402, 2000);	//LinGuang's machine
-		  return new JedisPool(new JedisPoolConfig(), "10.10.16.5",6380, 2000, "b73e852ae4c79a1932f58eb67e05ca38");
+		  //return new JedisPool(new JedisPoolConfig(), "10.33.20.66",6402, 2000);	//LinGuang's machine for debugging
+//		  return new JedisPool(new JedisPoolConfig(), "10.10.16.5",6380, 2000, "b73e852ae4c79a1932f58eb67e05ca38");
+		  if(AppContext.INSTANCE.isTestRunMod()){//test environment
+			  return new JedisPool(new JedisPoolConfig(), 
+					  AppContext.INSTANCE.getConfigValue("test.redis.host"),
+					  Integer.parseInt(AppContext.INSTANCE.getConfigValue("test.redis.port")), 
+					  Integer.parseInt(AppContext.INSTANCE.getConfigValue("test.redis.timeout")));
+		  }else{
+			  return new JedisPool(new JedisPoolConfig(), 
+					  AppContext.INSTANCE.getConfigValue("redis.host"),
+					  Integer.parseInt(AppContext.INSTANCE.getConfigValue("redis.port")), 
+					  Integer.parseInt(AppContext.INSTANCE.getConfigValue("redis.timeout")), 
+					  AppContext.INSTANCE.getConfigValue("redis.pwd"));
+		  }
 		
 		}catch(JedisConnectionException e){
 			e.printStackTrace();
@@ -50,13 +64,15 @@ public class Redis_Info{
 	
 	//存clusters到redis中
 	public static void saveInRedis(InstanceList[] clusters){
+		JedisPool jedispool  = null;
+		Jedis jedis = null;
 	   try{	    
 		//    cid       PR_id  editdata
 		Map<String,Map<String,Double>> map = parseClusters(clusters,"a");
 		
 //		System.out.println("map.size()"+map.get("1").size());
-	    JedisPool jedispool = Redis_Info.initRedis();
-	    Jedis jedis = jedispool.getResource();
+	    jedispool = Redis_Info.initRedis();
+	    jedis = jedispool.getResource();
 	    
 	    Iterator<String> it = map.keySet().iterator();
 	    while(it.hasNext()){
@@ -68,29 +84,41 @@ public class Redis_Info{
 	    
 	   }catch(JedisConnectionException e){
 			e.printStackTrace();
+			jedispool.returnBrokenResource(jedis);
 			throw e;
 	   }catch(Exception e){
 		   e.printStackTrace();
+		   jedispool.returnBrokenResource(jedis);
+	   } finally {
+		   jedispool.returnResource(jedis);
+		   jedispool.destroy();
 	   }
 	   
 	}
 	
-	public static void saveInRedisII(List<DocumentDescription> category_data, String cid){
-		   try{	    
+	public static void saveInRedisII(List<DocumentDescription> category_data, String category_id){
+		JedisPool jedispool = null;
+	    Jedis jedis = null;  
+		try{	    
 			//    cid       PR_id  editdata
 			Map<String,Double> map = parseDocumentDescription(category_data);
 //			
-		    JedisPool jedispool = Redis_Info.initRedis();
-		    Jedis jedis = jedispool.getResource();
+		    jedispool = Redis_Info.initRedis();
+		    jedis = jedispool.getResource();
 		    
-		    jedis.del("f_news_class_"+cid);
-		    jedis.zadd("f_news_class_"+cid, map);		    	
+		    jedis.del("f_news_class_"+category_id);
+		    jedis.zadd("f_news_class_"+category_id, map);		    	
 		    
 		   }catch(JedisConnectionException e){
 				e.printStackTrace();
+				jedispool.returnBrokenResource(jedis);
 				throw e;
 		   }catch(Exception e){
 			   e.printStackTrace();
+			   jedispool.returnBrokenResource(jedis);
+		   }finally{
+			   jedispool.returnResource(jedis);
+			   jedispool.destroy();
 		   }
 		   
 		}
@@ -138,7 +166,19 @@ public class Redis_Info{
 			
 			
 			//builder.append(doc_inst.Get_Article_ID() + "|" + doc_inst.Get_PageRank() + "|" + doc_inst.Get_time() + "|" + doc_inst.Get_Layout_Score() + "|" + doc_inst.Get_Cluster_Number());
-			builder.append(doc_inst.Get_PageRank() + "|" + doc_inst.Get_Article_ID() + "|"  + doc_inst.Get_time()  + "|" + doc_inst.Get_Cluster_Number() + "|" + doc_inst.Get_Layout_Score());
+			builder.append(doc_inst.Get_PageRank() + 
+					"|" + doc_inst.Get_Article_ID() + 
+					"|"  + doc_inst.Get_time()  + 
+					"|" + doc_inst.Get_Cluster_Number() + 
+					"|" + doc_inst.Get_Layout_Score() + 
+					"|" + doc_inst.Get_Cluster_ID() +
+					"|" + doc_inst.Get_Copy_Number() +
+					"|" + doc_inst.Get_Pic_Number() +
+					"|" + doc_inst.Get_Content_Length());
+			
+			if (doc_inst.Get_Article_ID().equals("141327")) {
+				log.info("Article ID = " + doc_inst.Get_Article_ID());
+			}
 			
 			
 			int count = doc_inst.Get_Neighbor_Size();
@@ -206,12 +246,14 @@ public class Redis_Info{
 	
 	//��clusters��ÿ��Ԫ�ض�����redis�� PR|id|editdata|score
 	public void saveInRedis1(InstanceList[] clusters){
+		JedisPool jedispool = null;
+		Jedis jedis = null;
 		try{		    
 					//    cid       PR_id  editdata
 			Map<String,Map<String,Double>> map = parseClusters1(clusters);
 					
-			JedisPool jedispool = this.initRedis();
-			Jedis jedis = jedispool.getResource();
+			jedispool = this.initRedis();
+			jedis = jedispool.getResource();
 				    
 			Iterator<String> it = map.keySet().iterator();
 			while(it.hasNext()){
@@ -222,8 +264,12 @@ public class Redis_Info{
 			}
 				    
 		}catch(JedisConnectionException e){
-				 e.printStackTrace();
-				 throw e;
+			 e.printStackTrace();
+			 jedispool.returnBrokenResource(jedis);
+			 throw e;
+		}finally{
+			jedispool.returnResource(jedis);
+			jedispool.destroy();
 		}
     }	
 	

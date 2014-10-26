@@ -1,7 +1,7 @@
 package db.dao.dbmodel;
 
 public class CmsContent{
-
+/*
 	private int id;
 	private int cid;
 	private String title;
@@ -22,21 +22,64 @@ public class CmsContent{
 	private String sourceUrl;
 	private String originalTime;
 	private int classID;
+	private int LBClassID;
 	private int siteID;
 	private int siteTypeID;
+	private int Poolid;
 	private int PR;
+	private int PRExt;
 	private int reviewCount;
 	private int importantLevel;
-
+	private String contentNoHTML;
+	*/
+	
+	private int id;
+	private int cid;
+	private String title;
+	private String simTitle;
+	private String content;
+	private String contentText;
+	private String contentNoHTML;
+	private long ContentLength;
+	private String poster;
+	private String source;
+	private String pic1;
+	private String pic2;
+	private String pic3;
+	private String postDate;
+	private String editDate;
+	private String keyWord;
+	private int isPass;
+	private int operate;
+	private int isReview;
+	private int isDel;
+	private String sourceUrl;
+	private String originalTime;
+	private int classID;
+	private int LBClassID;
+	private int siteID;
+	private int siteTypeID;
+	private String TagsID;
+	private String Tags;
+	private int Poolid;
+	private int IsShouDong;
+	private int PR;
+	private int PRExt;
+	private int importantLevel;
+	private int ContentRuleID; 
+	private int CopyNumber;
+	
+/*
 	public int getReviewCount() {
 		return reviewCount;
 	}
 	public void setReviewCount(int reviewCount) {
 		this.reviewCount = reviewCount;
 	}
+	*/
 	public int getId() {
 		return id;
-	}
+	}	
 	public void setId(int id) {
 		this.id = id;
 	}
@@ -89,6 +132,33 @@ public class CmsContent{
 	public void setPic3(String pic3) {
 		this.pic3 = pic3;
 	}
+	
+	public int countPicNum() {
+		int count = 0;
+		
+		if( !pic1.isEmpty() ) {
+			count++;
+		}
+		
+		if( !pic2.isEmpty() ) {
+			count++;
+		}
+		
+		if( !pic3.isEmpty() ) {
+			count++;
+		}
+		
+		return count;
+	}
+	
+	public long getContentLength() {
+		return ContentLength;
+	}
+	
+	public int getCopyNumber() {
+		return CopyNumber;
+	}
+	
 	public String getPostDate() {
 		return postDate;
 	}
@@ -145,9 +215,15 @@ public class CmsContent{
 	}
 	public int getClassID() {
 		return classID;
-	}
+	}	
 	public void setClassID(int classID) {
 		this.classID = classID;
+	}
+	public int getLBClassID() {
+		return LBClassID;
+	}	
+	public void setLBClassID(int classID) {
+		this.LBClassID = classID;
 	}
 	public int getSiteID() {
 		return siteID;
@@ -164,12 +240,42 @@ public class CmsContent{
 	public int getPR() {
 		return PR;
 	}
-	public void setPR(int pR) {
-		PR = pR;
+	
+	public int getRevisedPR() {
+		
+		int revised_PR = PR + PRExt;
+		if ( revised_PR > 10 ) {
+			revised_PR = 10;
+		} else if (revised_PR < 1) {
+			revised_PR = 1;			
+		}
+		return revised_PR;		
 	}
+	
+	public void setPR(int pR) {
+		this.PR = pR;
+	}
+	
+	public int getPRExt() {
+		return PRExt;
+	}
+	
+	public void setPRExt(int pRExt) {
+		this.PR = pRExt;
+	}
+	
+	
 	public String getContentText() {
 		return contentText;
 	}
+	public String getContentNoHTML() {
+		return contentNoHTML;
+	}
+	
+	public void setContentNoHTML(String contentNoHTML) {
+		this.contentNoHTML = contentNoHTML;
+	}
+	
 	public void setContentText(String contentText) {
 		this.contentText = contentText;
 	}

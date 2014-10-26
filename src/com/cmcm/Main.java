@@ -3,18 +3,8 @@ package com.cmcm;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
-import java.nio.charset.Charset;
-import java.sql.Timestamp;
-import java.util.List;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
 import java.util.ArrayList;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
-
-
+import java.util.List;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -22,28 +12,25 @@ import org.apache.ibatis.session.SqlSession;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
-import redis.clients.jedis.exceptions.JedisConnectionException;
 import cc.mallet.classify.tui.Text2Vectors;
+import cc.mallet.cluster.Clustering;
 import cc.mallet.topics.tui.Vectors2Cluster;
 import cc.mallet.types.InstanceList;
+import cc.mallet.types.Metric;
 import cc.mallet.types.NormalizedDotProductMetric;
 import cc.mallet.types.SparseVector;
-import cc.mallet.cluster.Clustering;
-import cc.mallet.types.Metric;
 import cc.mallet.util.CommandOption;
+import db.dao.dbmodel.ClientCategoryStat;
 import db.dao.dbmodel.CmsContent;
 import db.dao.dbmodel.NewsClassStat;
 import db.dao.inter.CmsContentDao;
 import db.dao.redis.Redis_Info;
 import db.dao.service.DBservice;
 
-import com.cmcm.NeighborSimilarity;
-import com.cmcm.DocumentDescription;
-
 public class Main {
 	
 	static CommandOption.String languagePick = new CommandOption.String
-			(Main.class, "pick-language", "eng|chn", false, "eng",
+			(Main.class, "pick-language", "eng|chn", false, "chn",
 			 "Value eng indicates English path is picked, value chn indicates Chinese path is picked.  ", null);
 	
 	private static final Log log = LogFactory.getLog(Main.class);
@@ -55,11 +42,11 @@ public class Main {
 	private static final boolean bClusterEnable_Eng[] = {false, true, false, true, false, true, true, true, true, true, true, false};
 	private static final String category_stoplist_Eng[] = {"science.txt", "celebrities.txt", "media.txt", "sports.txt", "health.txt", "news.txt", "technology.txt", "entertainment.txt", "politics.txt", "business.txt", "finance.txt", "game.txt"};
 	
-	// 1- NULL	2 - 时事 ;  3 - 体育; 4 - 娱乐; 5 - 互联网; 6 - 财经; 7 - 科技数码; 8 - 军事; 9 - 房产;  10 - 科学探索 
-	private static final boolean bClusterEnable_Chn[] = {false, true, true, true, true, true, true, true, false, true};
-	private static final Double TopicRatio_Chn[] = {1.0, 0.15, 0.1, 0.21, 0.13, 0.2, 0.13, 0.13, 1.0, 0.13};
-	private static final Double StoryRatio_Chn[] = {1.0, 0.36, 0.24, 0.46, 0.27, 0.44, 0.27, 0.27, 1.0, 0.27};
-	private static final String category_stoplist_Chn[] = {"", "news_chn.txt", "sports_chn.txt", "entertainment_chn.txt", "internet_chn.txt", "finance_chn.txt", "digital_device_chn.txt", "military_chn.txt", "realestate_chn.txt", "technology_chn.txt"};
+	// 1- 时政 	2 - 社会;  3 - 娱乐; 4 - 体育; 5 - 军事; 6 - 科技; 7 - 财经; 
+	private static final boolean bClusterEnable_Chn[] = {false, true, true, true, true, true, true, true};
+	private static final Double TopicRatio_Chn[] = {1.0, 0.22, 0.34, 0.29, 0.11, 0.36, 0.3, 0.20};
+	private static final Double StoryRatio_Chn[] = {1.0, 0.39, 0.36, 0.33, 0.29, 0.39, 0.38, 0.34};
+	private static final String category_stoplist_Chn[] = {"", "news_chn.txt", "news_chn.txt", "entertainment_chn.txt", "sports_chn.txt", "military_chn.txt", "technology_chn.txt", "finance_chn.txt"};
 
 	
 	private static boolean bClusterEnable[] = {false, false, false, false, false, false, false, false, false, false, false, false};
@@ -69,15 +56,21 @@ public class Main {
 
 	
 	public static void main(String[] args) {
+		try {
+			AppContext.INSTANCE.init();
+		} catch (Exception e) {
+			e.printStackTrace();
+			System.exit(-1);
+		}
 
 		CommandOption.setSummary (Main.class,
 				  "A tool for estimating, saving and printing diagnostics for topic Cluster, LDA + KMeans.");
 		CommandOption.process (Main.class, args);
 		
-		
+		JedisPool jedispool = null;
 		Jedis jedis = null;
 		try {
-			JedisPool jedispool = Redis_Info.initRedis();
+			jedispool = Redis_Info.initRedis();
 			jedis = jedispool.getResource();
 			if (jedis!=null&&jedis.get("isRun") == null
 					|| jedis.get("isRun").equals("false")) {// isRun涓篺alse鎴栦负null锛屽彲浠ヨ繍琛�
@@ -101,14 +94,29 @@ public class Main {
 				
 				DBservice db = new DBservice(languagePick.value.toString());
 				
-				String max_Time = db.getCurrentTime("yyyyMMdd",1);
-				//String max_Time = db.getCurrentTime("yyyyMMdd",0);
-				String min_Time = db.getCurrentTime("yyyyMMdd",-3);
-				//String min_Time = db.getCurrentTime("yyyyMMdd",-1);
-				List<NewsClassStat> list = db.DBgetCountGroupCid(max_Time,min_Time);
+				//String max_Time = db.getCurrentTime("yyyyMMdd",1);
+//				String max_Time = db.getCurrentTime("yyyy-MM-dd HH:mm:ss",0);
+				//String min_Time = db.getCurrentTime("yyyyMMdd",-3);
+//				String min_Time = db.getCurrentTime("yyyy-MM-dd HH:mm:ss",-3);
+				String max_Time = "";
+				String min_Time = "";
+				if(AppContext.INSTANCE.isTestRunMod()){//test,指定起止时间
+					max_Time = AppContext.INSTANCE.getConfigValue("test.max_time");
+					min_Time = AppContext.INSTANCE.getConfigValue("test.min_time");
+					max_Time = max_Time==null || "".equals(max_Time) ? db.getCurrentTime("yyyy-MM-dd HH:mm:ss",0) : max_Time;
+					min_Time = min_Time==null || "".equals(min_Time) ? db.getCurrentTime("yyyy-MM-dd HH:mm:ss",-3) : min_Time;
+				}else{
+					max_Time = db.getCurrentTime("yyyy-MM-dd HH:mm:ss",0);
+					min_Time = db.getCurrentTime("yyyy-MM-dd HH:mm:ss",-3);
+				}
+				jedis.set("query_max_time", max_Time);
+				jedis.set("query_min_time", min_Time);
+				//List<NewsClassStat> list = db.DBgetCountGroupCid(max_Time,min_Time);
+				List<ClientCategoryStat> list = db.DBgetCountClientGroupCid(max_Time,min_Time);
+				
 				log.debug("浠庢暟鎹簱涓彇鏁版嵁瀹屾瘯");
 				int count=0;
-				for(NewsClassStat ncs:list){
+				for(ClientCategoryStat ncs:list){
 					count+=ncs.getNum();
 				}
 				log.debug("count:"+count);
@@ -117,7 +125,9 @@ public class Main {
 				// 鎶�2涓垎绫讳粠mysql鍐欏埌鏂囦欢澶逛腑
 				log.debug("max_time:"+max_Time);
 				log.debug("min_time:"+min_Time);
-				List<CmsContent> cmsContent = db.getContent(max_Time,min_Time, languagePick.value.toString());				
+				List<CmsContent> cmsContent = db.getContent(max_Time,min_Time, languagePick.value.toString());	
+				
+				//List<CmsContent> cmsContent = db.getContent(33059);
 				
 				
 				db.writeInFile("/data/app/mysql", cmsContent, languagePick.value.toString());
@@ -133,13 +143,25 @@ public class Main {
 				for (int i = 0; i < list.size(); i++) {
 					List<DocumentDescription> category_data = null;
 					
-					NewsClassStat ncs = list.get(i);
-					String cid = ncs.getCid();
+					ClientCategoryStat ncs = list.get(i);
+					String client_category_id = ncs.getCategoryId();
+					
+					if ( Integer.valueOf(client_category_id) == 0) {
+						//Walk around DB's LBClassID bug
+						continue;
+					}
+					
+					/*
+					if ( Integer.valueOf(client_category_id) == 5) {
+						//Walk around DB's LBClassID bug
+						log.debug("Category " + Integer.valueOf(client_category_id) + " is found");
+					}
+					*/
+					
 					int num = ncs.getNum();
-					// 鏀瑰彉杈撳叆鍊�
-					//inArgs1[1] = "mysql/" + cid;
-					inArgs1[1] = "/data/app/mysql/" + cid;
-					inArgs1[3] = languagePick.value.toString() + "_" + cid + ".mallet";
+					inArgs1[1] = "/data/app/mysql/" + client_category_id;
+					//inArgs1[1] = "c:/data/app/mysql/" + client_category_id;
+					inArgs1[3] = languagePick.value.toString() + "_" + client_category_id + ".mallet";
 					
 
 					if ( languagePick.value.toString().equals("eng")) {
@@ -148,8 +170,7 @@ public class Main {
 						TopicRatio		= TopicRatio_Eng;
 						StoryRatio		= StoryRatio_Eng;
 						category_stoplist = category_stoplist_Eng;
-						//inArgs1[6] = "stoplists/en.txt";
-						inArgs1[6] = "/data/app/v3/stoplists/en.txt";
+						inArgs1[6] = "/data/app/v3.1/stoplists/en.txt";
 						
 					} else if ( languagePick.value.toString().equals("chn")) {
 						
@@ -157,41 +178,41 @@ public class Main {
 						TopicRatio		= TopicRatio_Chn;
 						StoryRatio		= StoryRatio_Chn;
 						category_stoplist = category_stoplist_Chn;
-						//inArgs1[6] = "stoplists/chn.txt";
-						inArgs1[6] = "/data/app/v3/stoplists/chn.txt";
+						inArgs1[6] = "/data/app/v3.1/stoplists/chn.txt";
+						//inArgs1[6] = "c:/data/app/v3.1/stoplists/chn.txt";
 						
 						System.out.println("Prepare arguments for CHN path \n");
 						
 					}					
 						
-					//inArgs1[8] = "stoplists/"  +  category_stoplist[Integer.valueOf(cid)];
-					inArgs1[8] = "/data/app/v3/stoplists/"  +  category_stoplist[Integer.valueOf(cid)];
+					inArgs1[8] = "/data/app/v3.1/stoplists/"  +  category_stoplist[Integer.valueOf(client_category_id)];
+					//inArgs1[8] = "c:/data/app/v3.1/stoplists/"  +  category_stoplist[Integer.valueOf(client_category_id)];
 					
-					if ( bClusterEnable[Integer.valueOf(cid)] ) {
+					if ( bClusterEnable[Integer.valueOf(client_category_id)] ) {
 						
 						//Topic Model and Clustering is required
 						inArgs2[1] = inArgs1[3];
 						
-						int topic_num = (int)Math.floor(num * TopicRatio[Integer.valueOf(cid)] + 0.5);
+						int topic_num = (int)Math.floor(num * TopicRatio[Integer.valueOf(client_category_id)] + 0.5);
 						
 						if ( topic_num == 0 ) {
 							topic_num++;
 						}
 						
-						if ( topic_num > 200 ) {
-							topic_num = 200;
+						if ( topic_num > 300 ) {
+							topic_num = 300;
 						}
 							
 						inArgs2[3] = topic_num + "";
 						
-						int story_num = (int)Math.floor(num * StoryRatio[Integer.valueOf(cid)] + 0.5);
+						int story_num = (int)Math.floor(num * StoryRatio[Integer.valueOf(client_category_id)] + 0.5);
 						
 						if (story_num == 0) {
 							story_num++;
 						}
 						
 						inArgs2[9]  = story_num + "";
-						inArgs2[7] = languagePick.value.toString() + "_compostion" + cid + ".txt";
+						inArgs2[7] = languagePick.value.toString() + "_compostion" + client_category_id + ".txt";
 						
 						System.out.println("Start Text2Vectors  \n");
 						
@@ -216,10 +237,12 @@ public class Main {
 
 									
 					//Redis_Info.saveInRedis(clusters);
-					Redis_Info.saveInRedisII(category_data, cid);	
+					Redis_Info.saveInRedisII(category_data, client_category_id);	
 					log.debug("杈撳叆redis瀹屾瘯");
 					//writeInFile(inArgs2, clusters);
 					log.debug("淇℃伅鍐欏叆鏂囦欢瀹屾瘯");
+					
+					log.info("Category "+ client_category_id + " work is done! " + db.getCurrentTime("yyyy-MM-dd HH:mm:ss",0) +"\n");
 				}
 				
 				log.debug("cmsContent.size():"+cmsContent.size());
@@ -228,6 +251,7 @@ public class Main {
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
+			jedispool.returnBrokenResource(jedis);
 		} finally {
 //			if (jedis == null) {
 //				log.debug("jedis is null");
@@ -237,6 +261,8 @@ public class Main {
 //				throw new JedisConnectionException("jedis is null");
 //			}
 			jedis.set("isRun", "false");
+			jedispool.returnResource(jedis);
+			jedispool.destroy();
 		}
 	}
 
@@ -301,11 +327,14 @@ public class Main {
 			int PR = Integer.valueOf(sA[1]);
 			int time = Integer.valueOf(sA[2]);
 			int Layout_Score = Integer.valueOf(sA[3]);
+			int CopyNumber = Integer.valueOf(sA[4]);
+			int PicNumber = Integer.valueOf(sA[5]);
+			long ContextLength = Long.valueOf(sA[6]);
 			
 			int c = filePath.lastIndexOf("/", b-1);
 			String cid = filePath.substring(c+1, b);			  
 			  
-			DocumentDescription cur_doc = new DocumentDescription(fileID, i, filePath, Layout_Score, time, PR, 1);
+			DocumentDescription cur_doc = new DocumentDescription(fileID, i, filePath, Layout_Score, time, PR, 1, CopyNumber, PicNumber, ContextLength);
 			
 			list_one_category.add(cur_doc);			
 			
@@ -349,12 +378,15 @@ public class Main {
 					  String fileID = sA[0];
 					  int PR = Integer.valueOf(sA[1]);
 					  int time = Integer.valueOf(sA[2]);
-					  int Layout_Score = Integer.valueOf(sA[3]);					  
+					  int Layout_Score = Integer.valueOf(sA[3]);
+					  int CopyNumber = Integer.valueOf(sA[4]);
+					  int PicNumber = Integer.valueOf(sA[5]);
+					  long ContextLength = Long.valueOf(sA[6]);
 					  int c = filePath.lastIndexOf("/", b-1);
 					  String cid = filePath.substring(c+1, b);
 					  
 					  
-					  DocumentDescription cur_doc = new DocumentDescription(fileID, i, filePath, Layout_Score, time, PR, clusters[i].size());
+					  DocumentDescription cur_doc = new DocumentDescription(fileID, i, filePath, Layout_Score, time, PR, clusters[i].size(), CopyNumber, PicNumber, ContextLength);
 					  
 					  if ( clusters[i].size() > 1 ) {
 						  
@@ -364,7 +396,7 @@ public class Main {
 								  continue;
 								  }
 							  
-							  double similarity = metric.distance((SparseVector)clusters[i].get(j).getData(), (SparseVector)clusters[i].get(k).getData());
+							  double similarity = 1.0 - metric.distance((SparseVector)clusters[i].get(j).getData(), (SparseVector)clusters[i].get(k).getData());
 							  String negighbor_filePath = clusters[i].get(k).getName().toString();
 							  
 							  int Neighbor_a = negighbor_filePath.lastIndexOf(".");

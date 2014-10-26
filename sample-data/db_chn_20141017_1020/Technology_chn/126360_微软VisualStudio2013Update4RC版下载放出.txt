@@ -1,0 +1,10 @@
+微软 Visual   Studio   2013   Update   4   RC 版 下载 放出 　 　 微软 放出 了 Visual   Studio   2013   Update   4 的 发布 候选 版 （ RC ） ， 目前 可以 免费 下载 测试 。 
+ 　 　 Visual   Studio   2013   Update   4 更新 中 增加 了 一些 新 功能 和 修正 了 一系列 积累 错误 。 
+ 　 　 其中 Visual   Studio 更新 了 Codelens ， C     ， JavaScript 智能 感知 ， 微软 ASP . NET 和 Web 工具 ， 以及 Application   Insights 。 TeamFoundation 服务器 更新 了 发布 管理 ， 测试 ， 版本控制 ， 计划 和 任务 追踪 ， 访问 级别 的 变化 和 特征 访问 。 SQL 服务器 更新 以及 一些 已知 问题 和 错误 修正 。 
+ 　 　 详细 的 更 细 内容 在 这里 ： http : / / www . visualstudio . com / news / vs2013 - update4 - rc - vs 
+ 　 　 简体中文 下载 页面 ： http : / / drivers . mydrivers . com / drivers / 487 _ 194921 . htm 
+ 　 　 最后 提醒 一下 ， 这 不是 最终 发布 的 正式版 ， 可能 会 有 意想不到 的 BUG 和 其他 不 稳定 的 情况 出现 ， 下载 尝鲜 的 朋友 注意 备份 重要 数据 以防万一 。 
+ 
+ 
+ 
+ 　 　 

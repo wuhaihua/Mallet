@@ -13,8 +13,6 @@ package cc.mallet.types;
 
 import java.util.HashMap;
 
-import cc.mallet.types.SparseVector;
-
 /**
 	 Computes
 	 1 - [<x,y> / sqrt (<x,x>*<y,y>)]
@@ -23,16 +21,23 @@ import cc.mallet.types.SparseVector;
 
 public class NormalizedDotProductMetric implements CachedMetric {
 
-	HashMap hash; // stores the self dot-products used for normalization
+	private HashMap<Integer, Double> hash; // stores the self dot-products used for normalization
 	
 	public NormalizedDotProductMetric () {
-		this.hash = new HashMap ();
+		this.hash = new HashMap<Integer, Double>();
 	}
 	
 	public double distance (SparseVector a, SparseVector b) {
 	    //		double ret = a.dotProduct (b) /
 	    //								 Math.sqrt (a.dotProduct (a) * b.dotProduct (b));
 	    // gmann : twoNorm() more efficient than a.dotProduct(a)
+		
+		//debugging
+		//double product = a.dotProduct(b);
+		//double a_twoNorm = a.twoNorm();
+		//double b_twoNorm = b.twoNorm();
+		
+		
 	    double ret = a.dotProduct(b) / (a.twoNorm()*b.twoNorm());
 	    return 1.0 - ret;
 	}
@@ -45,13 +50,13 @@ public class NormalizedDotProductMetric implements CachedMetric {
 			return 1.0;
 		if (cachedA == null) {
 			cachedA = new Double (a.dotProduct (a));
- 			hash.put (new Integer (hashCodeA), cachedA);
+ 			hash.put (hashCodeA, cachedA);
 		}
 		if (cachedB == null) {
 			cachedB = new Double (b.dotProduct (b));
-			hash.put (new Integer (hashCodeB), cachedB);
+			hash.put (hashCodeB, cachedB);
 		}
-		double ab = a.dotProduct (b);
+//		double ab = a.dotProduct (b); //注释没有用到的代码 by zhouzhenhua
 		
 		if (cachedA == null || cachedB == null) {
 			throw new IllegalStateException ("cachedValues null");

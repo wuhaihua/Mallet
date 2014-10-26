@@ -6,6 +6,8 @@ import org.apache.ibatis.annotations.Param;
 
 import db.dao.dbmodel.CmsContent;
 import db.dao.dbmodel.NewsClassStat;
+import db.dao.dbmodel.ClientCategoryStat;
+
 
 public interface CmsContentDao {
 
@@ -17,7 +19,11 @@ public interface CmsContentDao {
 
 	public List<NewsClassStat> getCountByCid(@Param("maxDate") String maxDate, @Param("minDate") String minDate);
 	
+	public List<ClientCategoryStat> getCountByLBClassID(@Param("maxDate") String maxDate, @Param("minDate") String minDate);
+	
 	public List<CmsContent> getContentAllChinese(@Param("maxDate") String maxDate, @Param("minDate") String minDate);
+	
+	public List<CmsContent> getContentByid(@Param("id") int id);
 	
 	
 }
